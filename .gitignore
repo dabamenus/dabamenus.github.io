@@ -1,0 +1,12 @@
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Node/JS (if added later)
+node_modules/
+dist/
+build/
+*.log

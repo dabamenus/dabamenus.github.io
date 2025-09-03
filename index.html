@@ -1,0 +1,672 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Essentials -->
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Axel Ridberg | Sound Designer & Composer</title>
+  <meta name="description" content="Portfolio of Axel Ridberg, a Helsinki-based sound designer and composer working in performing arts, film, and sound-driven installations." />
+  <meta name="author" content="Axel Ridberg" />
+  <meta name="theme-color" content="#ffffff" />
+
+  <!-- Canonical (adjust if your URL is different) -->
+  <link rel="canonical" href="https://dabamenus.github.io/axelr/" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Axel Ridberg | Sound Designer & Composer" />
+  <meta property="og:description" content="Performing arts, film sound, and sound-based projects." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://dabamenus.github.io/axelr/" />
+  <meta property="og:image" content="https://dabamenus.github.io/axelr/preview.jpg" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Axel Ridberg | Sound Designer & Composer" />
+  <meta name="twitter:description" content="Performing arts, film sound, and sound-based projects." />
+  <meta name="twitter:image" content="https://dabamenus.github.io/axelr/preview.jpg" />
+
+  <!-- Keywords (optional, modern SEO relies more on content/links/schema) -->
+  <meta name="keywords" content="Axel Ridberg, sound designer, composer, Helsinki, performing arts, theatre, film sound, installations, audio walks" />
+
+  <!-- Prefetch helpful 3rd-party domains (optional) -->
+  <link rel="dns-prefetch" href="//www.instagram.com" />
+
+  <!-- Styles -->
+  <style>
+    :root {
+      --bg: #ffffff;          /* pure white */
+      --text: #111;
+      --muted: #6b7280;
+      --link: #0000ee;        /* classic blue link */
+      --visited: #551a8b;     /* classic visited purple */
+      --hover: #0000cc;       /* darker blue hover */
+      --grid-gap: 16px;       /* tighter spacing */
+      --max-w: 960px;         /* narrower content width */
+    }
+
+    html { scroll-behavior: smooth; }
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      /* Early 2000s web font stack */
+      font-family: Verdana, Arial, Helvetica, sans-serif;
+      font-size: 13px;        /* site standard base size */
+      line-height: 1.45;
+      color: var(--text);
+      background-color: var(--bg);
+      /* Stronger fade with white overlay (60%) */
+      background-image: linear-gradient(rgba(255,255,255,0.60), rgba(255,255,255,0.60)), url('https://github.com/dabamenus/axelr/blob/main/background.jpg?raw=true');
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-attachment: scroll; /* scrolls with the page */
+      background-size: cover;
+    }
+
+    /* Layout */
+    .wrapper {
+      max-width: var(--max-w);
+      margin: 0;               /* anchor content to the left */
+      padding: 16px 12px 32px 12px; /* small left gutter */
+      display: grid;
+      grid-template-columns: 300px 1fr; /* left / right columns */
+      gap: var(--grid-gap);
+    }
+
+    header {
+      grid-column: 1 / -1;
+      display: flex;
+      flex-direction: column;     /* stack brand then nav */
+      align-items: flex-start;    /* left align */
+      justify-content: flex-start;
+      gap: 6px;                   /* small space between brand and nav */
+      padding-bottom: 6px;        /* spacing for underline */
+      margin-bottom: 10px;
+      border-bottom: 1px solid #e5e7eb; /* small line under header */
+    }
+
+    /* Brand / Title */
+    .brand {
+      font-size: clamp(22px, 2.2vw, 32px);
+      font-weight: 700;       /* keep main header bold */
+      letter-spacing: 0;      /* less stylized */
+      line-height: 1.1;
+    }
+
+    /* NAV (uppercase + hover light grey) */
+    nav {
+      display: flex;
+      flex-direction: column;  /* stack links vertically */
+      align-items: flex-start; /* left align */
+      gap: 6px;                /* vertical spacing between links */
+    }
+    nav a {
+      text-decoration: underline; /* classic underline */
+      color: var(--link);
+      font-weight: 400;           /* normal weight */
+      text-transform: uppercase;   /* CAPS */
+      letter-spacing: 0.02em;      /* tighter */
+      font-size: 0.9rem;           /* smaller */
+      padding: 4px 2px;
+    }
+    nav a:visited { color: var(--visited); }
+    nav a:hover,
+    nav a:focus-visible {
+      color: var(--hover);         /* darker blue hover */
+      text-decoration: underline;  /* keep underline */
+      outline: none;
+    }
+
+    /* Left column: profile/bio/contact */
+    .profile {
+      position: sticky;
+      top: 16px;
+      align-self: start;
+      display: flex;
+      flex-direction: column;
+      gap: 6px; /* tighter spacing between sections */
+    }
+    .profile img {
+      width: 240px;              /* smaller portrait */
+      max-width: 100%;
+      height: auto;
+      border-radius: 0;           /* rectangular images */
+    }
+    .profile nav { margin-top: 8px; }
+    .bio {
+      font-size: 13px;  /* slightly smaller about text */
+      line-height: 1.5;
+    }
+    .bio p { margin: 0 0 4px; } /* remove extra top gap under divider */
+    .contact {
+      font-size: 13px;  /* match About size */
+      line-height: 1.6;
+    }
+    .contact a {
+      color: var(--link);
+      text-decoration: underline; /* classic link style */
+      border-bottom: none;
+    }
+    .contact a:visited { color: var(--visited); }
+    .contact a:hover { color: var(--hover); }
+    /* Upcoming small section in sidebar */
+    .upcoming { font-size: 12px; line-height: 1.5; font-style: italic; }
+    .upcoming-title { margin: 8px 0 4px; font-size: 13px; font-weight: 400; font-style: normal; }
+    .upcoming p { margin: 0 0 4px; }
+    .upcoming .past { text-decoration: line-through; color: var(--muted); }
+    /* Sidebar dividers, matching header rule (non-box layout) */
+    .profile nav,
+    .bio,
+    .upcoming {
+      border-bottom: 1px solid #e5e7eb;
+      padding-bottom: 6px;
+      margin-bottom: 4px; /* smaller space under the line */
+    }
+
+    /* BOX LAYOUT (saved for later)
+       To re-enable the boxed look for the left sidebar, add class="panel" to:
+       - <nav aria-label="primary">
+       - <div class="bio">
+       - <div class="upcoming">
+       - <div class="contact">
+       And uncomment the CSS below.
+
+    .panel {
+      background: #ffffff;
+      border: 1px solid #e5e7eb;
+      border-radius: 4px;
+      padding: 12px;
+    }
+    .panel + .panel { margin-top: 8px; }
+    */
+
+    /* Right column: content sections */
+    main {
+      display: grid;
+      gap: 40px;
+    }
+    section {
+      background: #ffffff; /* solid white sections */
+      backdrop-filter: none;
+      padding: 16px 14px;  /* slightly tighter */
+      border-radius: 4px;  /* subtle rounding */
+      border: 1px solid #e5e7eb; /* subtle border, no shadow */
+      box-shadow: none;
+    }
+    /* Remove frame from Selected Works section only */
+    #works {
+      border: none;
+      background: rgba(255, 255, 255, 0.30); /* slightly more opaque for readability */
+    }
+    section h2 {
+      margin: 0 0 10px;
+      font-size: 1.1rem;    /* smaller heading */
+      letter-spacing: 0.01em;
+      text-transform: uppercase;
+      font-weight: 400;     /* not bold */
+    }
+    section h3.subsection-title {
+      margin: 12px 0 6px;
+      font-size: 1rem;
+      letter-spacing: 0.01em;
+      text-transform: uppercase;
+      font-weight: 400; /* not bold */
+    }
+
+    /* Works grid */
+    .works-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 12px; /* tighter */
+    }
+    .work-card {
+      display: block;
+      border-radius: 2px;
+      overflow: hidden;
+      background: rgba(255, 255, 255, 0.7); /* more transparent cards */
+      text-decoration: none;
+      color: inherit;
+      border: 1px solid #ddd; /* simple border */
+      transition: background-color 0.15s ease;
+    }
+    .work-card:hover {
+      background-color: #f7f7f7; /* subtle hover */
+    }
+    .work-card img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+    .work-meta {
+      padding: 8px 10px 10px; /* tighter */
+    }
+    .work-title {
+      font-weight: 400;  /* not bold */
+      font-size: 0.95rem;
+      margin: 0 0 4px;
+    }
+    .contact strong { font-weight: 400; } /* avoid bold in Contact label */
+    .work-desc {
+      margin: 0;
+      font-size: 0.85rem;
+      color: var(--muted);
+    }
+    .work-audio { margin-top: 6px; }
+    .work-audio audio { display: none; }
+    .audio-filename { margin-top: 4px; font-size: 0.8rem; color: #000; font-style: normal; }
+    /* Custom player styles */
+    .player {
+      display: flex;
+      flex-wrap: wrap; /* allow wrap; we'll shrink controls instead */
+      gap: 6px;
+      align-items: center;
+      background: transparent; /* transparent so card background shows */
+      color: #000;
+      border: 1px solid #ddd;  /* restore box around player */
+      border-radius: 4px;
+      padding: 6px 6px 4px; /* slightly less space below sliders */
+    }
+    .player-btn {
+      appearance: none;
+      background: #fff;
+      color: #000;
+      border: 1px solid #ccc;
+      border-radius: 3px;
+      padding: 4px 8px;
+      font: inherit;
+      cursor: pointer;
+    }
+    /* Top row compact sizing */
+    .topline { gap: 4px; }
+    .topline .player-btn {
+      padding: 1px 5px;
+      font-size: 0.75rem;
+      text-align: center;
+    }
+    .topline .audio-filename { font-size: 0.75rem; }
+    .topline .player-time {
+      font-size: 0.75rem;
+      flex: 0 0 auto; /* shrink to content */
+      white-space: nowrap;
+    }
+    .player-btn:hover { background: #f5f5f5; }
+    .player-time { font-size: 0.85rem; color: #000; }
+    .player-seek, .player-volume { width: 100%; }
+    /* Top row container: Play + Filename + Time (stay together) */
+    .player .topline {
+      flex: 0 0 100%;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      flex-wrap: nowrap;
+    }
+    .player-btn { flex: 0 0 auto; }
+    .topline .player-time { flex: 0 0 92px; text-align: center; }
+    .topline .audio-filename {
+      flex: 1 1 auto;
+      min-width: 0;
+      margin: 0 4px;
+      font-size: 0.75rem;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    /* Second row container: seek + volume on same row */
+    .player .sliders {
+      flex: 0 0 100%;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-top: 0;
+    }
+    .seek-wrap { position: relative; flex: 1 1 auto; min-width: 0; }
+    .seek-wrap .player-seek { width: 100%; }
+    .player-volume {
+      flex: 0 0 72px;
+      width: 72px;
+      min-width: 56px;
+      align-self: center;
+      position: relative;
+      top: -1px; /* nudge to align with seek track */
+    }
+    .player input[type="range"] { margin: 0; }
+    /* Slimmer seek and volume bars */
+    .player input[type="range"] { -webkit-appearance: none; height: 18px; background: transparent; }
+    .player input[type="range"]:focus { outline: none; }
+    /* WebKit */
+    .player input[type="range"]::-webkit-slider-runnable-track { height: 3px; background: #ccc; border-radius: 2px; }
+    .player input[type="range"]::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      width: 10px; height: 10px;
+      background: #000; border: 1px solid #000; border-radius: 50%;
+      margin-top: -3.5px; /* center on 3px track */
+    }
+    /* Firefox */
+    .player input[type="range"]::-moz-range-track { height: 3px; background: #ccc; border: none; border-radius: 2px; }
+    .player input[type="range"]::-moz-range-thumb { width: 10px; height: 10px; background: #000; border: 1px solid #000; border-radius: 50%; }
+
+    @media (max-width: 420px) {
+      /* Maintain single-row layout; allow seek to shrink */
+      .player-time { flex-basis: 84px; }
+    }
+
+    /* Remove previous overlay style; filename now inline */
+    .audio-block { margin: 8px 0 12px; }
+
+    /* CV list styling (basic) */
+    .cv-list {
+      display: grid;
+      gap: 10px;
+      padding-left: 0;
+      list-style: none;
+    }
+    .cv-item {
+      display: flex;
+      gap: 12px;
+      align-items: baseline;
+    }
+    .cv-year {
+      width: 64px;
+      color: var(--muted);
+      font-variant-numeric: tabular-nums;
+      flex: none;
+    }
+
+    /* Accessibility: skip link */
+    .skip-link {
+      position: absolute;
+      left: -9999px;
+      top: 0;
+      background: #000;
+      color: #fff;
+      padding: 8px 12px;
+      z-index: 1000;
+    }
+    .skip-link:focus { left: 12px; }
+
+    /* Responsive */
+    @media (max-width: 900px) {
+      .wrapper {
+        grid-template-columns: 1fr; /* stack */
+      }
+      .profile {
+        position: relative;
+      }
+      section { padding: 16px; }
+    }
+  </style>
+
+  <!-- Structured Data: Person -->
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"Person",
+    "name":"Axel Ridberg",
+    "jobTitle":"Sound Designer and Composer",
+    "homeLocation": {
+      "@type": "Place",
+      "name": "Helsinki, Finland"
+    },
+    "url":"https://dabamenus.github.io/axelr/",
+    "image":"https://dabamenus.github.io/axelr/preview.jpg",
+    "sameAs":[
+      "https://www.instagram.com/dabamenus_sontom/"
+    ],
+    "knowsAbout":[
+      "Sound Design","Performing Arts","Theatre","Film Sound","Installations","Audio Walks"
+    ]
+  }
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <div class="wrapper">
+    <header aria-label="site header">
+      <h1 class="brand">axelr.eu</h1>
+    </header>
+
+    <!-- LEFT COLUMN: Profile / Bio / Contact -->
+    <aside class="profile" aria-label="Profile">
+      <img
+        src="https://github.com/dabamenus/axelr/blob/main/profile.jpg?raw=true"
+        alt="Portrait of Axel Ridberg"
+        loading="lazy"
+        width="240"
+        height="300"
+      />
+      <nav aria-label="primary">
+        <a href="#about">About</a>
+        <a href="#works">Works</a>
+        <a href="#cv">CV</a>
+      </nav>
+      <div class="bio">
+        <p>
+          Sound designer based in Helsinki, Finland. Working primarily within performing arts. <br /> Also installations, short films, commercial works, live mixing and other sound-related projects.<br /> 
+          
+     
+        </p>
+      </div>
+
+      <div class="upcoming" aria-label="Upcoming shows">
+        <p class="upcoming-title">Upcoming:</p>
+        <p>Steal This Performance @ Fast Forward Festival, Dresden, Germany, 16-28.11.2025</p>
+        <p>Medeltiden @ Åbo Svenska Teater, premiere 4.11.2025</p>
+        <p>Pamela Blod, independent short film, premiere autumn 2025</p>
+        <p>Kotimaisen näytelmäkirjallisuuden festivaali, 18.9.2025</p>
+        <p class="past">Kärnminne installation @ ParKino Festival 28-30.8.2025</p>
+      </div>
+
+      <div class="contact">
+        <strong>Contact:</strong><br />
+        <a href="mailto:axel.ridberg@gmail.com">axel.ridberg@gmail.com</a><br />
+        <a href="https://www.instagram.com/dabamenus_sontom/" target="_blank" rel="noopener">IG: @dabamenus_sontom</a>
+      </div>
+    </aside>
+
+    <!-- RIGHT COLUMN: Main content -->
+    <main id="main">
+      <!-- ABOUT -->
+      <section id="about" aria-labelledby="about-title" hidden>
+        <h2 id="about-title">About</h2>
+        <p>
+          Sound designer and composer based in Helsinki, Finland. Working primarily within performing arts, and also with installations, short films, commercial work, live mixing, and other sound-related projects.
+        </p>
+      </section>
+
+      <!-- WORKS -->
+      <section id="works" aria-labelledby="works-title" hidden>
+        <h2 id="works-title">Selected Works</h2>
+        <div class="works-grid">
+          <!-- Repeat .work-card blocks; replace image/src, titles, and links -->
+          <div class="work-card" aria-label="Open project: Steal This Performance">
+            <img src="works/work-1.jpg" alt="Varasta tämä esitys – stage still" loading="lazy" width="1200" height="800" />
+            <div class="work-meta">
+              <p class="work-title">Steal This Performance (2024)</p>
+              <p class="work-desc">Performance created by stealing material from other performances.</p>
+              <div class="work-audio" aria-label="Audio player for Steal This Performance">
+                <audio id="steal-audio" preload="metadata">
+                  <source src="https://github.com/dabamenus/axelr/blob/main/AUDIO/wall_3.mp3?raw=true" type="audio/mpeg" />
+                  Your browser can’t play this audio.
+                </audio>
+                <div class="player" role="group" aria-label="Audio controls">
+                  <div class="topline">
+                    <button type="button" class="player-btn play" aria-label="Play/Pause" data-action="toggle">Play</button>
+                    <div class="audio-filename"><span data-audio-filename></span></div>
+                    <span class="player-time"><span class="current">0:00</span> / <span class="duration">0:00</span></span>
+                  </div>
+                  <div class="sliders">
+                    <div class="seek-wrap">
+                      <input class="player-seek" type="range" min="0" max="100" step="0.1" value="0" aria-label="Seek" />
+                    </div>
+                    <input class="player-volume" type="range" min="0" max="1" step="0.01" value="1" aria-label="Volume" />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <a class="work-card" href="#" aria-label="Open project: Mermaids of Empty Ponds">
+            <img src="works/work-2.jpg" alt="Mermaids of Empty Ponds – installation view" loading="lazy" width="1200" height="800" />
+            <div class="work-meta">
+              <p class="work-title">Agora - Kaksi merenneitoa tyhjäässä altaassa (2025)</p>
+              <p class="work-desc">Wet performance at Helsinki City Theatre.</p>
+            </div>
+          </a>
+
+          <a class="work-card" href="#" aria-label="Open project: Pamela Blod">
+            <img src="works/work-3.jpg" alt="Pamela Blod – production still" loading="lazy" width="1200" height="800" />
+            <div class="work-meta">
+              <p class="work-title">Pamel Blod</p>
+              <p class="work-desc">Theatre sound & composition.</p>
+            </div>
+          </a>
+
+          <a class="work-card" href="#" aria-label="Open project: Diptyk (2025)">
+            <img src="works/work-3.jpg" alt="Pamela Blod – production still" loading="lazy" width="1200" height="800" />
+            <div class="work-meta">
+              <p class="work-title">Diptyk (2025)</p>
+              <p class="work-desc">Theatre show about death.</p>
+            </div>
+          </a>
+        </div>
+      </section>
+
+      <!-- CV -->
+      <section id="cv" aria-labelledby="cv-title" hidden>
+        <h2 id="cv-title">CV (Selected)</h2>
+        <ul class="cv-list">
+          <li class="cv-item">
+            <span class="cv-year">2024</span>
+            <span>Sound Designer — <em>Varasta tämä esitys</em>, Theatre Academy, Helsinki</span>
+          </li>
+          <li class="cv-item">
+            <span class="cv-year">2023</span>
+            <span>Composer — <em>Mermaids of Empty Ponds</em>, Installation</span>
+          </li>
+          <li class="cv-item">
+            <span class="cv-year">2022</span>
+            <span>Sound — <em>Pamela Blod</em>, Theatre Production</span>
+          </li>
+          <!-- Add more entries as needed -->
+        </ul>
+      </section>
+    </main>
+  </div>
+  <script>
+    (function () {
+      const about = document.getElementById('about');
+      const works = document.getElementById('works');
+      const cv = document.getElementById('cv');
+      const linkAbout = document.querySelector('nav a[href="#about"]');
+      const linkWorks = document.querySelector('nav a[href="#works"]');
+      const linkCv = document.querySelector('nav a[href="#cv"]');
+
+      function show(tab) {
+        if (!works || !cv || !about) return;
+        works.hidden = tab !== 'works';
+        cv.hidden = tab !== 'cv';
+        about.hidden = tab !== 'about';
+        if (linkAbout) linkAbout.setAttribute('aria-current', tab === 'about' ? 'page' : 'false');
+        if (linkWorks) linkWorks.setAttribute('aria-current', tab === 'works' ? 'page' : 'false');
+        if (linkCv) linkCv.setAttribute('aria-current', tab === 'cv' ? 'page' : 'false');
+      }
+
+      if (linkAbout) {
+        linkAbout.addEventListener('click', function (e) {
+          e.preventDefault();
+          show('about');
+        });
+      }
+      if (linkWorks) {
+        linkWorks.addEventListener('click', function (e) {
+          e.preventDefault();
+          show('works');
+        });
+      }
+      if (linkCv) {
+        linkCv.addEventListener('click', function (e) {
+          e.preventDefault();
+          show('cv');
+        });
+      }
+    })();
+  </script>
+  <script>
+    // Populate audio file name for the embedded player in the first work tile
+    (function () {
+      const audio = document.getElementById('steal-audio');
+      const label = document.querySelector('[data-audio-filename]');
+      if (!audio || !label) return;
+      function setName() {
+        const source = audio.currentSrc || (audio.querySelector('source') && audio.querySelector('source').src) || '';
+        const name = source.split('/').pop().split('?')[0] || 'audio';
+        label.textContent = name;
+      }
+      audio.addEventListener('loadedmetadata', setName);
+      audio.addEventListener('loadeddata', setName);
+      setName();
+    })();
+  </script>
+  <script>
+    // Minimal custom player for the first work tile
+    (function () {
+      const root = document.querySelector('.work-audio');
+      const audio = document.getElementById('steal-audio');
+      if (!root || !audio) return;
+
+      const btnToggle = root.querySelector('[data-action="toggle"]');
+      const seek = root.querySelector('.player-seek');
+      const vol = root.querySelector('.player-volume');
+      const tCur = root.querySelector('.player-time .current');
+      const tDur = root.querySelector('.player-time .duration');
+
+      function fmt(t) {
+        if (!isFinite(t)) return '0:00';
+        const m = Math.floor(t / 60);
+        const s = Math.floor(t % 60).toString().padStart(2, '0');
+        return `${m}:${s}`;
+      }
+
+      function updateTime() {
+        tCur.textContent = fmt(audio.currentTime || 0);
+        const d = audio.duration || 0;
+        if (d > 0) {
+          tDur.textContent = fmt(d);
+          seek.value = ((audio.currentTime / d) * 100) || 0;
+        }
+      }
+
+      function updateToggleLabel() {
+        btnToggle.textContent = audio.paused ? 'Play' : 'Pause';
+      }
+
+      // Wire events
+      btnToggle.addEventListener('click', () => {
+        if (audio.paused) audio.play(); else audio.pause();
+      });
+      seek.addEventListener('input', () => {
+        const d = audio.duration || 0;
+        if (d > 0) audio.currentTime = (parseFloat(seek.value) / 100) * d;
+      });
+      vol.addEventListener('input', () => {
+        audio.volume = parseFloat(vol.value);
+        audio.muted = (audio.volume === 0);
+      });
+
+      audio.addEventListener('timeupdate', updateTime);
+      audio.addEventListener('loadedmetadata', () => {
+        tDur.textContent = fmt(audio.duration || 0);
+        updateTime();
+      });
+      audio.addEventListener('play', updateToggleLabel);
+      audio.addEventListener('pause', updateToggleLabel);
+      audio.addEventListener('ended', () => { audio.currentTime = 0; updateTime(); updateToggleLabel(); });
+
+      // Init labels
+      updateToggleLabel();
+      updateTime();
+    })();
+  </script>
+</body>
+</html>
