@@ -44,23 +44,32 @@
       --max-w: 960px;         /* narrower content width */
     }
 
-    html { scroll-behavior: smooth; }
+    html {
+      scroll-behavior: smooth;
+      background: transparent; /* background handled by fixed overlay */
+    }
     * { box-sizing: border-box; }
 
     body {
       margin: 0;
+      position: relative; /* create stacking context for background overlay */
       /* Early 2000s web font stack */
       font-family: Verdana, Arial, Helvetica, sans-serif;
       font-size: 13px;        /* site standard base size */
       line-height: 1.45;
       color: var(--text);
-      background-color: var(--bg);
-      /* Stronger fade with white overlay (60%) */
+      background: transparent;
+    }
+    /* Fixed background overlay element (more robust across browsers) */
+    #site-bg {
+      position: fixed;
+      inset: 0;
       background-image: linear-gradient(rgba(255,255,255,0.60), rgba(255,255,255,0.60)), url('https://github.com/dabamenus/axelr/blob/main/background.jpg?raw=true');
       background-repeat: no-repeat;
       background-position: center top;
-      background-attachment: scroll; /* scrolls with the page */
       background-size: cover;
+      z-index: -1;
+      pointer-events: none;
     }
 
     /* Layout */
@@ -131,6 +140,7 @@
       max-width: 100%;
       height: auto;
       border-radius: 0;           /* rectangular images */
+      opacity: 0.8;               /* slight transparency */
     }
     .profile nav { margin-top: 8px; }
     .bio {
@@ -198,6 +208,11 @@
       border: none;
       background: rgba(255, 255, 255, 0.30); /* slightly more opaque for readability */
     }
+    /* Match CV section translucency */
+    #cv {
+      border: none;
+      background: rgba(255, 255, 255, 0.30);
+    }
     section h2 {
       margin: 0 0 10px;
       font-size: 1.1rem;    /* smaller heading */
@@ -220,7 +235,8 @@
       gap: 12px; /* tighter */
     }
     .work-card {
-      display: block;
+      display: flex;
+      flex-direction: column;
       border-radius: 2px;
       overflow: hidden;
       background: rgba(255, 255, 255, 0.7); /* more transparent cards */
@@ -237,13 +253,82 @@
       height: auto;
       display: block;
     }
-    .work-meta {
-      padding: 8px 10px 10px; /* tighter */
+    /* Image hover caption overlay */
+    .work-card .media {
+      position: relative;
+      overflow: hidden;
+      border-top-left-radius: 2px;
+      border-top-right-radius: 2px;
+      aspect-ratio: 4 / 5; /* 4:5 ratio */
+      background: rgba(255,255,255,0.6); /* subtle white behind any letterbox */
     }
+    .work-card .media img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover; /* "zoom" to fill area, crop if needed */
+      display: block;
+      opacity: 0.60; /* slight transparency */
+      transition: opacity 150ms ease;
+    }
+    .work-card .media video {
+      width: 100%;
+      height: 100%;
+      object-fit: cover; /* fill the area for a larger visual */
+      display: block;
+      background: transparent; /* let .media provide the backdrop */
+      opacity: 0.6; /* dim before clicked/played */
+      transition: opacity 150ms ease;
+    }
+    /* white overlay above videos (only on hover/focus to keep 100% opacity at rest) */
+    .work-card .media.has-overlay::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: rgba(255, 255, 255, 0);
+      pointer-events: none;
+      z-index: 2;
+      transition: background 150ms ease;
+    }
+    .work-card .media.has-overlay:hover::after,
+    .work-card .media.has-overlay:focus-within::after {
+      background: rgba(255, 255, 255, 0.12);
+    }
+    .work-card .media:hover img { opacity: 0.8; }
+    /* white overlay removed by request */
+    .work-card .hover-caption {
+      position: absolute;
+      left: 0; right: 0; bottom: 0;
+      padding: 6px 8px;
+      background: rgba(255,255,255,0.9); /* white overlay */
+      color: #000; /* black text */
+      font-size: 0.75rem;
+      line-height: 1.2;
+      opacity: 0;
+      transform: translateY(4px);
+      transition: opacity 120ms ease, transform 120ms ease;
+      pointer-events: none;
+      z-index: 2; /* above image overlay */
+    }
+    .work-card .media:hover .hover-caption { opacity: 1; transform: translateY(0); }
+    /* Once a video has been clicked/played, keep its hover caption hidden */
+    .work-card .media.played .hover-caption { opacity: 0 !important; pointer-events: none; }
+    .work-meta { padding: 8px 10px 10px; display: flex; flex-direction: column; flex: 1 1 auto; }
     .work-title {
       font-weight: 400;  /* not bold */
       font-size: 0.95rem;
       margin: 0 0 4px;
+    }
+    /* Make work titles look like plain text, but react on hover */
+    .work-title a {
+      color: inherit;
+      text-decoration: none;
+    }
+    .work-title a:visited { color: inherit; }
+    .work-title a:hover,
+    .work-title a:focus-visible {
+      color: var(--hover);
+      text-decoration: underline;
+      outline: none;
     }
     .contact strong { font-weight: 400; } /* avoid bold in Contact label */
     .work-desc {
@@ -251,7 +336,7 @@
       font-size: 0.85rem;
       color: var(--muted);
     }
-    .work-audio { margin-top: 6px; }
+    .work-audio { margin-top: auto; padding-top: 6px; }
     .work-audio audio { display: none; }
     .audio-filename { margin-top: 4px; font-size: 0.8rem; color: #000; font-style: normal; }
     /* Custom player styles */
@@ -310,6 +395,34 @@
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
+      position: relative; /* for instant hover tooltip */
+    }
+    /* Instant hover tooltip for full filename */
+    .player .audio-filename::after {
+      content: attr(data-fullname);
+      position: absolute;
+      left: 0;
+      top: auto;
+      bottom: 100%;
+      margin-bottom: 4px;
+      background: #fff;
+      color: #000;
+      border: 1px solid #ddd;
+      border-radius: 3px;
+      padding: 4px 6px;
+      font-size: 0.75rem;
+      white-space: nowrap;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+      opacity: 0;
+      pointer-events: none;
+      z-index: 5;
+      transition: opacity 120ms ease 1000ms; /* 1s delay after leaving */
+    }
+    /* Show tooltip when hovering anywhere inside the player */
+    .player:hover .audio-filename::after,
+    .player:focus-within .audio-filename::after {
+      opacity: 1;
+      transition-delay: 0ms; /* show instantly when entering */
     }
     /* Second row container: seek + volume on same row */
     .player .sliders {
@@ -366,10 +479,11 @@
       align-items: baseline;
     }
     .cv-year {
-      width: 64px;
+      width: 80px; /* a little more space after years */
       color: var(--muted);
       font-variant-numeric: tabular-nums;
       flex: none;
+      white-space: nowrap; /* keep ranges on one line */
     }
 
     /* Accessibility: skip link */
@@ -417,9 +531,24 @@
     ]
   }
   </script>
+  <script>
+    // Ensure video shows first frame on initial load too
+    (function () {
+      const vids = [
+        document.getElementById('pamela-video'),
+        document.getElementById('diptyk-video')
+      ].filter(Boolean);
+      vids.forEach((v) => {
+        const draw = () => { try { if (v.currentTime < 0.05) v.currentTime = 0.05; v.pause(); } catch (_) {} };
+        if (v.readyState >= 2) draw();
+        else v.addEventListener('loadeddata', draw, { once: true });
+      });
+    })();
+  </script>
 </head>
-<body>
-  <a class="skip-link" href="#main">Skip to content</a>
+  <body>
+  <div id="site-bg" aria-hidden="true"></div>
+    <a class="skip-link" href="#main">Skip to content</a>
 
   <div class="wrapper">
     <header aria-label="site header">
@@ -449,11 +578,11 @@
       </div>
 
       <div class="upcoming" aria-label="Upcoming shows">
-        <p class="upcoming-title">Upcoming:</p>
+        <p class="upcoming-title">Upcoming & ongoing:</p>
         <p>Steal This Performance @ Fast Forward Festival, Dresden, Germany, 16-28.11.2025</p>
+        <p>Pamela Blod, independent short film, post-production autumn 2025</p>
         <p>Medeltiden @ Åbo Svenska Teater, premiere 4.11.2025</p>
-        <p>Pamela Blod, independent short film, premiere autumn 2025</p>
-        <p>Kotimaisen näytelmäkirjallisuuden festivaali, 18.9.2025</p>
+        <p>Kotimaisen näytelmän festivaali KNF, 18.9.2025</p>
         <p class="past">Kärnminne installation @ ParKino Festival 28-30.8.2025</p>
       </div>
 
@@ -480,10 +609,13 @@
         <div class="works-grid">
           <!-- Repeat .work-card blocks; replace image/src, titles, and links -->
           <div class="work-card" aria-label="Open project: Steal This Performance">
-            <img src="works/work-1.jpg" alt="Varasta tämä esitys – stage still" loading="lazy" width="1200" height="800" />
+            <div class="media">
+              <img src="PICTURES/steal_1.jpeg" alt="Varasta tämä esitys – stage still" loading="lazy" width="1200" height="800" />
+              <div class="hover-caption">picture: Jere J. Aalto</div>
+            </div>
             <div class="work-meta">
-              <p class="work-title">Steal This Performance (2024)</p>
-              <p class="work-desc">Performance created by stealing material from other performances.</p>
+              <p class="work-title"><a href="https://www.uniarts.fi/en/events/varasta-tama-esitys-tyonimi/" target="_blank" rel="noopener">Steal This Performance (2024)</a></p>
+              <p class="work-desc">Method-based performance created by plagiarising other performances.</p>
               <div class="work-audio" aria-label="Audio player for Steal This Performance">
                 <audio id="steal-audio" preload="metadata">
                   <source src="AUDIO/wall_3.mp3" type="audio/mpeg" />
@@ -506,49 +638,97 @@
             </div>
           </div>
 
-          <a class="work-card" href="#" aria-label="Open project: Mermaids of Empty Ponds">
-            <img src="works/work-2.jpg" alt="Mermaids of Empty Ponds – installation view" loading="lazy" width="1200" height="800" />
+          <div class="work-card" aria-label="Open project: Mermaids of Empty Ponds">
+            <div class="media">
+              <img src="PICTURES/agora_1.jpg" alt="Mermaids of Empty Ponds – installation view" loading="lazy" width="1200" height="800" />
+              <div class="hover-caption">picture: Jussi Ulkuniemi</div>
+            </div>
             <div class="work-meta">
-              <p class="work-title">Agora - Kaksi merenneitoa tyhjäässä altaassa (2025)</p>
+              <p class="work-title"><a href="https://hkt.fi/esitykset/agora-kaksi-merenneitoa-tyhjassa-altaassa/" target="_blank" rel="noopener">Agora - Kaksi merenneitoa tyhjäässä altaassa (2025)</a></p>
               <p class="work-desc">Wet performance at Helsinki City Theatre.</p>
+              <div class="work-audio" aria-label="Audio player for Agora">
+                <audio id="agora-audio" preload="metadata">
+                  <source src="AUDIO/mermaids_death.mp3" type="audio/mpeg" />
+                  Your browser can’t play this audio.
+                </audio>
+                <div class="player" role="group" aria-label="Audio controls">
+                  <div class="topline">
+                    <button type="button" class="player-btn play" aria-label="Play/Pause" data-action="toggle">Play</button>
+                    <div class="audio-filename"><span data-audio-filename></span></div>
+                    <span class="player-time"><span class="current">0:00</span> / <span class="duration">0:00</span></span>
+                  </div>
+                  <div class="sliders">
+                    <div class="seek-wrap">
+                      <input class="player-seek" type="range" min="0" max="100" step="0.1" value="0" aria-label="Seek" />
+                    </div>
+                    <input class="player-volume" type="range" min="0" max="1" step="0.01" value="1" aria-label="Volume" />
+                  </div>
+                </div>
+              </div>
             </div>
-          </a>
+          </div>
 
-          <a class="work-card" href="#" aria-label="Open project: Pamela Blod">
-            <img src="works/work-3.jpg" alt="Pamela Blod – production still" loading="lazy" width="1200" height="800" />
-            <div class="work-meta">
-              <p class="work-title">Pamel Blod</p>
-              <p class="work-desc">Theatre sound & composition.</p>
+          <div class="work-card" aria-label="Open project: Pamela Blod">
+            <div class="media has-overlay">
+              <video id="pamela-video" src="VIDEO/karnminne_1.mov" poster="PICTURES/karnminne_poster.jpg" controls playsinline preload="auto"></video>
             </div>
-          </a>
-
-          <a class="work-card" href="#" aria-label="Open project: Diptyk (2025)">
-            <img src="works/work-3.jpg" alt="Pamela Blod – production still" loading="lazy" width="1200" height="800" />
             <div class="work-meta">
-              <p class="work-title">Diptyk (2025)</p>
+              <p class="work-title">Kärnminne (2025)</p>
+              <p class="work-desc">Installation in a 700 m2 abandonded bowling hall for ParKino Festival. </p>
+            </div>
+          </div>
+
+          <div class="work-card" aria-label="Open project: Diptyk (2025)">
+            <div class="media has-overlay">
+              <video id="diptyk-video" src="VIDEO/diptyk_1.mp4" poster="PICTURES/diptyk_poster_2.jpg" controls playsinline preload="auto"></video>
+              <div class="hover-caption">picture: Simo Pukkinen</div>
+            </div>
+            <div class="work-meta">
+              <p class="work-title"><a href="https://www.viirus.fi/en/shows/diptyk" target="_blank" rel="noopener">Diptyk (2025)</a></p>
               <p class="work-desc">Theatre show about death.</p>
             </div>
-          </a>
+          </div>
         </div>
       </section>
 
       <!-- CV -->
       <section id="cv" aria-labelledby="cv-title" hidden>
         <h2 id="cv-title">CV (Selected)</h2>
+
+        <h3 class="subsection-title">Education</h3>
         <ul class="cv-list">
-          <li class="cv-item">
-            <span class="cv-year">2024</span>
-            <span>Sound Designer — <em>Varasta tämä esitys</em>, Theatre Academy, Helsinki</span>
-          </li>
-          <li class="cv-item">
-            <span class="cv-year">2023</span>
-            <span>Composer — <em>Mermaids of Empty Ponds</em>, Installation</span>
-          </li>
-          <li class="cv-item">
-            <span class="cv-year">2022</span>
-            <span>Sound — <em>Pamela Blod</em>, Theatre Production</span>
-          </li>
-          <!-- Add more entries as needed -->
+          <li class="cv-item"><span class="cv-year">2022–2025</span><span><em>Master's degree, Sound Design</em> — Theatre Academy, Uniarts Helsinki</span></li>
+          <li class="cv-item"><span class="cv-year">2019–2022</span><span><em>Bachelor degree, Sound Design</em> — Theatre Academy, Uniarts Helsinki</span></li>
+          <li class="cv-item"><span class="cv-year">2018–2019</span><span><em>Sound Design for Film &amp; TV</em> — Arcada University of Applied Sciences</span></li>
+          <li class="cv-item"><span class="cv-year">2013–2017</span><span><em>Bachelor's degree</em> — Åbo Akademi University, Faculty of Social Sciences</span></li>
+        </ul>
+
+        <h3 class="subsection-title">Works</h3>
+        <ul class="cv-list">
+          <li class="cv-item"><span class="cv-year">2025</span><span><em>Kärnminne</em> — Multi‑media installation, concept &amp; execution; ParKino Festival</span></li>
+          <li class="cv-item"><span class="cv-year">2025</span><span><em>Agora</em> — Sound Design, Helsinki City Theatre, Nykyesityksen näyttämö</span></li>
+          <li class="cv-item"><span class="cv-year">2025</span><span><em>Diptyk</em> — Sound Design, Teater Viirus</span></li>
+          <li class="cv-item"><span class="cv-year">2024</span><span><em>Katveisto</em> — Sound Design, audio walk; Todellisuuden tutkimuskeskus</span></li>
+          <li class="cv-item"><span class="cv-year">2024</span><span><em>Release</em> — Sound Design (on‑set &amp; post), short film; premiere Bio Rex Lasipalatsi spring 2024</span></li>
+          <li class="cv-item"><span class="cv-year">2024</span><span><em>Varasta tämä esitys</em> — Sound Design, Theatre Academy / Fast Forward Festival (MA thesis)</span></li>
+          <li class="cv-item"><span class="cv-year">2023</span><span><em>Deep Fantasea</em> — Sound Design, Hangö Teaterträff</span></li>
+          <li class="cv-item"><span class="cv-year">2023</span><span><em>Äckel</em> — Sound Design, Teater Mestola / Viirus Guest</span></li>
+          <li class="cv-item"><span class="cv-year">2023</span><span><em>Message from Tyler, Memento mori, Kirsikkatarha</em> — Sound Design, Q‑teatteri / Fast Forward Festival</span></li>
+          <li class="cv-item"><span class="cv-year">2022</span><span><em>Virtaus</em> — Sound Design, Theatre Academy (BA thesis)</span></li>
+          <li class="cv-item"><span class="cv-year">2022</span><span><em>Den kreativa klådan</em> — Sound Design, Teater Mestola / Universum</span></li>
+          <li class="cv-item"><span class="cv-year">2021</span><span><em>148</em> — Sound Design, concept; Theatre Academy</span></li>
+          <li class="cv-item"><span class="cv-year">2021</span><span><em>Ett Drömspel</em> — Assistant Sound Designer; Carl Knif Company / Svenska Teatern / Riksteatern</span></li>
+          <li class="cv-item"><span class="cv-year">2017</span><span><em>Kosketettavissa</em> — Sound Design; Turku University of Applied Sciences</span></li>
+          <li class="cv-item"><span class="cv-year">2016</span><span><em>Kehotettu</em> — Sound Design; Turku University of Applied Sciences</span></li>
+          <li class="cv-item"><span class="cv-year">2015</span><span><em>Ursäkta, talar du svenska?</em> — Prompter (kuiskaaja); Åbo Svenska Teater</span></li>
+          <li class="cv-item"><span class="cv-year">2014–2015</span><span><em>Ronja Rövardotter</em> — Musician / Performer; Åbo Svenska Teater</span></li>
+          <li class="cv-item"><span class="cv-year">2012–2013</span><span><em>Hair</em> — Live video / Performer; Åbo Svenska Teater</span></li>
+          <li class="cv-item"><span class="cv-year">2012</span><span><em>Pähkinänsärkijä</em> — Stage hand; Åbo Svenska Teater / Aurinkobaletti</span></li>
+          <li class="cv-item"><span class="cv-year">2011</span><span><em>Skarvholma gästhamn</em> — Stage hand; Åbo Svenska Teater</span></li>
+        </ul>
+        <h3 class="subsection-title">Other</h3>
+        <ul class="cv-list">
+          <li class="cv-item"><span class="cv-year">2017–2018</span><span><em>FinnAgora</em> — Intern / Producer / Coordinator; Finnagora, Budapest (TelepArt, exhibitions, festival projects)</span></li>
         </ul>
       </section>
     </main>
@@ -570,38 +750,149 @@
         if (linkAbout) linkAbout.setAttribute('aria-current', tab === 'about' ? 'page' : 'false');
         if (linkWorks) linkWorks.setAttribute('aria-current', tab === 'works' ? 'page' : 'false');
         if (linkCv) linkCv.setAttribute('aria-current', tab === 'cv' ? 'page' : 'false');
+        // Reset media on navigation so players don't continue across sections
+        if (tab === 'works') {
+          // Entering works: reset videos to posters and reset audio UIs
+          const vids = [document.getElementById('pamela-video'), document.getElementById('diptyk-video')].filter(Boolean);
+          vids.forEach((v) => {
+            try { v.pause(); } catch (_) {}
+            try { v.currentTime = 0; } catch (_) {}
+            try { v.load(); } catch (_) {}
+          });
+          // Reset custom audio players (seek to start, labels)
+          document.querySelectorAll('#works .work-audio').forEach((root) => {
+            const seek = root.querySelector('.player-seek');
+            const tCur = root.querySelector('.player-time .current');
+            const tDur = root.querySelector('.player-time .duration');
+            const btn = root.querySelector('[data-action="toggle"]');
+            try { if (seek) seek.value = 0; } catch(_) {}
+            if (tCur) tCur.textContent = '0:00';
+            if (tDur) tDur.textContent = '0:00';
+            if (btn) btn.textContent = 'Play';
+          });
+          // Re-enable hover captions for videos
+          document.querySelectorAll('#works .media.played').forEach((m)=>m.classList.remove('played'));
+        } else {
+          // Leaving works: pause and reset any media inside the section (video + audio)
+          const media = document.querySelectorAll('#works video, #works audio');
+          media.forEach((m) => {
+            try { m.pause(); } catch (_) {}
+            try { m.currentTime = 0; } catch (_) {}
+          });
+          // Reset custom audio players' UI to start
+          document.querySelectorAll('#works .work-audio').forEach((root) => {
+            const seek = root.querySelector('.player-seek');
+            const tCur = root.querySelector('.player-time .current');
+            const tDur = root.querySelector('.player-time .duration');
+            const btn = root.querySelector('[data-action="toggle"]');
+            try { if (seek) seek.value = 0; } catch(_) {}
+            if (tCur) tCur.textContent = '0:00';
+            if (tDur) tDur.textContent = '0:00';
+            if (btn) btn.textContent = 'Play';
+          });
+          // Re-enable hover captions for videos
+          document.querySelectorAll('#works .media.played').forEach((m)=>m.classList.remove('played'));
+        }
+      }
+
+      function maybeScrollTo(id) {
+        if (window.matchMedia('(max-width: 900px)').matches) {
+          const el = document.getElementById(id);
+          if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
       }
 
       if (linkAbout) {
         linkAbout.addEventListener('click', function (e) {
           e.preventDefault();
           show('about');
+          maybeScrollTo('about');
         });
       }
       if (linkWorks) {
         linkWorks.addEventListener('click', function (e) {
           e.preventDefault();
           show('works');
+          maybeScrollTo('works');
         });
       }
       if (linkCv) {
         linkCv.addEventListener('click', function (e) {
           e.preventDefault();
           show('cv');
+          maybeScrollTo('cv');
         });
       }
+    })();
+  </script>
+  <script>
+    // On initial load, reset videos so posters show until user plays
+    (function () {
+      [document.getElementById('pamela-video'), document.getElementById('diptyk-video')]
+        .filter(Boolean)
+        .forEach((v) => {
+          try { v.pause(); } catch (_) {}
+          try { v.currentTime = 0; } catch (_) {}
+          try { v.load(); } catch (_) {}
+        });
+    })();
+  </script>
+  <script>
+    // Make videos full opacity while playing, dim when paused
+    (function () {
+      const vids = [document.getElementById('pamela-video'), document.getElementById('diptyk-video')].filter(Boolean);
+      vids.forEach((v) => {
+        const media = v.closest('.media');
+        const onPlay = () => {
+          v.style.opacity = '1';
+          if (media) media.classList.add('played');
+        };
+        const onPause = () => {
+          v.style.opacity = '0.6';
+        };
+        v.addEventListener('play', onPlay);
+        v.addEventListener('playing', onPlay);
+        v.addEventListener('pause', onPause);
+        v.addEventListener('ended', onPause);
+        // Initialize state
+        if (v.paused) onPause(); else onPlay();
+      });
     })();
   </script>
   <script>
     // Populate audio file name for the embedded player in the first work tile
     (function () {
       const audio = document.getElementById('steal-audio');
-      const label = document.querySelector('[data-audio-filename]');
-      if (!audio || !label) return;
+      if (!audio) return;
+      const root = audio.closest('.work-audio');
+      const label = root && root.querySelector('[data-audio-filename]');
+      const box = label && label.closest('.audio-filename');
+      if (!label || !box) return;
       function setName() {
         const source = audio.currentSrc || (audio.querySelector('source') && audio.querySelector('source').src) || '';
         const name = source.split('/').pop().split('?')[0] || 'audio';
         label.textContent = name;
+        box.setAttribute('data-fullname', name); // instant hover tooltip content
+      }
+      audio.addEventListener('loadedmetadata', setName);
+      audio.addEventListener('loadeddata', setName);
+      setName();
+    })();
+  </script>
+  <script>
+    // Populate audio file name for the embedded player in the second work tile (Agora)
+    (function () {
+      const audio = document.getElementById('agora-audio');
+      if (!audio) return;
+      const root = audio.closest('.work-audio');
+      const label = root && root.querySelector('[data-audio-filename]');
+      const box = label && label.closest('.audio-filename');
+      if (!label || !box) return;
+      function setName() {
+        const source = audio.currentSrc || (audio.querySelector('source') && audio.querySelector('source').src) || '';
+        const name = source.split('/').pop().split('?')[0] || 'audio';
+        label.textContent = name;
+        box.setAttribute('data-fullname', name); // instant hover tooltip content
       }
       audio.addEventListener('loadedmetadata', setName);
       audio.addEventListener('loadeddata', setName);
@@ -614,6 +905,67 @@
       const root = document.querySelector('.work-audio');
       const audio = document.getElementById('steal-audio');
       if (!root || !audio) return;
+
+      const btnToggle = root.querySelector('[data-action="toggle"]');
+      const seek = root.querySelector('.player-seek');
+      const vol = root.querySelector('.player-volume');
+      const tCur = root.querySelector('.player-time .current');
+      const tDur = root.querySelector('.player-time .duration');
+
+      function fmt(t) {
+        if (!isFinite(t)) return '0:00';
+        const m = Math.floor(t / 60);
+        const s = Math.floor(t % 60).toString().padStart(2, '0');
+        return `${m}:${s}`;
+      }
+
+      function updateTime() {
+        tCur.textContent = fmt(audio.currentTime || 0);
+        const d = audio.duration || 0;
+        if (d > 0) {
+          tDur.textContent = fmt(d);
+          seek.value = ((audio.currentTime / d) * 100) || 0;
+        }
+      }
+
+      function updateToggleLabel() {
+        btnToggle.textContent = audio.paused ? 'Play' : 'Pause';
+      }
+
+      // Wire events
+      btnToggle.addEventListener('click', () => {
+        if (audio.paused) audio.play(); else audio.pause();
+      });
+      seek.addEventListener('input', () => {
+        const d = audio.duration || 0;
+        if (d > 0) audio.currentTime = (parseFloat(seek.value) / 100) * d;
+      });
+      vol.addEventListener('input', () => {
+        audio.volume = parseFloat(vol.value);
+        audio.muted = (audio.volume === 0);
+      });
+
+      audio.addEventListener('timeupdate', updateTime);
+      audio.addEventListener('loadedmetadata', () => {
+        tDur.textContent = fmt(audio.duration || 0);
+        updateTime();
+      });
+      audio.addEventListener('play', updateToggleLabel);
+      audio.addEventListener('pause', updateToggleLabel);
+      audio.addEventListener('ended', () => { audio.currentTime = 0; updateTime(); updateToggleLabel(); });
+
+      // Init labels
+      updateToggleLabel();
+      updateTime();
+    })();
+  </script>
+  <script>
+    // Minimal custom player for the second work tile (Agora)
+    (function () {
+      const audio = document.getElementById('agora-audio');
+      if (!audio) return;
+      const root = audio.closest('.work-audio');
+      if (!root) return;
 
       const btnToggle = root.querySelector('[data-action="toggle"]');
       const seek = root.querySelector('.player-seek');
