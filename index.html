@@ -140,10 +140,10 @@
     }
     /* watermark is always visible; no landing gate needed */
 
-    /* Mobile tweaks: tighter rows and more overlap for watermark */
+    /* Mobile tweaks: adjust vertical spacing for watermark */
     @media (max-width: 900px) {
-      #landing-visual .col { grid-auto-rows: 0.8em; row-gap: 0; }
-      #landing-visual .col span { letter-spacing: -0.10em; line-height: 0.9; }
+      #landing-visual .col { grid-auto-rows: 1.1em; row-gap: 0.1em; }
+      #landing-visual .col span { line-height: 1.0; }
     }
     @media (min-width: 901px) {
       /* Desktop: further reduced watermark size */
@@ -922,8 +922,14 @@
         if (window.matchMedia('(max-width: 900px)').matches) {
           const img = document.querySelector('.profile img');
           if (img) {
-            // Start a bit above the profile image, to its right
-            top = Math.max(0, img.offsetTop - 16);
+            // Center watermark vertically alongside the profile image
+            const imgTop = img.offsetTop;
+            const imgH = img.offsetHeight;
+            const prevVis = lv.style.visibility; const prevOp = lv.style.opacity;
+            lv.style.visibility = 'hidden'; lv.style.opacity = '1';
+            const lvH = lv.offsetHeight || 0;
+            lv.style.visibility = prevVis; lv.style.opacity = prevOp;
+            top = imgTop + Math.max(0, (imgH - lvH) / 2);
             left = img.offsetLeft + img.offsetWidth + 12; // small gap to the right
           }
         } else {
