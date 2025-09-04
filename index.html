@@ -4,7 +4,7 @@
   <!-- Essentials -->
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Axel Ridberg | Sound Designer & Composer – Äänisuunnittelija | Ljuddesigner</title>
+  <title>Axel Ridberg | Sound Designer – Äänisuunnittelija | Ljuddesigner</title>
   <meta name="description" content="Portfolio of Axel Ridberg, a Helsinki-based sound designer and composer working in performing arts, film, and sound-driven installations." />
   <meta name="author" content="Axel Ridberg" />
   <meta name="theme-color" content="#ffffff" />
@@ -25,12 +25,14 @@
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://axelr.eu/" />
   <meta property="og:image" content="https://axelr.eu/PICTURES/profile.jpg" />
+  <meta property="og:image:alt" content="Axel Ridberg portrait" />
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Axel Ridberg | Sound Designer & Composer" />
   <meta name="twitter:description" content="Performing arts, film sound, and sound-based projects." />
   <meta name="twitter:image" content="https://axelr.eu/PICTURES/profile.jpg" />
+  <meta name="twitter:image:alt" content="Axel Ridberg portrait" />
 
   <!-- Keywords (optional, modern SEO relies more on content/links/schema) -->
   <meta name="keywords" content="Axel Ridberg, sound designer, composer, Helsinki, performing arts, theatre, film sound, installations, audio walks" />
@@ -570,7 +572,13 @@
     "knowsLanguage":["en","fi","sv"],
     "homeLocation": {"@type": "Place","name": "Helsinki, Finland"},
     "url":"https://axelr.eu/",
-    "image":"https://axelr.eu/PICTURES/profile.jpg",
+    "image": {
+      "@type": "ImageObject",
+      "url": "https://axelr.eu/PICTURES/profile.jpg",
+      "contentUrl": "https://axelr.eu/PICTURES/profile.jpg",
+      "caption": "Axel Ridberg portrait",
+      "representativeOfPage": true
+    },
     "sameAs":["https://www.instagram.com/dabamenus_sontom/"],
     "knowsAbout":["Sound Design","Performing Arts","Theatre","Film Sound","Installations","Audio Walks"]
   }
@@ -615,13 +623,14 @@
 
     <!-- LEFT COLUMN: Profile / Bio / Contact -->
     <aside class="profile" aria-label="Profile">
-      <img
-        src="https://github.com/dabamenus/axelr/blob/main/profile.jpg?raw=true"
-        alt="Portrait of Axel Ridberg"
-        loading="lazy"
-        width="240"
-        height="300"
-      />
+      <a href="/PICTURES/profile.jpg" aria-label="View high-resolution portrait" rel="nofollow">
+        <img
+          src="/PICTURES/profile.jpg"
+          alt="Portrait of Axel Ridberg"
+          width="240"
+          height="300"
+        />
+      </a>
       <nav aria-label="primary">
         <a href="#about">About</a>
         <a href="#works">Selected Works</a>
