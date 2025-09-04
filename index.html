@@ -142,8 +142,8 @@
 
     /* Mobile tweaks: adjust vertical spacing for watermark */
     @media (max-width: 900px) {
-      #landing-visual .col { grid-auto-rows: 1.1em; row-gap: 0.1em; }
-      #landing-visual .col span { line-height: 1.0; }
+      #landing-visual .col { grid-auto-rows: 1.3em; row-gap: 0.2em; }
+      #landing-visual .col span { line-height: 1.05; }
     }
     @media (min-width: 901px) {
       /* Desktop: further reduced watermark size */
@@ -929,8 +929,8 @@
             lv.style.visibility = 'hidden'; lv.style.opacity = '1';
             const lvH = lv.offsetHeight || 0;
             lv.style.visibility = prevVis; lv.style.opacity = prevOp;
-            top = imgTop + Math.max(0, (imgH - lvH) / 2);
-            left = img.offsetLeft + img.offsetWidth + 12; // small gap to the right
+            top = imgTop + Math.max(0, (imgH - lvH) / 2) + 5; // nudge down 5px
+            left = img.offsetLeft + img.offsetWidth + 14; // nudge right +2px
           }
         } else {
           const mainEl = document.getElementById('main');
