@@ -114,8 +114,8 @@
       position: absolute;
       top: 0;
       left: 0;
-      opacity: 0;
-      visibility: hidden;
+      opacity: 1;           /* always visible */
+      visibility: visible;  /* always visible */
       transition: opacity 200ms ease;
       pointer-events: none;
       z-index: 0;
@@ -132,7 +132,7 @@
       text-shadow: 0 1px 0 rgba(255,255,255,0.4);
       line-height: 1.1;
     }
-    body.landing #landing-visual { opacity: 1; visibility: visible; }
+    /* watermark is always visible; no landing gate needed */
 
     /* Mobile tweaks: tighter rows and more overlap for watermark */
     @media (max-width: 900px) {
@@ -808,6 +808,8 @@
         if (linkAbout) linkAbout.setAttribute('aria-current', tab === 'about' ? 'page' : 'false');
         if (linkWorks) linkWorks.setAttribute('aria-current', tab === 'works' ? 'page' : 'false');
         if (linkCv) linkCv.setAttribute('aria-current', tab === 'cv' ? 'page' : 'false');
+        // Reposition watermark for current layout
+        positionLandingMark();
         // Reset media on navigation so players don't continue across sections
         if (tab === 'works') {
           // Entering works: reset videos to posters and reset audio UIs
@@ -931,7 +933,7 @@
       // Default landing: blank (no section shown)
       goHome();
       window.addEventListener('resize', () => {
-        if (document.body.classList.contains('landing')) positionLandingMark();
+        positionLandingMark();
       });
     })();
   </script>
