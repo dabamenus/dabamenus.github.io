@@ -121,6 +121,8 @@
       font-size: 0.9rem;           /* smaller */
       padding: 4px 2px;
     }
+    .brand { cursor: pointer; }
+    .profile img { cursor: pointer; }
     nav a:visited { color: var(--visited); }
     nav a:hover,
     nav a:focus-visible {
@@ -559,7 +561,7 @@
       />
       <nav aria-label="primary">
         <a href="#about">About</a>
-        <a href="#works">Works</a>
+        <a href="#works">Selected Works</a>
         <a href="#cv">CV</a>
       </nav>
       <div class="bio">
@@ -818,6 +820,16 @@
           maybeScrollTo('cv');
         });
       }
+
+      // Make brand and profile image act as "home" (Selected Works)
+      const brand = document.querySelector('.brand');
+      const profileImg = document.querySelector('.profile img');
+      function goHome(e){ if (e) e.preventDefault(); show('works'); maybeScrollTo('works'); }
+      if (brand) brand.addEventListener('click', goHome);
+      if (profileImg) profileImg.addEventListener('click', goHome);
+
+      // Default landing: Selected Works
+      show('works');
     })();
   </script>
   <script>
