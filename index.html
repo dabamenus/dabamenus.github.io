@@ -98,11 +98,50 @@
     }
 
     /* Brand / Title */
+    /* Brand: revert to original clean styling (keep clickable) */
     .brand {
       font-size: clamp(22px, 2.2vw, 32px);
-      font-weight: 700;       /* keep main header bold */
-      letter-spacing: 0;      /* less stylized */
+      font-weight: 700;
+      letter-spacing: 0;      /* no forced overlap */
       line-height: 1.1;
+      color: var(--text);
+      text-transform: none;
+      text-shadow: none;
+    }
+    /* Landing visual positioned at the start of content column */
+    .wrapper { position: relative; }
+    #landing-visual {
+      position: absolute;
+      top: 0;
+      left: 0;
+      opacity: 0;
+      visibility: hidden;
+      transition: opacity 200ms ease;
+      pointer-events: none;
+      z-index: 0;
+    }
+    #landing-visual .mark-grid { display: flex; gap: 8px; }
+    #landing-visual .col { display: grid; grid-auto-rows: 1.3em; row-gap: 0.25em; }
+    #landing-visual .col span {
+      display: block;
+      font-family: Verdana, Arial, Helvetica, sans-serif;
+      font-size: clamp(28px, 6vw, 80px);
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: rgba(0,0,0,0.18);
+      text-shadow: 0 1px 0 rgba(255,255,255,0.4);
+      line-height: 1.1;
+    }
+    body.landing #landing-visual { opacity: 1; visibility: visible; }
+
+    /* Mobile tweaks: tighter rows and more overlap for watermark */
+    @media (max-width: 900px) {
+      #landing-visual .col { grid-auto-rows: 0.8em; row-gap: 0; }
+      #landing-visual .col span { letter-spacing: -0.10em; line-height: 0.9; }
+    }
+    @media (min-width: 901px) {
+      /* Desktop: further reduced watermark size */
+      #landing-visual .col span { font-size: clamp(7px, 2vw, 32px); }
     }
 
     /* NAV (uppercase + hover light grey) */
@@ -549,6 +588,7 @@
 </head>
   <body>
   <div id="site-bg" aria-hidden="true"></div>
+  
     <a class="skip-link" href="#main">Skip to content</a>
 
   <div class="wrapper">
@@ -595,6 +635,13 @@
     </aside>
 
     <!-- RIGHT COLUMN: Main content -->
+    <!-- Landing visual overlay for home (blank), positioned within wrapper -->
+    <div id="landing-visual" aria-hidden="true">
+      <div class="mark-grid">
+        <div class="col" aria-hidden="true"><span>A</span><span>x</span><span>e</span><span>l</span></div>
+        <div class="col" aria-hidden="true"><span>R</span><span>i</span><span>d</span><span>b</span><span>e</span><span>r</span><span>g</span></div>
+      </div>
+    </div>
     <main id="main">
       <!-- ABOUT -->
       <section id="about" aria-labelledby="about-title" hidden>
@@ -753,6 +800,7 @@
       const linkCv = document.querySelector('nav a[href="#cv"]');
 
       function show(tab) {
+        document.body.classList.remove('landing');
         if (!works || !cv || !about) return;
         works.hidden = tab !== 'works';
         cv.hidden = tab !== 'cv';
@@ -837,12 +885,37 @@
       // Make brand and profile image act as "home" (blank landing)
       const brand = document.querySelector('.brand');
       const profileImg = document.querySelector('.profile img');
+      function positionLandingMark() {
+        const lv = document.getElementById('landing-visual');
+        const wrap = document.querySelector('.wrapper');
+        if (!lv || !wrap) return;
+        // Default to aligning with main start (desktop)
+        let top = 0, left = 0;
+        if (window.matchMedia('(max-width: 900px)').matches) {
+          const img = document.querySelector('.profile img');
+          if (img) {
+            // Start a bit above the profile image, to its right
+            top = Math.max(0, img.offsetTop - 16);
+            left = img.offsetLeft + img.offsetWidth + 12; // small gap to the right
+          }
+        } else {
+          const mainEl = document.getElementById('main');
+          if (mainEl) {
+            top = mainEl.offsetTop;
+            left = Math.max(0, mainEl.offsetLeft - 72); // more left nudge on desktop
+          }
+        }
+        lv.style.top = top + 'px';
+        lv.style.left = left + 'px';
+      }
+
       function goHome(e){
         if (e) e.preventDefault();
         if (!works || !cv || !about) return;
         works.hidden = true;
         cv.hidden = true;
         about.hidden = true;
+        document.body.classList.add('landing');
         if (linkAbout) linkAbout.setAttribute('aria-current', 'false');
         if (linkWorks) linkWorks.setAttribute('aria-current', 'false');
         if (linkCv) linkCv.setAttribute('aria-current', 'false');
@@ -850,12 +923,16 @@
         if (window.matchMedia('(max-width: 900px)').matches) {
           window.scrollTo({ top: 0, behavior: 'smooth' });
         }
+        positionLandingMark();
       }
       if (brand) brand.addEventListener('click', goHome);
       if (profileImg) profileImg.addEventListener('click', goHome);
 
       // Default landing: blank (no section shown)
       goHome();
+      window.addEventListener('resize', () => {
+        if (document.body.classList.contains('landing')) positionLandingMark();
+      });
     })();
   </script>
   <script>
