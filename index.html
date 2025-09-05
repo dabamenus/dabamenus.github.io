@@ -528,7 +528,6 @@
     }
 
     /* Remove previous overlay style; filename now inline */
-    .audio-block { margin: 8px 0 12px; }
 
     /* CV list styling (basic) */
     .cv-list {
@@ -609,20 +608,7 @@
     }
   }
   </script>
-  <script>
-    // Ensure video shows first frame on initial load too
-    (function () {
-      const vids = [
-        document.getElementById('pamela-video'),
-        document.getElementById('diptyk-video')
-      ].filter(Boolean);
-      vids.forEach((v) => {
-        const draw = () => { try { if (v.currentTime < 0.05) v.currentTime = 0.05; v.pause(); } catch (_) {} };
-        if (v.readyState >= 2) draw();
-        else v.addEventListener('loadeddata', draw, { once: true });
-      });
-    })();
-  </script>
+  <!-- removed legacy head script (first-frame priming) in favor of Safari-safe cloning logic -->
 </head>
   <body>
   <div id="site-bg" aria-hidden="true"></div>
