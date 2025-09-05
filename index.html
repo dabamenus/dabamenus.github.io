@@ -51,6 +51,11 @@
       --hover: #0000cc;       /* darker blue hover */
       --grid-gap: 16px;       /* tighter spacing */
       --max-w: 960px;         /* narrower content width */
+      /* Local font test: modern sans stack */
+      /* Alternate modern stack: geometric/humanist preference (previous) */
+      --font-sans: "Avenir Next", Avenir, "Nunito Sans", Montserrat,
+                   system-ui, -apple-system, "Segoe UI", Roboto,
+                   "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
     }
 
     html {
@@ -62,8 +67,8 @@
     body {
       margin: 0;
       position: relative; /* create stacking context for background overlay */
-      /* Early 2000s web font stack */
-      font-family: Verdana, Arial, Helvetica, sans-serif;
+      /* Local modern font test (does not push webfonts) */
+      font-family: var(--font-sans);
       font-size: 13px;        /* site standard base size */
       line-height: 1.45;
       color: var(--text);
@@ -130,7 +135,7 @@
     #landing-visual .col { display: grid; grid-auto-rows: 1.3em; row-gap: 0.25em; }
     #landing-visual .col span {
       display: block;
-      font-family: Verdana, Arial, Helvetica, sans-serif;
+      font-family: var(--font-sans);
       font-size: clamp(28px, 6vw, 80px);
       letter-spacing: 0.08em;
       text-transform: uppercase;
@@ -675,7 +680,7 @@
         <h2 id="about-title">About</h2>
         <p>Axel Ridberg is a sound designer and composer based in Helsinki, Finland. He works mainly in performing arts, but also with short films, installations, live mixing, creative coding, and commercial projects.</p>
         <p>He has a master’s and bachelor’s degree in sound design from the Theatre Academy at the University of the Arts Helsinki, a bachelor’s degree in social sciences from Åbo Akademi University, and has also studied film and television sound at Arcada University of Applied Sciences. His work has been presented at Helsinki City Theatre, Teater Viirus, Q-teatteri, Reality Research Center, and at the Fast Forward Festival.</p>
-        <p>With a background in music, Axel often uses improvisation as a method and has an interest in large sound setups and diffused textures. He is intrigued by how sound can both carry meaning and, at the same time, resist it, but almost always carrying emotional possibilities, and sometimes physical sensation.</p>
+        <p>With a background in music, Axel often uses improvisation as a method and has an interest in large sound setups and diffused textures. He is intrigued by how sound can both carry meaning and, at the same time, resist it, but almost always carry emotional possibilities, and sometimes physical sensation.</p>
         <!-- Finnish: short and extended -->
         <h3 class="subsection-title" lang="fi">Lyhyesti suomeksi</h3>
         <p lang="fi">Axel Ridberg on Helsingissä asuva äänisuunnittelija ja säveltäjä. Hän työskentelee pääasiassa esittävän taiteen parissa, mutta myös lyhytelokuvien, installaatioiden, live‑äänen, luovan koodauksen ja kaupallisten projektien parissa.</p>
