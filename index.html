@@ -129,7 +129,7 @@
       visibility: visible;  /* always visible */
       transition: opacity 200ms ease;
       pointer-events: none;
-      z-index: 0;
+      z-index: -1;          /* sit behind content so posters stay visible */
     }
     #landing-visual .mark-grid { display: flex; gap: 6px; }
     #landing-visual .col { display: grid; grid-auto-rows: 1.3em; row-gap: 0.25em; }
@@ -849,7 +849,16 @@
           vids.forEach((v) => {
             try { v.pause(); } catch (_) {}
             try { v.currentTime = 0; } catch (_) {}
+            const poster = v.getAttribute('poster');
             try { v.load(); } catch (_) {}
+            if (poster) {
+              // Toggle poster attribute to force redraw in some browsers
+              v.removeAttribute('poster');
+              v.setAttribute('poster', poster);
+            }
+            v.addEventListener('loadeddata', () => {
+              if (poster && !v.getAttribute('poster')) v.setAttribute('poster', poster);
+            }, { once: true });
           });
           // Reset custom audio players (seek to start, labels)
           document.querySelectorAll('#works .work-audio').forEach((root) => {
@@ -983,7 +992,15 @@
         .forEach((v) => {
           try { v.pause(); } catch (_) {}
           try { v.currentTime = 0; } catch (_) {}
+          const poster = v.getAttribute('poster');
           try { v.load(); } catch (_) {}
+          if (poster) {
+            v.removeAttribute('poster');
+            v.setAttribute('poster', poster);
+          }
+          v.addEventListener('loadeddata', () => {
+            if (poster && !v.getAttribute('poster')) v.setAttribute('poster', poster);
+          }, { once: true });
         });
     })();
   </script>
