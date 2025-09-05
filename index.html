@@ -61,8 +61,10 @@
     }
 
     html {
-      scroll-behavior: smooth;
+      scroll-behavior: auto; /* disable smooth scrolling on desktop */
       background: transparent; /* background handled by fixed overlay */
+      /* Prevent background resize due to scrollbar appearing/disappearing */
+      scrollbar-gutter: stable both-edges;
     }
     * { box-sizing: border-box; }
 
@@ -80,12 +82,15 @@
     #site-bg {
       position: fixed;
       inset: 0;
+      /* Layered backgrounds: gradient (single cover) + image (tiled) */
       background-image: linear-gradient(rgba(255,255,255,0.60), rgba(255,255,255,0.60)), url('https://github.com/dabamenus/axelr/blob/main/background.jpg?raw=true');
-      background-repeat: no-repeat;
-      background-position: center top;
-      background-size: cover;
+      background-repeat: no-repeat, repeat;
+      background-position: center top, left top;
+      background-size: cover, calc(100% / 4) auto; /* ~4 across; rows repeat (≈8 tiles total) */
       z-index: -1;
       pointer-events: none;
+      transform: translateZ(0); /* promote to its own layer to avoid Safari shifts */
+      backface-visibility: hidden;
     }
 
     /* Layout */
@@ -836,6 +841,7 @@
       function show(tab) {
         document.body.classList.remove('landing');
         if (!works || !cv || !about) return;
+        const isMobile = isTouchDevice();
         works.hidden = tab !== 'works';
         cv.hidden = tab !== 'cv';
         about.hidden = tab !== 'about';
@@ -844,6 +850,7 @@
         if (linkCv) linkCv.setAttribute('aria-current', tab === 'cv' ? 'page' : 'false');
         // Reposition watermark for current layout
         positionLandingMark();
+        // Desktop: do not auto-scroll; only mobile uses maybeScrollTo()
         // Reset media on navigation so players don't continue across sections
         if (tab === 'works') {
           // Entering works: robustly restore posters (Safari-safe)
@@ -891,8 +898,11 @@
         }
       }
 
+      function isTouchDevice() {
+        return window.matchMedia('(pointer: coarse)').matches;
+      }
       function maybeScrollTo(id) {
-        if (window.matchMedia('(max-width: 900px)').matches) {
+        if (isTouchDevice()) {
           const el = document.getElementById(id);
           if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
         }
@@ -963,8 +973,8 @@
         if (linkAbout) linkAbout.setAttribute('aria-current', 'false');
         if (linkWorks) linkWorks.setAttribute('aria-current', 'false');
         if (linkCv) linkCv.setAttribute('aria-current', 'false');
-        // Scroll to top on mobile/home
-        if (window.matchMedia('(max-width: 900px)').matches) {
+        // Scroll to top only on touch devices (mobile/tablet)
+        if (isTouchDevice()) {
           window.scrollTo({ top: 0, behavior: 'smooth' });
         }
         positionLandingMark();
