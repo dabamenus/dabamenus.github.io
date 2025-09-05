@@ -844,21 +844,14 @@
         positionLandingMark();
         // Reset media on navigation so players don't continue across sections
         if (tab === 'works') {
-          // Entering works: reset videos to posters and reset audio UIs
+          // Entering works: robustly restore posters (Safari-safe)
           const vids = [document.getElementById('pamela-video'), document.getElementById('diptyk-video')].filter(Boolean);
           vids.forEach((v) => {
-            try { v.pause(); } catch (_) {}
-            try { v.currentTime = 0; } catch (_) {}
-            const poster = v.getAttribute('poster');
-            try { v.load(); } catch (_) {}
-            if (poster) {
-              // Toggle poster attribute to force redraw in some browsers
-              v.removeAttribute('poster');
-              v.setAttribute('poster', poster);
-            }
-            v.addEventListener('loadeddata', () => {
-              if (poster && !v.getAttribute('poster')) v.setAttribute('poster', poster);
-            }, { once: true });
+            const parent = v && v.parentNode;
+            if (!parent) return;
+            const clone = v.cloneNode(true); // resets playback state and poster
+            try { clone.pause(); } catch (_) {}
+            parent.replaceChild(clone, v);
           });
           // Reset custom audio players (seek to start, labels)
           document.querySelectorAll('#works .work-audio').forEach((root) => {
@@ -985,22 +978,16 @@
     })();
   </script>
   <script>
-    // On initial load, reset videos so posters show until user plays
+    // On initial load, ensure posters are visible (Safari-safe)
     (function () {
       [document.getElementById('pamela-video'), document.getElementById('diptyk-video')]
         .filter(Boolean)
         .forEach((v) => {
-          try { v.pause(); } catch (_) {}
-          try { v.currentTime = 0; } catch (_) {}
-          const poster = v.getAttribute('poster');
-          try { v.load(); } catch (_) {}
-          if (poster) {
-            v.removeAttribute('poster');
-            v.setAttribute('poster', poster);
-          }
-          v.addEventListener('loadeddata', () => {
-            if (poster && !v.getAttribute('poster')) v.setAttribute('poster', poster);
-          }, { once: true });
+          const parent = v && v.parentNode;
+          if (!parent) return;
+          const clone = v.cloneNode(true);
+          try { clone.pause(); } catch (_) {}
+          parent.replaceChild(clone, v);
         });
     })();
   </script>
