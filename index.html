@@ -37,7 +37,7 @@
   <meta name="twitter:image:alt" content="Axel Ridberg — Sound Designer & Composer" />
 
   <!-- Keywords (optional, modern SEO relies more on content/links/schema) -->
-  <meta name="keywords" content="Axel Ridberg, sound designer, composer, Helsinki, performing arts, theatre, film sound, installations, audio walks" />
+  <meta name="keywords" content="Axel Ridberg, sound designer, äänisuunnittelija, ljuddesigner, teater, teatteri, tanssi, dans, säveltäjä, kompositör, composer, Helsinki, performing arts, theatre, film sound, installations, audio walks" />
 
   <!-- Prefetch helpful 3rd-party domains (optional) -->
   <link rel="dns-prefetch" href="//www.instagram.com" />
@@ -83,7 +83,7 @@
       position: fixed;
       inset: 0;
       /* Layered backgrounds: gradient (single cover) + image (tiled) */
-      background-image: linear-gradient(rgba(255,255,255,0.60), rgba(255,255,255,0.60)), url('https://github.com/dabamenus/axelr/blob/main/background.jpg?raw=true');
+      background-image: linear-gradient(rgba(255,255,255,0.60), rgba(255,255,255,0.60)), url('/PICTURES/background.jpg');
       background-repeat: no-repeat, repeat;
       background-position: center top, left top;
       background-size: cover, calc(100% / 4) auto; /* ~4 across; rows repeat (≈8 tiles total) */
@@ -132,8 +132,9 @@
       position: absolute;
       top: 0;
       left: 0;
-      opacity: 1;           /* always visible */
-      visibility: visible;  /* always visible */
+      opacity: 0;
+      visibility: hidden;
+      display: none;        /* watermark disabled but retained for future use */
       transition: opacity 200ms ease;
       pointer-events: none;
       z-index: -1;          /* sit behind content so posters stay visible */
@@ -580,7 +581,7 @@
     "@type":"Person",
     "name":"Axel Ridberg",
     "alternateName":["Äänisuunnittelija","Ljuddesigner"],
-    "jobTitle":"Sound Designer and Composer",
+    "jobTitle":"Sound Designer",
     "knowsLanguage":["en","fi","sv"],
     "homeLocation": {"@type": "Place","name": "Helsinki, Finland"},
     "url":"https://axelr.eu/",
@@ -592,7 +593,7 @@
       "representativeOfPage": true
     },
     "sameAs":["https://www.instagram.com/dabamenus_sontom/"],
-    "knowsAbout":["Sound Design","Performing Arts","Theatre","Film Sound","Installations","Audio Walks"]
+    "knowsAbout":["Sound Design","Performing Arts","Theatre","Film Sound","Installations","Audio Walks", "Sound art"]
   }
   </script>
   <script type="application/ld+json">
@@ -638,7 +639,7 @@
       </nav>
       <div class="bio">
         <p>
-          Sound designer based in Helsinki, Finland. Working primarily within performing arts. <br /> Also installations, short films, commercial works, live mixing and other sound-related projects.<br /> 
+          Axel Ridberg is a sound designer based in Helsinki, Finland. Working primarily within performing arts. <br /> Also short films, commercial work, installations, live mixing and other sound-related projects.<br /> 
           
      
         </p>
@@ -674,7 +675,7 @@
         <h2 id="about-title">About</h2>
         <p>Axel Ridberg is a sound designer and composer based in Helsinki, Finland. He works mainly in performing arts, but also with short films, installations, live mixing, creative coding, and commercial projects.</p>
         <p>He has a master’s and bachelor’s degree in sound design from the Theatre Academy at the University of the Arts Helsinki, a bachelor’s degree in social sciences from Åbo Akademi University, and has also studied film and television sound at Arcada University of Applied Sciences. His work has been presented at Helsinki City Theatre, Teater Viirus, Q-teatteri, Reality Research Center, and at the Fast Forward Festival.</p>
-        <p>With a background in music, Axel often uses improvisation as a method and has an interest in large sound setups and diffused textures. He is intrested in how sound can both carry meaning and, at the same time, resist it, but almost always carry emotional possibilities, and sometimes physical sensation.</p>
+        <p>He is intrested in how sound can both carry meaning and, at the same time, resist it, but almost always carry emotional possibilities, and sometimes physical sensation. Other interests include: large speaker setups, diffused choirs, fake classical music, high volumes, maximalism, embracing minimalism,</p>
         <!-- Finnish: short and extended -->
         <h3 class="subsection-title" lang="fi">Lyhyesti suomeksi</h3>
         <p lang="fi">Axel Ridberg on Helsingissä asuva äänisuunnittelija ja säveltäjä. Hän työskentelee pääasiassa esittävän taiteen parissa, mutta myös lyhytelokuvien, installaatioiden, live‑äänen, luovan koodauksen ja kaupallisten projektien parissa.</p>
@@ -819,6 +820,7 @@
   </div>
   <script>
     (function () {
+      const WATERMARK_ENABLED = false; // keep watermark code but disabled
       const about = document.getElementById('about');
       const works = document.getElementById('works');
       const cv = document.getElementById('cv');
@@ -922,6 +924,7 @@
       const brand = document.querySelector('.brand');
       const profileImg = document.querySelector('.profile img');
       function positionLandingMark() {
+        if (!WATERMARK_ENABLED) return;
         const lv = document.getElementById('landing-visual');
         const wrap = document.querySelector('.wrapper');
         if (!lv || !wrap) return;
@@ -957,7 +960,7 @@
         works.hidden = true;
         cv.hidden = true;
         about.hidden = true;
-        document.body.classList.add('landing');
+        // watermark disabled
         if (linkAbout) linkAbout.setAttribute('aria-current', 'false');
         if (linkWorks) linkWorks.setAttribute('aria-current', 'false');
         if (linkCv) linkCv.setAttribute('aria-current', 'false');
