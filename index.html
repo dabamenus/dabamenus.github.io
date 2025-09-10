@@ -82,11 +82,11 @@
     #site-bg {
       position: fixed;
       inset: 0;
-      /* Layered backgrounds: gradient (single cover) + image (tiled) */
+      /* Single large JPG with white overlay (same overlay style as before) */
       background-image: linear-gradient(rgba(255,255,255,0.60), rgba(255,255,255,0.60)), url('/PICTURES/background.jpg');
-      background-repeat: no-repeat, repeat;
-      background-position: center top, left top;
-      background-size: cover, calc(100% / 4) auto; /* ~4 across; rows repeat (≈8 tiles total) */
+      background-repeat: no-repeat, no-repeat;
+      background-position: center top, center top;
+      background-size: cover, cover;
       z-index: -1;
       pointer-events: none;
       transform: translateZ(0); /* promote to its own layer to avoid Safari shifts */
@@ -673,17 +673,17 @@
       <!-- ABOUT -->
       <section id="about" aria-labelledby="about-title" hidden>
         <h2 id="about-title">About</h2>
-        <p>Axel Ridberg is a sound designer and composer based in Helsinki, Finland. He works mainly in performing arts, but also with short films, installations, live mixing, creative coding, and commercial projects.</p>
+        <p>Axel Ridberg is a sound designer based in Helsinki, Finland. He works mainly in performing arts, but also with short films, installations, live mixing, creative coding, and commercial projects.</p>
         <p>He has a master’s and bachelor’s degree in sound design from the Theatre Academy at the University of the Arts Helsinki, a bachelor’s degree in social sciences from Åbo Akademi University, and has also studied film and television sound at Arcada University of Applied Sciences. His work has been presented at Helsinki City Theatre, Teater Viirus, Q-teatteri, Reality Research Center, and at the Fast Forward Festival.</p>
         <p>He is intrested in how sound can both carry meaning and, at the same time, resist it, but almost always carry emotional possibilities, and sometimes physical sensation. Other interests include: large speaker setups, diffused choirs, fake classical music, high volumes, maximalism, embracing minimalism,</p>
         <!-- Finnish: short and extended -->
-        <h3 class="subsection-title" lang="fi">Lyhyesti suomeksi</h3>
-        <p lang="fi">Axel Ridberg on Helsingissä asuva äänisuunnittelija ja säveltäjä. Hän työskentelee pääasiassa esittävän taiteen parissa, mutta myös lyhytelokuvien, installaatioiden, live‑äänen, luovan koodauksen ja kaupallisten projektien parissa.</p>
+        <h3 class="subsection-title" lang="fi">Suomeksi</h3>
+        <p lang="fi">Axel Ridberg on Helsingissä asuva äänisuunnittelija. Hän työskentelee pääasiassa esittävän taiteen parissa, mutta myös lyhytelokuvien, installaatioiden, live‑äänen, luovan koodauksen ja kaupallisten projektien parissa.</p>
         <p lang="fi">Hänellä on äänisuunnittelun maisterin ja kandidaatin tutkinnot Teatterikorkeakoulusta (Taideyliopisto), valtiotieteiden kandidaatin tutkinto Åbo Akademista sekä opintoja elokuva- ja tv‑äänestä Arcada‑ammattikorkeakoulussa. Ridbergin teoksia on esitetty mm. Helsingin Kaupunginteatterissa, Teater Viiruksessa, Q‑teatterissa, Todellisuuden tutkimuskeskuksessa sekä Fast Forward ‑festivaalilla.</p>
 
         <!-- Swedish: short and extended -->
-        <h3 class="subsection-title" lang="sv">Kort på svenska</h3>
-        <p lang="sv">Axel Ridberg är en ljuddesigner och kompositör baserad i Helsingfors, Finland. Han arbetar främst inom scenkonst, men också med kortfilmer, installationer, live‑mixning, kreativ kodning och kommersiella projekt.</p>
+        <h3 class="subsection-title" lang="sv">På svenska</h3>
+        <p lang="sv">Axel Ridberg är en ljuddesigner bosatt i Helsingfors, Finland. Han arbetar främst inom scenkonst, men också med kortfilmer, installationer, live‑mixning, kreativ kodning och kommersiella projekt.</p>
         <p lang="sv">Han har magister‑ och kandidatexamen i ljuddesign från Teaterhögskolan vid Konstuniversitetet, en kandidatexamen i samhällsvetenskaper från Åbo Akademi samt studier i film‑ och tv‑ljud vid Arcada yrkeshögskola. Hans arbeten har presenterats vid bland annat Helsingfors Stadsteater, Teater Viirus, Q‑teatteri, Reality Research Center och Fast Forward‑festivalen.</p>
       </section>
 
