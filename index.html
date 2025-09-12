@@ -349,14 +349,14 @@
       content: "";
       position: absolute;
       inset: 0;
-      background: rgba(255, 255, 255, 0);
+      background: rgba(255, 255, 255, 0.12); /* default faint overlay always visible */
       pointer-events: none;
       z-index: 2;
       transition: background 150ms ease;
     }
-    .work-card .media.has-overlay:hover::after,
-    .work-card .media.has-overlay:focus-within::after {
-      background: rgba(255, 255, 255, 0.12);
+    /* While a video is playing, make the overlay even lighter (no hover needed) */
+    .work-card .media.has-overlay.playing::after {
+      background: rgba(255, 255, 255, 0.25);
     }
     .work-card .media:hover img { opacity: 0.8; }
     /* white overlay removed by request */
@@ -852,6 +852,8 @@
             try { clone.pause(); } catch (_) {}
             parent.replaceChild(clone, v);
           });
+          // Re-bind video play/pause handlers after cloning
+          try { if (typeof attachWorkVideoState === 'function') attachWorkVideoState(); } catch (_) {}
           // Reset custom audio players (seek to start, labels)
           document.querySelectorAll('#works .work-audio').forEach((root) => {
             const seek = root.querySelector('.player-seek');
@@ -863,8 +865,8 @@
             if (tDur) tDur.textContent = '0:00';
             if (btn) btn.textContent = 'Play';
           });
-          // Re-enable hover captions for videos
-          document.querySelectorAll('#works .media.played').forEach((m)=>m.classList.remove('played'));
+          // Re-enable hover captions and clear playing state for videos
+          document.querySelectorAll('#works .media.played, #works .media.playing').forEach((m)=>{ m.classList.remove('played'); m.classList.remove('playing'); });
         } else {
           // Leaving works: pause and reset any media inside the section (video + audio)
           const media = document.querySelectorAll('#works video, #works audio');
@@ -883,8 +885,8 @@
             if (tDur) tDur.textContent = '0:00';
             if (btn) btn.textContent = 'Play';
           });
-          // Re-enable hover captions for videos
-          document.querySelectorAll('#works .media.played').forEach((m)=>m.classList.remove('played'));
+          // Re-enable hover captions and clear playing state for videos
+          document.querySelectorAll('#works .media.played, #works .media.playing').forEach((m)=>{ m.classList.remove('played'); m.classList.remove('playing'); });
         }
       }
 
@@ -996,16 +998,20 @@
   </script>
   <script>
     // Make videos full opacity while playing, dim when paused
-    (function () {
+    function attachWorkVideoState() {
       const vids = [document.getElementById('pamela-video'), document.getElementById('diptyk-video')].filter(Boolean);
       vids.forEach((v) => {
         const media = v.closest('.media');
         const onPlay = () => {
           v.style.opacity = '1';
-          if (media) media.classList.add('played');
+          if (media) {
+            media.classList.add('played');
+            media.classList.add('playing');
+          }
         };
         const onPause = () => {
           v.style.opacity = '0.6';
+          if (media) media.classList.remove('playing');
         };
         v.addEventListener('play', onPlay);
         v.addEventListener('playing', onPlay);
@@ -1014,7 +1020,9 @@
         // Initialize state
         if (v.paused) onPause(); else onPlay();
       });
-    })();
+    }
+    // Initial bind
+    attachWorkVideoState();
   </script>
   <script>
     // Populate audio file name for the embedded player in the first work tile
