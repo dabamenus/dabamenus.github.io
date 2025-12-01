@@ -54,19 +54,16 @@
   <!-- Styles -->
   <style>
     :root {
-      --bg: #ffffff;          /* pure white */
-      --text: #111;
-      --muted: #6b7280;
-      --link: #0000ee;        /* classic blue link */
-      --visited: #551a8b;     /* classic visited purple */
-      --hover: #0000cc;       /* darker blue hover */
-      --grid-gap: 16px;       /* tighter spacing */
-      --max-w: 960px;         /* narrower content width */
-      /* Local font test: modern sans stack */
-      /* Alternate modern stack: geometric/humanist preference (previous) */
-      --font-sans: "Avenir Next", Avenir, "Nunito Sans", Montserrat,
-                   system-ui, -apple-system, "Segoe UI", Roboto,
-                   "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+      --bg: #fbfbfb;
+      --text: #151515;
+      --muted: #5a5a5a;
+      --link: #111111;
+      --visited: #4c1d95;
+      --hover: #0f62fe;
+      --grid-gap: 28px;
+      --max-w: 1100px;
+      --font-sans: "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      --font-serif: "Times New Roman", "Ibarra Real Nova", Georgia, serif;
     }
 
     html {
@@ -80,22 +77,18 @@
     body {
       margin: 0;
       position: relative; /* create stacking context for background overlay */
-      /* Local modern font test (does not push webfonts) */
-      font-family: var(--font-sans);
-      font-size: 13px;        /* site standard base size */
-      line-height: 1.45;
+      font-family: var(--font-serif);
+      font-size: 17px;
+      line-height: 1.55;
       color: var(--text);
       background: transparent;
+      letter-spacing: -0.005em;
     }
     /* Fixed background overlay element (more robust across browsers) */
     #site-bg {
       position: fixed;
       inset: 0;
-      /* Single large JPG with white overlay (same overlay style as before) */
-      background-image: linear-gradient(rgba(255,255,255,0.60), rgba(255,255,255,0.60)), url('/PICTURES/background.jpg');
-      background-repeat: no-repeat, no-repeat;
-      background-position: center top, center top;
-      background-size: cover, cover;
+      background: var(--bg);
       z-index: -1;
       pointer-events: none;
       transform: translateZ(0); /* promote to its own layer to avoid Safari shifts */
@@ -105,32 +98,32 @@
     /* Layout */
     .wrapper {
       max-width: var(--max-w);
-      margin: 0;               /* anchor content to the left */
-      padding: 16px 12px 32px 12px; /* small left gutter */
+      margin: 0 auto;
+      padding: 32px 24px 48px;
       display: grid;
-      grid-template-columns: 300px 1fr; /* left / right columns */
+      grid-template-columns: 320px 1fr; /* left / right columns */
       gap: var(--grid-gap);
     }
 
     header {
       grid-column: 1 / -1;
       display: flex;
-      flex-direction: column;     /* stack brand then nav */
-      align-items: flex-start;    /* left align */
-      justify-content: flex-start;
-      gap: 6px;                   /* small space between brand and nav */
-      padding-bottom: 6px;        /* spacing for underline */
-      margin-bottom: 10px;
-      border-bottom: 1px solid #e5e7eb; /* small line under header */
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 12px;
+      padding-bottom: 20px;
+      margin-bottom: 20px;
+      border-bottom: 1px solid rgba(0,0,0,0.1);
     }
 
     /* Brand / Title */
     /* Brand: revert to original clean styling (keep clickable) */
     .brand {
-      font-size: clamp(22px, 2.2vw, 32px);
-      font-weight: 700;
-      letter-spacing: 0;      /* no forced overlap */
-      line-height: 1.1;
+      font-family: var(--font-serif);
+      font-size: clamp(52px, 9vw, 96px);
+      font-weight: 400;
+      letter-spacing: -0.02em;
+      line-height: 0.95;
       color: var(--text);
       text-transform: none;
       text-shadow: none;
@@ -178,71 +171,65 @@
       display: flex;
       flex-direction: column;  /* stack links vertically */
       align-items: flex-start; /* left align */
-      gap: 6px;                /* vertical spacing between links */
+      gap: 10px;
+      font-family: var(--font-sans);
     }
     nav a {
-      text-decoration: underline; /* classic underline */
+      text-decoration: none;
       color: var(--link);
-      font-weight: 400;           /* normal weight */
-      text-transform: uppercase;   /* CAPS */
-      letter-spacing: 0.02em;      /* tighter */
-      font-size: 0.9rem;           /* smaller */
-      padding: 4px 2px;
+      font-weight: 600;
+      text-transform: none;
+      letter-spacing: 0.08em;
+      font-size: 0.95rem;
+      padding: 6px 0;
     }
     .brand { cursor: pointer; }
-    .profile img { cursor: pointer; }
-    nav a:visited { color: var(--visited); }
+    nav a:visited { color: var(--link); }
     nav a:hover,
     nav a:focus-visible {
-      color: var(--hover);         /* darker blue hover */
-      text-decoration: underline;  /* keep underline */
+      color: var(--hover);
+      text-decoration: underline;
       outline: none;
     }
 
     /* Left column: profile/bio/contact */
     .profile {
       position: sticky;
-      top: 16px;
+      top: 24px;
       align-self: start;
       display: flex;
       flex-direction: column;
-      gap: 6px; /* tighter spacing between sections */
-    }
-    .profile img {
-      width: 240px;              /* smaller portrait */
-      max-width: 100%;
-      height: auto;
-      border-radius: 0;           /* rectangular images */
-      opacity: 0.8;               /* slight transparency */
+      gap: 14px;
+      padding-right: 12px;
     }
     .profile nav { margin-top: 8px; }
     .bio {
-      font-size: 13px;  /* slightly smaller about text */
-      line-height: 1.5;
+      font-size: 1rem;
+      line-height: 1.6;
     }
-    .bio p { margin: 0 0 4px; } /* remove extra top gap under divider */
+    .bio p { margin: 0 0 10px; }
     .contact {
-      font-size: 13px;  /* match About size */
+      font-size: 0.95rem;
       line-height: 1.6;
     }
     .contact a {
       color: var(--link);
-      text-decoration: underline; /* classic link style */
-      border-bottom: none;
+      text-decoration: none;
+      border-bottom: 1px solid currentColor;
     }
     .contact a:visited { color: var(--visited); }
     .contact a:hover { color: var(--hover); }
     /* Upcoming small section in sidebar */
-    .upcoming { font-size: 12px; line-height: 1.5; font-style: italic; }
-    .upcoming-title { margin: 8px 0 4px; font-size: 13px; font-weight: 400; font-style: normal; }
-    .upcoming p { margin: 0 0 4px; }
+    .upcoming { font-size: 0.9rem; line-height: 1.6; font-style: normal; }
+    .upcoming-title { margin: 10px 0 4px; font-size: 0.85rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.1em; }
+    .upcoming p { margin: 0 0 8px; }
     .upcoming .past { text-decoration: line-through; color: var(--muted); }
     /* Sidebar dividers, matching header rule (non-box layout) */
     .profile nav,
     .bio,
     .upcoming {
-      border-bottom: 1px solid #e5e7eb;
-      padding-bottom: 6px;
+      border-bottom: 1px solid rgba(0,0,0,0.08);
+      padding-bottom: 12px;
       margin-bottom: 4px; /* smaller space under the line */
     }
 
@@ -266,61 +253,81 @@
     /* Right column: content sections */
     main {
       display: grid;
-      gap: 40px;
+      gap: 48px;
     }
     section {
-      background: #ffffff; /* solid white sections */
-      backdrop-filter: none;
-      padding: 16px 14px;  /* slightly tighter */
-      border-radius: 4px;  /* subtle rounding */
-      border: 1px solid #e5e7eb; /* subtle border, no shadow */
+      background: transparent;
+      padding: 0;
+      border-radius: 0;
+      border: none;
       box-shadow: none;
     }
-    /* Translucent sections */
-    #works, #cv, #about {
-      border: none;
-      background: rgba(255, 255, 255, 0.30); /* slightly more opaque for readability */
-    }
+    #works, #cv, #about { background: transparent; }
     section h2 {
-      margin: 0 0 10px;
-      font-size: 1.1rem;    /* smaller heading */
-      letter-spacing: 0.01em;
-      text-transform: uppercase;
-      font-weight: 400;     /* not bold */
+      margin: 0 0 12px;
+      font-size: 1.7rem;
+      letter-spacing: -0.01em;
+      text-transform: none;
+      font-weight: 400;
+      font-style: italic;
+      font-family: var(--font-serif);
     }
     section h3.subsection-title {
-      margin: 12px 0 6px;
+      margin: 18px 0 10px;
       font-size: 1rem;
-      letter-spacing: 0.01em;
-      text-transform: uppercase;
-      font-weight: 400; /* not bold */
+      letter-spacing: 0.02em;
+      text-transform: none;
+      font-weight: 400;
+      font-style: italic;
     }
     /* About: smaller language headers with a bit more top spacing */
     #about h3.subsection-title[lang] {
       font-size: 0.9rem;
-      margin-top: 18px; /* extra space from the English block */
+      margin-top: 20px; /* extra space from the English block */
       margin-bottom: 6px;
     }
+    .lang-block { margin-top: 18px; }
+    .lang-toggle {
+      background: none;
+      border: none;
+      padding: 0;
+      font: inherit;
+      font-size: 1rem;
+      letter-spacing: 0.02em;
+      text-transform: none;
+      font-style: italic;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    .lang-toggle::after {
+      content: ' +';
+      font-style: normal;
+      margin-left: 4px;
+    }
+    .lang-toggle[aria-expanded="true"]::after { content: ' −'; }
+    .lang-content { margin-top: 8px; }
 
     /* Works grid */
     .works-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-      gap: 12px; /* tighter */
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 24px;
     }
     .work-card {
       display: flex;
       flex-direction: column;
-      border-radius: 2px;
+      border-radius: 0;
       overflow: hidden;
-      background: rgba(255, 255, 255, 0.7); /* more transparent cards */
+      background: #fff;
       text-decoration: none;
       color: inherit;
-      border: 1px solid #ddd; /* simple border */
-      transition: background-color 0.15s ease;
+      border: 1px solid rgba(0,0,0,0.1);
+      transition: transform 200ms ease, box-shadow 200ms ease;
     }
     .work-card:hover {
-      background-color: #f7f7f7; /* subtle hover */
+      background-color: #fff;
+      transform: translateY(-4px);
+      box-shadow: 0 20px 45px rgba(0,0,0,0.1);
     }
     .work-card img {
       width: 100%;
@@ -331,18 +338,18 @@
     .work-card .media {
       position: relative;
       overflow: hidden;
-      border-top-left-radius: 2px;
-      border-top-right-radius: 2px;
-      aspect-ratio: 4 / 5; /* 4:5 ratio */
-      background: rgba(255,255,255,0.6); /* subtle white behind any letterbox */
+      border-top-left-radius: 0;
+      border-top-right-radius: 0;
+      aspect-ratio: 4 / 5;
+      background: #f5f5f5;
     }
     .work-card .media img {
       width: 100%;
       height: 100%;
       object-fit: cover; /* "zoom" to fill area, crop if needed */
       display: block;
-      opacity: 0.60; /* slight transparency */
-      transition: opacity 150ms ease;
+      opacity: 0.9;
+      transition: opacity 200ms ease, transform 200ms ease;
     }
     .work-card .media video {
       width: 100%;
@@ -350,32 +357,36 @@
       object-fit: cover; /* fill the area for a larger visual */
       display: block;
       background: transparent; /* let .media provide the backdrop */
-      opacity: 0.6; /* dim before clicked/played */
-      transition: opacity 150ms ease;
+      opacity: 0.85;
+      transition: opacity 200ms ease, transform 200ms ease;
     }
     /* white overlay above videos (only on hover/focus to keep 100% opacity at rest) */
     .work-card .media.has-overlay::after {
       content: "";
       position: absolute;
       inset: 0;
-      background: rgba(255, 255, 255, 0.12); /* default faint overlay always visible */
+      background: rgba(0,0,0,0.08);
       pointer-events: none;
       z-index: 2;
       transition: background 150ms ease;
     }
     /* While a video is playing, make the overlay even lighter (no hover needed) */
     .work-card .media.has-overlay.playing::after {
-      background: rgba(255, 255, 255, 0.25);
+      background: rgba(0,0,0,0.04);
     }
-    .work-card .media:hover img { opacity: 0.8; }
+    .work-card .media:hover img,
+    .work-card .media:hover video {
+      opacity: 1;
+      transform: scale(1.02);
+    }
     /* white overlay removed by request */
     .work-card .hover-caption {
       position: absolute;
       left: 0; right: 0; bottom: 0;
       padding: 6px 8px;
-      background: rgba(255,255,255,0.9); /* white overlay */
-      color: #000; /* black text */
-      font-size: 0.75rem;
+      background: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.8) 100%);
+      color: #fff;
+      font-size: 0.78rem;
       line-height: 1.2;
       opacity: 0;
       transform: translateY(4px);
@@ -386,11 +397,18 @@
     .work-card .media:hover .hover-caption { opacity: 1; transform: translateY(0); }
     /* Once a video has been clicked/played, keep its hover caption hidden */
     .work-card .media.played .hover-caption { opacity: 0 !important; pointer-events: none; }
-    .work-meta { padding: 8px 10px 10px; display: flex; flex-direction: column; flex: 1 1 auto; }
+    .work-meta { padding: 16px 18px 22px; display: flex; flex-direction: column; gap: 10px; flex: 1 1 auto; }
+    .work-meta,
+    .work-title,
+    .work-desc,
+    .work-audio,
+    .player,
+    .cv-item,
+    .cv-year { font-family: var(--font-sans); }
     .work-title {
-      font-weight: 400;  /* not bold */
-      font-size: 0.95rem;
-      margin: 0 0 4px;
+      font-weight: 600;
+      font-size: 1.05rem;
+      margin: 0;
     }
     /* Make work titles look like plain text, but react on hover */
     .work-title a {
@@ -407,65 +425,69 @@
     .contact strong { font-weight: 400; } /* avoid bold in Contact label */
     .work-desc {
       margin: 0;
-      font-size: 0.85rem;
+      font-size: 0.92rem;
       color: var(--muted);
     }
     .work-audio { margin-top: auto; padding-top: 6px; }
     .work-audio audio { display: none; }
-    .audio-filename { margin-top: 4px; font-size: 0.8rem; color: #000; font-style: normal; }
+    .audio-filename { margin-top: 4px; font-size: 0.85rem; color: var(--muted); font-style: normal; }
     /* Custom player styles */
     .player {
       display: flex;
       flex-wrap: wrap; /* allow wrap; we'll shrink controls instead */
-      gap: 6px;
+      gap: 10px;
       align-items: center;
-      background: transparent; /* transparent so card background shows */
-      color: #000;
-      border: 1px solid #ddd;  /* restore box around player */
-      border-radius: 4px;
-      padding: 6px 6px 4px; /* slightly less space below sliders */
+      background: #f8f8f8;
+      color: var(--text);
+      border: 1px solid rgba(0,0,0,0.2);
+      border-radius: 0;
+      padding: 10px 14px;
     }
     .player-btn {
       appearance: none;
       background: #fff;
-      color: #000;
-      border: 1px solid #ccc;
-      border-radius: 3px;
-      padding: 4px 8px;
+      color: var(--text);
+      border: 1px solid rgba(0,0,0,0.2);
+      border-radius: 0;
+      padding: 4px 18px;
       font: inherit;
       cursor: pointer;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      font-size: 0.7rem;
     }
     /* Top row compact sizing */
-    .topline { gap: 4px; }
-    .topline .player-btn {
-      padding: 1px 5px;
-      font-size: 0.75rem;
-      text-align: center;
-    }
-    .topline .audio-filename { font-size: 0.75rem; }
+    .topline { gap: 8px; align-items: center; }
+    .topline .player-btn { flex: 0 0 auto; }
+    .topline .audio-filename { font-size: 0.78rem; }
     .topline .player-time {
-      font-size: 0.75rem;
+      font-size: 0.78rem;
       flex: 0 0 auto; /* shrink to content */
       white-space: nowrap;
     }
-    .player-btn:hover { background: #f5f5f5; }
-    .player-time { font-size: 0.85rem; color: #000; }
+    .player-btn:hover,
+    .player-btn:focus-visible {
+      background: #111;
+      color: #fff;
+      border-color: #111;
+      outline: none;
+    }
+    .player-time { font-size: 0.85rem; color: var(--muted); }
     .player-seek, .player-volume { width: 100%; }
     /* Top row container: Play + Filename + Time (stay together) */
     .player .topline {
       flex: 0 0 100%;
       display: flex;
       align-items: center;
-      gap: 4px;
+      gap: 12px;
       flex-wrap: nowrap;
     }
-    .player-btn { flex: 0 0 auto; }
     .topline .player-time { flex: 0 0 92px; text-align: center; }
     .topline .audio-filename {
       flex: 1 1 auto;
       min-width: 0;
       margin: 0 4px;
-      font-size: 0.75rem;
+      font-size: 0.78rem;
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
@@ -480,10 +502,10 @@
       bottom: 100%;
       margin-bottom: 4px;
       background: #fff;
-      color: #000;
-      border: 1px solid #ddd;
-      border-radius: 3px;
-      padding: 4px 6px;
+      color: var(--text);
+      border: 1px solid rgba(0,0,0,0.2);
+      border-radius: 0;
+      padding: 4px 10px;
       font-size: 0.75rem;
       white-space: nowrap;
       box-shadow: 0 1px 3px rgba(0,0,0,0.12);
@@ -503,7 +525,7 @@
       flex: 0 0 100%;
       display: flex;
       align-items: center;
-      gap: 8px;
+      gap: 12px;
       margin-top: 0;
     }
     .seek-wrap { position: relative; flex: 1 1 auto; min-width: 0; }
@@ -521,16 +543,16 @@
     .player input[type="range"] { -webkit-appearance: none; height: 18px; background: transparent; }
     .player input[type="range"]:focus { outline: none; }
     /* WebKit */
-    .player input[type="range"]::-webkit-slider-runnable-track { height: 3px; background: #ccc; border-radius: 2px; }
+    .player input[type="range"]::-webkit-slider-runnable-track { height: 2px; background: rgba(0,0,0,0.4); border-radius: 0; }
     .player input[type="range"]::-webkit-slider-thumb {
       -webkit-appearance: none;
-      width: 10px; height: 10px;
-      background: #000; border: 1px solid #000; border-radius: 50%;
-      margin-top: -3.5px; /* center on 3px track */
+      width: 12px; height: 12px;
+      background: #000; border: 1px solid #000; border-radius: 0;
+      margin-top: -6px;
     }
     /* Firefox */
-    .player input[type="range"]::-moz-range-track { height: 3px; background: #ccc; border: none; border-radius: 2px; }
-    .player input[type="range"]::-moz-range-thumb { width: 10px; height: 10px; background: #000; border: 1px solid #000; border-radius: 50%; }
+    .player input[type="range"]::-moz-range-track { height: 2px; background: rgba(0,0,0,0.4); border: none; border-radius: 0; }
+    .player input[type="range"]::-moz-range-thumb { width: 12px; height: 12px; background: #000; border: 1px solid #000; border-radius: 0; }
 
     @media (max-width: 420px) {
       /* Maintain single-row layout; allow seek to shrink */
@@ -539,24 +561,38 @@
 
     /* Remove previous overlay style; filename now inline */
 
-    /* CV list styling (basic) */
+    /* CV list styling */
     .cv-list {
       display: grid;
-      gap: 10px;
+      gap: 8px;
       padding-left: 0;
       list-style: none;
     }
     .cv-item {
       display: flex;
       gap: 12px;
-      align-items: baseline;
+      align-items: flex-start;
+      border-bottom: 1px solid rgba(0,0,0,0.08);
+      padding-bottom: 6px;
     }
     .cv-year {
-      width: 80px; /* a little more space after years */
+      width: 90px;
       color: var(--muted);
       font-variant-numeric: tabular-nums;
       flex: none;
-      white-space: nowrap; /* keep ranges on one line */
+      white-space: nowrap;
+    }
+    .cv-header {
+      margin-bottom: 18px;
+    }
+    .about-portrait {
+      margin: 0 0 18px;
+    }
+    .about-portrait img {
+      width: 170px;
+      height: auto;
+      display: block;
+      filter: grayscale(5%) contrast(105%);
     }
 
     /* Accessibility: skip link */
@@ -571,15 +607,28 @@
     }
     .skip-link:focus { left: 12px; }
 
+    .sr-only {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0,0,0,0);
+      border: 0;
+    }
+
     /* Responsive */
     @media (max-width: 900px) {
       .wrapper {
         grid-template-columns: 1fr; /* stack */
+        padding: 24px 20px;
       }
       .profile {
         position: relative;
+        top: 0;
       }
-      section { padding: 16px; }
+      section { padding: 0; }
     }
   </style>
 
@@ -626,21 +675,8 @@
     <a class="skip-link" href="#main">Skip to content</a>
 
   <div class="wrapper">
-    <header aria-label="site header">
-      <h1 class="brand">axelr.eu</h1>
-    </header>
-
     <!-- LEFT COLUMN: Profile / Bio / Contact -->
     <aside class="profile" aria-label="Profile">
-      <a href="/PICTURES/profile.jpg" aria-label="View high-resolution portrait" rel="nofollow">
-        <img
-          src="/PICTURES/profile.jpg"
-          alt="Portrait of Axel Ridberg"
-          fetchpriority="high"
-          width="240"
-          height="300"
-        />
-      </a>
       <nav aria-label="primary">
         <a href="#about">About</a>
         <a href="#works">Selected Works</a>
@@ -681,24 +717,37 @@
     <main id="main">
       <!-- ABOUT -->
       <section id="about" aria-labelledby="about-title" hidden>
-        <h2 id="about-title">About</h2>
+        <h2 id="about-title" class="sr-only">About</h2>
+        <figure class="about-portrait">
+          <a href="/PICTURES/profile.jpg" aria-label="View high-resolution portrait" rel="nofollow">
+            <img src="/PICTURES/profile.jpg" alt="Portrait of Axel Ridberg" loading="lazy" width="200" height="260" />
+          </a>
+        </figure>
         <p>Axel Ridberg is a sound designer based in Helsinki, Finland. He works mainly in performing arts, but also with short films, installations, live mixing, creative coding, and commercial projects.</p>
         <p>He has a master’s and bachelor’s degree in sound design from the Theatre Academy at the University of the Arts Helsinki, a bachelor’s degree in social sciences from Åbo Akademi University, and has also studied film and television sound at Arcada University of Applied Sciences. His work has been presented at e.g. Helsinki City Theatre, Teater Viirus, Q-teatteri, Reality Research Center, and at the Fast Forward Festival.</p>
         <p>He is intrested in how sound can both carry meaning and, at the same time, resist it, but almost always carry emotional possibilities, and sometimes physical sensation. Other interests include: large speaker setups, diffused choirs, fake classical music, high volumes, maximalism, embracing minimalism,</p>
         <!-- Finnish: short and extended -->
-        <h3 class="subsection-title" lang="fi">Suomeksi</h3>
-        <p lang="fi">Axel Ridberg on Helsingissä asuva äänisuunnittelija. Hän työskentelee pääasiassa esittävän taiteen parissa, mutta myös lyhytelokuvien, installaatioiden, live‑äänen, luovan koodauksen ja kaupallisten projektien parissa.</p>
-        <p lang="fi">Hänellä on äänisuunnittelun maisterin ja kandidaatin tutkinnot Teatterikorkeakoulusta (Taideyliopisto), valtiotieteiden kandidaatin tutkinto Åbo Akademista sekä opintoja elokuva- ja tv‑äänestä Arcada‑ammattikorkeakoulussa. Ridbergin töitä on esitetty mm. Helsingin Kaupunginteatterissa, Teater Viiruksessa, Q‑teatterissa, Todellisuuden tutkimuskeskuksessa sekä Fast Forward ‑festivaalilla.</p>
+        <div class="lang-block" data-lang="fi">
+          <button class="lang-toggle" type="button" aria-expanded="false">Suomeksi</button>
+          <div class="lang-content" hidden>
+            <p lang="fi">Axel Ridberg on Helsingissä asuva äänisuunnittelija. Hän työskentelee pääasiassa esittävän taiteen parissa, mutta myös lyhytelokuvien, installaatioiden, live‑äänen, luovan koodauksen ja kaupallisten projektien parissa.</p>
+            <p lang="fi">Hänellä on äänisuunnittelun maisterin ja kandidaatin tutkinnot Teatterikorkeakoulusta (Taideyliopisto), valtiotieteiden kandidaatin tutkinto Åbo Akademista sekä opintoja elokuva- ja tv‑äänestä Arcada‑ammattikorkeakoulussa. Ridbergin töitä on esitetty mm. Helsingin Kaupunginteatterissa, Teater Viiruksessa, Q‑teatterissa, Todellisuuden tutkimuskeskuksessa sekä Fast Forward ‑festivaalilla.</p>
+          </div>
+        </div>
 
         <!-- Swedish: short and extended -->
-        <h3 class="subsection-title" lang="sv">På svenska</h3>
-        <p lang="sv">Axel Ridberg är en ljuddesigner bosatt i Helsingfors, Finland. Han arbetar främst inom scenkonst, men också med kortfilmer, installationer, live‑mixning, kreativ kodning och kommersiella projekt.</p>
-        <p lang="sv">Han har magister‑ och kandidatexamen i ljuddesign från Teaterhögskolan vid Konstuniversitetet, en kandidatexamen i samhällsvetenskaper från Åbo Akademi samt studier i film‑ och tv‑ljud vid Arcada yrkeshögskola. Hans arbeten har presenterats vid bland annat Helsingfors Stadsteater, Teater Viirus, Q‑teatteri, Reality Research Center och Fast Forward‑festivalen.</p>
+        <div class="lang-block" data-lang="sv">
+          <button class="lang-toggle" type="button" aria-expanded="false">På svenska</button>
+          <div class="lang-content" hidden>
+            <p lang="sv">Axel Ridberg är en ljuddesigner bosatt i Helsingfors, Finland. Han arbetar främst inom scenkonst, men också med kortfilmer, installationer, live‑mixning, kreativ kodning och kommersiella projekt.</p>
+            <p lang="sv">Han har magister‑ och kandidatexamen i ljuddesign från Teaterhögskolan vid Konstuniversitetet, en kandidatexamen i samhällsvetenskaper från Åbo Akademi samt studier i film‑ och tv‑ljud vid Arcada yrkeshögskola. Hans arbeten har presenterats vid bland annat Helsingfors Stadsteater, Teater Viirus, Q‑teatteri, Reality Research Center och Fast Forward‑festivalen.</p>
+          </div>
+        </div>
       </section>
 
       <!-- WORKS -->
-      <section id="works" aria-labelledby="works-title" hidden>
-        <h2 id="works-title">Selected Works</h2>
+      <section id="works" aria-labelledby="works-title">
+        <h2 id="works-title" class="sr-only">Selected Works</h2>
         <div class="works-grid">
           <!-- Repeat .work-card blocks; replace image/src, titles, and links -->
           <div class="work-card" aria-label="Open project: Steal This Performance">
@@ -786,7 +835,9 @@
 
       <!-- CV -->
       <section id="cv" aria-labelledby="cv-title" hidden>
-        <h2 id="cv-title">CV (Selected)</h2>
+        <div class="cv-header">
+          <h2 id="cv-title">CV</h2>
+        </div>
 
         <h3 class="subsection-title">Education</h3>
         <ul class="cv-list">
@@ -828,6 +879,20 @@
       </section>
     </main>
   </div>
+  <script>
+    (function () {
+      document.querySelectorAll('.lang-block').forEach((block) => {
+        const toggle = block.querySelector('.lang-toggle');
+        const content = block.querySelector('.lang-content');
+        if (!toggle || !content) return;
+        toggle.addEventListener('click', () => {
+          const expanded = toggle.getAttribute('aria-expanded') === 'true';
+          toggle.setAttribute('aria-expanded', String(!expanded));
+          content.hidden = expanded;
+        });
+      });
+    })();
+  </script>
   <script>
     (function () {
       const WATERMARK_ENABLED = false; // keep watermark code but disabled
@@ -968,25 +1033,16 @@
 
       function goHome(e){
         if (e) e.preventDefault();
-        if (!works || !cv || !about) return;
-        works.hidden = true;
-        cv.hidden = true;
-        about.hidden = true;
-        // watermark disabled
-        if (linkAbout) linkAbout.setAttribute('aria-current', 'false');
-        if (linkWorks) linkWorks.setAttribute('aria-current', 'false');
-        if (linkCv) linkCv.setAttribute('aria-current', 'false');
-        // Scroll to top only on touch devices (mobile/tablet)
+        show('works');
         if (isTouchDevice()) {
           window.scrollTo({ top: 0, behavior: 'smooth' });
         }
-        positionLandingMark();
       }
       if (brand) brand.addEventListener('click', goHome);
       if (profileImg) profileImg.addEventListener('click', goHome);
 
-      // Default landing: blank (no section shown)
-      goHome();
+      // Landing shows Selected Works by default
+      show('works');
       window.addEventListener('resize', () => {
         positionLandingMark();
       });
