@@ -325,22 +325,33 @@
     }
     .work-card {
       display: grid;
-      grid-template-columns: 110px 1fr;
-      gap: 14px;
+      grid-template-columns: 110px 1fr auto;
+      gap: 18px;
       padding: 12px 0;
       border-bottom: 1px solid rgba(0,0,0,0.12);
       text-decoration: none;
       color: inherit;
+      align-items: start;
     }
     .work-card img { width: 100%; height: auto; display: block; }
     /* Image hover caption overlay */
     .work-card .media {
+      grid-column: 1;
       position: relative;
       overflow: hidden;
       border-radius: 4px;
       aspect-ratio: 3 / 4;
       background: #f5f5f5;
       border: 1px solid rgba(0,0,0,0.08);
+      transition: all 200ms ease;
+    }
+    .work-card .media.playing {
+      grid-column: 2 / -1;
+      aspect-ratio: auto;
+      height: 320px;
+    }
+    .work-card .media.playing video {
+      object-fit: cover;
     }
     .work-card .media img {
       width: 100%;
@@ -382,7 +393,17 @@
     .work-card .hover-caption { display: none; }
     /* Once a video has been clicked/played, keep its hover caption hidden */
     .work-card .media.played .hover-caption { opacity: 0 !important; pointer-events: none; }
-    .work-meta { padding: 0; display: flex; flex-direction: column; gap: 6px; flex: 1 1 auto; }
+    .work-year {
+      font-family: var(--font-mono);
+      font-size: 0.72rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--muted);
+      text-align: right;
+      padding-top: 2px;
+    }
+    .work-meta { padding: 0; display: flex; flex-direction: column; gap: 8px; flex: 1 1 auto; grid-column: 2; }
+    .work-year { grid-column: 3; }
     .work-meta,
     .work-title,
     .work-audio,
@@ -418,40 +439,52 @@
     }
     .work-audio { margin-top: auto; padding-top: 6px; }
     .work-audio audio { display: none; }
-    .audio-filename { margin-top: 4px; font-size: 0.85rem; color: var(--muted); font-style: normal; }
     /* Custom player styles */
     .player {
-      display: flex;
-      flex-wrap: wrap; /* allow wrap; we'll shrink controls instead */
-      gap: 10px;
+      display: grid;
+      grid-template-columns: auto 1fr auto;
       align-items: center;
-      background: #f8f8f8;
+      gap: 8px;
+      background: #fff;
       color: var(--text);
-      border: 1px solid rgba(0,0,0,0.2);
-      border-radius: 0;
-      padding: 10px 14px;
+      border: 1px solid rgba(0,0,0,0.35);
+      padding: 6px 8px;
+      font-family: var(--font-sans);
     }
     .player-btn {
       appearance: none;
-      background: #fff;
-      color: var(--text);
-      border: 1px solid rgba(0,0,0,0.2);
+      background: transparent;
+      color: #000;
+      border: 1px solid #000;
       border-radius: 0;
-      padding: 4px 18px;
+      padding: 3px 8px;
       font: inherit;
       cursor: pointer;
-      letter-spacing: 0.04em;
+      letter-spacing: 0.15em;
       text-transform: uppercase;
-      font-size: 0.7rem;
+      font-size: 0.55rem;
+      width: 70px;
+      text-align: center;
     }
     /* Top row compact sizing */
-    .topline { gap: 8px; align-items: center; }
-    .topline .player-btn { flex: 0 0 auto; }
-    .topline .audio-filename { font-size: 0.78rem; }
+    .topline { display: contents; }
+    .topline .player-btn { grid-column: 1; }
+    .topline .audio-filename,
     .topline .player-time {
-      font-size: 0.78rem;
-      flex: 0 0 auto; /* shrink to content */
+      font-family: var(--font-mono);
+      font-size: 0.68rem;
+      letter-spacing: 0.1em;
+    }
+    .topline .audio-filename {
+      grid-column: 2;
       white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .topline .player-time {
+      grid-column: 3;
+      text-align: right;
+      justify-self: end;
     }
     .player-btn:hover,
     .player-btn:focus-visible {
@@ -462,25 +495,6 @@
     }
     .player-time { font-size: 0.85rem; color: var(--muted); }
     .player-seek, .player-volume { width: 100%; }
-    /* Top row container: Play + Filename + Time (stay together) */
-    .player .topline {
-      flex: 0 0 100%;
-      display: flex;
-      align-items: center;
-      gap: 12px;
-      flex-wrap: nowrap;
-    }
-    .topline .player-time { flex: 0 0 92px; text-align: center; }
-    .topline .audio-filename {
-      flex: 1 1 auto;
-      min-width: 0;
-      margin: 0 4px;
-      font-size: 0.78rem;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      position: relative; /* for instant hover tooltip */
-    }
     /* Instant hover tooltip for full filename */
     .player .audio-filename::after {
       content: attr(data-fullname);
@@ -510,37 +524,28 @@
     }
     /* Second row container: seek + volume on same row */
     .player .sliders {
-      flex: 0 0 100%;
+      grid-column: 1 / -1;
       display: flex;
       align-items: center;
-      gap: 12px;
-      margin-top: 0;
+      gap: 8px;
+      width: 100%;
     }
-    .seek-wrap { position: relative; flex: 1 1 auto; min-width: 0; }
-    .seek-wrap .player-seek { width: 100%; }
-    .player-volume {
-      flex: 0 0 72px;
-      width: 72px;
-      min-width: 56px;
-      align-self: center;
-      position: relative;
-      top: -1px; /* nudge to align with seek track */
-    }
-    .player input[type="range"] { margin: 0; }
-    /* Slimmer seek and volume bars */
-    .player input[type="range"] { -webkit-appearance: none; height: 18px; background: transparent; }
+    .seek-wrap { flex: 1; }
+    .player-volume { width: 80px; }
+    .player .sliders input[type="range"] { margin: 0; -webkit-appearance: none; height: 2px; background: rgba(0,0,0,0.15); }
     .player input[type="range"]:focus { outline: none; }
     /* WebKit */
-    .player input[type="range"]::-webkit-slider-runnable-track { height: 2px; background: rgba(0,0,0,0.4); border-radius: 0; }
+    .player input[type="range"]::-webkit-slider-runnable-track { height: 2px; background: transparent; border-radius: 0; }
     .player input[type="range"]::-webkit-slider-thumb {
       -webkit-appearance: none;
-      width: 12px; height: 12px;
-      background: #000; border: 1px solid #000; border-radius: 0;
-      margin-top: -6px;
+      width: 8px; height: 8px;
+      background: #000;
+      border-radius: 0;
+      margin-top: -3px;
     }
     /* Firefox */
-    .player input[type="range"]::-moz-range-track { height: 2px; background: rgba(0,0,0,0.4); border: none; border-radius: 0; }
-    .player input[type="range"]::-moz-range-thumb { width: 12px; height: 12px; background: #000; border: 1px solid #000; border-radius: 0; }
+    .player input[type="range"]::-moz-range-track { height: 2px; background: transparent; border: none; border-radius: 0; }
+    .player input[type="range"]::-moz-range-thumb { width: 8px; height: 8px; background: #000; border: none; border-radius: 0; }
 
     @media (max-width: 420px) {
       /* Maintain single-row layout; allow seek to shrink */
@@ -748,7 +753,7 @@
               <div class="hover-caption">picture: Jere J. Aalto</div>
             </div>
             <div class="work-meta">
-              <p class="work-title"><a href="https://www.uniarts.fi/en/events/varasta-tama-esitys-tyonimi/" target="_blank" rel="noopener">Steal This Performance (2024)</a></p>
+              <p class="work-title"><a href="https://www.uniarts.fi/en/events/varasta-tama-esitys-tyonimi/" target="_blank" rel="noopener">Steal This Performance</a></p>
               <p class="work-desc">Method-based performance created by plagiarising other performances.</p>
               <div class="work-audio" aria-label="Audio player for Steal This Performance">
                 <audio id="steal-audio" preload="metadata">
@@ -770,6 +775,7 @@
                 </div>
               </div>
             </div>
+            <div class="work-year">2024</div>
           </div>
 
           <div class="work-card" aria-label="Open project: Mermaids of Empty Ponds">
@@ -778,7 +784,7 @@
               <div class="hover-caption">picture: Jussi Ulkuniemi</div>
             </div>
             <div class="work-meta">
-              <p class="work-title"><a href="https://hkt.fi/esitykset/agora-kaksi-merenneitoa-tyhjassa-altaassa/" target="_blank" rel="noopener">Agora - Kaksi merenneitoa tyhjäässä altaassa (2025)</a></p>
+              <p class="work-title"><a href="https://hkt.fi/esitykset/agora-kaksi-merenneitoa-tyhjassa-altaassa/" target="_blank" rel="noopener">Agora - Kaksi merenneitoa tyhjäässä altaassa</a></p>
               <p class="work-desc">Wet performance at Helsinki City Theatre.</p>
               <div class="work-audio" aria-label="Audio player for Agora">
                 <audio id="agora-audio" preload="metadata">
@@ -800,6 +806,7 @@
                 </div>
               </div>
             </div>
+            <div class="work-year">2025</div>
           </div>
 
           <div class="work-card" aria-label="Open project: Pamela Blod">
@@ -807,9 +814,10 @@
               <video id="pamela-video" src="VIDEO/karnminne_1.mov" poster="PICTURES/karnminne_poster.jpg" controls playsinline preload="auto"></video>
             </div>
             <div class="work-meta">
-              <p class="work-title">Kärnminne (2025)</p>
+              <p class="work-title">Kärnminne</p>
               <p class="work-desc">Installation in a 700 m2 abandonded bowling hall for ParKino Festival. </p>
             </div>
+            <div class="work-year">2025</div>
           </div>
 
           <div class="work-card" aria-label="Open project: Diptyk (2025)">
@@ -818,9 +826,10 @@
               <div class="hover-caption">picture: Simo Pukkinen</div>
             </div>
             <div class="work-meta">
-              <p class="work-title"><a href="https://www.viirus.fi/en/shows/diptyk" target="_blank" rel="noopener">Diptyk (2025)</a></p>
+              <p class="work-title"><a href="https://www.viirus.fi/en/shows/diptyk" target="_blank" rel="noopener">Diptyk</a></p>
               <p class="work-desc">Theatre show about social choreographies around death in western societies.</p>
             </div>
+            <div class="work-year">2025</div>
           </div>
         </div>
       </section>
