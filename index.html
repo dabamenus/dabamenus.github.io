@@ -230,10 +230,36 @@
     }
     .contact a:visited { color: var(--visited); }
     .contact a:hover { color: var(--hover); }
-    /* Upcoming small section in sidebar */
-    .upcoming { font-size: 0.9rem; line-height: 1.6; font-style: normal; }
-    .upcoming-title { margin: 10px 0 4px; font-size: 0.85rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.1em; }
-    .upcoming p { margin: 0 0 8px; }
+    /* Updates list in sidebar */
+    .upcoming { font-size: 0.82rem; line-height: 1.4; font-style: normal; }
+    .upcoming-title {
+      margin: 8px 0 4px;
+      font-size: 0.84rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+    }
+    .upcoming-title::before { content: none; }
+    .upcoming p {
+      margin: 0 0 5px;
+      display: flex;
+      gap: 6px;
+      align-items: baseline;
+      padding-bottom: 4px;
+      border-bottom: 1px solid rgba(0,0,0,0.08);
+    }
+    .upcoming p::before {
+      content: '✹';
+      font-size: 0.65rem;
+      color: #000;
+    }
+    .upcoming-title::before { content: none; }
+    /* keep first entry consistent with others */
+    .upcoming a {
+      color: #111;
+      text-decoration: none;
+    }
+    .upcoming a:hover { color: var(--hover); }
     .upcoming .past { text-decoration: line-through; color: var(--muted); }
     /* Sidebar dividers, matching header rule (non-box layout) */
     .profile nav,
@@ -726,8 +752,9 @@
         </p>
       </div>
 
-      <div class="upcoming" aria-label="Upcoming shows">
-        <p class="upcoming-title">Upcoming & ongoing:</p>
+      <div class="upcoming" aria-label="Updates">
+        <p class="upcoming-title">Updates</p>
+        <p class="update-first"><a href="https://nachtkritik.de/index.php?option=com_content&view=article&id=26161:fast-forward-festival-staatsschauspiel-dresden-der-vorerst-letzte-jahrgang-des-festivals-fuer-junge-europaeische-regie-laesst-hoffen-dass-es-doch-weitergeht&catid=179" target="_blank" rel="noopener">Steal This Performance wins Jury Award at Fast Forward 2025 (nachtkritik.de)</a></p>
         <p>Fast Forward Festival, Dresden, Germany, 12-16.11.2025</p>
         <p>Pamela Blod, independent short film, post-production autumn 2025</p>
         <p>Medeltiden @ Åbo Svenska Teater, premiere 4.11.2025</p>
@@ -792,7 +819,7 @@
               <div class="hover-caption">picture: Jere J. Aalto</div>
             </div>
             <div class="work-meta">
-              <p class="work-title"><a href="https://www.uniarts.fi/en/events/varasta-tama-esitys-tyonimi/" target="_blank" rel="noopener">Steal This Performance</a></p>
+              <p class="work-title"><a href="https://www.fastforw.art/en/programme/2025/steal-this-performance/?source=programm" target="_blank" rel="noopener">Steal This Performance</a></p>
               <p class="work-desc">Method-based performance created by plagiarising other performances.</p>
               <div class="work-audio" aria-label="Audio player for Steal This Performance">
                 <audio id="steal-audio" preload="metadata">
@@ -1074,7 +1101,7 @@
 
       function goHome(e){
         if (e) e.preventDefault();
-        show('works');
+        show('home');
         if (isTouchDevice()) {
           window.scrollTo({ top: 0, behavior: 'smooth' });
         }
@@ -1083,7 +1110,7 @@
       if (profileImg) profileImg.addEventListener('click', goHome);
 
       // Landing shows Selected Works by default
-      show('works');
+      show('home');
       window.addEventListener('resize', () => {
         positionLandingMark();
       });
