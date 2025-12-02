@@ -130,30 +130,14 @@
     }
     /* Landing visual positioned at the start of content column */
     .wrapper { position: relative; }
-    #landing-visual {
-      position: absolute;
-      top: 0;
-      left: 0;
-      opacity: 0;
-      visibility: hidden;
-      display: none;        /* watermark disabled but retained for future use */
-      transition: opacity 200ms ease;
+    #site-bg {
+      position: fixed;
+      inset: 0;
+      z-index: -1;
       pointer-events: none;
-      z-index: -1;          /* sit behind content so posters stay visible */
+      background: #ffffff;
     }
-    #landing-visual .mark-grid { display: flex; gap: 6px; }
-    #landing-visual .col { display: grid; grid-auto-rows: 1.3em; row-gap: 0.25em; }
-    #landing-visual .col span {
-      display: block;
-      font-family: var(--font-sans);
-      font-size: clamp(28px, 6vw, 80px);
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-      color: rgba(0,0,0,0.18);
-      text-shadow: 0 1px 0 rgba(255,255,255,0.4);
-      line-height: 1.1;
-    }
-    /* watermark is always visible; no landing gate needed */
+    #landing-visual { display: none; }
 
     /* Mobile tweaks: adjust vertical spacing for watermark */
     @media (max-width: 900px) {
@@ -466,6 +450,109 @@
       font-family: var(--font-mono);
       letter-spacing: 0.02em;
     }
+    .work-readmore {
+      background: none;
+      border: none;
+      padding: 0;
+      font: inherit;
+      color: var(--link);
+      text-decoration: underline;
+      cursor: pointer;
+      letter-spacing: 0.02em;
+    }
+    .work-readmore:hover,
+    .work-readmore:focus-visible {
+      color: var(--hover);
+      outline: none;
+    }
+    .work-more {
+      margin: 8px 0 0;
+      font-size: 0.78rem;
+      color: var(--muted);
+      font-family: var(--font-mono);
+      letter-spacing: 0.02em;
+    }
+    .work-gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+      gap: 10px;
+      margin-top: 10px;
+    }
+    .work-gallery figure {
+      margin: 0;
+      background: #fff;
+      border: 1px solid rgba(0,0,0,0.08);
+      padding: 6px;
+    }
+    .work-gallery img {
+      width: 100%;
+      height: 140px;
+      object-fit: cover;
+      display: block;
+      cursor: zoom-in;
+    }
+    .work-gallery figcaption {
+      margin-top: 4px;
+      font-size: 0.7rem;
+      color: var(--muted);
+      letter-spacing: 0.02em;
+    }
+    .lightbox {
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.82);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+      z-index: 999;
+    }
+    .lightbox[hidden] { display: none; }
+    .lightbox figure {
+      margin: 0;
+      display: grid;
+      gap: 10px;
+      grid-template-rows: 1fr auto;
+      width: min(720px, 86vw);
+      max-height: 86vh;
+    }
+    .lightbox img {
+      width: 100%;
+      height: auto;
+      max-height: 76vh;
+      object-fit: contain;
+      background: #111;
+    }
+    .lightbox figcaption {
+      color: #f5f5f5;
+      font-size: 0.82rem;
+      letter-spacing: 0.03em;
+    }
+    .lightbox .close-btn {
+      position: absolute;
+      top: 12px;
+      right: 12px;
+      background: #fff;
+      color: #000;
+      border: 1px solid #fff;
+      padding: 8px 10px;
+      font: inherit;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      cursor: pointer;
+    }
+    .lightbox .close-btn:hover,
+    .lightbox .close-btn:focus-visible { background: #000; color: #fff; outline: none; }
+    .work-external {
+      display: inline-block;
+      margin-top: 6px;
+      color: var(--link);
+      text-decoration: underline;
+      font-size: 0.78rem;
+      letter-spacing: 0.02em;
+    }
+    .work-external:hover,
+    .work-external:focus-visible { color: var(--hover); outline: none; }
     .work-audio { margin-top: auto; padding-top: 6px; }
     .work-audio audio { display: none; }
     /* Custom player styles */
@@ -774,12 +861,7 @@
 
     <!-- RIGHT COLUMN: Main content -->
     <!-- Landing visual overlay for home (blank), positioned within wrapper -->
-    <div id="landing-visual" aria-hidden="true">
-      <div class="mark-grid">
-        <div class="col" aria-hidden="true"><span>A</span><span>x</span><span>e</span><span>l</span></div>
-        <div class="col" aria-hidden="true"><span>R</span><span>i</span><span>d</span><span>b</span><span>e</span><span>r</span><span>g</span></div>
-      </div>
-    </div>
+    <div id="landing-visual" aria-hidden="true"></div>
     <main id="main">
       <!-- ABOUT -->
       <section id="about" aria-labelledby="about-title" hidden>
@@ -823,7 +905,27 @@
             </div>
             <div class="work-meta">
               <p class="work-title"><a href="https://www.fastforw.art/en/programme/2025/steal-this-performance/?source=programm" target="_blank" rel="noopener">Steal This Performance</a></p>
-              <p class="work-desc">Method-based performance created by plagiarising other performances.</p>
+              <p class="work-desc">Method-based performance created by plagiarising other performances. <button class="work-readmore" type="button" aria-expanded="false">Read more</button></p>
+              <div class="work-more" id="work-more-steal" hidden>
+                <p>Steal This Performance explores questions of originality and identity. Every element on stage—including the sound design—is constructed entirely from stolen, plagiarised, or otherwise borrowed material, most of it from other performances and theatre shows. While the work takes the form of a monologue, it relies heavily on audiovisual and scenographic means to articulate its core idea.</p>
+                <p>The production premiered at the Theatre Academy in Helsinki in 2024. It was later selected for the Fast Forward Festival 2025 in Dresden, Germany, where it received the Jury Award.</p>
+                <p><strong>Credits:</strong> Directing &amp; Dramaturgy Pauli Patinen. On stage: Juho Keränen. Scenography Anni Hernetkoski. Lighting &amp; Video Design Ville Tolvanen. Sound Design Axel Ridberg. Costume Design Ellen Järnefelt. Stagehands Anni Hernetkoski, Mikael Karkkonen.</p>
+                <div class="work-gallery" aria-label="Additional images for Steal This Performance">
+                  <figure>
+                    <img src="PICTURES/steal_1.jpeg" alt="Steal This Performance stage still" loading="lazy" width="1200" height="800" />
+                    <figcaption>photo: Jere J. Aalto</figcaption>
+                  </figure>
+                  <figure>
+                    <img src="PICTURES/steal_cover.jpg" alt="Steal This Performance publication cover" loading="lazy" width="1200" height="800" />
+                    <figcaption>photo: Jere J. Aalto</figcaption>
+                  </figure>
+                  <figure>
+                    <img src="PICTURES/steal_rehearsal.jpg" alt="Steal This Performance rehearsal photo" loading="lazy" width="1200" height="800" />
+                    <figcaption>photo: Jere J. Aalto</figcaption>
+                  </figure>
+                </div>
+                <a class="work-external" href="https://www.fastforw.art/en/programme/2025/steal-this-performance/?source=programm" target="_blank" rel="noopener">Full info ↗</a>
+              </div>
               <div class="work-audio" aria-label="Audio player for Steal This Performance">
                 <audio id="steal-audio" preload="metadata">
                   <source src="AUDIO/wall_3.mp3" type="audio/mpeg" />
@@ -854,7 +956,19 @@
             </div>
             <div class="work-meta">
               <p class="work-title"><a href="https://hkt.fi/esitykset/agora-kaksi-merenneitoa-tyhjassa-altaassa/" target="_blank" rel="noopener">Agora - Kaksi merenneitoa tyhjäässä altaassa</a></p>
-              <p class="work-desc">Wet performance at Helsinki City Theatre.</p>
+              <p class="work-desc">Wet performance at Helsinki City Theatre. <button class="work-readmore" type="button" aria-expanded="false">Read more</button></p>
+              <div class="work-more" id="work-more-agora" hidden>
+                <p>A mysterious artwork by an unknown artist has appeared in front of Helsinki City Theatre. A hastily assembled sculpture committee decides to keep the piece and temporarily display it on the Studio Pasila stage.</p>
+                <p>Agora – Two Mermaids in an Empty Pond premiered at Helsingin Kaupunginteatteri in 2025.</p>
+                <p><strong>Credits:</strong> Concept Minna Lund &amp; Working Group. Director Minna Lund. Dramaturg Martta Jylhä. Texts Minna Lund, Martta Jylhä. Set Design Riku Suvitie. Costume Design Ella Snellman. Lighting Design Tuomas Honkanen. Sound Design Axel Ridberg. Makeup Design Noora Laukkanen. Cast Salla Loper, Emelie Zilliacus, Leenamari Unho.</p>
+                <div class="work-gallery" aria-label="Additional images for Agora">
+                  <figure>
+                    <img src="PICTURES/agora_1.jpg" alt="Agora performance in an empty pool" loading="lazy" width="1200" height="800" />
+                    <figcaption>photo: Jussi Ulkuniemi</figcaption>
+                  </figure>
+                </div>
+                <a class="work-external" href="https://hkt.fi/esitykset/agora-kaksi-merenneitoa-tyhjassa-altaassa/" target="_blank" rel="noopener">Full info ↗</a>
+              </div>
               <div class="work-audio" aria-label="Audio player for Agora">
                 <audio id="agora-audio" preload="metadata">
                   <source src="AUDIO/mermaids_death.mp3" type="audio/mpeg" />
@@ -884,7 +998,17 @@
             </div>
             <div class="work-meta">
               <p class="work-title">Kärnminne</p>
-              <p class="work-desc">Installation in a 700 m2 abandonded bowling hall for ParKino Festival. </p>
+              <p class="work-desc">Installation in a 700 m2 abandonded bowling hall for ParKino Festival. <button class="work-readmore" type="button" aria-expanded="false">Read more</button></p>
+              <div class="work-more" id="work-more-karnminne" hidden>
+                <p>Kärnminne (Core Memory) refers to formative experiences and memories. The installation tries to capture the fluid nature of these moments and the way they are stored in our heads. It consisted of hundreds of A4 papers, a video installation, multi-channel audio, and lighting that interacted with the papers to create shifting shadow formations. After opening hours, the installation could be viewed through the windows in the space.</p>
+                <p><strong>Credits:</strong> Concept &amp; execution Axel Ridberg. Exhibition help Ida Ridberg. Production Ida Ridberg, Liisa Taulio, Sebastian Allén.</p>
+                <div class="work-gallery" aria-label="Additional images for Kärnminne">
+                  <figure>
+                    <img src="PICTURES/karnminne_poster.jpg" alt="Kärnminne installation poster still" loading="lazy" width="1200" height="800" />
+                    <figcaption></figcaption>
+                  </figure>
+                </div>
+              </div>
             </div>
             <div class="work-year">2025</div>
           </div>
@@ -896,7 +1020,24 @@
             </div>
             <div class="work-meta">
               <p class="work-title"><a href="https://www.viirus.fi/en/shows/diptyk" target="_blank" rel="noopener">Diptyk</a></p>
-              <p class="work-desc">Theatre show about social choreographies around death in western societies.</p>
+              <p class="work-desc">Theatre show about social choreographies around death in western societies. <button class="work-readmore" type="button" aria-expanded="false">Read more</button></p>
+              <div class="work-more" id="work-more-diptyk" hidden>
+                <p>A diptych is a work of art consisting of two separate parts that, when combined, form a unified work of art. These parts can be attached or displayed side by side.</p>
+                <p>The first part of the performance explores the social and spatial choreographies of a good death in Western society. The second part asks the question of what we can do in this moment, while we’re alive?</p>
+                <p>Diptyk places itself in a continuum of artworks about death, raising questions about the medicalisation before death, care, and our ability to deal with death and community.</p>
+                <p><strong>Credits:</strong> Director and manuscript Minna Lund. Translation of manuscript to Swedish David Sandqvist. English surtitles Sarka Hantula. On stage Maria Ahlroth, Oskar Pöysti, Jessica Raita ja Lilli Sukula-Lindblom. Stage design Riku Suvitie. Lighting design Tuomas Honkanen. Sound design Axel Ridberg. Costume design Mirva Mietala. Seamstress Elina Riikonen. Props Elina Riikonen, Riku Suvitie. Mask and hair Kaisa Pätilä. Video design Riku Suvitie, Minna Lund. Intimacy choreographer Sara-Maria Heinonen. Death doula and nursing consultant Ada Koistinen. Dramaturge Elina Snicker (UNTO).</p>
+                <div class="work-gallery" aria-label="Additional images for Diptyk">
+                  <figure>
+                    <img src="PICTURES/diptyk_poster_2.jpg" alt="Diptyk poster" loading="lazy" width="1200" height="800" />
+                    <figcaption>photo: Simo Pukkinen</figcaption>
+                  </figure>
+                  <figure>
+                    <img src="PICTURES/diptyk_poster_simo_pukkinen.jpg" alt="Diptyk stage still by Simo Pukkinen" loading="lazy" width="1200" height="800" />
+                    <figcaption>photo: Simo Pukkinen</figcaption>
+                  </figure>
+                </div>
+                <a class="work-external" href="https://www.viirus.fi/en/shows/diptyk" target="_blank" rel="noopener">Full info ↗</a>
+              </div>
             </div>
             <div class="work-year">2025</div>
           </div>
@@ -945,10 +1086,17 @@
         </ul>
         <h3 class="subsection-title">Other</h3>
         <ul class="cv-list">
-          <li class="cv-item"><span class="cv-year">2017–2018</span><span><em>FinnAgora</em> — Intern / Producer / Coordinator; Finnagora, Budapest (TelepArt, exhibitions, festival projects)</span></li>
+      <li class="cv-item"><span class="cv-year">2017–2018</span><span><em>FinnAgora</em> — Intern / Producer / Coordinator; Finnagora, Budapest (TelepArt, exhibitions, festival projects)</span></li>
         </ul>
       </section>
     </main>
+  </div>
+  <div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Expanded image" hidden>
+    <button class="close-btn" type="button">Close</button>
+    <figure>
+      <img src="" alt="" />
+      <figcaption></figcaption>
+    </figure>
   </div>
   <script>
     (function () {
@@ -1013,6 +1161,12 @@
           });
           // Re-enable hover captions and clear playing state for videos
           document.querySelectorAll('#works .media.played, #works .media.playing').forEach((m)=>{ m.classList.remove('played'); m.classList.remove('playing'); });
+          // Collapse any expanded project copy
+          document.querySelectorAll('#works .work-more').forEach((m) => { m.hidden = true; });
+          document.querySelectorAll('#works .work-readmore').forEach((btn) => {
+            btn.setAttribute('aria-expanded', 'false');
+            btn.textContent = 'Read more';
+          });
         } else {
           // Leaving works: pause and reset any media inside the section (video + audio)
           const media = document.querySelectorAll('#works video, #works audio');
@@ -1033,6 +1187,12 @@
           });
           // Re-enable hover captions and clear playing state for videos
           document.querySelectorAll('#works .media.played, #works .media.playing').forEach((m)=>{ m.classList.remove('played'); m.classList.remove('playing'); });
+          // Collapse any expanded project copy
+          document.querySelectorAll('#works .work-more').forEach((m) => { m.hidden = true; });
+          document.querySelectorAll('#works .work-readmore').forEach((btn) => {
+            btn.setAttribute('aria-expanded', 'false');
+            btn.textContent = 'Read more';
+          });
         }
       }
 
@@ -1160,6 +1320,62 @@
     }
     // Initial bind
     attachWorkVideoState();
+  </script>
+  <script>
+    // Expand/collapse per-project copy without leaving the site
+    (function () {
+      const toggles = document.querySelectorAll('.work-readmore');
+      toggles.forEach((btn, idx) => {
+        const more = btn.closest('.work-meta') && btn.closest('.work-meta').querySelector('.work-more');
+        if (!more) return;
+        if (!more.id) more.id = `work-more-${idx + 1}`;
+        btn.setAttribute('aria-controls', more.id);
+        btn.addEventListener('click', () => {
+          const expanded = btn.getAttribute('aria-expanded') === 'true';
+          const next = !expanded;
+          btn.setAttribute('aria-expanded', String(next));
+          btn.textContent = next ? 'Show less' : 'Read more';
+          more.hidden = !next;
+        });
+      });
+    })();
+  </script>
+  <script>
+    // Lightbox for work gallery images
+    (function () {
+      const box = document.getElementById('lightbox');
+      if (!box) return;
+      const img = box.querySelector('img');
+      const cap = box.querySelector('figcaption');
+      const closeBtn = box.querySelector('.close-btn');
+      const openBox = (src, alt, caption) => {
+        if (!img || !cap) return;
+        img.src = src;
+        img.alt = alt || '';
+        cap.textContent = caption || alt || '';
+        box.hidden = false;
+        document.body.style.overflow = 'hidden';
+        closeBtn && closeBtn.focus();
+      };
+      const closeBox = () => {
+        box.hidden = true;
+        document.body.style.overflow = '';
+      };
+      closeBtn && closeBtn.addEventListener('click', closeBox);
+      box.addEventListener('click', (e) => {
+        if (e.target === box) closeBox();
+      });
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && !box.hidden) closeBox();
+      });
+      document.querySelectorAll('.work-gallery img').forEach((thumb) => {
+        thumb.addEventListener('click', () => {
+          const fig = thumb.closest('figure');
+          const caption = fig && fig.querySelector('figcaption');
+          openBox(thumb.src, thumb.alt, caption && caption.textContent);
+        });
+      });
+    })();
   </script>
   <script>
     // Populate audio file name for the embedded player in the first work tile
