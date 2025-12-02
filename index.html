@@ -110,23 +110,23 @@
       display: flex;
       flex-direction: column;
       align-items: flex-start;
-      gap: 12px;
-      padding-bottom: 20px;
-      margin-bottom: 20px;
-      border-bottom: 1px solid rgba(0,0,0,0.1);
+      gap: 2px;
+      padding: 8px 0;
+      margin-bottom: 14px;
+      border-top: 1px solid #000;
+      border-bottom: 1px solid #000;
     }
 
     /* Brand / Title */
     /* Brand: revert to original clean styling (keep clickable) */
     .brand {
-      font-family: var(--font-serif);
-      font-size: clamp(52px, 9vw, 96px);
-      font-weight: 400;
-      letter-spacing: -0.02em;
-      line-height: 0.95;
-      color: var(--text);
-      text-transform: none;
-      text-shadow: none;
+      font-family: var(--font-sans);
+      font-size: clamp(20px, 2vw, 28px);
+      font-weight: 700;
+      letter-spacing: 0.3em;
+      line-height: 1.2;
+      color: #000;
+      text-transform: uppercase;
     }
     /* Landing visual positioned at the start of content column */
     .wrapper { position: relative; }
@@ -170,18 +170,29 @@
     nav {
       display: flex;
       flex-direction: column;  /* stack links vertically */
-      align-items: flex-start; /* left align */
-      gap: 10px;
+      align-items: stretch;
+      gap: 4px;
       font-family: var(--font-sans);
     }
     nav a {
       text-decoration: none;
-      color: var(--link);
+      color: #000;
       font-weight: 600;
-      text-transform: none;
-      letter-spacing: 0.08em;
-      font-size: 0.95rem;
-      padding: 6px 0;
+      text-transform: uppercase;
+      letter-spacing: 0.15em;
+      font-size: 0.75rem;
+      padding: 8px 12px;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: #f2f2f2;
+      border: 1px solid #000;
+    }
+    .nav-icon {
+      font-size: 0.9rem;
+      display: inline-block;
+      width: 1rem;
+      text-align: center;
     }
     .brand { cursor: pointer; }
     nav a:visited { color: var(--link); }
@@ -265,12 +276,14 @@
     #works, #cv, #about { background: transparent; }
     section h2 {
       margin: 0 0 12px;
-      font-size: 1.7rem;
-      letter-spacing: -0.01em;
-      text-transform: none;
-      font-weight: 400;
-      font-style: italic;
-      font-family: var(--font-serif);
+      font-size: 0.85rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      font-weight: 600;
+      font-family: var(--font-sans);
+      border-top: 2px solid #000;
+      padding-top: 6px;
+      display: inline-block;
     }
     section h3.subsection-title {
       margin: 18px 0 10px;
@@ -295,53 +308,39 @@
       font-size: 1rem;
       letter-spacing: 0.02em;
       text-transform: none;
-      font-style: italic;
+      font-style: normal;
       font-weight: 600;
       cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
     }
-    .lang-toggle::after {
-      content: ' +';
-      font-style: normal;
-      margin-left: 4px;
-    }
-    .lang-toggle[aria-expanded="true"]::after { content: ' −'; }
     .lang-content { margin-top: 8px; }
 
     /* Works grid */
     .works-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-      gap: 24px;
-    }
-    .work-card {
       display: flex;
       flex-direction: column;
-      border-radius: 0;
-      overflow: hidden;
-      background: #fff;
+      border-top: 1px solid rgba(0,0,0,0.12);
+    }
+    .work-card {
+      display: grid;
+      grid-template-columns: 110px 1fr;
+      gap: 14px;
+      padding: 12px 0;
+      border-bottom: 1px solid rgba(0,0,0,0.12);
       text-decoration: none;
       color: inherit;
-      border: 1px solid rgba(0,0,0,0.1);
-      transition: transform 200ms ease, box-shadow 200ms ease;
     }
-    .work-card:hover {
-      background-color: #fff;
-      transform: translateY(-4px);
-      box-shadow: 0 20px 45px rgba(0,0,0,0.1);
-    }
-    .work-card img {
-      width: 100%;
-      height: auto;
-      display: block;
-    }
+    .work-card img { width: 100%; height: auto; display: block; }
     /* Image hover caption overlay */
     .work-card .media {
       position: relative;
       overflow: hidden;
-      border-top-left-radius: 0;
-      border-top-right-radius: 0;
-      aspect-ratio: 4 / 5;
+      border-radius: 4px;
+      aspect-ratio: 3 / 4;
       background: #f5f5f5;
+      border: 1px solid rgba(0,0,0,0.08);
     }
     .work-card .media img {
       width: 100%;
@@ -380,35 +379,22 @@
       transform: scale(1.02);
     }
     /* white overlay removed by request */
-    .work-card .hover-caption {
-      position: absolute;
-      left: 0; right: 0; bottom: 0;
-      padding: 6px 8px;
-      background: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.8) 100%);
-      color: #fff;
-      font-size: 0.78rem;
-      line-height: 1.2;
-      opacity: 0;
-      transform: translateY(4px);
-      transition: opacity 120ms ease, transform 120ms ease;
-      pointer-events: none;
-      z-index: 2; /* above image overlay */
-    }
-    .work-card .media:hover .hover-caption { opacity: 1; transform: translateY(0); }
+    .work-card .hover-caption { display: none; }
     /* Once a video has been clicked/played, keep its hover caption hidden */
     .work-card .media.played .hover-caption { opacity: 0 !important; pointer-events: none; }
-    .work-meta { padding: 16px 18px 22px; display: flex; flex-direction: column; gap: 10px; flex: 1 1 auto; }
+    .work-meta { padding: 0; display: flex; flex-direction: column; gap: 6px; flex: 1 1 auto; }
     .work-meta,
     .work-title,
-    .work-desc,
     .work-audio,
     .player,
     .cv-item,
     .cv-year { font-family: var(--font-sans); }
     .work-title {
       font-weight: 600;
-      font-size: 1.05rem;
+      font-size: 0.9rem;
       margin: 0;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
     }
     /* Make work titles look like plain text, but react on hover */
     .work-title a {
@@ -425,8 +411,10 @@
     .contact strong { font-weight: 400; } /* avoid bold in Contact label */
     .work-desc {
       margin: 0;
-      font-size: 0.92rem;
+      font-size: 0.78rem;
       color: var(--muted);
+      font-family: var(--font-mono);
+      letter-spacing: 0.02em;
     }
     .work-audio { margin-top: auto; padding-top: 6px; }
     .work-audio audio { display: none; }
@@ -675,12 +663,16 @@
     <a class="skip-link" href="#main">Skip to content</a>
 
   <div class="wrapper">
+    <header aria-label="site header">
+      <h1 class="brand">Axel Ridberg</h1>
+    </header>
+
     <!-- LEFT COLUMN: Profile / Bio / Contact -->
     <aside class="profile" aria-label="Profile">
       <nav aria-label="primary">
-        <a href="#about">About</a>
-        <a href="#works">Selected Works</a>
-        <a href="#cv">CV</a>
+        <a href="#about"><span class="nav-icon" aria-hidden="true">✹</span>Info</a>
+        <a href="#works"><span class="nav-icon" aria-hidden="true">✹</span>Projects</a>
+        <a href="#cv"><span class="nav-icon" aria-hidden="true">✹</span>CV</a>
       </nav>
       <div class="bio">
         <p>
@@ -717,7 +709,7 @@
     <main id="main">
       <!-- ABOUT -->
       <section id="about" aria-labelledby="about-title" hidden>
-        <h2 id="about-title" class="sr-only">About</h2>
+        <h2 id="about-title">Info</h2>
         <figure class="about-portrait">
           <a href="/PICTURES/profile.jpg" aria-label="View high-resolution portrait" rel="nofollow">
             <img src="/PICTURES/profile.jpg" alt="Portrait of Axel Ridberg" loading="lazy" width="200" height="260" />
@@ -728,7 +720,7 @@
         <p>He is intrested in how sound can both carry meaning and, at the same time, resist it, but almost always carry emotional possibilities, and sometimes physical sensation. Other interests include: large speaker setups, diffused choirs, fake classical music, high volumes, maximalism, embracing minimalism,</p>
         <!-- Finnish: short and extended -->
         <div class="lang-block" data-lang="fi">
-          <button class="lang-toggle" type="button" aria-expanded="false">Suomeksi</button>
+          <button class="lang-toggle" type="button" aria-expanded="false"><span class="nav-icon" aria-hidden="true">✹</span>Suomeksi</button>
           <div class="lang-content" hidden>
             <p lang="fi">Axel Ridberg on Helsingissä asuva äänisuunnittelija. Hän työskentelee pääasiassa esittävän taiteen parissa, mutta myös lyhytelokuvien, installaatioiden, live‑äänen, luovan koodauksen ja kaupallisten projektien parissa.</p>
             <p lang="fi">Hänellä on äänisuunnittelun maisterin ja kandidaatin tutkinnot Teatterikorkeakoulusta (Taideyliopisto), valtiotieteiden kandidaatin tutkinto Åbo Akademista sekä opintoja elokuva- ja tv‑äänestä Arcada‑ammattikorkeakoulussa. Ridbergin töitä on esitetty mm. Helsingin Kaupunginteatterissa, Teater Viiruksessa, Q‑teatterissa, Todellisuuden tutkimuskeskuksessa sekä Fast Forward ‑festivaalilla.</p>
@@ -737,7 +729,7 @@
 
         <!-- Swedish: short and extended -->
         <div class="lang-block" data-lang="sv">
-          <button class="lang-toggle" type="button" aria-expanded="false">På svenska</button>
+          <button class="lang-toggle" type="button" aria-expanded="false"><span class="nav-icon" aria-hidden="true">✹</span>Svenska</button>
           <div class="lang-content" hidden>
             <p lang="sv">Axel Ridberg är en ljuddesigner bosatt i Helsingfors, Finland. Han arbetar främst inom scenkonst, men också med kortfilmer, installationer, live‑mixning, kreativ kodning och kommersiella projekt.</p>
             <p lang="sv">Han har magister‑ och kandidatexamen i ljuddesign från Teaterhögskolan vid Konstuniversitetet, en kandidatexamen i samhällsvetenskaper från Åbo Akademi samt studier i film‑ och tv‑ljud vid Arcada yrkeshögskola. Hans arbeten har presenterats vid bland annat Helsingfors Stadsteater, Teater Viirus, Q‑teatteri, Reality Research Center och Fast Forward‑festivalen.</p>
@@ -747,7 +739,7 @@
 
       <!-- WORKS -->
       <section id="works" aria-labelledby="works-title">
-        <h2 id="works-title" class="sr-only">Selected Works</h2>
+        <h2 id="works-title">Projects</h2>
         <div class="works-grid">
           <!-- Repeat .work-card blocks; replace image/src, titles, and links -->
           <div class="work-card" aria-label="Open project: Steal This Performance">
@@ -849,13 +841,14 @@
 
         <h3 class="subsection-title">Works</h3>
         <ul class="cv-list">
+           <li class="cv-item"><span class="cv-year">2025</span><span><em>Medeltiden</em> — Sound Design; Åbo Svenska Teater</span></li>
           <li class="cv-item"><span class="cv-year">2025</span><span><em>Lea-spektaakkeli</em> — Sound Design; Kotimaisen näytelmän festivaali KNF</span></li>
           <li class="cv-item"><span class="cv-year">2025</span><span><em>Kärnminne</em> — Multi‑media installation, concept &amp; execution; ParKino Festival</span></li>
           <li class="cv-item"><span class="cv-year">2025</span><span><em>Agora</em> — Sound Design, Helsinki City Theatre, Nykyesityksen näyttämö</span></li>
           <li class="cv-item"><span class="cv-year">2025</span><span><em>Diptyk</em> — Sound Design, Teater Viirus</span></li>
           <li class="cv-item"><span class="cv-year">2024</span><span><em>Katveisto</em> — Sound Design, audio walk; Todellisuuden tutkimuskeskus</span></li>
           <li class="cv-item"><span class="cv-year">2024</span><span><em>Release</em> — Sound Design (on‑set &amp; post), short film; premiere Bio Rex Lasipalatsi spring 2024</span></li>
-          <li class="cv-item"><span class="cv-year">2024</span><span><em>Varasta tämä esitys</em> — Sound Design, Theatre Academy / Selected for Fast Forward Festival 2025, Dresden, Germany</span></li>
+          <li class="cv-item"><span class="cv-year">2024</span><span><em>Varasta tämä esitys</em> — Sound Design, Theatre Academy / Winner Jury Prize Fast Forward Festival 2025, Dresden, Germany</span></li>
           <li class="cv-item"><span class="cv-year">2023</span><span><em>Deep Fantasea</em> — Sound Design, Hangö Teaterträff</span></li>
           <li class="cv-item"><span class="cv-year">2023</span><span><em>Äckel</em> — Sound Design, Teater Mestola / Viirus Guest</span></li>
           <li class="cv-item"><span class="cv-year">2023</span><span><em>Message from Tyler, Memento mori, Kirsikkatarha</em> — Sound Design, Q‑teatteri / Teatterikorkeakoulu / Selected for Fast Forward Festival 2023, Dresden, Germany</span></li>
