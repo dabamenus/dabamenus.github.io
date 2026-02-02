@@ -50,20 +50,24 @@
 
   <!-- Prefetch helpful 3rd-party domains (optional) -->
   <link rel="dns-prefetch" href="//www.instagram.com" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=Manrope:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
 
   <!-- Styles -->
   <style>
     :root {
       --bg: #fbfbfb;
-      --text: #151515;
+      --text: #5a5a5a;
       --muted: #5a5a5a;
       --link: #111111;
       --visited: #4c1d95;
       --hover: #0f62fe;
       --grid-gap: 28px;
       --max-w: 1100px;
-      --font-sans: "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif;
-      --font-serif: "Times New Roman", "Ibarra Real Nova", Georgia, serif;
+      --font-sans: "Manrope", "Archivo", "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      --font-serif: "Archivo", "Manrope", "Times New Roman", "Ibarra Real Nova", Georgia, serif;
+      --font-mono: "Space Mono", "IBM Plex Mono", "SFMono-Regular", Menlo, monospace;
     }
 
     html {
@@ -77,7 +81,7 @@
     body {
       margin: 0;
       position: relative; /* create stacking context for background overlay */
-      font-family: var(--font-serif);
+      font-family: var(--font-sans);
       font-size: 17px;
       line-height: 1.55;
       color: var(--text);
