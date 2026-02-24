@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="noindex, nofollow" />
+  <title>Workspace Schedule (Private)</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=Manrope:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #fbfbfb;
+      --text: #1f2937;
+      --muted: #6b7280;
+      --accent: #0f172a;
+      --accent-2: #0ea5e9;
+      --border: rgba(0,0,0,0.12);
+      --max-w: 1180px;
+      --font-sans: "Manrope", "Archivo", "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      --font-mono: "Space Mono", "IBM Plex Mono", "SFMono-Regular", Menlo, monospace;
+    }
+    * { box-sizing: border-box; }
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font-sans);
+      letter-spacing: -0.005em;
+    }
+    body { min-height: 100vh; }
+    .wrapper {
+      max-width: var(--max-w);
+      margin: 0 auto;
+      padding: 28px 22px 48px;
+      display: grid;
+      grid-template-columns: 320px 1fr;
+      gap: 28px;
+    }
+    header {
+      grid-column: 1 / -1;
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      padding: 10px 0;
+      border-top: 1px solid #000;
+      border-bottom: 1px solid #000;
+    }
+    .brand {
+      font-family: var(--font-sans);
+      font-size: clamp(20px, 2vw, 28px);
+      font-weight: 700;
+      letter-spacing: 0.3em;
+      text-transform: uppercase;
+      color: #000;
+      margin: 0;
+    }
+    .tag {
+      font-size: 0.8rem;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+    .panel {
+      background: #fff;
+      border: 1px solid var(--border);
+      padding: 14px;
+      display: grid;
+      gap: 14px;
+    }
+    .intro h2 {
+      margin: 0;
+      font-size: 1rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+    }
+    .intro p {
+      margin: 0;
+      font-size: 0.95rem;
+      color: var(--muted);
+      line-height: 1.55;
+    }
+    .status {
+      border: 1px solid #0ea5e9;
+      background: rgba(14,165,233,0.08);
+      color: #0f172a;
+      padding: 8px 10px;
+      font-size: 0.9rem;
+      letter-spacing: 0.01em;
+    }
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 6px 10px;
+      border: 1px solid #000;
+      background: #f2f2f2;
+      font-size: 0.78rem;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      font-weight: 600;
+      color: #111;
+    }
+    .calendar-shell {
+      background: #fff;
+      border: 1px solid var(--border);
+      padding: 14px;
+      box-shadow: 0 10px 28px rgba(0,0,0,0.08);
+      display: grid;
+      gap: 14px;
+    }
+    .cal-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 10px;
+    }
+    .cal-title {
+      margin: 0;
+      font-size: 1.3rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      display: flex;
+      align-items: baseline;
+      gap: 12px;
+    }
+    .cal-title small {
+      font-size: 0.85rem;
+      color: var(--muted);
+      letter-spacing: 0.08em;
+    }
+    .cal-actions {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+    .btn {
+      appearance: none;
+      border: 1px solid #000;
+      background: #111;
+      color: #fff;
+      padding: 8px 12px;
+      font: inherit;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      cursor: pointer;
+    }
+    .btn.secondary {
+      background: #f3f4f6;
+      color: #111;
+    }
+    .btn:hover,
+    .btn:focus-visible {
+      outline: none;
+      box-shadow: 0 0 0 2px #000 inset;
+    }
+    .cal-grid {
+      display: grid;
+      grid-template-columns: repeat(7, 1fr);
+      gap: 4px;
+    }
+    .dow {
+      text-align: center;
+      font-size: 0.8rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--muted);
+      padding: 6px 4px;
+    }
+    .cell {
+      min-height: 120px;
+      border: 1px solid var(--border);
+      padding: 8px;
+      display: grid;
+      grid-template-rows: auto 1fr;
+      gap: 6px;
+      background: #fff;
+      position: relative;
+    }
+    .cell.muted { color: #9ca3af; background: #fafafa; }
+    .cell.today { border-color: #0ea5e9; box-shadow: 0 0 0 2px rgba(14,165,233,0.35) inset; }
+    .date {
+      font-weight: 700;
+      font-size: 0.95rem;
+      letter-spacing: 0.05em;
+    }
+    .events {
+      display: grid;
+      gap: 6px;
+    }
+    .event {
+      background: #0f172a;
+      color: #f8fafc;
+      padding: 6px 8px;
+      border-radius: 4px;
+      display: grid;
+      gap: 4px;
+      border: 1px solid rgba(255,255,255,0.1);
+    }
+    .event.blue { background: linear-gradient(135deg, #0ea5e9, #2563eb); }
+    .event.green { background: linear-gradient(135deg, #22c55e, #16a34a); }
+    .event.orange { background: linear-gradient(135deg, #fb923c, #f97316); }
+    .event-title {
+      font-weight: 700;
+      letter-spacing: 0.04em;
+    }
+    .event-time {
+      font-size: 0.82rem;
+      font-family: var(--font-mono);
+      letter-spacing: 0.02em;
+      opacity: 0.9;
+    }
+    .legend {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    .legend span {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.88rem;
+      color: var(--muted);
+    }
+    .swatch {
+      width: 14px;
+      height: 14px;
+      border-radius: 3px;
+      border: 1px solid rgba(0,0,0,0.2);
+      display: inline-block;
+    }
+    .swatch.blue { background: linear-gradient(135deg, #0ea5e9, #2563eb); }
+    .swatch.green { background: linear-gradient(135deg, #22c55e, #16a34a); }
+    .swatch.orange { background: linear-gradient(135deg, #fb923c, #f97316); }
+    .note {
+      font-size: 0.88rem;
+      color: var(--muted);
+      margin: 0;
+    }
+    @media (max-width: 900px) {
+      .wrapper { grid-template-columns: 1fr; }
+      header { flex-direction: column; align-items: flex-start; gap: 6px; }
+      .cal-grid { grid-template-columns: repeat(7, minmax(0, 1fr)); }
+      .cell { min-height: 100px; }
+    }
+    @media (max-width: 640px) {
+      .wrapper { padding: 20px 14px 36px; }
+      .cal-grid { grid-template-columns: repeat(7, 1fr); }
+      .date { font-size: 0.85rem; }
+      .event { padding: 5px 6px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+    <header>
+      <h1 class="brand">Axel Ridberg</h1>
+      <span class="tag">Private schedule — direct link only</span>
+    </header>
+
+    <aside class="panel intro" aria-label="Info">
+      <span class="badge"><span aria-hidden="true">✹</span> Private access</span>
+      <h2>Workspace calendar</h2>
+      <p>This page is unlisted. Share the URL only with people who need to view or add bookings. The layout mirrors a Google Calendar month view for quick scanning.</p>
+      <p class="note">Live data: events are read directly from the shared ICS feed.</p>
+      <div class="status">
+        Using the provided private ICS link. If you rotate the link, update <code>ICS_URL</code> in the script near the bottom.
+      </div>
+      <a class="btn secondary" href="index.html">Back to main site</a>
+    </aside>
+
+    <main class="calendar-shell" aria-label="Calendar">
+      <div class="cal-header">
+        <div>
+          <p class="cal-title" id="cal-title">Month YYYY <small id="cal-range"></small></p>
+          <div class="legend">
+            <span><span class="swatch blue"></span> Desk bookings</span>
+            <span><span class="swatch green"></span> Studio hold</span>
+            <span><span class="swatch orange"></span> Maintenance</span>
+          </div>
+        </div>
+        <div class="cal-actions">
+          <button class="btn secondary" type="button" id="today-btn">Today</button>
+          <button class="btn secondary" type="button" id="prev-btn" aria-label="Previous month">‹</button>
+          <button class="btn secondary" type="button" id="next-btn" aria-label="Next month">›</button>
+          <button class="btn secondary" type="button" id="refresh-btn">Refresh</button>
+          <button class="btn" type="button" id="add-calendar">Add to your calendar</button>
+        </div>
+      </div>
+      <div class="cal-grid" role="grid" aria-label="Month view">
+        <div class="dow" aria-hidden="true">Mon</div>
+        <div class="dow" aria-hidden="true">Tue</div>
+        <div class="dow" aria-hidden="true">Wed</div>
+        <div class="dow" aria-hidden="true">Thu</div>
+        <div class="dow" aria-hidden="true">Fri</div>
+        <div class="dow" aria-hidden="true">Sat</div>
+        <div class="dow" aria-hidden="true">Sun</div>
+        <div id="cal-cells" class="cal-grid" style="grid-column: 1 / -1;"></div>
+      </div>
+      <div id="cal-status" class="status" hidden></div>
+      <p class="note">This is a read-only view. Paste the URL into your browser to revisit; it will not appear in navigation or sitemaps.</p>
+    </main>
+  </div>
+
+  <script>
+    (function () {
+      const cellsRoot = document.getElementById('cal-cells');
+      const titleEl = document.getElementById('cal-title');
+      const rangeEl = document.getElementById('cal-range');
+      const prevBtn = document.getElementById('prev-btn');
+      const nextBtn = document.getElementById('next-btn');
+      const todayBtn = document.getElementById('today-btn');
+      const refreshBtn = document.getElementById('refresh-btn');
+      const addBtn = document.getElementById('add-calendar');
+      const statusEl = document.getElementById('cal-status') || document.createElement('div');
+
+      // Private ICS feed (replace if you rotate the link)
+      const ICS_URL = 'https://calendar.google.com/calendar/ical/c9de8b08e2acd66bbde92f7a806e5c0ae22f93391a4e33131c893d5194ef1965%40group.calendar.google.com/private-68a731b317aa72ab39874ebedf0d0a73/basic.ics';
+      const PROXIES = [
+        (url) => url, // direct
+        (url) => `https://corsproxy.io/?${encodeURIComponent(url)}`,
+        (url) => `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`,
+        (url) => `https://cors.isomorphic-git.org/${url}`,
+        (url) => `https://thingproxy.freeboard.io/fetch/${url}`
+      ];
+
+      let eventsAll = []; // raw events parsed from ICS
+      let bookings = [];  // events filtered for the current view
+      let icsLoaded = false;
+
+      const firstDayOfWeek = 1; // 0 = Sunday, 1 = Monday
+      let current = new Date();
+
+      const dateKey = (d) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+
+      function startOfMonth(date) {
+        const d = new Date(date);
+        d.setDate(1);
+        d.setHours(0, 0, 0, 0);
+        return d;
+      }
+
+      function buildMatrix(date) {
+        const start = startOfMonth(date);
+        const month = start.getMonth();
+        const year = start.getFullYear();
+        const startDay = (start.getDay() - firstDayOfWeek + 7) % 7;
+        const cells = [];
+        const cursor = new Date(start);
+        cursor.setDate(1 - startDay);
+        for (let i = 0; i < 42; i += 1) {
+          cells.push(new Date(cursor));
+          cursor.setDate(cursor.getDate() + 1);
+        }
+        const end = new Date(cells[cells.length - 1]);
+        return { cells, month, year, range: `${fmtDate(cells[0])} – ${fmtDate(end)}` };
+      }
+
+      function fmtMonthYear(date) {
+        return date.toLocaleDateString(undefined, { month: 'long', year: 'numeric' });
+      }
+      function fmtDate(date) {
+        return date.toLocaleDateString(undefined, { month: 'short', day: 'numeric' });
+      }
+      function isSameDay(a, b) {
+        return a.getFullYear() === b.getFullYear() && a.getMonth() === b.getMonth() && a.getDate() === b.getDate();
+      }
+      function fmtTime(date) {
+        return date.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+      }
+      function setStatus(msg) {
+        if (!statusEl) return;
+        statusEl.textContent = msg || '';
+        statusEl.hidden = !msg;
+      }
+
+      function parseICSTime(value) {
+        if (!value) return null;
+        // Remove TZID if present
+        const parts = value.split(':');
+        const raw = parts.length > 1 ? parts.slice(1).join(':') : parts[0];
+        if (!raw) return null;
+        // All-day date (YYYYMMDD)
+        if (/^\d{8}$/.test(raw)) {
+          const y = Number(raw.slice(0, 4));
+          const m = Number(raw.slice(4, 6)) - 1;
+          const d = Number(raw.slice(6, 8));
+          return { date: new Date(y, m, d), allDay: true };
+        }
+        // Date-time with optional Z
+        const dt = raw.replace(/Z$/, '');
+        const y = Number(dt.slice(0, 4));
+        const m = Number(dt.slice(4, 6)) - 1;
+        const d = Number(dt.slice(6, 8));
+        const hh = Number(dt.slice(9, 11) || 0);
+        const mm = Number(dt.slice(11, 13) || 0);
+        const ss = Number(dt.slice(13, 15) || 0);
+        return { date: new Date(y, m, d, hh, mm, ss), allDay: false };
+      }
+
+      function parseICS(text) {
+        const unfolded = text.replace(/\r\n[ \t]/g, '');
+        const blocks = unfolded.split('BEGIN:VEVENT').slice(1);
+        return blocks.map((block) => {
+          const segment = block.split('END:VEVENT')[0];
+          const lines = segment.split(/\r?\n/).filter(Boolean);
+          const readLine = (prefix) => {
+            const line = lines.find((l) => l.startsWith(prefix));
+            if (!line) return null;
+            return line.substring(line.indexOf(':') + 1);
+          };
+          const sum = readLine('SUMMARY') || 'Busy';
+          const dtStartLine = lines.find((l) => l.startsWith('DTSTART'));
+          const dtEndLine = lines.find((l) => l.startsWith('DTEND'));
+          const startInfo = parseICSTime(dtStartLine);
+          const endInfo = parseICSTime(dtEndLine);
+          const allDay = startInfo?.allDay;
+          const startDate = startInfo?.date;
+          const endDate = endInfo?.date || startDate;
+          return {
+            title: sum,
+            startDate,
+            endDate,
+            allDay: Boolean(allDay),
+            tone: 'blue'
+          };
+        }).filter((e) => e.startDate);
+      }
+
+      function withCacheBust(url) {
+        return url + (url.includes('?') ? '&' : '?') + `_cb=${Date.now()}`;
+      }
+
+      async function fetchICSWithFallback() {
+        let lastErr = null;
+        for (let i = 0; i < PROXIES.length; i += 1) {
+          const builder = PROXIES[i];
+          const url = withCacheBust(builder(ICS_URL));
+          setStatus(i === 0 ? 'Loading from ICS feed…' : `Retrying via proxy ${i} (CORS)…`);
+          try {
+            const res = await fetch(url, { cache: 'no-cache' });
+            if (!res.ok) throw new Error(`HTTP ${res.status}`);
+            const text = await res.text();
+            if (!text || !text.trim()) throw new Error('Empty feed');
+            return text;
+          } catch (err) {
+            lastErr = err;
+          }
+        }
+        throw lastErr || new Error('Could not fetch ICS');
+      }
+
+      async function ensureICSLoaded() {
+        if (icsLoaded && eventsAll.length) return;
+        try {
+          const text = await fetchICSWithFallback();
+          eventsAll = parseICS(text);
+          icsLoaded = true;
+          setStatus(eventsAll.length ? 'Live events loaded.' : 'No events in feed.');
+        } catch (err) {
+          console.error('ICS load failed', err);
+          setStatus('Could not load ICS feed. Confirm the link works in your browser and that CORS allows it.');
+          eventsAll = [];
+        }
+      }
+
+      async function loadMonth() {
+        await ensureICSLoaded();
+        const { cells } = buildMatrix(current);
+        const startRange = new Date(cells[0]);
+        startRange.setHours(0, 0, 0, 0);
+        const endRange = new Date(cells[cells.length - 1]);
+        endRange.setHours(23, 59, 59, 999);
+        const filtered = eventsAll.filter((evt) => {
+          const start = evt.startDate;
+          if (!start) return false;
+          return start >= startRange && start <= endRange;
+        });
+        bookings = filtered.map((ev) => ({
+          title: ev.title,
+          date: dateKey(ev.startDate),
+          tone: ev.tone,
+          allDay: ev.allDay,
+          startLabel: ev.allDay ? 'All day' : fmtTime(ev.startDate),
+          endLabel: ev.allDay ? '' : (ev.endDate ? fmtTime(ev.endDate) : '')
+        }));
+        render();
+      }
+
+      function render() {
+        if (!cellsRoot) return;
+        cellsRoot.innerHTML = '';
+        const { cells, month, year, range } = buildMatrix(current);
+        if (titleEl) titleEl.firstChild.nodeValue = fmtMonthYear(current) + ' ';
+        if (rangeEl) rangeEl.textContent = range;
+        const today = new Date();
+        const byDay = bookings.reduce((acc, evt) => {
+          if (!acc[evt.date]) acc[evt.date] = [];
+          acc[evt.date].push(evt);
+          return acc;
+        }, {});
+        cells.forEach((date) => {
+          const cell = document.createElement('div');
+          cell.className = 'cell';
+          if (date.getMonth() !== month) cell.classList.add('muted');
+          if (isSameDay(date, today)) cell.classList.add('today');
+          const dateEl = document.createElement('div');
+          dateEl.className = 'date';
+          dateEl.textContent = date.getDate();
+          const eventsWrap = document.createElement('div');
+          eventsWrap.className = 'events';
+          const dayKey = dateKey(date);
+          (byDay[dayKey] || []).forEach((evt) => {
+            const eEl = document.createElement('div');
+            eEl.className = `event ${evt.tone || ''}`;
+            const title = document.createElement('div');
+            title.className = 'event-title';
+            title.textContent = evt.title;
+            const time = document.createElement('div');
+            time.className = 'event-time';
+            time.textContent = evt.allDay ? 'All day' : `${evt.startLabel}${evt.endLabel ? ' – ' + evt.endLabel : ''}`;
+            eEl.appendChild(title);
+            eEl.appendChild(time);
+            eventsWrap.appendChild(eEl);
+          });
+          cell.appendChild(dateEl);
+          cell.appendChild(eventsWrap);
+          cellsRoot.appendChild(cell);
+        });
+      }
+
+      function shiftMonth(delta) {
+        current.setMonth(current.getMonth() + delta, 1);
+        loadMonth();
+      }
+
+      if (prevBtn) prevBtn.addEventListener('click', () => shiftMonth(-1));
+      if (nextBtn) nextBtn.addEventListener('click', () => shiftMonth(1));
+      if (todayBtn) todayBtn.addEventListener('click', () => { current = new Date(); loadMonth(); });
+      if (refreshBtn) refreshBtn.addEventListener('click', () => { icsLoaded = false; eventsAll = []; loadMonth(); });
+      if (addBtn) {
+        addBtn.addEventListener('click', () => {
+          window.open(ICS_URL, '_blank', 'noopener');
+        });
+      }
+      loadMonth();
+      // Optional: auto-refresh every 5 minutes to stay in sync
+      setInterval(() => { icsLoaded = false; eventsAll = []; loadMonth(); }, 5 * 60 * 1000);
+    })();
+  </script>
+</body>
+</html>
