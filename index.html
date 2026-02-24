@@ -221,7 +221,7 @@
     }
     .contact a:visited { color: var(--visited); }
     .contact a:hover { color: var(--hover); }
-    /* Updates list in sidebar */
+    /* Updates list (Info section) */
     .upcoming { font-size: 0.82rem; line-height: 1.4; font-style: normal; }
     .upcoming-title {
       margin: 8px 0 4px;
@@ -322,15 +322,16 @@
       border: none;
       padding: 0;
       font: inherit;
-      font-size: 1rem;
-      letter-spacing: 0.02em;
+      font-size: 0.92rem;
+      letter-spacing: 0.01em;
       text-transform: none;
       font-style: normal;
-      font-weight: 600;
+      font-weight: 500;
+      color: var(--muted);
       cursor: pointer;
       display: inline-flex;
       align-items: center;
-      gap: 6px;
+      gap: 4px;
     }
     .lang-content { margin-top: 8px; }
 
@@ -846,16 +847,6 @@
         </p>
       </div>
 
-      <div class="upcoming" aria-label="Updates">
-        <p class="upcoming-title">Updates</p>
-        <p class="update-first"><a href="https://nachtkritik.de/index.php?option=com_content&view=article&id=26161:fast-forward-festival-staatsschauspiel-dresden-der-vorerst-letzte-jahrgang-des-festivals-fuer-junge-europaeische-regie-laesst-hoffen-dass-es-doch-weitergeht&catid=179" target="_blank" rel="noopener">Steal This Performance wins Jury Award at Fast Forward 2025 (nachtkritik.de)</a></p>
-        <p>Fast Forward Festival, Dresden, Germany, 12-16.11.2025</p>
-        <p>Pamela Blod, independent short film, post-production autumn 2025</p>
-        <p>Medeltiden @ Åbo Svenska Teater, premiere 4.11.2025</p>
-        <p>Kotimaisen näytelmän festivaali KNF, 18.9.2025</p>
-        <p class="past">Kärnminne installation @ ParKino Festival 28-30.8.2025</p>
-      </div>
-
       <div class="contact">
         <strong>Contact:</strong><br />
         <a href="mailto:axel.ridberg@gmail.com">axel.ridberg@gmail.com</a><br />
@@ -867,17 +858,19 @@
     <!-- Landing visual overlay for home (blank), positioned within wrapper -->
     <div id="landing-visual" aria-hidden="true"></div>
     <main id="main">
-      <!-- ABOUT -->
-      <section id="about" aria-labelledby="about-title" hidden>
+      <!-- UPDATES -->
+      <!-- ABOUT (Landing) -->
+      <section id="about" aria-labelledby="about-title">
         <h2 id="about-title">Info</h2>
-        <figure class="about-portrait">
-          <a href="/PICTURES/profile.jpg" aria-label="View high-resolution portrait" rel="nofollow">
-            <img src="/PICTURES/profile.jpg" alt="Portrait of Axel Ridberg" loading="lazy" width="200" height="260" />
-          </a>
-        </figure>
+        <div class="upcoming" aria-label="Updates list">
+          <p class="update-first"><a href="https://nachtkritik.de/index.php?option=com_content&view=article&id=26161:fast-forward-festival-staatsschauspiel-dresden-der-vorerst-letzte-jahrgang-des-festivals-fuer-junge-europaeische-regie-laesst-hoffen-dass-es-doch-weitergeht&catid=179" target="_blank" rel="noopener">Steal This Performance wins Fast Forward 2025 Jury Award (nachtkritik.de)</a></p>
+          <p>Pamela Blod, independent short film — post-production spring 2026</p>
+          <p>Medeltiden @ Åbo Svenska Teater — premiere 4.11.2025</p>
+          <p>Kotimaisen näytelmän festivaali KNF — 18.9.2025</p>
+          <p>Kärnminne installation @ ParKino Festival — 28-30.8.2025</p>
+        </div>
         <p class="info-bread">Axel Ridberg is a sound designer based in Helsinki, Finland. Working primarily within performing arts. Also short films, commercial work, installations, live mixing, creative coding, and other sound-related projects.</p>
         <p class="info-bread">He has a master’s and bachelor’s degree in sound design from the Theatre Academy at the University of the Arts Helsinki, a bachelor’s degree in social sciences from Åbo Akademi University, and has also studied film and television sound at Arcada University of Applied Sciences. His work has been presented at e.g. Helsinki City Theatre, Teater Viirus, Q-teatteri, Reality Research Center, and at the Fast Forward Festival.</p>
-        <p class="info-bread">He is interested in how sound can both carry meaning and, at the same time, resist it, but almost always carry emotional possibilities, and sometimes physical sensation. Other interests include: large speaker setups, diffused choirs, fake classical music, high volumes, maximalism, embracing minimalism.</p>
         <!-- Finnish: short and extended -->
         <div class="lang-block" data-lang="fi">
           <button class="lang-toggle" type="button" aria-expanded="false"><span class="nav-icon" aria-hidden="true">✹</span>Suomeksi</button>
@@ -898,7 +891,7 @@
       </section>
 
       <!-- WORKS -->
-      <section id="works" aria-labelledby="works-title">
+      <section id="works" aria-labelledby="works-title" hidden>
         <h2 id="works-title">Projects</h2>
         <div class="works-grid">
           <!-- Repeat .work-card blocks; replace image/src, titles, and links -->
@@ -1103,6 +1096,47 @@
     </figure>
   </div>
   <script>
+    // Simple section switcher: show one main section at a time (Info, Projects, CV)
+    (function () {
+      const sectionIds = ['about', 'works', 'cv'];
+      const sections = sectionIds
+        .map((id) => document.getElementById(id))
+        .filter(Boolean);
+      const nav = document.querySelector('aside nav');
+
+      function showSection(targetId) {
+        sections.forEach((section) => {
+          const isTarget = section.id === targetId;
+          section.hidden = !isTarget;
+        });
+      }
+
+      function initialSection() {
+        const hash = window.location.hash.replace('#', '');
+        return sectionIds.includes(hash) ? hash : 'about';
+      }
+
+      if (nav) {
+        nav.addEventListener('click', (event) => {
+          const link = event.target.closest('a[href^=\"#\"]');
+          if (!link) return;
+          const id = link.getAttribute('href').slice(1);
+          if (!sectionIds.includes(id)) return;
+          event.preventDefault();
+          showSection(id);
+          history.replaceState(null, '', `#${id}`);
+        });
+      }
+
+      window.addEventListener('hashchange', () => {
+        const id = initialSection();
+        showSection(id);
+      });
+
+      // initial render
+      showSection(initialSection());
+    })();
+
     (function () {
       document.querySelectorAll('.lang-block').forEach((block) => {
         const toggle = block.querySelector('.lang-toggle');
