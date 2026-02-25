@@ -213,12 +213,12 @@
     /* Brand / Title */
     /* Brand: revert to original clean styling (keep clickable) */
     .brand {
-      font-family: var(--font-sans);
-      font-size: clamp(20px, 2vw, 28px);
-      font-weight: 700;
-      letter-spacing: 0.3em;
-      line-height: 1.2;
-      color: #000;
+      font-family: var(--font-mono);
+      font-size: clamp(18px, 1.9vw, 26px);
+      font-weight: 600;
+      letter-spacing: 0.24em;
+      line-height: 1.1;
+      color: #0e0e0e;
       text-transform: uppercase;
       margin: 0;
     }
@@ -257,14 +257,15 @@
       color: #000;
       font-weight: 600;
       text-transform: uppercase;
-      letter-spacing: 0.15em;
+      letter-spacing: 0.12em;
       font-size: 0.75rem;
-      padding: 8px 12px;
+      padding: 6px 10px;
       display: inline-flex;
       align-items: center;
       gap: 6px;
-      background: #f2f2f2;
-      border: 1px solid #000;
+      background: transparent;
+      border: 1px solid transparent;
+      border-bottom-color: #000;
     }
     .nav-icon {
       font-size: 0.9rem;
@@ -276,8 +277,10 @@
     nav a:visited { color: var(--link); }
     nav a:hover,
     nav a:focus-visible {
-      color: var(--hover);
-      text-decoration: underline;
+      color: #fff;
+      background: #000;
+      text-decoration: none;
+      border-color: #000;
       outline: none;
     }
 
@@ -295,9 +298,11 @@
     .bio,
     .info-bread,
     .cv-list span {
-      font-size: 0.9rem;
-      line-height: 1.5;
-      font-family: "Space Grotesk", "Inter", sans-serif;
+      font-size: 0.82rem;
+      line-height: 1.4;
+      font-family: var(--font-mono);
+      letter-spacing: 0.015em;
+      color: #444;
     }
     .bio p { margin: 0 0 8px; }
     .contact {
@@ -322,12 +327,13 @@
     }
     .upcoming-title::before { content: none; }
     .upcoming p {
-      margin: 0 0 5px;
+      margin: 0 0 2px;
       display: flex;
       gap: 6px;
       align-items: baseline;
-      padding-bottom: 4px;
-      border-bottom: 1px solid rgba(0,0,0,0.08);
+      padding-bottom: 2px;
+      border-bottom: 1px solid rgba(0,0,0,0.04);
+      color: #4a4a4a;
     }
     .upcoming p::before {
       content: '✹';
@@ -614,18 +620,19 @@
       text-transform: uppercase;
     }
     .minimal-preview nav a {
-      background: #f2f2f2;
-      border: 1px solid #111;
+      background: transparent;
+      border: 1px solid transparent;
+      border-bottom-color: #111;
       color: #0b0b0b;
       font-weight: 500;
       padding: 5px 9px;
-      letter-spacing: 0.14em;
-      border-radius: 2px;
+      letter-spacing: 0.12em;
+      border-radius: 0;
       font-size: 0.72rem;
     }
     .minimal-preview nav a:hover,
     .minimal-preview nav a:focus-visible {
-      background: #111;
+      background: #000;
       color: #fdfdf9;
       text-decoration: none;
       outline: none;
@@ -1031,9 +1038,7 @@
       </nav>
       <div class="bio">
         <p>
-          Sound designer based in Helsinki, Finland. Working primarily within performing arts. <br /> Also music, short films, commercial work, installations, live mixing and other sound-related projects.<br /> 
-          
-     
+          Sound designer in Helsinki, Finland. Works mostly in performing arts. <br /> Also music, short films, commercial work, installations, live mixing and other sound projects.<br /> 
         </p>
       </div>
 
