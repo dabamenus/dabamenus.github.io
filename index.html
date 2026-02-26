@@ -112,6 +112,20 @@
       transform: translateZ(0); /* promote to its own layer to avoid Safari shifts */
       backface-visibility: hidden;
     }
+    /* Intro fade overlay */
+    #page-fade {
+      position: fixed;
+      inset: 0;
+      background: #000;
+      z-index: 2000;
+      pointer-events: none;
+      animation: page-fade 1.8s ease forwards;
+    }
+    @keyframes page-fade {
+      0% { opacity: 1; }
+      25% { opacity: 1; }
+      100% { opacity: 0; }
+    }
 
     /* Layout */
     .wrapper {
@@ -170,6 +184,7 @@
       animation: ticker-scroll 38s linear infinite;
       width: max-content;
       flex: 0 0 auto;
+      will-change: transform;
     }
     #update-ticker::after {
       content: "";
@@ -217,8 +232,11 @@
       }
       #update-ticker .track {
         gap: 28px;
-        animation-duration: 45s;
+        animation: ticker-scroll 45s linear infinite;
+        animation-play-state: running !important;
       }
+      /* prevent touch hover from pausing */
+      #update-ticker:hover .track { animation-play-state: running; }
       .wrapper {
         padding: 22px 16px 36px;
       }
@@ -1030,6 +1048,7 @@
 </head>
   <body>
   <div id="site-bg" aria-hidden="true"></div>
+  <div id="page-fade" aria-hidden="true"></div>
   
     <a class="skip-link" href="#main">Skip to content</a>
 
