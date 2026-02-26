@@ -370,6 +370,11 @@
       border-color: #000;
       text-decoration: none;
     }
+    /* Bio reveal */
+    .reveal-char {
+      opacity: 0;
+      transition: opacity 3s ease;
+    }
     /* Updates list (Info section) */
     .upcoming { font-size: 0.82rem; line-height: 1.4; font-style: normal; }
     .upcoming-title {
@@ -1134,7 +1139,7 @@
         <a href="#cv"><span class="nav-icon" aria-hidden="true">✹</span>CV</a>
       </nav>
       <div class="bio">
-        <p>
+        <p class="bio-reveal">
           Sound designer in Helsinki, Finland. Works mostly in performing arts. <br /> Also music, short films, commercial work, installations, live mixing and other sound projects.<br /> 
         </p>
       </div>
@@ -1414,6 +1419,56 @@
       track.appendChild(span1);
       track.appendChild(span2);
       ticker.hidden = false;
+    })();
+  </script>
+  <script>
+    // Reveal bio/contact text character-by-character
+    (function () {
+      const targets = document.querySelectorAll('.bio-reveal');
+      if (!targets.length) return;
+
+      targets.forEach((target) => {
+        if (!target || target.dataset.revealProcessed) return;
+        const raw = target.innerHTML;
+        const parts = raw.split(/(<br\s*\/?>)/i);
+        target.innerHTML = '';
+        const frag = document.createDocumentFragment();
+        parts.forEach((part) => {
+          if (part.match(/<br\s*\/?>/i)) {
+            const br = document.createElement('br');
+            frag.appendChild(br);
+          } else {
+            for (const ch of part) {
+              const span = document.createElement('span');
+              span.textContent = ch;
+              span.className = 'reveal-char';
+              frag.appendChild(span);
+            }
+          }
+        });
+        target.appendChild(frag);
+        target.dataset.revealProcessed = 'true';
+
+        const chars = Array.from(target.querySelectorAll('.reveal-char'));
+        if (!chars.length) return;
+        const total = 1500;
+        const tick = 50;
+        const steps = Math.max(1, Math.floor(total / tick));
+        const perTick = Math.max(1, Math.floor(chars.length / steps));
+        const remaining = new Set(chars.map((_, i) => i));
+
+        const timer = setInterval(() => {
+          const count = Math.min(perTick, remaining.size);
+          for (let i = 0; i < count; i++) {
+            const idxArr = Array.from(remaining);
+            const idx = idxArr[Math.floor(Math.random() * idxArr.length)];
+            remaining.delete(idx);
+            const s = chars[idx];
+            if (s) s.style.opacity = '1';
+          }
+          if (remaining.size === 0) clearInterval(timer);
+        }, tick);
+      });
     })();
   </script>
   <script>
