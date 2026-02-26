@@ -681,10 +681,11 @@
       content: "";
       position: absolute;
       inset: 0;
-      background: rgba(255,255,255,0.4);
+      background: rgba(255,255,255,0.65); /* lighter wash on load */
       pointer-events: none;
       animation: work-media-fade 3s ease forwards;
       animation-delay: 1s;
+      animation-fill-mode: both;
     }
     .work-card .media.playing {
       grid-column: 2 / -1;
@@ -700,9 +701,10 @@
       object-fit: cover; /* "zoom" to fill area, crop if needed */
       display: block;
       opacity: 0.9;
-      filter: grayscale(1);
+      filter: grayscale(0.45) brightness(1.08); /* lighter initial desat */
       animation: work-media-color 3s ease forwards;
       animation-delay: 1s;
+      animation-fill-mode: both;
       transition: opacity 200ms ease, transform 200ms ease;
     }
     .work-card .media video {
@@ -712,9 +714,10 @@
       display: block;
       background: transparent; /* let .media provide the backdrop */
       opacity: 0.85;
-      filter: grayscale(1);
+      filter: grayscale(0.45) brightness(1.08);
       animation: work-media-color 3s ease forwards;
       animation-delay: 1s;
+      animation-fill-mode: both;
       transition: opacity 200ms ease, transform 200ms ease;
     }
     /* white overlay above videos (only on hover/focus to keep 100% opacity at rest) */
