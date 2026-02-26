@@ -187,19 +187,11 @@
       white-space: nowrap;
       animation: ticker-scroll 40s linear infinite;
       width: max-content;
-      min-width: 150%;
+      min-width: 300%;
       flex: 0 0 auto;
       will-change: transform;
     }
-    #update-ticker::after {
-      content: "";
-      position: absolute;
-      inset: 0;
-      background: #000;
-      opacity: 0;
-      animation: ticker-mask 38s linear infinite;
-      pointer-events: none;
-    }
+    #update-ticker::after { display: none; }
     #update-ticker:hover .track {
       animation-play-state: paused;
     }
@@ -225,7 +217,7 @@
     }
     @keyframes ticker-scroll {
       from { transform: translateX(0); }
-      to { transform: translateX(-50%); } /* with duplicated content */
+      to { transform: translateX(-200%); } /* triple content for continuous loop */
     }
     @media (prefers-reduced-motion: reduce) {
       #update-ticker .track { animation: none; }
