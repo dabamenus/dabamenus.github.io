@@ -362,8 +362,8 @@
       text-decoration: none;
       border-bottom: 1px solid rgba(0,0,0,0.25);
     }
-    .contact a:visited { color: var(--visited); }
-    .contact a:hover { color: var(--hover); }
+    .contact a:visited { color: #111; }
+    .contact a:hover { color: #000; }
     /* Updates list (Info section) */
     .upcoming { font-size: 0.82rem; line-height: 1.4; font-style: normal; }
     .upcoming-title {
@@ -478,11 +478,24 @@
       text-transform: none;
       font-style: normal;
       font-weight: 500;
-      color: var(--muted);
+      color: transparent;
+      background-image: radial-gradient(#111 48%, rgba(0,0,0,0) 52%);
+      background-size: 3px 3px;
+      background-repeat: repeat;
+      -webkit-background-clip: text;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
       cursor: pointer;
       display: inline-flex;
       align-items: center;
       gap: 4px;
+    }
+    .lang-toggle:hover,
+    .lang-toggle:focus-visible {
+      color: #000;
+      background-image: none;
+      -webkit-text-fill-color: #000;
+      outline: none;
     }
     .lang-content { margin-top: 8px; }
 
