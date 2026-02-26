@@ -120,6 +120,7 @@
       z-index: 2000;
       pointer-events: none;
       animation: page-fade 3s ease forwards;
+      animation-play-state: paused; /* start paused; resume after hero media is ready */
     }
     @keyframes page-fade {
       0% { opacity: 1; }
@@ -1564,6 +1565,23 @@
       track.appendChild(span1);
       track.appendChild(span2);
       ticker.hidden = false;
+    })();
+  </script>
+  <script>
+    // Delay page fade-out until hero videos have data (with a fallback)
+    (function () {
+      const fade = document.getElementById('page-fade');
+      if (!fade) return;
+      const vids = Array.from(document.querySelectorAll('.entry-hero video, .landing-hero-tail video, .landing-hero-tail2 video, .landing-hero-tail-m1 video, .landing-hero-tail-m2 video'));
+      let done = false;
+      const resume = () => {
+        if (done) return;
+        done = true;
+        fade.style.animationPlayState = 'running';
+      };
+      const fallback = setTimeout(resume, 3500); // give ~3.5s max wait
+      if (!vids.length) return resume();
+      vids.forEach((v) => v.addEventListener('loadeddata', resume, { once: true }));
     })();
   </script>
   <script>
