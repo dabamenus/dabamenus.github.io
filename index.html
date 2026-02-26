@@ -163,7 +163,7 @@
       border-top: none;
       border-bottom: none;
       overflow: hidden;
-      background: transparent;
+      background: #fff;
       color: #111;
       font-size: 0.74rem;
       letter-spacing: 0.12em;
@@ -187,6 +187,7 @@
       white-space: nowrap;
       animation: ticker-scroll 40s linear infinite;
       width: max-content;
+      min-width: 150%;
       flex: 0 0 auto;
       will-change: transform;
     }
@@ -224,7 +225,7 @@
     }
     @keyframes ticker-scroll {
       from { transform: translateX(0); }
-      to { transform: translateX(-100%); } /* full span width */
+      to { transform: translateX(-50%); } /* with duplicated content */
     }
     @media (prefers-reduced-motion: reduce) {
       #update-ticker .track { animation: none; }
@@ -1563,14 +1564,13 @@
       if (!merged.length) return;
       const items = merged.join('   •   ');
       track.innerHTML = '';
-      const span1 = document.createElement('span');
-      span1.className = 'item';
-      span1.innerHTML = items;
-      const span2 = document.createElement('span');
-      span2.className = 'item';
-      span2.innerHTML = items;
-      track.appendChild(span1);
-      track.appendChild(span2);
+      const addSpan = () => {
+        const s = document.createElement('span');
+        s.className = 'item';
+        s.innerHTML = items;
+        track.appendChild(s);
+      };
+      addSpan(); addSpan(); addSpan(); // triple content for seamless scroll on all widths
       ticker.hidden = false;
     })();
   </script>
