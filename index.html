@@ -1628,7 +1628,7 @@
           if (!chars.length) return;
           // reset
           chars.forEach((c) => (c.style.opacity = '0'));
-          const total = target.classList.contains('bio-reveal-info') ? 2500 : 5000;
+          const total = target.classList.contains('bio-reveal-info') ? 500 : 5000;
           const tick = 50;
           const steps = Math.max(1, Math.floor(total / tick));
           const perTick = Math.max(1, Math.floor(chars.length / steps));
