@@ -181,7 +181,7 @@
       display: flex;
       gap: 40px;
       white-space: nowrap;
-      animation: ticker-scroll 38s linear infinite;
+      animation: ticker-scroll 40s linear infinite;
       width: max-content;
       flex: 0 0 auto;
       will-change: transform;
@@ -233,7 +233,7 @@
       }
       #update-ticker .track {
         gap: 28px;
-        animation: ticker-scroll 45s linear infinite;
+        animation: ticker-scroll 47s linear infinite;
         animation-play-state: running !important;
       }
       /* prevent touch hover from pausing */
@@ -1604,7 +1604,7 @@
           if (!chars.length) return;
           // reset
           chars.forEach((c) => (c.style.opacity = '0'));
-          const total = target.classList.contains('bio-reveal-info') ? 1500 : 8000;
+          const total = target.classList.contains('bio-reveal-info') ? 2500 : 6000;
           const tick = 50;
           const steps = Math.max(1, Math.floor(total / tick));
           const perTick = Math.max(1, Math.floor(chars.length / steps));
