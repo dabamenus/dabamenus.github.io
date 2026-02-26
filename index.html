@@ -101,6 +101,8 @@
       color: var(--text);
       background: transparent;
       letter-spacing: -0.005em;
+      /* Always reserve scrollbar to prevent horizontal nudges on route changes */
+      overflow-y: scroll;
     }
     /* Fixed background overlay element (more robust across browsers) */
     #site-bg {
