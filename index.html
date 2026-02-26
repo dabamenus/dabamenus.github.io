@@ -1590,6 +1590,9 @@
           const p = v.play();
           if (p && typeof p.catch === 'function') p.catch(() => {});
         });
+        if (typeof window.__startHeroVideos === 'function') {
+          window.__startHeroVideos();
+        }
       };
       const fallback = setTimeout(resume, 4000); // give ~4s max wait
       if (!vids.length) return resume();
@@ -1898,7 +1901,7 @@
     })();
   </script>
   <script>
-    // Cycle hero videos: start one of the three slices every 10s, single-run playback
+    // Hero videos: prepare and start all slices simultaneously on load (single run)
     (function () {
       const vids = Array.from(document.querySelectorAll('.entry-hero video, .landing-hero-tail video, .landing-hero-tail2 video, .landing-hero-tail-m1 video, .landing-hero-tail-m2 video'));
       if (!vids.length) return;
@@ -1918,14 +1921,17 @@
           }
         });
       });
-      const playClip = (v) => {
-        if (!v) return;
-        try { v.currentTime = 0; } catch (_) {}
-        const p = v.play();
-        if (p && typeof p.catch === 'function') p.catch(() => {});
-      };
-      // Single cycle on load: start all three simultaneously
-      vids.forEach(playClip);
+      function startAll() {
+        vids.forEach((v) => {
+          try { v.currentTime = 0; } catch (_) {}
+          const p = v.play();
+          if (p && typeof p.catch === 'function') p.catch(() => {});
+        });
+      }
+      // expose for other scripts (fade gate) to re-trigger
+      window.__startHeroVideos = startAll;
+      // start immediately on load
+      startAll();
     })();
   </script>
   <script>
