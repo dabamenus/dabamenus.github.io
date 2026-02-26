@@ -145,8 +145,8 @@
       gap: 0;
       padding: 8px 0;
       margin-bottom: 8px;
-      border-top: 1px solid #000;
-      border-bottom: 1px solid #000;
+      border-top: 1px dotted #000;
+      border-bottom: 1px dotted #000;
     }
     /* Updates ticker */
     #update-ticker {
@@ -291,7 +291,7 @@
     }
     nav a {
       text-decoration: none;
-      color: #000;
+      color: transparent;
       font-weight: 600;
       text-transform: uppercase;
       letter-spacing: 0.12em;
@@ -301,8 +301,14 @@
       align-items: center;
       gap: 6px;
       background: transparent;
-      border: 1px solid transparent;
+      border: 1px dotted transparent;
       border-bottom-color: #000;
+      background-image: radial-gradient(#000 48%, rgba(0,0,0,0) 52%);
+      background-size: 3px 3px;
+      background-repeat: repeat;
+      -webkit-background-clip: text;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
     }
     .nav-icon {
       font-size: 0.9rem;
@@ -319,6 +325,8 @@
       text-decoration: none;
       border-color: #000;
       outline: none;
+      background-image: none;
+      -webkit-text-fill-color: #fff;
     }
 
     /* Left column: profile/bio/contact */
@@ -343,13 +351,16 @@
     }
     .bio p { margin: 0 0 8px; }
     .contact {
-      font-size: 0.9rem;
-      line-height: 1.55;
+      font-size: 0.82rem;
+      line-height: 1.4;
+      font-family: var(--font-mono);
+      letter-spacing: 0.015em;
+      color: #444;
     }
     .contact a {
-      color: var(--link);
+      color: #111;
       text-decoration: none;
-      border-bottom: 1px solid currentColor;
+      border-bottom: 1px solid rgba(0,0,0,0.25);
     }
     .contact a:visited { color: var(--visited); }
     .contact a:hover { color: var(--hover); }
@@ -361,6 +372,13 @@
       font-weight: 600;
       text-transform: uppercase;
       letter-spacing: 0.12em;
+      color: transparent;
+      background-image: radial-gradient(#111 45%, rgba(0,0,0,0) 46%);
+      background-size: 3px 3px;
+      background-repeat: repeat;
+      -webkit-background-clip: text;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
     }
     .upcoming-title::before { content: none; }
     .upcoming p {
@@ -369,7 +387,7 @@
       gap: 6px;
       align-items: baseline;
       padding-bottom: 2px;
-      border-bottom: 1px solid rgba(0,0,0,0.04);
+      border-bottom: 1px dotted rgba(0,0,0,0.25);
       color: #4a4a4a;
     }
     .upcoming p::before {
@@ -479,7 +497,7 @@
       grid-template-columns: 110px 1fr auto;
       gap: 18px;
       padding: 12px 0;
-      border-bottom: 1px solid rgba(0,0,0,0.12);
+      border-bottom: 1px dotted rgba(0,0,0,0.4);
       text-decoration: none;
       color: inherit;
       align-items: start;
@@ -660,12 +678,18 @@
       background: transparent;
       border: 1px solid transparent;
       border-bottom-color: #111;
-      color: #0b0b0b;
+      color: transparent;
       font-weight: 500;
       padding: 5px 9px;
       letter-spacing: 0.12em;
       border-radius: 0;
       font-size: 0.72rem;
+      background-image: radial-gradient(#0b0b0b 48%, rgba(0,0,0,0) 52%);
+      background-size: 3px 3px;
+      background-repeat: repeat;
+      -webkit-background-clip: text;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
     }
     .minimal-preview nav a:hover,
     .minimal-preview nav a:focus-visible {
@@ -673,6 +697,8 @@
       color: #fdfdf9;
       text-decoration: none;
       outline: none;
+      background-image: none;
+      -webkit-text-fill-color: #fdfdf9;
     }
     .minimal-preview .upcoming a,
     .minimal-preview .work-title a,
@@ -1082,7 +1108,7 @@
       </div>
 
       <div class="contact">
-        <strong>Contact:</strong><br />
+        <strong>✹ contact</strong><br />
         <a href="mailto:axel.ridberg@gmail.com">axel.ridberg@gmail.com</a><br />
         <a href="https://www.instagram.com/dabamenus_sontom/" target="_blank" rel="noopener">IG: @dabamenus_sontom</a>
       </div>
