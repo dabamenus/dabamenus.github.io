@@ -1607,10 +1607,15 @@
         if (done) return;
         done = true;
         fade.style.animationPlayState = 'running';
+        // kick videos just in case autoplay was deferred
+        vids.forEach((v) => {
+          const p = v.play();
+          if (p && typeof p.catch === 'function') p.catch(() => {});
+        });
       };
-      const fallback = setTimeout(resume, 2500); // give ~2.5s max wait
+      const fallback = setTimeout(resume, 4000); // give ~4s max wait
       if (!vids.length) return resume();
-      vids.forEach((v) => v.addEventListener('loadedmetadata', resume, { once: true }));
+      vids.forEach((v) => v.addEventListener('canplay', resume, { once: true }));
     })();
   </script>
   <script>
