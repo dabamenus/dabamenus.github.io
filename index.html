@@ -220,7 +220,7 @@
     }
     @keyframes ticker-scroll {
       from { transform: translateX(0); }
-      to { transform: translateX(-100%); }
+      to { transform: translateX(-100%); } /* full span width */
     }
     @media (prefers-reduced-motion: reduce) {
       #update-ticker .track { animation: none; }
@@ -369,6 +369,132 @@
       background: #000;
       border-color: #000;
       text-decoration: none;
+    }
+    /* Entry hero */
+    .entry-hero {
+      grid-column: 1 / -1;
+      margin: 6px 0 12px;
+      overflow: hidden;
+      aspect-ratio: 978 / 230; /* show roughly top 30% of 978x768 */
+    }
+    .entry-hero img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: top;
+      display: block;
+    }
+    .entry-hero video {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: top;
+      display: block;
+      pointer-events: none;
+    }
+    .entry-hero video::-webkit-media-controls,
+    .entry-hero video::-webkit-media-controls-enclosure,
+    .entry-hero video::-webkit-media-controls-start-playback-button,
+    .entry-hero video::-webkit-media-controls-overlay-play-button,
+    .entry-hero video::-webkit-media-controls-panel { display: none !important; }
+    .entry-hero video::-webkit-media-controls { display: none !important; }
+    .landing-hero-tail {
+      margin: 0 0 16px;
+      width: 100%;
+      overflow: hidden;
+      aspect-ratio: 978 / 230; /* show middle ~30% of the image */
+    }
+    .landing-hero-tail img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: 50% 50%; /* center crop for the "next" 30% */
+      display: block;
+    }
+    .landing-hero-tail video {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: 50% 50%;
+      display: block;
+      pointer-events: none;
+    }
+    .landing-hero-tail video::-webkit-media-controls,
+    .landing-hero-tail video::-webkit-media-controls-enclosure,
+    .landing-hero-tail video::-webkit-media-controls-start-playback-button,
+    .landing-hero-tail video::-webkit-media-controls-overlay-play-button,
+    .landing-hero-tail video::-webkit-media-controls-panel { display: none !important; }
+    .landing-hero-tail video::-webkit-media-controls { display: none !important; }
+    .landing-hero-tail2 {
+      margin: calc(-3vw) 0 16px;
+      width: 100%;
+      overflow: hidden;
+      aspect-ratio: 978 / 230; /* another ~30% slice */
+      transform: translateY(-7%); /* overlap ~15% combined with margin */
+    }
+    .landing-hero-tail2 img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: 50% 10%; /* shift crop ~10% down from top */
+      display: block;
+    }
+    .landing-hero-tail2 video {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: 50% 10%;
+      display: block;
+      pointer-events: none;
+    }
+    .landing-hero-tail2 video::-webkit-media-controls,
+    .landing-hero-tail2 video::-webkit-media-controls-enclosure,
+    .landing-hero-tail2 video::-webkit-media-controls-start-playback-button,
+    .landing-hero-tail2 video::-webkit-media-controls-overlay-play-button,
+    .landing-hero-tail2 video::-webkit-media-controls-panel { display: none !important; }
+    .landing-hero-tail2 video::-webkit-media-controls { display: none !important; }
+    /* Mobile-only duplicates placed under the top hero */
+    .landing-hero-tail-m1,
+    .landing-hero-tail-m2 {
+      display: none;
+    }
+    .landing-hero-tail-m1 video,
+    .landing-hero-tail-m2 video {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      pointer-events: none;
+    }
+    .landing-hero-tail-m1 video::-webkit-media-controls,
+    .landing-hero-tail-m1 video::-webkit-media-controls-enclosure,
+    .landing-hero-tail-m1 video::-webkit-media-controls-start-playback-button,
+    .landing-hero-tail-m1 video::-webkit-media-controls-overlay-play-button,
+    .landing-hero-tail-m1 video::-webkit-media-controls-panel,
+    .landing-hero-tail-m2 video::-webkit-media-controls,
+    .landing-hero-tail-m2 video::-webkit-media-controls-enclosure,
+    .landing-hero-tail-m2 video::-webkit-media-controls-start-playback-button,
+    .landing-hero-tail-m2 video::-webkit-media-controls-overlay-play-button,
+    .landing-hero-tail-m2 video::-webkit-media-controls-panel { display: none !important; }
+    .landing-hero-tail-m1 { aspect-ratio: 978 / 230; overflow: hidden; }
+    .landing-hero-tail-m1 video { object-position: 50% 50%; }
+    .landing-hero-tail-m2 { aspect-ratio: 978 / 230; overflow: hidden; transform: translateY(-7%); }
+    .landing-hero-tail-m2 video { object-position: 50% 10%; }
+    @media (max-width: 900px) {
+      /* hide top hero on mobile */
+      .entry-hero { display: none; }
+      .landing-hero-tail,
+      .landing-hero-tail2 {
+        display: none;
+      }
+      .landing-hero-tail-m1,
+      .landing-hero-tail-m2 {
+        display: block;
+      }
+      /* tighter stacking for hero slices on mobile */
+      .entry-hero { margin: 2px 0 4px; }
+      .landing-hero-tail-m1 { margin: -6px 0 4px; }
+      .landing-hero-tail-m2 { margin: -10px 0 6px; transform: translateY(-5%); }
     }
     /* Bio reveal */
     .reveal-char {
@@ -1119,6 +1245,15 @@
     <a class="skip-link" href="#main">Skip to content</a>
 
   <div class="wrapper">
+    <div class="entry-hero" aria-label="Intro image">
+      <video src="PICTURES/profile_halftone_glitch_clearer.mp4" autoplay muted playsinline preload="auto" controlslist="nodownload noplaybackrate nofullscreen" disablepictureinpicture></video>
+    </div>
+    <div class="landing-hero-tail-m1" aria-hidden="true">
+      <video src="PICTURES/profile_halftone_glitch_clearer.mp4" autoplay muted playsinline preload="auto" controlslist="nodownload noplaybackrate nofullscreen" disablepictureinpicture></video>
+    </div>
+    <div class="landing-hero-tail-m2" aria-hidden="true">
+      <video src="PICTURES/profile_halftone_glitch_clearer.mp4" autoplay muted playsinline preload="auto" controlslist="nodownload noplaybackrate nofullscreen" disablepictureinpicture></video>
+    </div>
     <div id="update-ticker" aria-label="Updates ticker" hidden>
       <span class="label">Updates</span>
       <div class="track" role="presentation"></div>
@@ -1158,6 +1293,13 @@
     <!-- Landing visual overlay for home (blank), positioned within wrapper -->
     <div id="landing-visual" aria-hidden="true"></div>
     <main id="main">
+      <!-- Landing-only: show remainder of hero image in content area -->
+      <div class="landing-hero-tail" aria-hidden="true">
+        <video src="PICTURES/profile_halftone_glitch_clearer.mp4" autoplay muted playsinline preload="auto" controlslist="nodownload noplaybackrate nofullscreen" disablepictureinpicture></video>
+      </div>
+      <div class="landing-hero-tail2" aria-hidden="true">
+        <video src="PICTURES/profile_halftone_glitch_clearer.mp4" autoplay muted playsinline preload="auto" controlslist="nodownload noplaybackrate nofullscreen" disablepictureinpicture></video>
+      </div>
       <!-- UPDATES -->
       <!-- ABOUT (Landing) -->
       <section id="about" aria-labelledby="about-title">
@@ -1462,7 +1604,7 @@
           if (!chars.length) return;
           // reset
           chars.forEach((c) => (c.style.opacity = '0'));
-          const total = target.classList.contains('bio-reveal-info') ? 1500 : 1000;
+          const total = target.classList.contains('bio-reveal-info') ? 1500 : 8000;
           const tick = 50;
           const steps = Math.max(1, Math.floor(total / tick));
           const perTick = Math.max(1, Math.floor(chars.length / steps));
@@ -1559,6 +1701,8 @@
       const about = document.getElementById('about');
       const works = document.getElementById('works');
       const cv = document.getElementById('cv');
+      const landingTail = document.querySelector('.landing-hero-tail');
+      const landingTail2 = document.querySelector('.landing-hero-tail2');
       const linkAbout = document.querySelector('nav a[href="#about"]');
       const linkWorks = document.querySelector('nav a[href="#works"]');
       const linkCv = document.querySelector('nav a[href="#cv"]');
@@ -1570,6 +1714,8 @@
         works.hidden = tab !== 'works';
         cv.hidden = tab !== 'cv';
         about.hidden = tab !== 'about';
+        if (landingTail) landingTail.hidden = tab !== 'home';
+        if (landingTail2) landingTail2.hidden = tab !== 'home';
         if (tab === 'about' && window.__runBioReveal) window.__runBioReveal();
         if (linkAbout) linkAbout.setAttribute('aria-current', tab === 'about' ? 'page' : 'false');
         if (linkWorks) linkWorks.setAttribute('aria-current', tab === 'works' ? 'page' : 'false');
@@ -1719,6 +1865,37 @@
       window.addEventListener('resize', () => {
         positionLandingMark();
       });
+    })();
+  </script>
+  <script>
+    // Cycle hero videos: start one of the three slices every 10s, single-run playback
+    (function () {
+      const vids = Array.from(document.querySelectorAll('.entry-hero video, .landing-hero-tail video, .landing-hero-tail2 video, .landing-hero-tail-m1 video, .landing-hero-tail-m2 video'));
+      if (!vids.length) return;
+      const STOP_AT = 4.5; // seconds
+      vids.forEach((v) => {
+        v.loop = false;
+        v.autoplay = false;
+        v.muted = true;
+        v.playsInline = true;
+        v.playbackRate = 1; // normal speed
+        // ensure we can restart cleanly
+        v.addEventListener('ended', () => { try { v.pause(); } catch (_) {} });
+        v.addEventListener('timeupdate', () => {
+          if (v.currentTime >= STOP_AT) {
+            try { v.pause(); } catch (_) {}
+            try { v.currentTime = STOP_AT; } catch (_) {}
+          }
+        });
+      });
+      const playClip = (v) => {
+        if (!v) return;
+        try { v.currentTime = 0; } catch (_) {}
+        const p = v.play();
+        if (p && typeof p.catch === 'function') p.catch(() => {});
+      };
+      // Single cycle on load: start all three simultaneously
+      vids.forEach(playClip);
     })();
   </script>
   <script>
