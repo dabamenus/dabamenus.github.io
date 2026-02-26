@@ -701,11 +701,9 @@
       height: 100%;
       object-fit: cover; /* "zoom" to fill area, crop if needed */
       display: block;
-      opacity: 0.15;
-      filter: grayscale(0.9) brightness(0.98); /* darker, more muted start */
-      animation: work-media-color 3s ease forwards;
-      animation-delay: 1s;
-      animation-fill-mode: both;
+      opacity: 1;
+      filter: none;
+      animation: none;
       transition: opacity 200ms ease, transform 200ms ease;
     }
     .work-card .media video {
@@ -714,11 +712,9 @@
       object-fit: cover; /* fill the area for a larger visual */
       display: block;
       background: transparent; /* let .media provide the backdrop */
-      opacity: 0.15;
-      filter: grayscale(0.9) brightness(0.98);
-      animation: work-media-color 3s ease forwards;
-      animation-delay: 1s;
-      animation-fill-mode: both;
+      opacity: 1;
+      filter: none;
+      animation: none;
       transition: opacity 200ms ease, transform 200ms ease;
     }
     /* white overlay above videos (only on hover/focus to keep 100% opacity at rest) */
@@ -730,14 +726,6 @@
       pointer-events: none;
       z-index: 2;
       transition: background 150ms ease;
-    }
-    @keyframes work-media-fade {
-      from { opacity: 1; }
-      to   { opacity: 0; }
-    }
-    @keyframes work-media-color {
-      from { filter: grayscale(1); }
-      to   { filter: grayscale(0); }
     }
     /* While a video is playing, make the overlay even lighter (no hover needed) */
     .work-card .media.has-overlay.playing::after {
