@@ -1,0 +1,306 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Schedule (Local)</title>
+<style>
+:root {
+  --font-sans: "Manrope", "Archivo", "Avenir Next", "Helvetica Neue", Arial, sans-serif;
+  --font-mono: "Space Mono", "IBM Plex Mono", "SFMono-Regular", Menlo, monospace;
+}
+* { box-sizing: border-box; }
+body {
+  font-family: var(--font-sans);
+  background: #fff;
+  color: #111;
+  margin: 0;
+  padding: 24px;
+  max-width: 960px;
+  line-height: 1.5;
+}
+header {
+  border-top: 1px dotted #000;
+  border-bottom: 1px dotted #000;
+  padding: 10px 0 8px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+button {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  background: #111;
+  color: #fff;
+  border: 1px solid #000;
+  padding: 6px 10px;
+  cursor: pointer;
+}
+button:hover { background: #fff; color: #000; }
+.section {
+  border-bottom: 1px dotted rgba(0,0,0,0.3);
+  padding: 10px 0;
+}
+.flex { display: flex; flex-wrap: wrap; gap: 14px; }
+.card {
+  border: 1px solid rgba(0,0,0,0.25);
+  padding: 10px 12px;
+  background: #fafafa;
+  flex: 1 1 220px;
+}
+.card h3 {
+  margin: 0 0 6px 0;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-family: var(--font-mono);
+}
+.small { font-size: 11px; color: #444; }
+ul { margin: 6px 0 0 16px; }
+.hidden { display: none; }
+/* calendar styles */
+.calendar-grid {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(90px, 1fr));
+  gap: 6px;
+  border-top: 1px dotted #000;
+  padding-top: 8px;
+}
+.cal-cell {
+  border: 1px solid rgba(0,0,0,0.2);
+  padding: 6px;
+  min-height: 80px;
+  background: #fafafa;
+  position: relative;
+}
+.cal-day { font-family: var(--font-mono); font-size: 10px; letter-spacing: 0.08em; }
+.cal-dots { margin-top: 4px; display: flex; flex-wrap: wrap; gap: 4px; }
+.dot { width: 8px; height: 8px; border-radius: 50%; border: 1px solid #111; }
+.dot.private { background: #f66; }
+.dot.person { background: #111; }
+.cal-title { margin-top: 2px; font-size: 11px; line-height: 1.3; color: #333; }
+</style>
+</head>
+<body>
+  <header>Schedule (Local Debug)
+    <div style="margin-top:6px; display:flex; gap:8px; align-items:center;">
+      <button id="refresh">Refresh</button>
+      <span class="small">Uses your private ICS link locally; not published.</span>
+    </div>
+  </header>
+
+  <div class="section">
+    <div id="status" class="small">Idle</div>
+  </div>
+
+  <div class="section" id="calendar-section">
+    <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
+      <h2 style="margin:0;font-size:13px;letter-spacing:0.08em;text-transform:uppercase;">Calendar</h2>
+      <button id="prev-month" aria-label="Previous month">◀</button>
+      <div id="month-label" class="small" style="font-weight:600;letter-spacing:0.08em;"></div>
+      <button id="next-month" aria-label="Next month">▶</button>
+    </div>
+    <div id="calendar" class="calendar-grid small"></div>
+  </div>
+
+  <div class="section">
+    <h2 style="margin:0 0 8px 0;font-size:13px;letter-spacing:0.08em;text-transform:uppercase;">Counts (Selected Month)</h2>
+    <div class="flex" id="counts"></div>
+  </div>
+
+  <div class="section">
+    <h2 style="margin:0 0 8px 0;font-size:13px;letter-spacing:0.08em;text-transform:uppercase;">Entries (Selected Month)</h2>
+    <div id="entries" class="small"></div>
+  </div>
+
+<script>
+const ICS_URL = "https://calendar.google.com/calendar/ical/d3246007fb6ee962a43aecb959921301b4e1aae129e2d2f242b8d9ea8aa850b0%40group.calendar.google.com/private-49c97153c57619017815882158408b8f/basic.ics";
+const PROXIES = [
+  (u) => `https://corsproxy.io/?${encodeURIComponent(u)}`,
+  (u) => `https://api.allorigins.win/raw?url=${encodeURIComponent(u)}`,
+  (u) => `https://thingproxy.freeboard.io/fetch/${u}`
+];
+const PEOPLE = ["Axel","Anni","Minna","Riku","Ella","Martta"];
+const statusEl = document.getElementById('status');
+const countsEl = document.getElementById('counts');
+const entriesEl = document.getElementById('entries');
+const calEl = document.getElementById('calendar');
+const monthLabel = document.getElementById('month-label');
+const prevBtn = document.getElementById('prev-month');
+const nextBtn = document.getElementById('next-month');
+let allEvents = [];
+let view = (() => { const d=new Date(); return { y:d.getFullYear(), m:d.getMonth() }; })();
+const calEl = document.getElementById('calendar');
+const monthLabel = document.getElementById('month-label');
+const prevBtn = document.getElementById('prev-month');
+const nextBtn = document.getElementById('next-month');
+let allEvents = [];
+let view = (() => { const d=new Date(); return { y:d.getFullYear(), m:d.getMonth() }; })();
+
+function setStatus(msg) { statusEl.textContent = msg; }
+
+function parseICS(text) {
+  const events = [];
+  const lines = text.split(/\r?\n/);
+  let cur = null;
+  for (let line of lines) {
+    if (line.startsWith('BEGIN:VEVENT')) cur = {};
+    else if (line.startsWith('END:VEVENT')) { if (cur) events.push(cur); cur = null; }
+    else if (!cur) continue;
+    else if (line.startsWith('SUMMARY:')) cur.summary = line.slice(8).trim();
+    else if (line.startsWith('DTSTART')) {
+      const val = line.split(':')[1];
+      cur.start = val;
+    }
+    else if (line.startsWith('COLOR:')) cur.color = line.split(':')[1].trim();
+    else if (line.startsWith('CATEGORIES:')) cur.categories = line.split(':')[1].trim();
+  }
+  return events;
+}
+
+function isPrivate(evt) {
+  const c = (evt.color || evt.categories || '').toLowerCase();
+  return c.includes('red');
+}
+
+function matchPerson(summary) {
+  const s = summary.toLowerCase();
+  return PEOPLE.find(p => s.includes(p.toLowerCase())) || 'Unassigned';
+}
+
+function formatDate(val) {
+  if (!val) return '';
+  // YYYYMMDD or YYYYMMDDTHHMMSSZ
+  const m = val.match(/(\d{4})(\d{2})(\d{2})/);
+  if (!m) return val;
+  const [_, y, mo, d] = m;
+  return `${y}-${mo}-${d}`;
+}
+
+function sameMonth(evtStart, y, m) {
+  if (!evtStart) return false;
+  const match = evtStart.match(/(\d{4})(\d{2})(\d{2})/);
+  if (!match) return false;
+  const [_, yy, mm] = match;
+  return Number(yy) === y && Number(mm)-1 === m;
+}
+
+function render(events) {
+  const { y: year, m: month } = view;
+  const counts = new Map();
+  PEOPLE.concat(['Unassigned']).forEach(p => counts.set(p, { total:0, priv:0 }));
+
+  const filtered = events.filter(evt => sameMonth(evt.start, year, month));
+
+  filtered.forEach(evt => {
+    const person = matchPerson(evt.summary || '');
+    const c = counts.get(person) || { total:0, priv:0 };
+    c.total += 1;
+    if (isPrivate(evt)) c.priv += 1;
+    counts.set(person, c);
+  });
+
+  countsEl.innerHTML = '';
+  counts.forEach((c, person) => {
+    const card = document.createElement('div');
+    card.className = 'card';
+    card.innerHTML = `<h3>${person}</h3><div class="small">Total: ${c.total}<br>Private: ${c.priv}<br>Normal: ${Math.max(0, c.total - c.priv)}</div>`;
+    countsEl.appendChild(card);
+  });
+
+  entriesEl.innerHTML = filtered.map(evt => {
+    const priv = isPrivate(evt) ? 'Private' : 'Normal';
+    const who = matchPerson(evt.summary || '');
+    return `<div style="margin-bottom:6px;">${formatDate(evt.start)} — <strong>${who}</strong> — ${evt.summary || ''} <span style="color:#666;">(${priv})</span></div>`;
+  }).join('');
+
+  renderCalendar(filtered);
+  monthLabel.textContent = new Date(year, month, 1).toLocaleString('en', { month: 'long', year: 'numeric' });
+}
+
+function renderCalendar(events) {
+  calEl.innerHTML = '';
+  const { y, m } = view;
+  const first = new Date(y, m, 1);
+  const startDay = first.getDay(); // 0-6
+  const daysInMonth = new Date(y, m + 1, 0).getDate();
+
+  // blank cells before month start (assume Sunday start)
+  for (let i = 0; i < startDay; i++) {
+    const cell = document.createElement('div');
+    cell.className = 'cal-cell';
+    calEl.appendChild(cell);
+  }
+
+  for (let d = 1; d <= daysInMonth; d++) {
+    const cell = document.createElement('div');
+    cell.className = 'cal-cell';
+    const dayLabel = document.createElement('div');
+    dayLabel.className = 'cal-day';
+    dayLabel.textContent = d;
+    cell.appendChild(dayLabel);
+
+    const dotsWrap = document.createElement('div');
+    dotsWrap.className = 'cal-dots';
+    const titles = [];
+    events.forEach(evt => {
+      const mmatch = evt.start && evt.start.match(/(\\d{4})(\\d{2})(\\d{2})/);
+      if (!mmatch) return;
+      const dd = Number(mmatch[3]);
+      if (Number(mmatch[2]) - 1 !== m || Number(mmatch[1]) !== y) return;
+      if (dd !== d) return;
+      const dot = document.createElement('span');
+      dot.className = 'dot ' + (isPrivate(evt) ? 'private' : 'person');
+      dotsWrap.appendChild(dot);
+      titles.push(evt.summary || '');
+    });
+    cell.appendChild(dotsWrap);
+
+    if (titles.length) {
+      const t = document.createElement('div');
+      t.className = 'cal-title';
+      t.textContent = titles.slice(0, 3).join(' • ');
+      cell.appendChild(t);
+    }
+
+    calEl.appendChild(cell);
+  }
+}
+
+async function fetchIcs() {
+  const endpoints = [{ label: 'direct', url: ICS_URL }].concat(PROXIES.map(fn => ({ label: fn.name || 'proxy', url: fn(ICS_URL) })));
+  for (const ep of endpoints) {
+    try {
+      setStatus(`Loading… (${ep.label})`);
+      const res = await fetch(ep.url, { cache: 'no-store' });
+      const txt = await res.text();
+      if (res.ok && txt.startsWith('BEGIN:VCALENDAR')) return txt;
+      console.warn(`Endpoint ${ep.label} not usable`, res.status, txt.slice(0, 40));
+    } catch (err) {
+      console.warn(`Endpoint ${ep.label} failed`, err);
+    }
+  }
+  throw new Error('All endpoints failed (CORS or network)');
+}
+
+async function refresh() {
+  try {
+    const txt = await fetchIcs();
+    allEvents = parseICS(txt);
+    render(allEvents);
+    setStatus(`Loaded ${allEvents.length} events`);
+  } catch (e) {
+    console.error(e);
+    setStatus('Error loading calendar (CORS?). Try another proxy or download ICS manually.');
+  }
+}
+
+// initial load
+refresh();
+document.getElementById('refresh').addEventListener('click', refresh);
+prevBtn.addEventListener('click', () => { view.m -= 1; if (view.m < 0) { view.m = 11; view.y -= 1; } render(allEvents); });
+nextBtn.addEventListener('click', () => { view.m += 1; if (view.m > 11) { view.m = 0; view.y += 1; } render(allEvents); });
+</script>
+</body>
+</html>
