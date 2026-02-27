@@ -15,7 +15,7 @@ body {
   color: #111;
   margin: 0;
   padding: 24px;
-  max-width: 960px;
+  max-width: 1100px;
   line-height: 1.5;
 }
 header {
@@ -38,42 +38,16 @@ button {
   cursor: pointer;
 }
 button:hover { background: #fff; color: #000; }
-.section {
-  border-bottom: 1px dotted rgba(0,0,0,0.3);
-  padding: 10px 0;
-}
+.section { border-bottom: 1px dotted rgba(0,0,0,0.3); padding: 10px 0; }
 .flex { display: flex; flex-wrap: wrap; gap: 14px; }
-.card {
-  border: 1px solid rgba(0,0,0,0.25);
-  padding: 10px 12px;
-  background: #fafafa;
-  flex: 1 1 220px;
-}
-.card h3 {
-  margin: 0 0 6px 0;
-  font-size: 12px;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  font-family: var(--font-mono);
-}
+.card { border: 1px solid rgba(0,0,0,0.25); padding: 10px 12px; background: #fafafa; flex: 1 1 220px; }
+.card h3 { margin: 0 0 6px 0; font-size: 12px; letter-spacing: 0.1em; text-transform: uppercase; font-family: var(--font-mono); }
 .small { font-size: 11px; color: #444; }
 ul { margin: 6px 0 0 16px; }
 .hidden { display: none; }
-/* calendar styles */
-.calendar-grid {
-  display: grid;
-  grid-template-columns: repeat(7, minmax(90px, 1fr));
-  gap: 6px;
-  border-top: 1px dotted #000;
-  padding-top: 8px;
-}
-.cal-cell {
-  border: 1px solid rgba(0,0,0,0.2);
-  padding: 6px;
-  min-height: 80px;
-  background: #fafafa;
-  position: relative;
-}
+/* calendar */
+.calendar-grid { display: grid; grid-template-columns: repeat(7, minmax(90px, 1fr)); gap: 6px; border-top: 1px dotted #000; padding-top: 8px; }
+.cal-cell { border: 1px solid rgba(0,0,0,0.2); padding: 6px; min-height: 80px; background: #fafafa; position: relative; }
 .cal-day { font-family: var(--font-mono); font-size: 10px; letter-spacing: 0.08em; }
 .cal-dots { margin-top: 4px; display: flex; flex-wrap: wrap; gap: 4px; }
 .dot { width: 8px; height: 8px; border-radius: 50%; border: 1px solid #111; }
@@ -84,9 +58,9 @@ ul { margin: 6px 0 0 16px; }
 </head>
 <body>
   <header>Schedule (Local Debug)
-    <div style="margin-top:6px; display:flex; gap:8px; align-items:center;">
+    <div style="margin-top:6px; display:flex; gap:8px; align-items:center; flex-wrap:wrap;">
       <button id="refresh">Refresh</button>
-      <span class="small">Uses your private ICS link locally; not published.</span>
+      <span class="small">Uses your private ICS; not linked publicly.</span>
     </div>
   </header>
 
@@ -94,8 +68,19 @@ ul { margin: 6px 0 0 16px; }
     <div id="status" class="small">Idle</div>
   </div>
 
+  <div class="section">
+    <details id="paste-toggle">
+      <summary class="small" style="cursor:pointer;">Paste ICS manually (fallback)</summary>
+      <textarea id="ics-input" style="width:100%;height:140px;margin-top:6px;font-family:monospace;font-size:11px;"></textarea>
+      <div style="margin-top:6px;display:flex;gap:8px;align-items:center;">
+        <button id="load-ics">Load pasted ICS</button>
+        <span class="small">If network fetch fails due to CORS, paste the .ics content here.</span>
+      </div>
+    </details>
+  </div>
+
   <div class="section" id="calendar-section">
-    <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
+    <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;flex-wrap:wrap;">
       <h2 style="margin:0;font-size:13px;letter-spacing:0.08em;text-transform:uppercase;">Calendar</h2>
       <button id="prev-month" aria-label="Previous month">◀</button>
       <div id="month-label" class="small" style="font-weight:600;letter-spacing:0.08em;"></div>
@@ -119,7 +104,8 @@ const ICS_URL = "https://calendar.google.com/calendar/ical/d3246007fb6ee962a43ae
 const PROXIES = [
   (u) => `https://corsproxy.io/?${encodeURIComponent(u)}`,
   (u) => `https://api.allorigins.win/raw?url=${encodeURIComponent(u)}`,
-  (u) => `https://thingproxy.freeboard.io/fetch/${u}`
+  (u) => `https://thingproxy.freeboard.io/fetch/${u}`,
+  (u) => `https://cors.isomorphic-git.org/${u}`
 ];
 const PEOPLE = ["Axel","Anni","Minna","Riku","Ella","Martta"];
 const statusEl = document.getElementById('status');
@@ -129,12 +115,7 @@ const calEl = document.getElementById('calendar');
 const monthLabel = document.getElementById('month-label');
 const prevBtn = document.getElementById('prev-month');
 const nextBtn = document.getElementById('next-month');
-let allEvents = [];
-let view = (() => { const d=new Date(); return { y:d.getFullYear(), m:d.getMonth() }; })();
-const calEl = document.getElementById('calendar');
-const monthLabel = document.getElementById('month-label');
-const prevBtn = document.getElementById('prev-month');
-const nextBtn = document.getElementById('next-month');
+const icsInput = document.getElementById('ics-input');
 let allEvents = [];
 let view = (() => { const d=new Date(); return { y:d.getFullYear(), m:d.getMonth() }; })();
 
@@ -171,7 +152,6 @@ function matchPerson(summary) {
 
 function formatDate(val) {
   if (!val) return '';
-  // YYYYMMDD or YYYYMMDDTHHMMSSZ
   const m = val.match(/(\d{4})(\d{2})(\d{2})/);
   if (!m) return val;
   const [_, y, mo, d] = m;
@@ -223,10 +203,9 @@ function renderCalendar(events) {
   calEl.innerHTML = '';
   const { y, m } = view;
   const first = new Date(y, m, 1);
-  const startDay = first.getDay(); // 0-6
+  const startDay = first.getDay();
   const daysInMonth = new Date(y, m + 1, 0).getDate();
 
-  // blank cells before month start (assume Sunday start)
   for (let i = 0; i < startDay; i++) {
     const cell = document.createElement('div');
     cell.className = 'cal-cell';
@@ -245,7 +224,7 @@ function renderCalendar(events) {
     dotsWrap.className = 'cal-dots';
     const titles = [];
     events.forEach(evt => {
-      const mmatch = evt.start && evt.start.match(/(\\d{4})(\\d{2})(\\d{2})/);
+      const mmatch = evt.start && evt.start.match(/(\d{4})(\d{2})(\d{2})/);
       if (!mmatch) return;
       const dd = Number(mmatch[3]);
       if (Number(mmatch[2]) - 1 !== m || Number(mmatch[1]) !== y) return;
@@ -292,13 +271,27 @@ async function refresh() {
     setStatus(`Loaded ${allEvents.length} events`);
   } catch (e) {
     console.error(e);
-    setStatus('Error loading calendar (CORS?). Try another proxy or download ICS manually.');
+    setStatus('Error loading calendar (CORS?). Try another proxy or paste ICS.');
   }
 }
 
-// initial load
+function loadPasted() {
+  const txt = icsInput.value.trim();
+  if (!txt) return setStatus('Paste is empty');
+  try {
+    if (!txt.startsWith('BEGIN:VCALENDAR')) throw new Error('Not ICS');
+    allEvents = parseICS(txt);
+    render(allEvents);
+    setStatus(`Loaded ${allEvents.length} events (pasted)`);
+  } catch (e) {
+    console.error(e);
+    setStatus('Bad ICS paste');
+  }
+}
+
 refresh();
 document.getElementById('refresh').addEventListener('click', refresh);
+document.getElementById('load-ics').addEventListener('click', loadPasted);
 prevBtn.addEventListener('click', () => { view.m -= 1; if (view.m < 0) { view.m = 11; view.y -= 1; } render(allEvents); });
 nextBtn.addEventListener('click', () => { view.m += 1; if (view.m > 11) { view.m = 0; view.y += 1; } render(allEvents); });
 </script>
