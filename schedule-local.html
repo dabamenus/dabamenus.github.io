@@ -50,9 +50,8 @@ ul { margin: 6px 0 0 16px; }
 .cal-cell { border: 1px solid rgba(0,0,0,0.2); padding: 6px; min-height: 80px; background: #fafafa; position: relative; }
 .cal-day { font-family: var(--font-mono); font-size: 10px; letter-spacing: 0.08em; }
 .cal-dots { margin-top: 4px; display: flex; flex-wrap: wrap; gap: 4px; }
-.dot { width: 8px; height: 8px; border-radius: 50%; border: 1px solid #111; }
+.dot { width: 10px; height: 10px; border-radius: 50%; border: 1px solid #111; }
 .dot.private { background: #f66; }
-.dot.person { background: #111; }
 .cal-title { margin-top: 2px; font-size: 11px; line-height: 1.3; color: #333; }
 </style>
 </head>
@@ -108,6 +107,15 @@ const PROXIES = [
   (u) => `https://cors.isomorphic-git.org/${u}`
 ];
 const PEOPLE = ["Axel","Anni","Minna","Riku","Ella","Martta"];
+const COLORS = {
+  Axel: "#000",
+  Anni: "#2a62ff",
+  Minna: "#ff7a1a",
+  Riku: "#008b5e",
+  Ella: "#b3007d",
+  Martta: "#6c4aff",
+  Unassigned: "#777"
+};
 const statusEl = document.getElementById('status');
 const countsEl = document.getElementById('counts');
 const entriesEl = document.getElementById('entries');
@@ -132,7 +140,15 @@ function parseICS(text) {
     else if (line.startsWith('SUMMARY:')) cur.summary = line.slice(8).trim();
     else if (line.startsWith('DTSTART')) {
       const val = line.split(':')[1];
-      cur.start = val;
+      cur.startRaw = val;
+      const m = val.match(/(\d{4})(\d{2})(\d{2})(T(\d{2})(\d{2}))?/);
+      if (m) {
+        cur.start = `${m[1]}-${m[2]}-${m[3]}`;
+        cur.time = m[5] ? `${m[5]}:${m[6]}` : '';
+      } else {
+        cur.start = val;
+        cur.time = '';
+      }
     }
     else if (line.startsWith('COLOR:')) cur.color = line.split(':')[1].trim();
     else if (line.startsWith('CATEGORIES:')) cur.categories = line.split(':')[1].trim();
@@ -152,6 +168,7 @@ function matchPerson(summary) {
 
 function formatDate(val) {
   if (!val) return '';
+  if (val.includes('-')) return val;
   const m = val.match(/(\d{4})(\d{2})(\d{2})/);
   if (!m) return val;
   const [_, y, mo, d] = m;
@@ -164,6 +181,15 @@ function sameMonth(evtStart, y, m) {
   if (!match) return false;
   const [_, yy, mm] = match;
   return Number(yy) === y && Number(mm)-1 === m;
+}
+
+function weekOf(evtStart) {
+  const match = evtStart && evtStart.match(/(\d{4})(\d{2})(\d{2})/);
+  if (!match) return null;
+  const d = new Date(`${match[1]}-${match[2]}-${match[3]}T00:00:00Z`);
+  const onejan = new Date(d.getUTCFullYear(),0,1);
+  const ms = d - onejan;
+  return Math.ceil(((ms / 86400000) + onejan.getUTCDay()+1)/7);
 }
 
 function render(events) {
@@ -189,11 +215,24 @@ function render(events) {
     countsEl.appendChild(card);
   });
 
-  entriesEl.innerHTML = filtered.map(evt => {
-    const priv = isPrivate(evt) ? 'Private' : 'Normal';
-    const who = matchPerson(evt.summary || '');
-    return `<div style="margin-bottom:6px;">${formatDate(evt.start)} — <strong>${who}</strong> — ${evt.summary || ''} <span style="color:#666;">(${priv})</span></div>`;
-  }).join('');
+  const byWeek = new Map();
+  filtered.forEach(evt => {
+    const w = weekOf(evt.start) || 0;
+    if (!byWeek.has(w)) byWeek.set(w, []);
+    byWeek.get(w).push(evt);
+  });
+
+  const parts = [];
+  Array.from(byWeek.keys()).sort((a,b)=>a-b).forEach(w => {
+    parts.push(`<div style="margin-top:8px;"><strong>Week ${w}</strong></div>`);
+    byWeek.get(w).forEach(evt => {
+      const priv = isPrivate(evt) ? 'Private' : 'Normal';
+      const who = matchPerson(evt.summary || '');
+      const time = evt.time ? ` ${evt.time}` : '';
+      parts.push(`<div style="margin-bottom:4px;">${formatDate(evt.start)}${time} — <strong>${who}</strong> — ${evt.summary || ''} <span style="color:#666;">(${priv})</span></div>`);
+    });
+  });
+  entriesEl.innerHTML = parts.join('');
 
   renderCalendar(filtered);
   monthLabel.textContent = new Date(year, month, 1).toLocaleString('en', { month: 'long', year: 'numeric' });
@@ -230,7 +269,11 @@ function renderCalendar(events) {
       if (Number(mmatch[2]) - 1 !== m || Number(mmatch[1]) !== y) return;
       if (dd !== d) return;
       const dot = document.createElement('span');
-      dot.className = 'dot ' + (isPrivate(evt) ? 'private' : 'person');
+      const who = matchPerson(evt.summary || '');
+      const color = COLORS[who] || '#111';
+      dot.className = 'dot';
+      dot.style.background = isPrivate(evt) ? '#f66' : color;
+      dot.title = `${formatDate(evt.start)}${evt.time ? ' '+evt.time : ''} — ${evt.summary || ''}`;
       dotsWrap.appendChild(dot);
       titles.push(evt.summary || '');
     });
