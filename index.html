@@ -1897,6 +1897,16 @@
       const vids = Array.from(document.querySelectorAll('.entry-hero video, .landing-hero-tail video, .landing-hero-tail2 video, .landing-hero-tail-m1 video, .landing-hero-tail-m2 video'));
       if (!vids.length) return;
       const STOP_AT = 4.5; // seconds
+      const ready = new Set();
+      const startSync = () => {
+        if (ready.size < vids.length) return;
+        vids.forEach((v) => {
+          try { v.currentTime = 0; } catch (_) {}
+          const p = v.play();
+          if (p && typeof p.catch === 'function') p.catch(() => {});
+        });
+      };
+
       vids.forEach((v) => {
         v.loop = false;
         v.autoplay = false;
@@ -1911,14 +1921,11 @@
             try { v.currentTime = STOP_AT; } catch (_) {}
           }
         });
+        const markReady = () => { ready.add(v); startSync(); };
+        v.addEventListener('canplaythrough', markReady, { once: true });
+        v.addEventListener('canplay', markReady, { once: true });
       });
-      function startAll() {
-        vids.forEach((v) => {
-          try { v.currentTime = 0; } catch (_) {}
-          const p = v.play();
-          if (p && typeof p.catch === 'function') p.catch(() => {});
-        });
-      }
+      function startAll() { startSync(); }
       // expose for other scripts (fade gate) to re-trigger
       window.__startHeroVideos = startAll;
       // start immediately on load
