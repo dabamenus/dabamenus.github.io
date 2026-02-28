@@ -1929,6 +1929,13 @@
         v.autoplay = false;
         v.muted = true;
         v.playsInline = true;
+        v.controls = false;
+        v.removeAttribute('controls');
+        v.setAttribute('tabindex', '-1');
+        const poster = v.getAttribute('poster') || 'PICTURES/profile_halftone_poster.png';
+        v.style.backgroundImage = `url(${poster})`;
+        v.style.backgroundSize = 'cover';
+        v.style.backgroundPosition = 'center';
         v.playbackRate = 1; // normal speed
         try { v.load(); } catch (_) {}
         // ensure we can restart cleanly
@@ -1942,6 +1949,12 @@
         const markReady = () => { ready.add(v); startSync(); };
         v.addEventListener('canplaythrough', markReady, { once: true });
         v.addEventListener('canplay', markReady, { once: true });
+        setTimeout(() => {
+          if (v.currentTime <= 0.01) {
+            const p = v.play();
+            if (p && typeof p.catch === 'function') p.catch(() => {});
+          }
+        }, 1800);
       });
       function startAll() { startSync(); }
       // expose for other scripts (fade gate) to re-trigger
