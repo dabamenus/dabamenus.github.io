@@ -397,6 +397,7 @@
       object-fit: cover;
       object-position: top;
       display: block;
+      opacity: 0;
       pointer-events: none;
       background: #fff url('PICTURES/profile_halftone_poster.png') center/cover no-repeat;
     }
@@ -438,6 +439,7 @@
       object-fit: cover;
       object-position: 50% 50%;
       display: block;
+      opacity: 0;
       pointer-events: none;
       background: #fff url('PICTURES/profile_halftone_poster.png') center/cover no-repeat;
     }
@@ -480,6 +482,7 @@
       object-fit: cover;
       object-position: 50% 10%;
       display: block;
+      opacity: 0;
       pointer-events: none;
       background: #fff url('PICTURES/profile_halftone_poster.png') center/cover no-repeat;
     }
@@ -502,6 +505,7 @@
       height: 100%;
       object-fit: cover;
       display: block;
+      opacity: 0;
       pointer-events: none;
       background: #fff url('PICTURES/profile_halftone_poster.png') center/cover no-repeat;
     }
@@ -2003,7 +2007,7 @@
           }
         }, 1800);
       });
-      function startAll() { startSync(); }
+      function startAll() { startSync(); document.body.classList.add('hero-play'); vids.forEach(v=>v.style.opacity='1'); }
       // expose for other scripts (fade gate) to re-trigger
       window.__startHeroVideos = startAll;
       // start immediately on load
