@@ -1915,7 +1915,6 @@
     (function () {
       const vids = Array.from(document.querySelectorAll('.entry-hero video, .landing-hero-tail video, .landing-hero-tail2 video, .landing-hero-tail-m1 video, .landing-hero-tail-m2 video'));
       if (!vids.length) return;
-      const STOP_AT = 4.5; // seconds
       const ready = new Set();
       let started = false;
       const startSync = () => {
@@ -1932,7 +1931,7 @@
       };
 
       vids.forEach((v) => {
-        v.loop = false;
+        v.loop = true;
         v.autoplay = false;
         v.muted = true;
         v.playsInline = true;
@@ -1945,14 +1944,8 @@
         v.style.backgroundPosition = 'center';
         v.playbackRate = 1; // normal speed
         try { v.load(); } catch (_) {}
-        // ensure we can restart cleanly
-        v.addEventListener('ended', () => { try { v.pause(); } catch (_) {} });
-        v.addEventListener('timeupdate', () => {
-          if (v.currentTime >= STOP_AT) {
-            try { v.pause(); } catch (_) {}
-            try { v.currentTime = STOP_AT; } catch (_) {}
-          }
-        });
+        // keep looping smoothly
+        v.addEventListener('ended', () => { try { v.currentTime = 0; v.play(); } catch (_) {} });
         const markReady = () => { ready.add(v); startSync(); };
         v.addEventListener('canplaythrough', markReady, { once: true });
         v.addEventListener('canplay', markReady, { once: true });
