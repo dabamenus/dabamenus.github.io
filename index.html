@@ -384,6 +384,7 @@
       z-index: 2;
     }
     .hero-play .entry-hero::before { opacity: 0; }
+    .hero-fallback .entry-hero::before { opacity: 1; }
     .entry-hero img {
       width: 100%;
       height: 100%;
@@ -426,6 +427,7 @@
       z-index: 2;
     }
     .hero-play .landing-hero-tail::before { opacity: 0; }
+    .hero-fallback .landing-hero-tail::before { opacity: 1; }
     .landing-hero-tail img {
       width: 100%;
       height: 100%;
@@ -469,6 +471,7 @@
       z-index: 2;
     }
     .hero-play .landing-hero-tail2::before { opacity: 0; }
+    .hero-fallback .landing-hero-tail2::before { opacity: 1; }
     .landing-hero-tail2 img {
       width: 100%;
       height: 100%;
@@ -551,6 +554,8 @@
     }
     .hero-play .landing-hero-tail-m1::before,
     .hero-play .landing-hero-tail-m2::before { opacity: 0; }
+    .hero-fallback .landing-hero-tail-m1::before,
+    .hero-fallback .landing-hero-tail-m2::before { opacity: 1; }
       /* tighter stacking for hero slices on mobile */
       .entry-hero { margin: 2px 0 4px; }
       .landing-hero-tail-m1 { margin: -6px 0 4px; }
@@ -1962,17 +1967,23 @@
       if (!vids.length) return;
       const STOP_AT = 4.5; // seconds
       const ready = new Set();
+      let fallbackNeeded = false;
       const startSync = () => {
-        if (ready.size < vids.length) return;
+        if (ready.size < vids.length) return false;
         vids.forEach((v) => {
           try { v.currentTime = 0; } catch (_) {}
           const p = v.play();
-          if (p && typeof p.catch === 'function') p.catch(() => {
-            // if autoplay is blocked, keep poster background visible
-            try { v.pause(); } catch (_) {}
-          });
+          if (p && typeof p.catch === 'function') p.catch(() => { fallbackNeeded = true; });
         });
-        document.body.classList.add('hero-play');
+        if (fallbackNeeded) {
+          document.body.classList.add('hero-fallback');
+          document.body.classList.remove('hero-play');
+        } else {
+          document.body.classList.add('hero-play');
+          document.body.classList.remove('hero-fallback');
+          vids.forEach(v => v.style.opacity = '1');
+        }
+        return true;
       };
 
       vids.forEach((v) => {
@@ -2007,11 +2018,18 @@
           }
         }, 1800);
       });
-      function startAll() { startSync(); document.body.classList.add('hero-play'); vids.forEach(v=>v.style.opacity='1'); }
+      function startAll() { startSync(); }
       // expose for other scripts (fade gate) to re-trigger
       window.__startHeroVideos = startAll;
       // start immediately on load
       startAll();
+      // Fallback: if not ready in 4s, keep posters and hide videos
+      setTimeout(() => {
+        if (!startSync()) {
+          document.body.classList.add('hero-fallback');
+          vids.forEach(v => { v.style.opacity = '0'; try { v.pause(); } catch(_) {} });
+        }
+      }, 4000);
     })();
   </script>
   <script>
