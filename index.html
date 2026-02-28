@@ -1911,6 +1911,21 @@
     })();
   </script>
   <script>
+    // Bust cache so GIF slices animate on each page load
+    (function () {
+      const gifs = document.querySelectorAll(
+        '.entry-hero img, .landing-hero-tail img, .landing-hero-tail2 img, .landing-hero-tail-m1 img, .landing-hero-tail-m2 img'
+      );
+      const cacheBust = Date.now();
+      gifs.forEach((img) => {
+        const base = (img.dataset.baseSrc || img.getAttribute('src') || '').split('?')[0];
+        if (!base) return;
+        img.dataset.baseSrc = base;
+        img.src = `${base}?rev=${cacheBust}`;
+      });
+    })();
+  </script>
+  <script>
     // Hero videos: prepare and start all slices simultaneously on load (single run)
     (function () {
       const vids = Array.from(document.querySelectorAll('.entry-hero video, .landing-hero-tail video, .landing-hero-tail2 video, .landing-hero-tail-m1 video, .landing-hero-tail-m2 video'));
