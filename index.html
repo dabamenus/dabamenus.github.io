@@ -387,7 +387,7 @@
       object-position: top;
       display: block;
       pointer-events: none;
-      background: #fff;
+      background: #fff url('PICTURES/profile_halftone_poster.png') center/cover no-repeat;
     }
     .entry-hero video::-webkit-media-controls,
     .entry-hero video::-webkit-media-controls-enclosure,
@@ -417,7 +417,7 @@
       object-position: 50% 50%;
       display: block;
       pointer-events: none;
-      background: #fff;
+      background: #fff url('PICTURES/profile_halftone_poster.png') center/cover no-repeat;
     }
     .landing-hero-tail video::-webkit-media-controls,
     .landing-hero-tail video::-webkit-media-controls-enclosure,
@@ -448,7 +448,7 @@
       object-position: 50% 10%;
       display: block;
       pointer-events: none;
-      background: #fff;
+      background: #fff url('PICTURES/profile_halftone_poster.png') center/cover no-repeat;
     }
     .landing-hero-tail2 video::-webkit-media-controls,
     .landing-hero-tail2 video::-webkit-media-controls-enclosure,
@@ -470,7 +470,7 @@
       object-fit: cover;
       display: block;
       pointer-events: none;
-      background: #fff;
+      background: #fff url('PICTURES/profile_halftone_poster.png') center/cover no-repeat;
     }
     .landing-hero-tail-m1 video::-webkit-media-controls,
     .landing-hero-tail-m1 video::-webkit-media-controls-enclosure,
@@ -1917,7 +1917,10 @@
         vids.forEach((v) => {
           try { v.currentTime = 0; } catch (_) {}
           const p = v.play();
-          if (p && typeof p.catch === 'function') p.catch(() => {});
+          if (p && typeof p.catch === 'function') p.catch(() => {
+            // if autoplay is blocked, keep poster background visible
+            try { v.pause(); } catch (_) {}
+          });
         });
       };
 
@@ -1927,6 +1930,7 @@
         v.muted = true;
         v.playsInline = true;
         v.playbackRate = 1; // normal speed
+        try { v.load(); } catch (_) {}
         // ensure we can restart cleanly
         v.addEventListener('ended', () => { try { v.pause(); } catch (_) {} });
         v.addEventListener('timeupdate', () => {
