@@ -374,17 +374,7 @@
       aspect-ratio: 978 / 230; /* show roughly top 30% of 978x768 */
       position: relative;
     }
-    .entry-hero::before {
-      content: "";
-      position: absolute;
-      inset: 0;
-      background: #fff url('PICTURES/profile_halftone_poster.png') center/cover no-repeat;
-      transition: opacity 0.5s ease;
-      pointer-events: none;
-      z-index: 2;
-    }
-    .hero-play .entry-hero::before { opacity: 0; }
-    .hero-fallback .entry-hero::before { opacity: 1; }
+    /* keep poster as CSS background instead of overlay */
     .entry-hero img {
       width: 100%;
       height: 100%;
@@ -398,7 +388,6 @@
       object-fit: cover;
       object-position: top;
       display: block;
-      opacity: 0;
       pointer-events: none;
       background: #fff url('PICTURES/profile_halftone_poster.png') center/cover no-repeat;
     }
@@ -417,17 +406,6 @@
       aspect-ratio: 978 / 230; /* show middle ~30% of the image */
       position: relative;
     }
-    .landing-hero-tail::before {
-      content: "";
-      position: absolute;
-      inset: 0;
-      background: #fff url('PICTURES/profile_halftone_poster.png') center/cover no-repeat;
-      transition: opacity 0.5s ease;
-      pointer-events: none;
-      z-index: 2;
-    }
-    .hero-play .landing-hero-tail::before { opacity: 0; }
-    .hero-fallback .landing-hero-tail::before { opacity: 1; }
     .landing-hero-tail img {
       width: 100%;
       height: 100%;
@@ -441,7 +419,6 @@
       object-fit: cover;
       object-position: 50% 50%;
       display: block;
-      opacity: 0;
       pointer-events: none;
       background: #fff url('PICTURES/profile_halftone_poster.png') center/cover no-repeat;
     }
@@ -461,17 +438,6 @@
       transform: translateY(-7%); /* overlap ~15% combined with margin */
       position: relative;
     }
-    .landing-hero-tail2::before {
-      content: "";
-      position: absolute;
-      inset: 0;
-      background: #fff url('PICTURES/profile_halftone_poster.png') center/cover no-repeat;
-      transition: opacity 0.5s ease;
-      pointer-events: none;
-      z-index: 2;
-    }
-    .hero-play .landing-hero-tail2::before { opacity: 0; }
-    .hero-fallback .landing-hero-tail2::before { opacity: 1; }
     .landing-hero-tail2 img {
       width: 100%;
       height: 100%;
@@ -485,7 +451,6 @@
       object-fit: cover;
       object-position: 50% 10%;
       display: block;
-      opacity: 0;
       pointer-events: none;
       background: #fff url('PICTURES/profile_halftone_poster.png') center/cover no-repeat;
     }
@@ -508,7 +473,6 @@
       height: 100%;
       object-fit: cover;
       display: block;
-      opacity: 0;
       pointer-events: none;
       background: #fff url('PICTURES/profile_halftone_poster.png') center/cover no-repeat;
     }
@@ -542,20 +506,6 @@
       display: block;
       position: relative;
     }
-    .landing-hero-tail-m1::before,
-    .landing-hero-tail-m2::before {
-      content: "";
-      position: absolute;
-      inset: 0;
-      background: #fff url('PICTURES/profile_halftone_poster.png') center/cover no-repeat;
-      transition: opacity 0.5s ease;
-      pointer-events: none;
-      z-index: 2;
-    }
-    .hero-play .landing-hero-tail-m1::before,
-    .hero-play .landing-hero-tail-m2::before { opacity: 0; }
-    .hero-fallback .landing-hero-tail-m1::before,
-    .hero-fallback .landing-hero-tail-m2::before { opacity: 1; }
       /* tighter stacking for hero slices on mobile */
       .entry-hero { margin: 2px 0 4px; }
       .landing-hero-tail-m1 { margin: -6px 0 4px; }
@@ -1967,22 +1917,17 @@
       if (!vids.length) return;
       const STOP_AT = 4.5; // seconds
       const ready = new Set();
-      let fallbackNeeded = false;
+      let started = false;
       const startSync = () => {
         if (ready.size < vids.length) return false;
         vids.forEach((v) => {
           try { v.currentTime = 0; } catch (_) {}
           const p = v.play();
-          if (p && typeof p.catch === 'function') p.catch(() => { fallbackNeeded = true; });
+          if (p && typeof p.catch === 'function') p.catch(() => {});
         });
-        if (fallbackNeeded) {
-          document.body.classList.add('hero-fallback');
-          document.body.classList.remove('hero-play');
-        } else {
-          document.body.classList.add('hero-play');
-          document.body.classList.remove('hero-fallback');
-          vids.forEach(v => v.style.opacity = '1');
-        }
+        document.body.classList.add('hero-play');
+        vids.forEach(v => v.style.opacity = '1');
+        started = true;
         return true;
       };
 
@@ -2023,11 +1968,11 @@
       window.__startHeroVideos = startAll;
       // start immediately on load
       startAll();
-      // Fallback: if not ready in 4s, keep posters and hide videos
+      // Fallback: if not started in 4s, keep videos visible anyway
       setTimeout(() => {
-        if (!startSync()) {
-          document.body.classList.add('hero-fallback');
-          vids.forEach(v => { v.style.opacity = '0'; try { v.pause(); } catch(_) {} });
+        if (!started) {
+          document.body.classList.add('hero-play');
+          vids.forEach(v => { v.style.opacity = '1'; try { v.play(); } catch(_) {} });
         }
       }, 4000);
     })();
