@@ -467,6 +467,13 @@
     .landing-hero-tail-m2 {
       display: none;
     }
+    .landing-hero-tail-m1 img,
+    .landing-hero-tail-m2 img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
     .landing-hero-tail-m1 video,
     .landing-hero-tail-m2 video {
       width: 100%;
@@ -491,9 +498,9 @@
     .landing-hero-tail-m1 video::-moz-media-controls,
     .landing-hero-tail-m2 video::-moz-media-controls { display: none !important; }
     .landing-hero-tail-m1 { aspect-ratio: 978 / 230; overflow: hidden; }
-    .landing-hero-tail-m1 video { object-position: 50% 50%; }
+    .landing-hero-tail-m1 img, .landing-hero-tail-m1 video { object-position: 50% 50%; }
     .landing-hero-tail-m2 { aspect-ratio: 978 / 230; overflow: hidden; transform: translateY(-7%); }
-    .landing-hero-tail-m2 video { object-position: 50% 10%; }
+    .landing-hero-tail-m2 img, .landing-hero-tail-m2 video { object-position: 50% 10%; }
     @media (max-width: 900px) {
       /* hide top hero on mobile */
       .entry-hero { display: none; }
@@ -1369,7 +1376,21 @@
                 <p>Steal This Performance explores questions of originality and identity. Every element on stage—including the sound design—is constructed entirely from stolen, plagiarised, or otherwise borrowed material, most of it from other performances and theatre shows. While the work takes the form of a monologue, it relies heavily on audiovisual and scenographic means to articulate its core idea.</p>
                 <p>The production premiered at the Theatre Academy in Helsinki in 2024. It was later selected for the Fast Forward Festival 2025 in Dresden, Germany, where it received the Jury Award.</p>
                 <p><strong>Credits:</strong> Directing &amp; Dramaturgy Pauli Patinen. On stage: Juho Keränen. Scenography Anni Hernetkoski. Lighting &amp; Video Design Ville Tolvanen. Sound Design Axel Ridberg. Costume Design Ellen Järnefelt. Stagehands Anni Hernetkoski, Mikael Karkkonen.</p>
-                <video src="PICTURES/profile_halftone_glitch_clearer_mid.mp4" autoplay muted playsinline style="width:100%;display:block;margin-top:10px;"></video>
+                <div style="width:100%;overflow:hidden;margin-top:10px;">
+                  <video id="steal-video" src="PICTURES/profile_halftone_glitch_clearer_mid.mp4" muted playsinline style="width:100%;max-width:100%;height:auto;display:block;"></video>
+                </div>
+                <script>
+                  (function(){
+                    var fade = document.getElementById('page-fade');
+                    var v = document.getElementById('steal-video');
+                    function playIt(){ v.play(); }
+                    if (fade) {
+                      fade.addEventListener('animationend', playIt, { once: true });
+                    } else {
+                      playIt();
+                    }
+                  })();
+                </script>
                 <a class="work-external" href="https://www.fastforw.art/en/programme/2025/steal-this-performance/?source=programm" target="_blank" rel="noopener">Full info ↗</a>
               </div>
               <div class="work-audio" aria-label="Audio player for Steal This Performance">
