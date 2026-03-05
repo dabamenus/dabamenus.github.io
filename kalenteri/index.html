@@ -1254,7 +1254,13 @@
   // Listen for real-time changes from Firebase (fires immediately with current data)
   curatedRef.on('value', snapshot => {
     const val = snapshot.val();
-    curated = Array.isArray(val) ? val : [];
+    if (Array.isArray(val)) {
+      curated = val;
+    } else if (val && typeof val === 'object') {
+      curated = Object.values(val).filter(Boolean);
+    } else {
+      curated = [];
+    }
     renderCurated();
     // Sync add-button states in the main list
     document.querySelectorAll('.add-btn').forEach(btn => {
