@@ -655,6 +655,8 @@
 </div><!-- .page -->
 
 <script src="/scrape-events.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-database-compat.js"></script>
 <script>
 (function () {
   const VENUES = {
@@ -706,21 +708,23 @@
   ]);
   let activeVenues = new Set(DEFAULT_VENUES);
 
-  // ── Curated events ──────────────────────────────────────────────────────────
-  const CURATED_KEY = 'helsinki_curated_v1';
+  // ── Firebase ─────────────────────────────────────────────────────────────────
+  firebase.initializeApp({
+    apiKey:            "AIzaSyBAereHd91hIMNd5Zm2E31CUoQ4wEhqDAQ",
+    databaseURL:       "https://website-16c97-default-rtdb.europe-west1.firebasedatabase.app",
+    projectId:         "website-16c97",
+    appId:             "1:4509688363:web:1e650935554b0bd32fc06e",
+  });
+  const curatedRef = firebase.database().ref('curated');
 
+  // ── Curated events ──────────────────────────────────────────────────────────
   function evId(ev) { return ev.start_time + '||' + ev.title; }
 
-  function loadCurated() {
-    try { return JSON.parse(localStorage.getItem(CURATED_KEY) || '[]'); }
-    catch(e) { return []; }
-  }
-
   function saveCurated() {
-    localStorage.setItem(CURATED_KEY, JSON.stringify(curated));
+    curatedRef.set(curated.length ? curated : null);
   }
 
-  let curated = loadCurated();
+  let curated = [];
 
   function addToCurated(ev) {
     const id = evId(ev);
@@ -1253,7 +1257,20 @@
   }
 
   // ── Init ─────────────────────────────────────────────────────────────────────
-  renderCurated();
+  // Listen for real-time changes from Firebase (fires immediately with current data)
+  curatedRef.on('value', snapshot => {
+    const val = snapshot.val();
+    curated = Array.isArray(val) ? val : [];
+    renderCurated();
+    // Sync add-button states in the main list
+    document.querySelectorAll('.add-btn').forEach(btn => {
+      const added = curated.some(c => c.id === btn.dataset.eid);
+      btn.classList.toggle('added', added);
+      btn.title = added ? 'Remove from list' : 'Add to list';
+      btn.textContent = added ? '✓' : '+';
+    });
+  });
+
   load();
 
 })();
