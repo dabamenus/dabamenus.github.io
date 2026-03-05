@@ -2,7 +2,11 @@ name: Scrape events
 
 on:
   schedule:
-    - cron: '0 5 * * *'   # daily at 05:00 UTC (08:00 Helsinki time)
+    - cron: '0 5 * * *'    # 08:00 Helsinki (UTC+3 summer / UTC+2 winter)
+    - cron: '0 9 * * *'    # 12:00 Helsinki
+    - cron: '0 12 * * *'   # 15:00 Helsinki
+    - cron: '0 15 * * *'   # 18:00 Helsinki
+    - cron: '0 18 * * *'   # 21:00 Helsinki
   workflow_dispatch:       # allow manual trigger from GitHub UI
 
 jobs:
