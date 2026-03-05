@@ -1,0 +1,1262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Esityskalenteri</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=Manrope:wght@400;500;600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #fbfbfb;
+      --text: #5a5a5a;
+      --muted: #5a5a5a;
+      --black: #0e0e0e;
+      --font-sans: "Manrope", "Archivo", "Avenir Next", Helvetica, Arial, sans-serif;
+      --font-serif: "Archivo", "Manrope", Georgia, serif;
+      --font-mono: "Space Mono", "IBM Plex Mono", monospace;
+    }
+
+    * { box-sizing: border-box; }
+    html { scrollbar-gutter: stable both-edges; }
+    html, body { margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font-sans);
+      font-size: 15px;
+      line-height: 1.55;
+      letter-spacing: -0.005em;
+      overflow-y: scroll;
+    }
+
+    .page {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 32px 24px 80px;
+    }
+
+    /* ── Two-column layout ── */
+    .layout {
+      display: flex;
+      gap: 28px;
+      align-items: flex-start;
+    }
+
+    .main-col {
+      flex: 1;
+      min-width: 0;
+    }
+
+    /* ── Curated panel (left) ── */
+    .curated-panel {
+      width: 380px;
+      flex-shrink: 0;
+      position: sticky;
+      top: 24px;
+      max-height: calc(100vh - 48px);
+      overflow-y: auto;
+      padding-right: 12px;
+    }
+
+    .curated-header {
+      display: flex;
+      align-items: baseline;
+      gap: 8px;
+      margin-bottom: 12px;
+      padding-top: 6px;
+      border-top: 2px solid #000;
+    }
+
+    .curated-title {
+      font-family: var(--font-sans);
+      font-size: 0.85rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--black);
+      font-weight: 600;
+    }
+
+    #curated-count {
+      font-family: var(--font-mono);
+      font-size: 0.60rem;
+      color: var(--muted);
+      flex: 1;
+    }
+
+    .curated-clear-btn {
+      background: none;
+      border: none;
+      font-family: var(--font-mono);
+      font-size: 0.57rem;
+      color: var(--muted);
+      cursor: pointer;
+      padding: 0;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .curated-clear-btn:hover { color: var(--black); }
+
+    .curated-empty {
+      font-family: var(--font-mono);
+      font-size: 0.72rem;
+      color: var(--muted);
+      letter-spacing: 0.02em;
+      padding: 6px 0;
+      line-height: 1.6;
+    }
+
+    .ci-month-group {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      column-gap: 10px;
+      margin-bottom: 18px;
+    }
+
+    .ci-month-head {
+      grid-column: 1 / -1;
+      font-family: var(--font-sans);
+      font-size: 0.72rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--black);
+      font-weight: 600;
+      margin-bottom: 6px;
+      padding-top: 5px;
+      border-top: 1px solid rgba(0,0,0,0.12);
+    }
+
+    .ci-item {
+      padding: 5px 4px 5px 4px;
+      border-bottom: 1px dotted rgba(0,0,0,0.25);
+      border-radius: 3px;
+      transition: background 150ms, opacity 150ms;
+      cursor: grab;
+    }
+    .ci-item:active { cursor: grabbing; }
+    .ci-item:last-child { border-bottom: none; }
+    .ci-item.color-red { background: #fde8e8; }
+    .ci-item.ci-dragging { opacity: 0.35; }
+    .ci-item.ci-drag-over { outline: 1px dashed rgba(0,0,0,0.35); background: rgba(0,0,0,0.03); }
+
+    .ci-top {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      margin-bottom: 2px;
+    }
+
+    .ci-date {
+      font-family: var(--font-mono);
+      font-size: 0.65rem;
+      color: var(--black);
+      letter-spacing: 0.03em;
+    }
+
+    .ci-time {
+      font-family: var(--font-mono);
+      font-size: 0.65rem;
+      color: var(--muted);
+      letter-spacing: 0.02em;
+    }
+
+    .ci-color-btn {
+      background: none;
+      border: 1px dotted rgba(0,0,0,0.28);
+      border-radius: 50%;
+      width: 11px;
+      height: 11px;
+      cursor: pointer;
+      padding: 0;
+      flex-shrink: 0;
+      margin-left: auto;
+      transition: background 120ms, border-color 120ms;
+    }
+
+    .ci-color-btn:hover       { border-color: #c04848; background: rgba(192,72,72,0.12); }
+    .ci-color-btn.color-red   { background: #c04848; border-color: #c04848; }
+
+    .ci-remove {
+      background: none;
+      border: none;
+      font-size: 0.85rem;
+      color: var(--muted);
+      cursor: pointer;
+      padding: 0;
+      line-height: 1;
+      opacity: 0.5;
+    }
+
+    .ci-remove:hover { color: var(--black); opacity: 1; }
+
+    .ci-cal-btn {
+      font-family: var(--font-mono);
+      font-size: 0.58rem;
+      color: var(--muted);
+      background: none;
+      border: 1px dotted rgba(0,0,0,0.28);
+      border-radius: 2px;
+      padding: 1px 3px;
+      cursor: pointer;
+      text-decoration: none;
+      line-height: 1.4;
+      flex-shrink: 0;
+      opacity: 0.6;
+      transition: opacity 120ms, border-color 120ms, color 120ms;
+    }
+    .ci-cal-btn:hover { opacity: 1; border-color: #000; color: var(--black); }
+
+    .ci-title {
+      font-family: var(--font-sans);
+      font-size: 0.78rem;
+      font-weight: 600;
+      color: var(--black);
+      line-height: 1.3;
+      margin-bottom: 3px;
+    }
+
+    .ci-title a {
+      color: inherit;
+      text-decoration: none;
+      transition: color 120ms, background 120ms;
+    }
+
+    .ci-title a:hover {
+      color: #fff;
+      background: #000;
+    }
+
+    .ci-note {
+      font-family: var(--font-sans);
+      font-size: 0.68rem;
+      color: var(--muted);
+      outline: none;
+      padding: 2px 0 3px;
+      line-height: 1.4;
+      border-bottom: 1px dotted transparent;
+      transition: border-color 120ms;
+      word-break: break-word;
+    }
+    .ci-note:focus { border-bottom-color: rgba(0,0,0,0.25); }
+    .ci-note:empty::before {
+      content: attr(data-placeholder);
+      color: rgba(0,0,0,0.2);
+      pointer-events: none;
+    }
+
+    .ci-dates-btn {
+      font-family: var(--font-mono);
+      font-size: 0.58rem;
+      color: var(--muted);
+      background: none;
+      border: 1px dotted rgba(0,0,0,0.28);
+      border-radius: 2px;
+      padding: 1px 3px;
+      cursor: pointer;
+      line-height: 1.4;
+      flex-shrink: 0;
+      opacity: 0.6;
+      transition: opacity 120ms, border-color 120ms, color 120ms;
+    }
+    .ci-dates-btn:hover,
+    .ci-dates-btn.active { opacity: 1; border-color: #000; color: var(--black); }
+
+    .ci-dates-panel {
+      margin-top: 4px;
+      border-top: 1px dotted rgba(0,0,0,0.2);
+      padding-top: 4px;
+    }
+    .ci-date-row {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      padding: 2px 0;
+      font-family: var(--font-mono);
+      font-size: 0.62rem;
+      color: var(--muted);
+    }
+    .ci-date-row + .ci-date-row { border-top: 1px dotted rgba(0,0,0,0.1); }
+    .ci-date-cal {
+      margin-left: auto;
+      font-family: var(--font-mono);
+      font-size: 0.58rem;
+      color: var(--muted);
+      text-decoration: none;
+      border: 1px dotted rgba(0,0,0,0.2);
+      border-radius: 2px;
+      padding: 1px 3px;
+      flex-shrink: 0;
+      opacity: 0.6;
+      transition: opacity 120ms, border-color 120ms, color 120ms;
+    }
+    .ci-date-cal:hover { opacity: 1; border-color: #000; color: var(--black); }
+
+    .curated-add {
+      display: flex;
+      gap: 4px;
+      margin-top: 10px;
+      padding-top: 8px;
+      border-top: 1px dotted rgba(0,0,0,0.2);
+    }
+    .curated-add-input {
+      flex: 1;
+      font-family: var(--font-sans);
+      font-size: 0.72rem;
+      color: var(--black);
+      background: none;
+      border: none;
+      border-bottom: 1px dotted rgba(0,0,0,0.3);
+      outline: none;
+      padding: 2px 0;
+      min-width: 0;
+    }
+    .curated-add-input::placeholder { color: rgba(0,0,0,0.25); }
+    .curated-add-input:focus { border-bottom-color: #000; }
+    .curated-add-submit {
+      font-family: var(--font-mono);
+      font-size: 0.65rem;
+      background: none;
+      border: 1px dotted rgba(0,0,0,0.3);
+      border-radius: 2px;
+      padding: 2px 5px;
+      cursor: pointer;
+      color: var(--muted);
+      flex-shrink: 0;
+      transition: color 120ms, border-color 120ms;
+    }
+    .curated-add-submit:hover { color: var(--black); border-color: #000; }
+
+    /* ── Site header ── */
+    header.site-header {
+      border-top: 1px dotted #000;
+      border-bottom: 1px dotted #000;
+      padding: 8px 0;
+      margin-bottom: 28px;
+    }
+
+    .site-title {
+      font-family: var(--font-serif);
+      font-weight: 700;
+      font-size: clamp(2rem, 6vw, 3.2rem);
+      letter-spacing: -0.03em;
+      margin: 0 0 1px;
+      line-height: 1;
+      color: transparent;
+      background-image: radial-gradient(#000 48%, rgba(0,0,0,0) 52%);
+      background-size: 1.5px 1.5px;
+      background-repeat: repeat;
+      -webkit-background-clip: text;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .site-sub {
+      font-family: var(--font-mono);
+      font-size: 0.62rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin: 0;
+      line-height: 1.8;
+    }
+
+    /* ── Month nav ── */
+    .month-nav {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      margin-bottom: 18px;
+    }
+
+    .month-nav button {
+      background: none;
+      border: none;
+      border-bottom: 1px dotted #000;
+      color: var(--black);
+      font-family: var(--font-mono);
+      font-size: 0.72rem;
+      padding: 3px 8px;
+      cursor: pointer;
+      letter-spacing: 0.08em;
+      transition: color 120ms, background 120ms;
+    }
+
+    .month-nav button:hover { background: #000; color: #fff; border-color: #000; }
+
+    .month-label {
+      font-family: var(--font-sans);
+      font-size: 0.85rem;
+      font-weight: 600;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--black);
+      min-width: 130px;
+      text-align: center;
+    }
+
+    /* ── Filters ── */
+    .filters-utility {
+      display: flex;
+      gap: 4px;
+      margin-bottom: 10px;
+    }
+
+    .filters {
+      display: flex;
+      gap: 4px;
+      margin-bottom: 28px;
+      flex-wrap: wrap;
+    }
+
+    .filter-btn {
+      background: none;
+      border: none;
+      border-bottom: 1px dotted rgba(0,0,0,0.4);
+      color: var(--black);
+      font-family: var(--font-mono);
+      font-size: 0.62rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      padding: 4px 8px;
+      cursor: pointer;
+      transition: color 120ms, background 120ms;
+    }
+
+    .filter-btn:hover { background: #000; color: #fff; border-color: #000; }
+    .filter-btn.active { background: #000; color: #fff; border-color: #000; }
+
+    /* ── State ── */
+    .state-msg {
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      color: var(--muted);
+      padding: 40px 0;
+      text-align: center;
+      letter-spacing: 0.06em;
+    }
+
+    /* ── Day group ── */
+    .day-group { margin-bottom: 4px; }
+
+    .day-heading {
+      display: flex;
+      align-items: baseline;
+      gap: 10px;
+      padding-top: 6px;
+      margin-top: 16px;
+      border-top: 2px solid #000;
+    }
+
+    .day-name {
+      font-family: var(--font-mono);
+      font-size: 0.62rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    .day-num {
+      font-family: var(--font-sans);
+      font-size: 0.85rem;
+      font-weight: 600;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--black);
+      line-height: 1;
+    }
+
+    /* ── Event row ── */
+    .event {
+      display: grid;
+      grid-template-columns: 50px 1fr 26px;
+      gap: 0 12px;
+      padding: 8px 0;
+      border-bottom: 1px dotted rgba(0,0,0,0.3);
+      align-items: center;
+    }
+
+    .event:last-child { border-bottom: none; }
+
+    .event-time {
+      font-family: var(--font-mono);
+      font-size: 0.70rem;
+      color: var(--muted);
+      letter-spacing: 0.03em;
+      align-self: start;
+      padding-top: 2px;
+    }
+
+    .event-body { display: flex; flex-direction: column; gap: 4px; align-self: start; }
+
+    .event-name {
+      font-family: var(--font-sans);
+      font-size: 0.88rem;
+      font-weight: 600;
+      color: var(--black);
+      line-height: 1.3;
+      letter-spacing: 0.01em;
+    }
+
+    .event-name a {
+      color: inherit;
+      text-decoration: none;
+      transition: color 120ms, background 120ms;
+    }
+
+    .event-name a:hover { color: #fff; background: #000; }
+
+    /* ── Add button ── */
+    .add-btn {
+      background: none;
+      border: none;
+      border-bottom: 1px dotted rgba(0,0,0,0.35);
+      color: var(--muted);
+      font-family: var(--font-mono);
+      font-size: 0.80rem;
+      width: 20px;
+      height: 20px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0;
+      line-height: 1;
+      flex-shrink: 0;
+      align-self: start;
+      margin-top: 2px;
+      transition: color 120ms, background 120ms;
+    }
+
+    .add-btn:hover { background: #000; color: #fff; border-color: #000; }
+    .add-btn.added { background: #000; color: #fff; border-color: #000; }
+
+    /* ── Venue tag ── */
+    .venue-tag {
+      display: inline-block;
+      font-family: var(--font-mono);
+      font-size: 0.57rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      padding: 1px 5px;
+      border: 1px dotted;
+    }
+
+    .tag-stoa              { color: #b05a00; border-color: rgba(176,90,0,0.4); }
+    .tag-zodiak            { color: #2a7a50; border-color: rgba(42,122,80,0.4); }
+    .tag-tanssintalo       { color: #3a6abf; border-color: rgba(58,106,191,0.4); }
+    .tag-viirus            { color: #7a3abf; border-color: rgba(122,58,191,0.4); }
+    .tag-qteatteri         { color: #b03050; border-color: rgba(176,48,80,0.4); }
+    .tag-kiasma            { color: #2a8a8a; border-color: rgba(42,138,138,0.4); }
+    .tag-caisa             { color: #8a6a00; border-color: rgba(138,106,0,0.4); }
+    .tag-takomo            { color: #5a3010; border-color: rgba(90,48,16,0.4); }
+    .tag-cirko             { color: #c05000; border-color: rgba(192,80,0,0.4); }
+    .tag-madhouse          { color: #1a1a40; border-color: rgba(26,26,64,0.4); }
+    .tag-tekstintalo       { color: #406000; border-color: rgba(64,96,0,0.4); }
+    .tag-espoonteatteri    { color: #005070; border-color: rgba(0,80,112,0.4); }
+    .tag-jurkka            { color: #703000; border-color: rgba(112,48,0,0.4); }
+    .tag-ryhmateatteri     { color: #804080; border-color: rgba(128,64,128,0.4); }
+    .tag-svenska           { color: #004080; border-color: rgba(0,64,128,0.4); }
+    .tag-kansallisteatteri { color: #800020; border-color: rgba(128,0,32,0.4); }
+    .tag-hkt               { color: #006040; border-color: rgba(0,96,64,0.4); }
+    .tag-universum         { color: #604000; border-color: rgba(96,64,0,0.4); }
+
+    /* ── Footer ── */
+    .footer {
+      margin-top: 64px;
+      font-family: var(--font-mono);
+      font-size: 0.62rem;
+      color: var(--muted);
+      letter-spacing: 0.08em;
+      border-top: 1px dotted rgba(0,0,0,0.3);
+      padding-top: 14px;
+    }
+
+    .footer a { color: inherit; text-decoration: none; border-bottom: 1px solid rgba(0,0,0,0.25); }
+    .footer a:hover { color: #fff; background: #000; border-color: #000; }
+
+    @media (max-width: 700px) {
+      .page { padding: 24px 16px 64px; }
+      .layout { flex-direction: column-reverse; gap: 24px; }
+      .curated-panel { width: 100%; position: static; max-height: none; padding-right: 0; }
+      .ci-month-group { grid-template-columns: 1fr; }
+      .event { grid-template-columns: 44px 1fr 26px; gap: 0 8px; }
+    }
+  </style>
+</head>
+<body>
+<div class="page">
+  <div class="layout">
+
+    <!-- ── Left: curated panel ── -->
+    <aside class="curated-panel">
+      <div class="curated-header">
+        <span class="curated-title">My list</span>
+        <span id="curated-count"></span>
+        <button class="curated-clear-btn" id="curated-clear">clear</button>
+      </div>
+      <div id="curated-list">
+        <div class="curated-empty">Add events with +</div>
+      </div>
+      <div class="curated-add">
+        <input class="curated-add-input" id="curated-add-input" type="text" placeholder="add manually…" maxlength="120">
+        <button class="curated-add-submit" id="curated-add-submit">+</button>
+      </div>
+    </aside>
+
+    <!-- ── Right: main content ── -->
+    <main class="main-col">
+      <header class="site-header">
+        <h1 class="site-title">Esityskalenteri</h1>
+      </header>
+
+      <div class="month-nav">
+        <button id="prev-btn">←</button>
+        <span class="month-label" id="month-label"></span>
+        <button id="next-btn">→</button>
+      </div>
+
+      <div class="filters-utility">
+        <button class="filter-btn" data-venue="all">All</button>
+        <button class="filter-btn" id="favourites-btn">Favourites</button>
+        <button class="filter-btn" id="deselect-btn">Deselect all</button>
+      </div>
+
+      <div class="filters">
+        <button class="filter-btn" data-venue="stoa">Stoa</button>
+        <button class="filter-btn" data-venue="zodiak">Zodiak</button>
+        <button class="filter-btn" data-venue="tanssintalo">Tanssin Talo</button>
+        <button class="filter-btn" data-venue="viirus">Teater Viirus</button>
+        <button class="filter-btn" data-venue="qteatteri">Q-Teatteri</button>
+        <button class="filter-btn" data-venue="kiasma">Kiasma</button>
+        <button class="filter-btn" data-venue="caisa">Caisa</button>
+        <button class="filter-btn" data-venue="takomo">Takomo</button>
+        <button class="filter-btn" data-venue="cirko">Cirko</button>
+        <button class="filter-btn" data-venue="madhouse">Mad House</button>
+        <button class="filter-btn" data-venue="tekstintalo">Tekstin Talo</button>
+        <button class="filter-btn" data-venue="espoonteatteri">&amp; Espoon Teatteri</button>
+        <button class="filter-btn" data-venue="jurkka">Jurkka</button>
+        <button class="filter-btn" data-venue="ryhmateatteri">Ryhmäteatteri</button>
+        <button class="filter-btn" data-venue="other">Other Theatre</button>
+      </div>
+
+      <div id="events-container">
+        <div class="state-msg">Loading…</div>
+      </div>
+
+      <div class="footer">
+        Data: <a href="https://api.hel.fi/linkedevents/v1/" target="_blank">Linked Events API</a> · City of Helsinki
+      </div>
+    </main>
+
+  </div><!-- .layout -->
+</div><!-- .page -->
+
+<script src="/scrape-events.js"></script>
+<script>
+(function () {
+  const VENUES = {
+    stoa:              { id: 'tprek:7259',  label: 'Stoa',              cls: 'tag-stoa' },
+    zodiak:            { id: 'tprek:21316', label: 'Zodiak',             cls: 'tag-zodiak' },
+    tanssintalo:       { id: 'tprek:67887', label: 'Tanssin Talo',       cls: 'tag-tanssintalo' },
+    viirus:            { id: 'tprek:20979', label: 'Teater Viirus',      cls: 'tag-viirus' },
+    qteatteri:         { id: 'tprek:21070', label: 'Q-Teatteri',         cls: 'tag-qteatteri' },
+    kiasma:            { id: 'tprek:56341', label: 'Kiasma',             cls: 'tag-kiasma' },
+    caisa:             { id: 'tprek:7256',  label: 'Caisa',              cls: 'tag-caisa' },
+    takomo:            { id: null, label: 'Teatteri Takomo',  cls: 'tag-takomo' },
+    cirko:             { id: null, label: 'Cirko',            cls: 'tag-cirko' },
+    madhouse:          { id: null, label: 'Mad House',        cls: 'tag-madhouse' },
+    tekstintalo:       { id: null, label: 'Tekstin Talo',     cls: 'tag-tekstintalo' },
+    espoonteatteri:    { id: null, label: '& Espoon Teatteri',cls: 'tag-espoonteatteri' },
+    jurkka:            { id: null, label: 'Teatteri Jurkka',  cls: 'tag-jurkka' },
+    ryhmateatteri:     { id: null, label: 'Ryhmäteatteri',    cls: 'tag-ryhmateatteri' },
+    svenska:           { id: 'tprek:20755', label: 'Svenska Teatern',    cls: 'tag-svenska' },
+    kansallisteatteri: { id: 'tprek:20879', label: 'Kansallisteatteri',  cls: 'tag-kansallisteatteri' },
+    hkt:               { id: 'tprek:9302',  label: 'HKT',                cls: 'tag-hkt' },
+    hkt2:              { id: 'tprek:46367', label: 'HKT',                cls: 'tag-hkt' },
+    universum:         { id: null,          label: 'Universum',           cls: 'tag-universum' },
+  };
+
+  const OTHER_THEATRE = new Set(['svenska','kansallisteatteri','hkt','hkt2','universum']);
+
+  const ID_TO_VENUE = {};
+  for (const [key, v] of Object.entries(VENUES)) {
+    if (v.id) ID_TO_VENUE[v.id] = key;
+  }
+
+  const API_IDS = Object.values(VENUES)
+    .filter(v => v.id)
+    .map(v => v.id)
+    .join(',');
+
+  const MONTHS = ['January','February','March','April','May','June',
+                  'July','August','September','October','November','December'];
+  const DAYS   = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+
+  let currentYear  = new Date().getFullYear();
+  let currentMonth = new Date().getMonth();
+  let cachedEvents = null;
+
+  // ── Multi-select venue filter ─────────────────────────────────────────────────
+  const DEFAULT_VENUES = new Set([
+    'zodiak','tanssintalo','viirus','kiasma',
+    'takomo','madhouse','tekstintalo','espoonteatteri',
+  ]);
+  let activeVenues = new Set(DEFAULT_VENUES);
+
+  // ── Curated events ──────────────────────────────────────────────────────────
+  const CURATED_KEY = 'helsinki_curated_v1';
+
+  function evId(ev) { return ev.start_time + '||' + ev.title; }
+
+  function loadCurated() {
+    try { return JSON.parse(localStorage.getItem(CURATED_KEY) || '[]'); }
+    catch(e) { return []; }
+  }
+
+  function saveCurated() {
+    localStorage.setItem(CURATED_KEY, JSON.stringify(curated));
+  }
+
+  let curated = loadCurated();
+
+  function addToCurated(ev) {
+    const id = evId(ev);
+    if (curated.some(c => c.id === id)) return;
+    curated.push({
+      id,
+      title:      ev.title,
+      start_time: ev.start_time,
+      url:        ev.url || '',
+      venueKey:   ev._venueKey,
+    });
+    curated.sort((a, b) => {
+      if (!a.start_time && !b.start_time) return 0;
+      if (!a.start_time) return 1;
+      if (!b.start_time) return -1;
+      return a.start_time.localeCompare(b.start_time);
+    });
+    saveCurated();
+    renderCurated();
+    setAddBtnState(id, true);
+  }
+
+  function removeFromCurated(id) {
+    curated = curated.filter(c => c.id !== id);
+    saveCurated();
+    renderCurated();
+    setAddBtnState(id, false);
+  }
+
+  function gcalUrl(ev) {
+    const start = new Date(ev.start_time);
+    const end   = new Date(start.getTime() + 2 * 60 * 60 * 1000);
+    const fmt   = d => d.toISOString().replace(/[-:.]/g, '').slice(0, 15) + 'Z';
+    const vinfo = ev.venueKey ? VENUES[ev.venueKey] : null;
+    const p = new URLSearchParams({
+      action:   'TEMPLATE',
+      text:     ev.title,
+      dates:    fmt(start) + '/' + fmt(end),
+      location: vinfo ? vinfo.label : '',
+      details:  ev.url || '',
+    });
+    return 'https://calendar.google.com/calendar/render?' + p.toString();
+  }
+
+  async function toggleDates(eid) {
+    const item = document.querySelector(`.ci-item[data-eid="${CSS.escape(eid)}"]`);
+    if (!item) return;
+    const btn = item.querySelector('.ci-dates-btn');
+    const existing = item.querySelector('.ci-dates-panel');
+    if (existing) { existing.remove(); btn && btn.classList.remove('active'); return; }
+
+    const curatedEv = curated.find(c => c.id === eid);
+    if (!curatedEv) return;
+
+    btn && btn.classList.add('active');
+    const panel = document.createElement('div');
+    panel.className = 'ci-dates-panel';
+    panel.innerHTML = '<div class="ci-date-row" style="opacity:0.4">loading…</div>';
+    item.querySelector('.ci-title').after(panel);
+
+    let datesToShow = [];
+
+    // For scraped venues, search SCRAPED_EVENTS
+    const fromScraped = (window.SCRAPED_EVENTS || [])
+      .filter(e => e.title === curatedEv.title &&
+        (!curatedEv.venueKey || e.venue === curatedEv.venueKey));
+
+    if (fromScraped.length) {
+      datesToShow = fromScraped
+        .sort((a, b) => a.start_time.localeCompare(b.start_time))
+        .map(e => ({ title: e.title, start_time: e.start_time, url: e.url || '', venueKey: e.venue }));
+    } else if (curatedEv.venueKey) {
+      // For API venues, fetch all future dates from the API
+      const vinfo = VENUES[curatedEv.venueKey];
+      if (vinfo && vinfo.id) {
+        try {
+          const today = new Date().toISOString().slice(0, 10);
+          const url = `https://api.hel.fi/linkedevents/v1/event/?format=json`
+            + `&location=${vinfo.id}&start=${today}&page_size=100&sort=start_time`;
+          const results = await fetchAll(url);
+          datesToShow = results
+            .filter(e => (e.name?.fi || e.name?.en || '') === curatedEv.title && e.start_time)
+            .map(e => ({
+              title: curatedEv.title,
+              start_time: e.start_time,
+              url: e.info_url?.fi || e.info_url?.en || '',
+              venueKey: curatedEv.venueKey,
+            }));
+        } catch (err) { /* fall through to single-date fallback */ }
+      }
+    }
+
+    // Fallback: show only the single date that was added
+    if (!datesToShow.length && curatedEv.start_time) {
+      datesToShow = [{ title: curatedEv.title, start_time: curatedEv.start_time, url: curatedEv.url, venueKey: curatedEv.venueKey }];
+    }
+
+    if (!datesToShow.length) {
+      panel.innerHTML = '<div class="ci-date-row" style="opacity:0.4">no dates found</div>';
+      return;
+    }
+
+    panel.innerHTML = datesToShow.map(e => {
+      const d = new Date(e.start_time);
+      const dateStr = d.toLocaleDateString('fi-FI', { timeZone: 'Europe/Helsinki', weekday: 'short', day: 'numeric', month: 'numeric' });
+      const timeStr = d.toLocaleTimeString('fi-FI', { timeZone: 'Europe/Helsinki', hour: '2-digit', minute: '2-digit' });
+      const cal = gcalUrl({ title: e.title, start_time: e.start_time, url: e.url || '', venueKey: e.venueKey || null });
+      return `<div class="ci-date-row"><span>${dateStr} ${timeStr}</span><a class="ci-date-cal" href="${cal}" target="_blank" rel="noopener">cal</a></div>`;
+    }).join('');
+  }
+
+  function cycleColor(id) {
+    const ev = curated.find(c => c.id === id);
+    if (!ev) return;
+    ev.color = ev.color === 'red' ? null : 'red';
+    saveCurated();
+    renderCurated();
+  }
+
+  function setAddBtnState(id, added) {
+    document.querySelectorAll('.add-btn').forEach(btn => {
+      if (btn.dataset.eid === id) {
+        btn.classList.toggle('added', added);
+        btn.title = added ? 'Remove from list' : 'Add to list';
+        btn.textContent = added ? '✓' : '+';
+      }
+    });
+  }
+
+  function renderCurated() {
+    const countEl = document.getElementById('curated-count');
+    countEl.textContent = curated.length ? `(${curated.length})` : '';
+
+    const list = document.getElementById('curated-list');
+    if (!curated.length) {
+      list.innerHTML = '<div class="curated-empty">Add events with +</div>';
+      return;
+    }
+
+    // Group by month key "YYYY-MM", manual items → "undated"
+    const groups = {};
+    for (const ev of curated) {
+      const monthKey = ev.start_time
+        ? new Date(ev.start_time).toLocaleDateString('sv-SE', { timeZone: 'Europe/Helsinki' }).slice(0, 7)
+        : 'undated';
+      if (!groups[monthKey]) groups[monthKey] = [];
+      groups[monthKey].push(ev);
+    }
+
+    let html = '';
+    const sortedKeys = Object.keys(groups).sort((a, b) => {
+      if (a === 'undated') return 1;
+      if (b === 'undated') return -1;
+      return a.localeCompare(b);
+    });
+
+    for (const monthKey of sortedKeys) {
+      let headLabel;
+      if (monthKey === 'undated') {
+        headLabel = 'Undated';
+      } else {
+        const [yr, mo] = monthKey.split('-').map(Number);
+        headLabel = `${MONTHS[mo - 1]} ${yr}`;
+      }
+      html += `<div class="ci-month-group">
+        <div class="ci-month-head">${headLabel}</div>`;
+
+      for (const ev of groups[monthKey]) {
+        const vinfo    = ev.venueKey ? VENUES[ev.venueKey] : null;
+        const tag      = vinfo ? `<span class="venue-tag ${vinfo.cls}">${vinfo.label}</span>` : '';
+        const nameHtml = ev.url
+          ? `<a href="${esc(ev.url)}" target="_blank" rel="noopener">${esc(ev.title)}</a>`
+          : esc(ev.title);
+        const datesBtn = ev.start_time
+          ? `<button class="ci-dates-btn" title="Show dates">dates</button>` : '';
+
+        html += `<div class="ci-item${ev.color === 'red' ? ' color-red' : ''}" data-eid="${esc(ev.id)}" draggable="true">
+          <div class="ci-top">
+            ${datesBtn}
+            <button class="ci-color-btn${ev.color === 'red' ? ' color-red' : ''}" title="Mark red"></button>
+            <button class="ci-remove" title="Remove">×</button>
+          </div>
+          <div class="ci-title">${nameHtml}</div>
+          ${tag}
+          <div class="ci-note" contenteditable="true" data-eid="${esc(ev.id)}" data-placeholder="add note…">${esc(ev.note || '')}</div>
+        </div>`;
+      }
+      html += '</div>';
+    }
+
+    list.innerHTML = html;
+  }
+
+  // Event delegation for curated buttons
+  document.getElementById('curated-list').addEventListener('click', e => {
+    const removeBtn = e.target.closest('.ci-remove');
+    if (removeBtn) {
+      const item = removeBtn.closest('.ci-item');
+      if (item) removeFromCurated(item.dataset.eid);
+      return;
+    }
+    const colorBtn = e.target.closest('.ci-color-btn');
+    if (colorBtn) {
+      const item = colorBtn.closest('.ci-item');
+      if (item) cycleColor(item.dataset.eid);
+      return;
+    }
+    const datesBtn = e.target.closest('.ci-dates-btn');
+    if (datesBtn) {
+      const item = datesBtn.closest('.ci-item');
+      if (item) toggleDates(item.dataset.eid);
+    }
+  });
+
+  // Drag-and-drop reordering
+  let dragSrcEid = null;
+  const curatedListEl = document.getElementById('curated-list');
+
+  curatedListEl.addEventListener('dragstart', e => {
+    if (e.target.closest('[contenteditable], a, button, input')) return;
+    const item = e.target.closest('.ci-item');
+    if (!item) return;
+    dragSrcEid = item.dataset.eid;
+    item.classList.add('ci-dragging');
+    e.dataTransfer.effectAllowed = 'move';
+  });
+
+  curatedListEl.addEventListener('dragover', e => {
+    e.preventDefault();
+    const item = e.target.closest('.ci-item');
+    if (!item || item.dataset.eid === dragSrcEid) return;
+    curatedListEl.querySelectorAll('.ci-drag-over').forEach(el => el.classList.remove('ci-drag-over'));
+    item.classList.add('ci-drag-over');
+  });
+
+  curatedListEl.addEventListener('dragleave', e => {
+    if (!e.currentTarget.contains(e.relatedTarget)) {
+      curatedListEl.querySelectorAll('.ci-drag-over').forEach(el => el.classList.remove('ci-drag-over'));
+    }
+  });
+
+  curatedListEl.addEventListener('drop', e => {
+    e.preventDefault();
+    const item = e.target.closest('.ci-item');
+    if (!item || !dragSrcEid) return;
+    const targetEid = item.dataset.eid;
+    if (dragSrcEid === targetEid) return;
+    const srcIdx = curated.findIndex(c => c.id === dragSrcEid);
+    const tgtIdx = curated.findIndex(c => c.id === targetEid);
+    if (srcIdx === -1 || tgtIdx === -1) return;
+    const [moved] = curated.splice(srcIdx, 1);
+    curated.splice(tgtIdx, 0, moved);
+    saveCurated();
+    renderCurated();
+  });
+
+  curatedListEl.addEventListener('dragend', () => {
+    curatedListEl.querySelectorAll('.ci-dragging, .ci-drag-over').forEach(el => {
+      el.classList.remove('ci-dragging', 'ci-drag-over');
+    });
+    dragSrcEid = null;
+  });
+
+  // Save notes on input without re-rendering
+  document.getElementById('curated-list').addEventListener('input', e => {
+    const noteEl = e.target.closest('.ci-note');
+    if (!noteEl) return;
+    const ev = curated.find(c => c.id === noteEl.dataset.eid);
+    if (ev) { ev.note = noteEl.textContent; saveCurated(); }
+  });
+
+  // Manual add
+  function manualAdd() {
+    const input = document.getElementById('curated-add-input');
+    const title = input.value.trim();
+    if (!title) return;
+    const id = 'manual||' + Date.now();
+    curated.push({ id, title, start_time: null, url: '', venueKey: null });
+    saveCurated();
+    renderCurated();
+    input.value = '';
+  }
+  document.getElementById('curated-add-submit').addEventListener('click', manualAdd);
+  document.getElementById('curated-add-input').addEventListener('keydown', e => {
+    if (e.key === 'Enter') manualAdd();
+  });
+
+  document.getElementById('curated-clear').addEventListener('click', () => {
+    if (!curated.length) return;
+    curated = [];
+    saveCurated();
+    renderCurated();
+    // Reset all add buttons
+    document.querySelectorAll('.add-btn.added').forEach(btn => {
+      btn.classList.remove('added');
+      btn.title = 'Add to list';
+      btn.textContent = '+';
+    });
+  });
+
+  // ── Month navigation ─────────────────────────────────────────────────────────
+  document.getElementById('prev-btn').addEventListener('click', () => {
+    currentMonth--;
+    if (currentMonth < 0) { currentMonth = 11; currentYear--; }
+    cachedEvents = null;
+    load();
+  });
+
+  document.getElementById('next-btn').addEventListener('click', () => {
+    currentMonth++;
+    if (currentMonth > 11) { currentMonth = 0; currentYear++; }
+    cachedEvents = null;
+    load();
+  });
+
+  // ── Filters (multi-select) ───────────────────────────────────────────────────
+  const allBtn = document.querySelector('.filter-btn[data-venue="all"]');
+
+  function setsEqual(a, b) {
+    if (a.size !== b.size) return false;
+    for (const v of a) if (!b.has(v)) return false;
+    return true;
+  }
+
+  function syncFilterBtns() {
+    document.querySelectorAll('.filter-btn[data-venue]').forEach(b => {
+      const v = b.dataset.venue;
+      b.classList.toggle('active', v === 'all' ? activeVenues.size === 0 : activeVenues.has(v));
+    });
+    const favBtn = document.getElementById('favourites-btn');
+    if (favBtn) favBtn.classList.toggle('active', setsEqual(activeVenues, DEFAULT_VENUES));
+  }
+
+  document.querySelectorAll('.filter-btn[data-venue]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const v = btn.dataset.venue;
+      if (v === 'all') activeVenues.clear();
+      else if (activeVenues.has(v)) activeVenues.delete(v);
+      else activeVenues.add(v);
+      syncFilterBtns();
+      if (cachedEvents) render(cachedEvents);
+    });
+  });
+
+  // Set initial active states from DEFAULT_VENUES
+  syncFilterBtns();
+
+  document.getElementById('favourites-btn').addEventListener('click', () => {
+    activeVenues = new Set(DEFAULT_VENUES);
+    syncFilterBtns();
+    if (cachedEvents) render(cachedEvents);
+  });
+
+  document.getElementById('deselect-btn').addEventListener('click', () => {
+    activeVenues.clear();
+    syncFilterBtns();
+    if (cachedEvents) render(cachedEvents);
+  });
+
+  // ── Event delegation for add buttons ─────────────────────────────────────────
+  document.getElementById('events-container').addEventListener('click', e => {
+    const btn = e.target.closest('.add-btn');
+    if (!btn || !cachedEvents) return;
+    const id = btn.dataset.eid;
+    if (curated.some(c => c.id === id)) {
+      removeFromCurated(id);
+    } else {
+      const ev = cachedEvents.find(e => evId(e) === id);
+      if (ev) addToCurated(ev);
+    }
+  });
+
+  // ── Fetch all pages ───────────────────────────────────────────────────────────
+  async function fetchAll(startUrl) {
+    let results = [];
+    let url = startUrl;
+    while (url) {
+      const res = await fetch(url);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json();
+      results = results.concat(data.data || []);
+      url = data.meta?.next || null;
+    }
+    return results;
+  }
+
+  async function load() {
+    const container = document.getElementById('events-container');
+    container.innerHTML = '<div class="state-msg">Loading…</div>';
+    document.getElementById('month-label').textContent =
+      MONTHS[currentMonth] + ' ' + currentYear;
+
+    const pad = n => String(n).padStart(2, '0');
+    const start       = `${currentYear}-${pad(currentMonth + 1)}-01`;
+    const lastDay     = new Date(currentYear, currentMonth + 1, 0).getDate();
+    const end         = `${currentYear}-${pad(currentMonth + 1)}-${pad(lastDay)}`;
+    const monthPrefix = `${currentYear}-${pad(currentMonth + 1)}`;
+
+    const apiUrl = `https://api.hel.fi/linkedevents/v1/event/?format=json`
+      + `&location=${API_IDS}`
+      + `&start=${start}&end=${end}`
+      + `&include=location`
+      + `&page_size=100`
+      + `&sort=start_time`;
+
+    try {
+      const scraped   = window.SCRAPED_EVENTS || [];
+      const apiEvents = await fetchAll(apiUrl);
+
+      const normalised = apiEvents.map(ev => {
+        const pid  = placeId(ev);
+        const vkey = ID_TO_VENUE[pid] || null;
+        return {
+          _source:    'api',
+          _venueKey:  vkey,
+          start_time: ev.start_time,
+          title:      ev.name?.fi || ev.name?.en || '—',
+          url:        ev.info_url?.fi || ev.info_url?.en || '',
+        };
+      });
+
+      const scrapedMonth = scraped
+        .filter(ev => ev.start_time && ev.start_time.startsWith(monthPrefix))
+        .map(ev => ({
+          _source:    'scrape',
+          _venueKey:  ev.venue,
+          start_time: ev.start_time,
+          title:      ev.title,
+          url:        ev.url || '',
+        }));
+
+      const all = [...normalised, ...scrapedMonth]
+        .sort((a, b) => a.start_time.localeCompare(b.start_time));
+
+      cachedEvents = all;
+      render(all);
+    } catch (e) {
+      container.innerHTML = `<div class="state-msg">Could not load events — ${e.message}</div>`;
+    }
+  }
+
+  function placeId(ev) {
+    const raw = ev.location?.['@id'] || '';
+    const m = raw.match(/\/place\/([^\/\?]+)/);
+    return m ? m[1] : '';
+  }
+
+  // ── Render ───────────────────────────────────────────────────────────────────
+  function render(events) {
+    const container = document.getElementById('events-container');
+
+    const pad = n => String(n).padStart(2, '0');
+    const monthPrefix = `${currentYear}-${pad(currentMonth + 1)}`;
+
+    const venueFiltered = activeVenues.size === 0
+      ? events
+      : events.filter(ev => {
+          if (!ev._venueKey) return false;
+          if (activeVenues.has('other') && OTHER_THEATRE.has(ev._venueKey)) return true;
+          return activeVenues.has(ev._venueKey);
+        });
+
+    const filtered = venueFiltered.filter(ev => {
+      if (!ev.start_time) return false;
+      const localDate = new Date(ev.start_time)
+        .toLocaleDateString('sv-SE', { timeZone: 'Europe/Helsinki' });
+      return localDate.startsWith(monthPrefix);
+    });
+
+    if (!filtered.length) {
+      container.innerHTML = '<div class="state-msg">No events found for this period.</div>';
+      return;
+    }
+
+    // Group by Helsinki local date
+    const groups = {};
+    for (const ev of filtered) {
+      if (!ev.start_time) continue;
+      const dateKey = new Date(ev.start_time)
+        .toLocaleDateString('sv-SE', { timeZone: 'Europe/Helsinki' });
+      if (!groups[dateKey]) groups[dateKey] = [];
+      groups[dateKey].push(ev);
+    }
+
+    let html = '';
+    for (const dateKey of Object.keys(groups).sort()) {
+      const d = new Date(dateKey + 'T12:00:00+03:00');
+      html += `<div class="day-group">
+        <div class="day-heading">
+          <span class="day-name">${DAYS[d.getDay()]}</span>
+          <span class="day-num">${d.getDate()} ${MONTHS[d.getMonth()].slice(0,3)}</span>
+        </div>`;
+
+      for (const ev of groups[dateKey]) {
+        const nameHtml = ev.url
+          ? `<a href="${esc(ev.url)}" target="_blank" rel="noopener">${esc(ev.title)}</a>`
+          : esc(ev.title);
+
+        const timeStr = ev.start_time
+          ? new Date(ev.start_time).toLocaleTimeString('fi-FI', {
+              timeZone: 'Europe/Helsinki', hour: '2-digit', minute: '2-digit'
+            })
+          : '';
+
+        const vinfo = ev._venueKey ? VENUES[ev._venueKey] : null;
+        const tag   = vinfo ? `<span class="venue-tag ${vinfo.cls}">${vinfo.label}</span>` : '';
+
+        const id      = evId(ev);
+        const isAdded = curated.some(c => c.id === id);
+
+        html += `<div class="event">
+          <div class="event-time">${timeStr}</div>
+          <div class="event-body">
+            <div class="event-name">${nameHtml}</div>
+            ${tag}
+          </div>
+          <button class="add-btn${isAdded ? ' added' : ''}" data-eid="${esc(id)}" title="${isAdded ? 'Remove from list' : 'Add to list'}">${isAdded ? '✓' : '+'}</button>
+        </div>`;
+      }
+      html += '</div>';
+    }
+
+    container.innerHTML = html;
+  }
+
+  function esc(s) {
+    return String(s)
+      .replace(/&/g,'&amp;').replace(/</g,'&lt;')
+      .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  // ── Init ─────────────────────────────────────────────────────────────────────
+  renderCurated();
+  load();
+
+})();
+</script>
+</body>
+</html>
