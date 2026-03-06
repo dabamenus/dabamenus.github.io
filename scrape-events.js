@@ -469,13 +469,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://q-teatteri.fi/esitykset/kolme-sisarta"
   },
   {
-    "venue": "kiasma",
-    "venue_label": "Kiasma",
-    "title": "Samuli Niittymäki: Krispi Fraid",
-    "start_time": "2026-03-06T18:00:00+02:00",
-    "url": "https://kiasma.fi/esitykset/krispi-fraid/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Swedish Asshole",
@@ -509,13 +502,6 @@ window.SCRAPED_EVENTS = [
     "title": "Pie Kär, Lintu Lunar & Maya Oliva: LOVE&MAKING",
     "start_time": "2026-03-06T19:00:00+02:00",
     "url": "https://www.madhousehelsinki.fi/ohjelmisto/loveandmaking"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Maya Oliva, Lintu Lunar & Pie Kär: LOVE&MAKING",
-    "start_time": "2026-03-06T19:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/maya-oliva-lintu-lunar-pie-kar-love-making4"
   },
   {
     "venue": "takomo",
