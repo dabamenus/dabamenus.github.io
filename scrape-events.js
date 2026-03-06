@@ -301,13 +301,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/stuck"
   },
   {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Show Boudoir",
-    "start_time": "2026-02-06T20:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/show-boudoir/"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Sivuaskel 2026:Paneelikeskustelu",
@@ -537,6 +530,13 @@ window.SCRAPED_EVENTS = [
     "title": "Vinterkvällar",
     "start_time": "2026-03-06T19:00:00+02:00",
     "url": "https://universum.fi/events/vinterkvallar-6-3/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Show Boudoir",
+    "start_time": "2026-03-06T20:00:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/show-boudoir/"
   },
   {
     "venue": "zodiak",
