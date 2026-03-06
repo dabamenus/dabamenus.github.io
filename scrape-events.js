@@ -434,20 +434,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
   },
   {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Q&A / Queers and Ancestors",
-    "start_time": "2026-03-04T19:00:00+02:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/qa-queers-and-ancestors/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Täällä Pohjantähden alla",
-    "start_time": "2026-03-05T12:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taalla-pohjantahden-alla"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Zodiak Laboratory:Ninu Lindfors & Cia Rinne",
@@ -460,41 +446,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kolme sisarta",
     "start_time": "2026-03-05T18:00:00+02:00",
     "url": "https://q-teatteri.fi/esitykset/kolme-sisarta"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "&FEST: The Employees",
-    "start_time": "2026-03-05T18:30:00+02:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/fest-the-employees/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "TeaK-klubi: MITTA",
-    "start_time": "2026-03-05T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/teak-klubi-mitta"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Muistopäivä",
-    "start_time": "2026-03-05T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Frankofonia-spesiaali: Pardon my French!",
-    "start_time": "2026-03-05T19:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/frankofonia-spesiaali-pardon-my-french"
-  },
-  {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Under attack",
-    "start_time": "2026-03-05T19:00:00+02:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/under-attack/"
   },
   {
     "venue": "universum",
