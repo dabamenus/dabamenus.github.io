@@ -539,13 +539,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://espoonteatteri.fi/ohjelmisto/fest-the-employees/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "The Poet of Finland",
-    "start_time": "2026-03-07T14:00:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/the-poet-of-finland/"
-  },
-  {
     "venue": "takomo",
     "venue_label": "Teatteri Takomo",
     "title": "Q&A / Queers and Ancestors",
