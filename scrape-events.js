@@ -518,6 +518,20 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/lattia-laavaa"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
+    "start_time": "2026-03-07T14:00:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "&FEST: The Employees",
+    "start_time": "2026-03-07T14:00:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/fest-the-employees/"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Swedish Asshole",
@@ -544,13 +558,6 @@ window.SCRAPED_EVENTS = [
     "title": "Pie Kär, Lintu Lunar & Maya Oliva: LOVE&MAKING",
     "start_time": "2026-03-07T19:00:00+02:00",
     "url": "https://www.madhousehelsinki.fi/ohjelmisto/loveandmaking"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Maya Oliva, Lintu Lunar & Pie Kär: LOVE&MAKING",
-    "start_time": "2026-03-07T19:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/maya-oliva-lintu-lunar-pie-kar-love-making4-2"
   },
   {
     "venue": "kiasma",
@@ -581,6 +588,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/vinterkvallar-9-3/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "&FEST:  The Gummy Bears’ Great War",
+    "start_time": "2026-03-10T18:00:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/fest-the-gummy-bears-great-war/"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Swedish Asshole",
@@ -607,6 +621,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kolme sisarta",
     "start_time": "2026-03-11T18:00:00+02:00",
     "url": "https://q-teatteri.fi/esitykset/kolme-sisarta"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "&FEST:  The Gummy Bears’ Great War",
+    "start_time": "2026-03-11T18:00:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/fest-the-gummy-bears-great-war/"
   },
   {
     "venue": "viirus",
@@ -658,6 +679,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://q-teatteri.fi/esitykset/kolme-sisarta"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "&FEST: The Birds",
+    "start_time": "2026-03-12T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/fest-the-birds/"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "The Poet of Finland",
@@ -705,6 +733,13 @@ window.SCRAPED_EVENTS = [
     "title": "Uuteen nousuun",
     "start_time": "2026-03-13T18:30:00+02:00",
     "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "&FEST: The Birds",
+    "start_time": "2026-03-13T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/fest-the-birds/"
   },
   {
     "venue": "kansallisteatteri",
@@ -768,6 +803,13 @@ window.SCRAPED_EVENTS = [
     "title": "Uuteen nousuun",
     "start_time": "2026-03-14T14:00:00+02:00",
     "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "&FEST: The Birds",
+    "start_time": "2026-03-14T14:00:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/fest-the-birds/"
   },
   {
     "venue": "ryhmateatteri",
@@ -924,6 +966,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "&Fest: YES DADDY",
+    "start_time": "2026-03-19T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/fest-yes-daddy/"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "The Poet of Finland",
@@ -994,6 +1043,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "&Fest: YES DADDY",
+    "start_time": "2026-03-20T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/fest-yes-daddy/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Toinen tasavalta",
@@ -1027,6 +1083,13 @@ window.SCRAPED_EVENTS = [
     "title": "Uuteen nousuun",
     "start_time": "2026-03-21T14:00:00+02:00",
     "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "&Fest: YES DADDY",
+    "start_time": "2026-03-21T14:00:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/fest-yes-daddy/"
   },
   {
     "venue": "ryhmateatteri",
@@ -1162,6 +1225,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "&FEST: Zona Franca",
+    "start_time": "2026-03-25T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/fest-zona-franca/"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Näytelmätehdas",
@@ -1216,6 +1286,13 @@ window.SCRAPED_EVENTS = [
     "title": "Uuteen nousuun",
     "start_time": "2026-03-26T18:30:00+02:00",
     "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "&FEST: Zona Franca",
+    "start_time": "2026-03-26T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/fest-zona-franca/"
   },
   {
     "venue": "ryhmateatteri",
@@ -1274,6 +1351,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "&FEST: Zona Franca",
+    "start_time": "2026-03-27T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/fest-zona-franca/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Täällä Pohjantähden alla",
@@ -1321,6 +1405,13 @@ window.SCRAPED_EVENTS = [
     "title": "Täällä Pohjantähden alla",
     "start_time": "2026-03-28T12:00:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/taalla-pohjantahden-alla"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "&FEST: asses.masses",
+    "start_time": "2026-03-28T13:00:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/fest-asses-masses/"
   },
   {
     "venue": "kansallisteatteri",
@@ -1384,6 +1475,13 @@ window.SCRAPED_EVENTS = [
     "title": "Riksteatern: Dödsdansen",
     "start_time": "2026-03-28T19:00:00+02:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/riksteatern-dodsdansen/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "&FEST: asses.masses",
+    "start_time": "2026-03-29T13:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/fest-asses-masses/"
   },
   {
     "venue": "viirus",
@@ -1785,6 +1883,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/trag3dia-1604"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
+    "start_time": "2026-04-16T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Pelastaja",
@@ -1876,6 +1981,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/ympyrat-jotka-kuvittelevat-olevansa-viivoja"
   },
   {
+    "venue": "cirko",
+    "venue_label": "Cirko",
+    "title": "Kallo Collective: The Story of Pluto, Who Wanted to Be a Planet",
+    "start_time": "2026-04-18T12:30:00+03:00",
+    "url": "https://cirko.fi/esitys/kallo-collective-the-story-of-pluto-who-wanted-to-be-a-planet/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Nämä juhlat jatkuvat vielä",
@@ -1909,6 +2021,20 @@ window.SCRAPED_EVENTS = [
     "title": "Uuteen nousuun",
     "start_time": "2026-04-18T14:00:00+02:00",
     "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
+    "start_time": "2026-04-18T14:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
+  },
+  {
+    "venue": "cirko",
+    "venue_label": "Cirko",
+    "title": "Kallo Collective: The Story of Pluto, Who Wanted to Be a Planet",
+    "start_time": "2026-04-18T15:00:00+03:00",
+    "url": "https://cirko.fi/esitys/kallo-collective-the-story-of-pluto-who-wanted-to-be-a-planet/"
   },
   {
     "venue": "viirus",
@@ -2037,6 +2163,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/to-be-brutally-honest-2-0/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
+    "start_time": "2026-04-21T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Täällä Pohjantähden alla",
@@ -2112,6 +2245,13 @@ window.SCRAPED_EVENTS = [
     "title": "SCREAM CRY EXORCISE",
     "start_time": "2026-04-23T18:00:00+03:00",
     "url": "https://kiasma.fi/esitykset/scream-cry-exorcise/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
+    "start_time": "2026-04-23T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2198,6 +2338,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/naiskirjoittamisen-kurssi-2"
   },
   {
+    "venue": "cirko",
+    "venue_label": "Cirko",
+    "title": "Kallo Collective: The Story of Pluto, Who Wanted to Be a Planet",
+    "start_time": "2026-04-25T12:30:00+03:00",
+    "url": "https://cirko.fi/esitys/kallo-collective-the-story-of-pluto-who-wanted-to-be-a-planet/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Vanja",
@@ -2233,11 +2380,25 @@ window.SCRAPED_EVENTS = [
     "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
+    "start_time": "2026-04-25T14:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
+  },
+  {
     "venue": "kiasma",
     "venue_label": "Kiasma",
     "title": "SCREAM CRY EXORCISE",
     "start_time": "2026-04-25T15:00:00+03:00",
     "url": "https://kiasma.fi/esitykset/scream-cry-exorcise/"
+  },
+  {
+    "venue": "cirko",
+    "venue_label": "Cirko",
+    "title": "Kallo Collective: The Story of Pluto, Who Wanted to Be a Planet",
+    "start_time": "2026-04-25T15:00:00+03:00",
+    "url": "https://cirko.fi/esitys/kallo-collective-the-story-of-pluto-who-wanted-to-be-a-planet/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2352,6 +2513,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/to-be-brutally-honest-2-0/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
+    "start_time": "2026-04-28T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Muistopäivä",
@@ -2392,6 +2560,13 @@ window.SCRAPED_EVENTS = [
     "title": "to be brutally honest 2.0",
     "start_time": "2026-04-29T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/to-be-brutally-honest-2-0/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
+    "start_time": "2026-04-29T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2548,11 +2723,25 @@ window.SCRAPED_EVENTS = [
     "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
+    "start_time": "2026-05-05T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Ashla: Underdogs",
     "start_time": "2026-05-06T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/ashla-underdogs/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
+    "start_time": "2026-05-06T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2595,6 +2784,13 @@ window.SCRAPED_EVENTS = [
     "title": "Ashla: Underdogs",
     "start_time": "2026-05-07T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/ashla-underdogs/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
+    "start_time": "2026-05-07T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
   },
   {
     "venue": "kansallisteatteri",
