@@ -511,13 +511,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.madhousehelsinki.fi/ohjelmisto/loveandmaking"
   },
   {
-    "venue": "kiasma",
-    "venue_label": "Kiasma",
-    "title": "Samuli Niittymäki: Krispi Fraid",
-    "start_time": "2026-03-08T15:00:00+02:00",
-    "url": "https://kiasma.fi/esitykset/krispi-fraid/"
-  },
-  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Vinterkvällar",
