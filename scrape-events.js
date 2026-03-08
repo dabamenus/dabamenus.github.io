@@ -476,13 +476,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.madhousehelsinki.fi/ohjelmisto/loveandmaking"
   },
   {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "Vinterkvällar",
-    "start_time": "2026-03-06T19:00:00+02:00",
-    "url": "https://universum.fi/events/vinterkvallar-6-3/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Show Boudoir",
@@ -497,20 +490,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/lattia-laavaa"
   },
   {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
-    "start_time": "2026-03-07T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Nämä juhlat jatkuvat vielä",
-    "start_time": "2026-03-07T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Janina Rajakangas Projekti:Lattia on laavaa",
@@ -518,39 +497,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/lattia-laavaa"
   },
   {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
-    "start_time": "2026-03-07T14:00:00+02:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "&FEST: The Employees",
-    "start_time": "2026-03-07T14:00:00+02:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/fest-the-employees/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Swedish Asshole",
     "start_time": "2026-03-07T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/swedish-asshole/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Täällä Pohjantähden alla",
-    "start_time": "2026-03-07T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taalla-pohjantahden-alla"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Jotuni",
-    "start_time": "2026-03-07T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/jotuni"
   },
   {
     "venue": "madhouse",
