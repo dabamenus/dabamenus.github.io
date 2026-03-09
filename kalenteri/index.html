@@ -138,8 +138,8 @@
     }
     .ci-item:active { cursor: grabbing; }
     .ci-item:last-child { border-bottom: none; }
-    .ci-item.color-green  { background: #D4FCD4; }
-    .ci-item.color-purple { background: #FCD4FC; }
+    .ci-item.color-green, .event.color-green   { background: #D4FCD4; }
+    .ci-item.color-purple, .event.color-purple { background: #FCD4FC; }
     .ci-item.ci-dragging { opacity: 0.35; }
     .ci-item.ci-drag-over { outline: 1px dashed rgba(0,0,0,0.35); background: rgba(0,0,0,0.03); }
 
@@ -744,12 +744,6 @@
       url:        ev.url || '',
       venueKey:   ev._venueKey,
     });
-    curated.sort((a, b) => {
-      if (!a.start_time && !b.start_time) return 0;
-      if (!a.start_time) return 1;
-      if (!b.start_time) return -1;
-      return a.start_time.localeCompare(b.start_time);
-    });
     saveCurated();
     renderCurated();
     setAddBtnState(id, true);
@@ -898,49 +892,32 @@
       return;
     }
 
-    // Group by month key "YYYY-MM", past events → "meni-jo", manual → "undated"
-    const groups = {};
-    for (const ev of curated) {
-      let monthKey;
-      if (!ev.start_time)       monthKey = 'undated';
-      else if (isAllPast(ev))   monthKey = 'meni-jo';
-      else monthKey = new Date(ev.start_time).toLocaleDateString('sv-SE', { timeZone: 'Europe/Helsinki' }).slice(0, 7);
-      if (!groups[monthKey]) groups[monthKey] = [];
-      groups[monthKey].push(ev);
+    // Separate past events to render at the end; render active items in array order
+    const meniJo = curated.filter(ev => isAllPast(ev));
+    const active  = curated.filter(ev => !isAllPast(ev));
+
+    function evMonthKey(ev) {
+      if (!ev.start_time) return 'undated';
+      return new Date(ev.start_time).toLocaleDateString('sv-SE', { timeZone: 'Europe/Helsinki' }).slice(0, 7);
     }
 
-    let html = '';
-    const sortedKeys = Object.keys(groups).sort((a, b) => {
-      if (a === 'meni-jo') return 1;
-      if (b === 'meni-jo') return -1;
-      if (a === 'undated') return 1;
-      if (b === 'undated') return -1;
-      return a.localeCompare(b);
-    });
+    function monthLabel(key) {
+      if (key === 'undated') return 'Undated';
+      const [yr, mo] = key.split('-').map(Number);
+      return `${MONTHS[mo - 1]} ${yr}`;
+    }
 
-    for (const monthKey of sortedKeys) {
-      let headLabel;
-      if (monthKey === 'meni-jo')  headLabel = 'Meni jo';
-      else if (monthKey === 'undated') headLabel = 'Undated';
-      else {
-        const [yr, mo] = monthKey.split('-').map(Number);
-        headLabel = `${MONTHS[mo - 1]} ${yr}`;
-      }
-      html += `<div class="ci-month-group">
-        <div class="ci-month-head">${headLabel}</div>`;
-
-      for (const ev of groups[monthKey]) {
-        const vinfo    = ev.venueKey ? VENUES[ev.venueKey] : null;
-        const tag      = vinfo ? `<span class="venue-tag ${vinfo.cls}">${vinfo.label}</span>` : '';
-        const nameHtml = ev.url
-          ? `<a href="${esc(ev.url)}" target="_blank" rel="noopener">${esc(ev.title)}</a>`
-          : esc(ev.title);
-        const datesBtn = ev.start_time
-          ? `<button class="ci-dates-btn" title="Show dates">dates</button>` : '';
-        const runningTime = getRunningTime(ev);
-        const past = isAllPast(ev);
-
-        html += `<div class="ci-item${ev.color ? ' color-' + ev.color : ''}" data-eid="${esc(ev.id)}" draggable="true">
+    function renderItem(ev) {
+      const vinfo    = ev.venueKey ? VENUES[ev.venueKey] : null;
+      const tag      = vinfo ? `<span class="venue-tag ${vinfo.cls}">${vinfo.label}</span>` : '';
+      const nameHtml = ev.url
+        ? `<a href="${esc(ev.url)}" target="_blank" rel="noopener">${esc(ev.title)}</a>`
+        : esc(ev.title);
+      const datesBtn = ev.start_time
+        ? `<button class="ci-dates-btn" title="Show dates">dates</button>` : '';
+      const runningTime = getRunningTime(ev);
+      const past = isAllPast(ev);
+      return `<div class="ci-item${ev.color ? ' color-' + ev.color : ''}" data-eid="${esc(ev.id)}" draggable="true">
           <div class="ci-top">
             ${datesBtn}
             <button class="ci-color-btn${ev.color ? ' color-' + ev.color : ''}" title="Color"></button>
@@ -951,7 +928,28 @@
           ${tag}
           <div class="ci-note" contenteditable="true" data-eid="${esc(ev.id)}" data-placeholder="add note…">${esc(ev.note || '')}</div>
         </div>`;
+    }
+
+    // Render active items in their array order; emit a group header whenever the month changes
+    let html = '';
+    let currentKey = null;
+    let inGroup = false;
+    for (const ev of active) {
+      const key = evMonthKey(ev);
+      if (key !== currentKey) {
+        if (inGroup) html += '</div>';
+        html += `<div class="ci-month-group"><div class="ci-month-head">${monthLabel(key)}</div>`;
+        currentKey = key;
+        inGroup = true;
       }
+      html += renderItem(ev);
+    }
+    if (inGroup) html += '</div>';
+
+    // Meni jo at the end
+    if (meniJo.length) {
+      html += `<div class="ci-month-group"><div class="ci-month-head">Meni jo</div>`;
+      for (const ev of meniJo) html += renderItem(ev);
       html += '</div>';
     }
 
@@ -1275,10 +1273,12 @@
         const vinfo = ev._venueKey ? VENUES[ev._venueKey] : null;
         const tag   = vinfo ? `<span class="venue-tag ${vinfo.cls}">${vinfo.label}</span>` : '';
 
-        const id      = evId(ev);
-        const isAdded = curated.some(c => c.id === id);
+        const id        = evId(ev);
+        const curatedEv = curated.find(c => c.id === id);
+        const isAdded   = !!curatedEv;
+        const colorCls  = curatedEv?.color ? ` color-${curatedEv.color}` : '';
 
-        html += `<div class="event">
+        html += `<div class="event${colorCls}">
           <div class="event-time">${timeStr}</div>
           <div class="event-body">
             <div class="event-name">${nameHtml}</div>
@@ -1311,13 +1311,8 @@
       curated = [];
     }
     renderCurated();
-    // Sync add-button states in the main list
-    document.querySelectorAll('.add-btn').forEach(btn => {
-      const added = curated.some(c => c.id === btn.dataset.eid);
-      btn.classList.toggle('added', added);
-      btn.title = added ? 'Remove from list' : 'Add to list';
-      btn.textContent = added ? '✓' : '+';
-    });
+    // Re-render event list so colors and add-button states stay in sync
+    if (cachedEvents) render(cachedEvents);
   });
 
   load();
