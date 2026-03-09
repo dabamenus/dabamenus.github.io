@@ -737,13 +737,22 @@
   function addToCurated(ev) {
     const id = evId(ev);
     if (curated.some(c => c.id === id)) return;
-    curated.push({
-      id,
-      title:      ev.title,
-      start_time: ev.start_time,
-      url:        ev.url || '',
-      venueKey:   ev._venueKey,
-    });
+    const newItem = { id, title: ev.title, start_time: ev.start_time, url: ev.url || '', venueKey: ev._venueKey };
+
+    // Insert after the last existing item of the same month so it joins its group
+    if (ev.start_time) {
+      const monthKey = new Date(ev.start_time).toLocaleDateString('sv-SE', { timeZone: 'Europe/Helsinki' }).slice(0, 7);
+      let insertIdx = -1;
+      for (let i = curated.length - 1; i >= 0; i--) {
+        if (!curated[i].start_time) continue;
+        const k = new Date(curated[i].start_time).toLocaleDateString('sv-SE', { timeZone: 'Europe/Helsinki' }).slice(0, 7);
+        if (k === monthKey) { insertIdx = i + 1; break; }
+      }
+      if (insertIdx >= 0) curated.splice(insertIdx, 0, newItem);
+      else curated.push(newItem);
+    } else {
+      curated.push(newItem);
+    }
     saveCurated();
     renderCurated();
     setAddBtnState(id, true);
