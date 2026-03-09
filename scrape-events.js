@@ -469,13 +469,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/swedish-asshole/"
   },
   {
-    "venue": "madhouse",
-    "venue_label": "Mad House",
-    "title": "Pie Kär, Lintu Lunar & Maya Oliva: LOVE&MAKING",
-    "start_time": "2026-03-06T19:00:00+02:00",
-    "url": "https://www.madhousehelsinki.fi/ohjelmisto/loveandmaking"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Show Boudoir",
@@ -502,13 +495,6 @@ window.SCRAPED_EVENTS = [
     "title": "Swedish Asshole",
     "start_time": "2026-03-07T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/swedish-asshole/"
-  },
-  {
-    "venue": "madhouse",
-    "venue_label": "Mad House",
-    "title": "Pie Kär, Lintu Lunar & Maya Oliva: LOVE&MAKING",
-    "start_time": "2026-03-07T19:00:00+02:00",
-    "url": "https://www.madhousehelsinki.fi/ohjelmisto/loveandmaking"
   },
   {
     "venue": "universum",
