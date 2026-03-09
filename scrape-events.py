@@ -848,7 +848,7 @@ print('Scraping Tanssin Talo...')
 
 try:
     gql_url = 'https://www.tanssintalo.fi/api'
-    query = '{ experiencesEntries(limit: 300, orderBy: "startDate asc") { title slug startDate } }'
+    query = '{ experiencesEntries(limit: 300, orderBy: "startDate asc") { title slug startDate endDate } }'
     resp = requests.post(gql_url,
                          json={'query': query},
                          headers={**HEADERS, 'Content-Type': 'application/json'},
@@ -858,27 +858,91 @@ try:
     print(f'  Found {len(entries)} entries')
 
     now_utc = datetime.now(timezone.utc)
-    count = 0
+    today   = date.today()
+    count   = 0
+
+    # Track (title, date) pairs already added to avoid duplicates across multiple slugs
+    tt_seen = set()
+
     for entry in entries:
         title     = entry.get('title', '').strip()
         slug      = entry.get('slug', '')
         start_raw = entry.get('startDate', '')
-        if not title or not start_raw:
+        end_raw   = entry.get('endDate', '') or start_raw
+        if not title or not slug or not start_raw:
             continue
+
+        # Parse startDate — stored as UTC midnight of Finnish date
+        # e.g. Finnish April 1 midnight = UTC March 31 21:00 (UTC+3 in summer)
+        # Convert to Finnish local date for correct month assignment
         try:
-            dt = datetime.fromisoformat(start_raw)
-            if dt < now_utc - timedelta(days=1):
+            start_dt = datetime.fromisoformat(start_raw)
+            if start_dt.tzinfo is None:
+                start_dt = start_dt.replace(tzinfo=timezone.utc)
+        except (ValueError, TypeError):
+            continue
+
+        # Skip shows whose run ended more than a day ago
+        try:
+            end_dt = datetime.fromisoformat(end_raw)
+            if end_dt.tzinfo is None:
+                end_dt = end_dt.replace(tzinfo=timezone.utc)
+        except (ValueError, TypeError):
+            end_dt = start_dt
+
+        if end_dt < now_utc - timedelta(days=1):
+            continue
+
+        show_url = f'https://www.tanssintalo.fi/ohjelma/{slug}'
+
+        # Convert UTC startDate to Finnish local date (UTC+3 summer, UTC+2 winter)
+        # We use the hki_tz helper logic in reverse: the CMS stores midnight Finnish as UTC
+        start_hki_date = (start_dt + timedelta(hours=3)).date()  # approximate: UTC+3 covers summer
+
+        # Determine expected run window for filtering scraped dates
+        end_hki_date = (end_dt + timedelta(hours=3)).date()
+        run_start = start_hki_date                       # don't pick up other shows listed before this one
+        run_end   = end_hki_date   + timedelta(days=7)   # small buffer after stated end date
+
+        # Scrape individual performance dates from page text (DD.MM.YYYY patterns)
+        dates_found = []
+        try:
+            pr = get(show_url)
+            psoup = BeautifulSoup(pr.text, 'html.parser')
+            text = psoup.get_text()
+            for m in re.finditer(r'(\d{1,2})\.(\d{1,2})\.(202\d)', text):
+                day, month, year = int(m.group(1)), int(m.group(2)), int(m.group(3))
+                try:
+                    d = date(year, month, day)
+                    # Only accept dates within the show's expected run window
+                    if run_start <= d <= run_end and d >= today - timedelta(days=1):
+                        dates_found.append(d)
+                except ValueError:
+                    pass
+            dates_found = sorted(set(dates_found))
+        except Exception as e:
+            print(f'  SKIP page {slug}: {e}')
+
+        # Fallback: use the GraphQL startDate Finnish local date
+        if not dates_found:
+            if start_hki_date >= today - timedelta(days=1):
+                dates_found = [start_hki_date]
+
+        for d in dates_found:
+            key = (title, d.isoformat())
+            if key in tt_seen:
                 continue
+            tt_seen.add(key)
             events.append({
                 'venue':       'tanssintalo',
                 'venue_label': 'Tanssin Talo',
                 'title':       title,
-                'start_time':  dt.isoformat(),
-                'url':         f'https://www.tanssintalo.fi/ohjelma/{slug}',
+                'start_time':  hki_tz(d, '19:00'),
+                'url':         show_url,
             })
             count += 1
-        except (ValueError, TypeError) as e:
-            print(f'  Skip {title}: {e}')
+
+        print(f'  {title}: {len(dates_found)} dates')
 
     print(f'  {count} events added')
 
