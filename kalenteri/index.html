@@ -138,7 +138,8 @@
     }
     .ci-item:active { cursor: grabbing; }
     .ci-item:last-child { border-bottom: none; }
-    .ci-item.color-red { background: #fde8e8; }
+    .ci-item.color-green  { background: #D4FCD4; }
+    .ci-item.color-purple { background: #FCD4FC; }
     .ci-item.ci-dragging { opacity: 0.35; }
     .ci-item.ci-drag-over { outline: 1px dashed rgba(0,0,0,0.35); background: rgba(0,0,0,0.03); }
 
@@ -176,8 +177,9 @@
       transition: background 120ms, border-color 120ms;
     }
 
-    .ci-color-btn:hover       { border-color: #c04848; background: rgba(192,72,72,0.12); }
-    .ci-color-btn.color-red   { background: #c04848; border-color: #c04848; }
+    .ci-color-btn:hover         { border-color: #999; background: rgba(0,0,0,0.08); }
+    .ci-color-btn.color-green   { background: #D4FCD4; border-color: #90c490; }
+    .ci-color-btn.color-purple  { background: #FCD4FC; border-color: #c490c4; }
 
     .ci-remove {
       background: none;
@@ -845,7 +847,8 @@
   function cycleColor(id) {
     const ev = curated.find(c => c.id === id);
     if (!ev) return;
-    ev.color = ev.color === 'red' ? null : 'red';
+    const cycle = { green: 'purple', purple: null };
+    ev.color = cycle[ev.color] ?? 'green';
     saveCurated();
     renderCurated();
   }
@@ -894,18 +897,21 @@
       return;
     }
 
-    // Group by month key "YYYY-MM", manual items → "undated"
+    // Group by month key "YYYY-MM", past events → "meni-jo", manual → "undated"
     const groups = {};
     for (const ev of curated) {
-      const monthKey = ev.start_time
-        ? new Date(ev.start_time).toLocaleDateString('sv-SE', { timeZone: 'Europe/Helsinki' }).slice(0, 7)
-        : 'undated';
+      let monthKey;
+      if (!ev.start_time)       monthKey = 'undated';
+      else if (isAllPast(ev))   monthKey = 'meni-jo';
+      else monthKey = new Date(ev.start_time).toLocaleDateString('sv-SE', { timeZone: 'Europe/Helsinki' }).slice(0, 7);
       if (!groups[monthKey]) groups[monthKey] = [];
       groups[monthKey].push(ev);
     }
 
     let html = '';
     const sortedKeys = Object.keys(groups).sort((a, b) => {
+      if (a === 'meni-jo') return 1;
+      if (b === 'meni-jo') return -1;
       if (a === 'undated') return 1;
       if (b === 'undated') return -1;
       return a.localeCompare(b);
@@ -913,9 +919,9 @@
 
     for (const monthKey of sortedKeys) {
       let headLabel;
-      if (monthKey === 'undated') {
-        headLabel = 'Undated';
-      } else {
+      if (monthKey === 'meni-jo')  headLabel = 'Meni jo';
+      else if (monthKey === 'undated') headLabel = 'Undated';
+      else {
         const [yr, mo] = monthKey.split('-').map(Number);
         headLabel = `${MONTHS[mo - 1]} ${yr}`;
       }
@@ -933,10 +939,10 @@
         const runningTime = getRunningTime(ev);
         const past = isAllPast(ev);
 
-        html += `<div class="ci-item${ev.color === 'red' ? ' color-red' : ''}" data-eid="${esc(ev.id)}" draggable="true">
+        html += `<div class="ci-item${ev.color ? ' color-' + ev.color : ''}" data-eid="${esc(ev.id)}" draggable="true">
           <div class="ci-top">
             ${datesBtn}
-            <button class="ci-color-btn${ev.color === 'red' ? ' color-red' : ''}" title="Mark red"></button>
+            <button class="ci-color-btn${ev.color ? ' color-' + ev.color : ''}" title="Color"></button>
             <button class="ci-remove" title="Remove">×</button>
           </div>
           ${runningTime ? `<div class="ci-running-time">${runningTime}</div>` : ''}
