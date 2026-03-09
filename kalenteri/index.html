@@ -930,16 +930,18 @@
         </div>`;
     }
 
-    // Render active items in their array order; emit a group header whenever the month changes
+    // Render active items in their array order; emit a group header whenever the month changes.
+    // Undated items inherit the current group rather than forcing an "Undated" sub-header.
     let html = '';
     let currentKey = null;
     let inGroup = false;
     for (const ev of active) {
       const key = evMonthKey(ev);
-      if (key !== currentKey) {
+      const effectiveKey = (key === 'undated' && currentKey !== null) ? currentKey : key;
+      if (effectiveKey !== currentKey) {
         if (inGroup) html += '</div>';
-        html += `<div class="ci-month-group"><div class="ci-month-head">${monthLabel(key)}</div>`;
-        currentKey = key;
+        html += `<div class="ci-month-group"><div class="ci-month-head">${monthLabel(effectiveKey)}</div>`;
+        currentKey = effectiveKey;
         inGroup = true;
       }
       html += renderItem(ev);
