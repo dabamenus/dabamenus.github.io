@@ -229,6 +229,18 @@
       background: #000;
     }
 
+    .ci-title.past,
+    .ci-title.past a { text-decoration: line-through; opacity: 0.45; }
+
+    .ci-running-time {
+      font-family: var(--font-mono);
+      font-size: 0.58rem;
+      color: var(--muted);
+      opacity: 0.6;
+      margin-bottom: 2px;
+      letter-spacing: 0.02em;
+    }
+
     .ci-note {
       font-family: var(--font-sans);
       font-size: 0.68rem;
@@ -848,6 +860,30 @@
     });
   }
 
+  function getScrapedDates(ev) {
+    return (window.SCRAPED_EVENTS || [])
+      .filter(e => e.title === ev.title && (!ev.venueKey || e.venue === ev.venueKey))
+      .map(e => e.start_time)
+      .sort();
+  }
+
+  function getRunningTime(ev) {
+    if (!ev.start_time) return null;
+    const fmt = d => d.toLocaleDateString('fi-FI', { timeZone: 'Europe/Helsinki', day: 'numeric', month: 'numeric', year: 'numeric' });
+    const dates = getScrapedDates(ev);
+    if (dates.length > 1) return `${fmt(new Date(dates[0]))}–${fmt(new Date(dates[dates.length - 1]))}`;
+    if (dates.length === 1) return fmt(new Date(dates[0]));
+    return fmt(new Date(ev.start_time));
+  }
+
+  function isAllPast(ev) {
+    if (!ev.start_time) return false;
+    const now = new Date();
+    const dates = getScrapedDates(ev);
+    const last = dates.length ? new Date(dates[dates.length - 1]) : new Date(ev.start_time);
+    return last < now;
+  }
+
   function renderCurated() {
     const countEl = document.getElementById('curated-count');
     countEl.textContent = curated.length ? `(${curated.length})` : '';
@@ -894,6 +930,8 @@
           : esc(ev.title);
         const datesBtn = ev.start_time
           ? `<button class="ci-dates-btn" title="Show dates">dates</button>` : '';
+        const runningTime = getRunningTime(ev);
+        const past = isAllPast(ev);
 
         html += `<div class="ci-item${ev.color === 'red' ? ' color-red' : ''}" data-eid="${esc(ev.id)}" draggable="true">
           <div class="ci-top">
@@ -901,7 +939,8 @@
             <button class="ci-color-btn${ev.color === 'red' ? ' color-red' : ''}" title="Mark red"></button>
             <button class="ci-remove" title="Remove">×</button>
           </div>
-          <div class="ci-title">${nameHtml}</div>
+          ${runningTime ? `<div class="ci-running-time">${runningTime}</div>` : ''}
+          <div class="ci-title${past ? ' past' : ''}">${nameHtml}</div>
           ${tag}
           <div class="ci-note" contenteditable="true" data-eid="${esc(ev.id)}" data-placeholder="add note…">${esc(ev.note || '')}</div>
         </div>`;
@@ -982,12 +1021,15 @@
     dragSrcEid = null;
   });
 
-  // Save notes on input without re-rendering
-  document.getElementById('curated-list').addEventListener('input', e => {
+  // Save notes when leaving the field (focusout bubbles, unlike blur)
+  document.getElementById('curated-list').addEventListener('focusout', e => {
     const noteEl = e.target.closest('.ci-note');
     if (!noteEl) return;
     const ev = curated.find(c => c.id === noteEl.dataset.eid);
-    if (ev) { ev.note = noteEl.textContent; saveCurated(); }
+    if (ev && ev.note !== noteEl.textContent) {
+      ev.note = noteEl.textContent;
+      saveCurated();
+    }
   });
 
   // Manual add
