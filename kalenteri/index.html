@@ -248,15 +248,13 @@
       font-size: 0.68rem;
       color: var(--muted);
       outline: none;
-      padding: 2px 4px 3px;
+      padding: 2px 0 3px;
       line-height: 1.4;
       border-bottom: 1px dotted transparent;
-      transition: border-color 120ms, background 120ms;
+      transition: border-color 120ms;
       word-break: break-word;
-      border-radius: 2px;
     }
-    .ci-note:not(:empty) { background: #D4E8FC; }
-    .ci-note:focus { border-bottom-color: rgba(0,0,0,0.25); background: #D4E8FC; }
+    .ci-note:focus { border-bottom-color: rgba(0,0,0,0.25); }
     .ci-note:empty::before {
       content: attr(data-placeholder);
       color: rgba(0,0,0,0.2);
