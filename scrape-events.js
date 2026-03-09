@@ -504,13 +504,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/vinterkvallar-8-3/"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Kasvatuksen tulevaisuuden näkymiä: Peruskoulun tulevaisuustyö -hankkeen tuloksia",
-    "start_time": "2026-03-09T17:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/kasvatuksen-tulevaisuuden-nakymia"
-  },
-  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Vinterkvällar",
@@ -586,6 +579,13 @@ window.SCRAPED_EVENTS = [
     "title": "Vinterkvällar",
     "start_time": "2026-03-11T19:00:00+02:00",
     "url": "https://universum.fi/events/vinterkvallar-11-3/"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Ballet Finland: On aika",
+    "start_time": "2026-03-11T22:00:00+00:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/ballet-finland-on-aika"
   },
   {
     "venue": "kansallisteatteri",
@@ -705,6 +705,13 @@ window.SCRAPED_EVENTS = [
     "title": "Frankofonia-kiertue: Uzi Freyja",
     "start_time": "2026-03-13T20:00:00+02:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/frankofonia-kiertue-uzi-freyja"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Groove House x Enchantè: Invite me series 002",
+    "start_time": "2026-03-13T22:00:00+00:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/groove-house-x-enchantè-invite-me-series-002"
   },
   {
     "venue": "tekstintalo",
@@ -831,6 +838,13 @@ window.SCRAPED_EVENTS = [
     "title": "Muistopäivä",
     "start_time": "2026-03-17T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "&FEST: Cadela Força Trilogy – Chapter I: The Bride and The Goodnight Cinderella",
+    "start_time": "2026-03-17T22:00:00+00:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/fest-cadela-forca-trilogy-chapter-i-the-bride-and-the-goodnight-cinderella"
   },
   {
     "venue": "qteatteri",
@@ -994,6 +1008,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/kolme-harjoitelmaa-sodan-ja-rakkauden-vuosilta"
   },
   {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Helsinki International Drag Fest 2026",
+    "start_time": "2026-03-20T22:00:00+00:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/helsinki-international-drag-fest-2026"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Kolme harjoitelmaa sodan ja rakkauden vuosilta",
@@ -1132,6 +1153,13 @@ window.SCRAPED_EVENTS = [
     "title": "LIVETS SUMMA",
     "start_time": "2026-03-24T19:00:00+02:00",
     "url": "https://universum.fi/events/livets-summa-24-3/"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Kruununhaan yläaste: Kirjakoreografiat",
+    "start_time": "2026-03-24T22:00:00+00:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/kruununhaan-ylaaste-kirjakoreografiat"
   },
   {
     "venue": "ryhmateatteri",
@@ -1323,6 +1351,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/show-boudoir/"
   },
   {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "DJ Börjen senioridisco",
+    "start_time": "2026-03-27T22:00:00+00:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/senioridisco"
+  },
+  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Asiantuntijan neuvottelutaidot",
@@ -1428,11 +1463,25 @@ window.SCRAPED_EVENTS = [
     "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
   },
   {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Kulttuurin kummilapset: Tanssiteatteri Raatikko: Tiimi Vilkkuvalot",
+    "start_time": "2026-03-30T21:00:00+00:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/kulttuurin-kummilapset-tanssiteatteri-raatikko-tiimi-vilkkuvalot"
+  },
+  {
     "venue": "qteatteri",
     "venue_label": "Q-Teatteri",
     "title": "Uuteen nousuun",
     "start_time": "2026-03-31T18:30:00+02:00",
     "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Atte Kilpinen: Kreutzersonaatti",
+    "start_time": "2026-03-31T21:00:00+00:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/kreutzersonaatti-2"
   },
   {
     "venue": "viirus",
@@ -1526,6 +1575,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/kolme-harjoitelmaa-sodan-ja-rakkauden-vuosilta"
   },
   {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Glims & Gloms ja Guardia Nueva: Piazzolla-ilta",
+    "start_time": "2026-04-08T21:00:00+00:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/glims-gloms-ja-guardia-nueva-piazzolla-ilta-2"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Versailles",
@@ -1608,6 +1664,13 @@ window.SCRAPED_EVENTS = [
     "title": "VINTERKVÄLLAR",
     "start_time": "2026-04-10T19:00:00+03:00",
     "url": "https://universum.fi/events/vinterkvallar-10-4/"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Tanssin talon Lasten lauantai",
+    "start_time": "2026-04-10T21:00:00+00:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/lasten-lauantai-2026"
   },
   {
     "venue": "zodiak",
@@ -1764,6 +1827,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
   },
   {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Tanssiteatteri Tsuumi & Teatteri Metamorfoosi: TRUST",
+    "start_time": "2026-04-14T21:00:00+00:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/tanssiteatteri-tsuumi-teatteri-metamorfoosi-trust-2"
+  },
+  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Laura Jantunen:ympyrät, jotka kuvittelevat olevansa viivoja",
@@ -1783,6 +1853,13 @@ window.SCRAPED_EVENTS = [
     "title": "Puhutaan Richardista",
     "start_time": "2026-04-15T19:00:00+03:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Matching Steps: Työpaja",
+    "start_time": "2026-04-15T21:00:00+00:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/matching-steps-työpaja"
   },
   {
     "venue": "kansallisteatteri",
@@ -1902,6 +1979,13 @@ window.SCRAPED_EVENTS = [
     "title": "Laulujoutsen",
     "start_time": "2026-04-17T19:00:00+03:00",
     "url": "https://universum.fi/events/laulujoutsen-17-4/"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "April Jazz: Kimi Ervi & Aki Rissanen Trio: Traces Sonores / Sound Traces",
+    "start_time": "2026-04-17T21:00:00+00:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/april-jazz-kimi-ervi-aki-rissanen-trio-traces-sonores-sound-traces"
   },
   {
     "venue": "zodiak",
@@ -2261,6 +2345,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
   },
   {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Ministry of Sound 35 Helsinki: Lilly Palmer",
+    "start_time": "2026-04-24T21:00:00+00:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/ministry-of-sound-35-helsinki-lilly-palmer"
+  },
+  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Naiskirjoittamisen kurssi",
@@ -2429,6 +2520,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/laulujoutsen-27-4/"
   },
   {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Carl Knif Company: Matching Steps",
+    "start_time": "2026-04-27T21:00:00+00:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/carl-knif-company-matching-steps"
+  },
+  {
     "venue": "kiasma",
     "venue_label": "Kiasma",
     "title": "SCREAM CRY EXORCISE",
@@ -2483,6 +2581,13 @@ window.SCRAPED_EVENTS = [
     "title": "Vinterkvällar 28.4 kl 16",
     "start_time": "2026-04-28T19:00:00+03:00",
     "url": "https://universum.fi/events/vinterkvallar-28-4-kl-16/"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Tanssin päivän lavatanssit",
+    "start_time": "2026-04-28T21:00:00+00:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/tanssin-päivän-lavatanssit"
   },
   {
     "venue": "viirus",
@@ -2772,6 +2877,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/laulujoutsen-8-5/"
   },
   {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Show of the Year",
+    "start_time": "2026-05-08T21:00:00+00:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/show-of-the-year-3"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Täällä Pohjantähden alla",
@@ -2812,6 +2924,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kolme harjoitelmaa sodan ja rakkauden vuosilta",
     "start_time": "2026-05-09T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/kolme-harjoitelmaa-sodan-ja-rakkauden-vuosilta"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Helsingin nuorisopalveluiden tanssitoiminta: Kevätnäytös 2026",
+    "start_time": "2026-05-09T21:00:00+00:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/helsingin-nuorisopalveluiden-tanssitoiminta-kevätnäytös-2026"
   },
   {
     "venue": "viirus",
@@ -2910,6 +3029,13 @@ window.SCRAPED_EVENTS = [
     "title": "Amos A",
     "start_time": "2026-05-13T19:00:00+03:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/amos-a/"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Helsinki Music Week",
+    "start_time": "2026-05-13T21:00:00+00:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/helsinki-music-week-2"
   },
   {
     "venue": "takomo",
@@ -3064,6 +3190,13 @@ window.SCRAPED_EVENTS = [
     "title": "Soili 18.5 kl 19",
     "start_time": "2026-05-18T19:00:00+03:00",
     "url": "https://universum.fi/events/soili-18-5-kl-19/"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "People Watching: Play Dead",
+    "start_time": "2026-05-18T21:00:00+00:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/people-watching-play-dead"
   },
   {
     "venue": "zodiak",
@@ -3262,6 +3395,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/one-drop"
   },
   {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "(LA)HORDE / Ballet national de Marseille: Age of Content",
+    "start_time": "2026-05-25T21:00:00+00:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/lahorde-ballet-national-de-marseille-age-of-content"
+  },
+  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Hanna Ahti,Kid Kokko:Theoria",
@@ -3318,6 +3458,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
   },
   {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Finnish Dance Organization Kilpailut 2026",
+    "start_time": "2026-06-04T21:00:00+00:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/finnish-dance-organization-kilpailut-2026"
+  },
+  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Spring Thing",
@@ -3358,6 +3505,13 @@ window.SCRAPED_EVENTS = [
     "title": "Missä kuljimme kerran",
     "start_time": "2026-06-09T18:30:00+03:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Susanna Leinonen Company: Mozart Mozart",
+    "start_time": "2026-06-09T21:00:00+00:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/susanna-leinonen-company-mozart"
   },
   {
     "venue": "ryhmateatteri",
@@ -3661,6 +3815,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
   },
   {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Cloud Gate Dance Theatre of Taiwan: 13 Tongues",
+    "start_time": "2026-08-26T21:00:00+00:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/cloud-gate-dance-theatre-of-taiwan-13-tongues"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Kettutytön paluu",
@@ -3743,6 +3904,13 @@ window.SCRAPED_EVENTS = [
     "title": "Starman",
     "start_time": "2026-09-19T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/starman"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Anna Eriksson: Juhlakonsertti",
+    "start_time": "2026-10-16T21:00:00+00:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/anna-eriksson-juhlakonsertti"
   },
   {
     "venue": "universum",

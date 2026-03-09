@@ -843,6 +843,48 @@ try:
 except Exception as e:
     print(f'  Universum failed: {e}')
 
+# ── TANSSIN TALO ─────────────────────────────────────────────────────────────
+print('Scraping Tanssin Talo...')
+
+try:
+    gql_url = 'https://www.tanssintalo.fi/api'
+    query = '{ experiencesEntries(limit: 300, orderBy: "startDate asc") { title slug startDate } }'
+    resp = requests.post(gql_url,
+                         json={'query': query},
+                         headers={**HEADERS, 'Content-Type': 'application/json'},
+                         timeout=20)
+    resp.raise_for_status()
+    entries = resp.json().get('data', {}).get('experiencesEntries', [])
+    print(f'  Found {len(entries)} entries')
+
+    now_utc = datetime.now(timezone.utc)
+    count = 0
+    for entry in entries:
+        title     = entry.get('title', '').strip()
+        slug      = entry.get('slug', '')
+        start_raw = entry.get('startDate', '')
+        if not title or not start_raw:
+            continue
+        try:
+            dt = datetime.fromisoformat(start_raw)
+            if dt < now_utc - timedelta(days=1):
+                continue
+            events.append({
+                'venue':       'tanssintalo',
+                'venue_label': 'Tanssin Talo',
+                'title':       title,
+                'start_time':  dt.isoformat(),
+                'url':         f'https://www.tanssintalo.fi/ohjelma/{slug}',
+            })
+            count += 1
+        except (ValueError, TypeError) as e:
+            print(f'  Skip {title}: {e}')
+
+    print(f'  {count} events added')
+
+except Exception as e:
+    print(f'  Tanssin Talo failed: {e}')
+
 # ── WRITE OUTPUT ─────────────────────────────────────────────────────────────
 events.sort(key=lambda e: e['start_time'])
 
