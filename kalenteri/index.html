@@ -1287,7 +1287,9 @@
         const id        = evId(ev);
         const curatedEv = curated.find(c => c.id === id);
         const isAdded   = !!curatedEv;
-        const colorCls  = curatedEv?.color ? ` color-${curatedEv.color}` : '';
+        // Color: use this event's own curated color, or fall back to any curated entry with the same title
+        const colorMatch = curatedEv || curated.find(c => c.title === ev.title && c.color);
+        const colorCls  = colorMatch?.color ? ` color-${colorMatch.color}` : '';
 
         html += `<div class="event${colorCls}">
           <div class="event-time">${timeStr}</div>
