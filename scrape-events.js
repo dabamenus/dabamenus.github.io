@@ -497,6 +497,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/swedish-asshole/"
   },
   {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Vinterkvällar",
+    "start_time": "2026-03-09T19:00:00+02:00",
+    "url": "https://universum.fi/events/vinterkvallar-9-3/"
+  },
+  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "&FEST:  The Gummy Bears’ Great War",
@@ -558,6 +565,13 @@ window.SCRAPED_EVENTS = [
     "title": "Toinen tasavalta",
     "start_time": "2026-03-11T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Vinterkvällar",
+    "start_time": "2026-03-11T19:00:00+02:00",
+    "url": "https://universum.fi/events/vinterkvallar-11-3/"
   },
   {
     "venue": "kansallisteatteri",
@@ -854,6 +868,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/bully-bully/"
   },
   {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "LIVETS SUMMA",
+    "start_time": "2026-03-18T19:00:00+02:00",
+    "url": "https://universum.fi/events/livets-summa-18-3/"
+  },
+  {
     "venue": "tanssintalo",
     "venue_label": "Tanssin Talo",
     "title": "&FEST: Cadela Força Trilogy – Chapter I: The Bride and The Goodnight Cinderella",
@@ -908,6 +929,20 @@ window.SCRAPED_EVENTS = [
     "title": "Muistopäivä",
     "start_time": "2026-03-19T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "CB",
+    "start_time": "2026-03-19T19:00:00+02:00",
+    "url": "https://universum.fi/events/cb-19-3/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "LIVETS SUMMA",
+    "start_time": "2026-03-19T19:00:00+02:00",
+    "url": "https://universum.fi/events/livets-summa-19-3/"
   },
   {
     "venue": "ryhmateatteri",
@@ -1043,6 +1078,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/swedish-asshole/"
   },
   {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "LIVETS SUMMA",
+    "start_time": "2026-03-22T19:00:00+02:00",
+    "url": "https://universum.fi/events/livets-summa-22-3/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Kirjailijat lavalla",
@@ -1071,6 +1113,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "LIVETS SUMMA",
+    "start_time": "2026-03-23T19:00:00+02:00",
+    "url": "https://universum.fi/events/livets-summa-23-3/"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Swedish Asshole",
@@ -1097,6 +1146,13 @@ window.SCRAPED_EVENTS = [
     "title": "Vanja",
     "start_time": "2026-03-24T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/vanja"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "LIVETS SUMMA",
+    "start_time": "2026-03-24T19:00:00+02:00",
+    "url": "https://universum.fi/events/livets-summa-24-3/"
   },
   {
     "venue": "ryhmateatteri",
@@ -1223,6 +1279,13 @@ window.SCRAPED_EVENTS = [
     "title": "hellänä - tender",
     "start_time": "2026-03-26T19:00:00+02:00",
     "url": "https://www.madhousehelsinki.fi/ohjelmisto/tender"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "LIVETS SUMMA 26.3. PERUTTU",
+    "start_time": "2026-03-26T19:00:00+02:00",
+    "url": "https://universum.fi/events/livets-summa-26-3/"
   },
   {
     "venue": "tekstintalo",
@@ -1463,6 +1526,27 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/raisa-omaheimo-setamiestennielija0404"
   },
   {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Vinterkvällar",
+    "start_time": "2026-04-04T19:00:00+03:00",
+    "url": "https://universum.fi/events/vinterkvallar-4-4/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Vinterkvällar",
+    "start_time": "2026-04-05T19:00:00+03:00",
+    "url": "https://universum.fi/events/vinterkvallar-5-4/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Vinterkvällar",
+    "start_time": "2026-04-06T19:00:00+03:00",
+    "url": "https://universum.fi/events/vinterkvallar-6-4/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Jotuni",
@@ -1526,6 +1610,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/taalla-pohjantahden-alla"
   },
   {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Vinterkvällar",
+    "start_time": "2026-04-09T19:00:00+03:00",
+    "url": "https://universum.fi/events/vinterkvallar-9-4/"
+  },
+  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Laura Jantunen:ympyrät, jotka kuvittelevat olevansa viivoja",
@@ -1573,6 +1664,13 @@ window.SCRAPED_EVENTS = [
     "title": "Jotuni",
     "start_time": "2026-04-10T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/jotuni"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "VINTERKVÄLLAR",
+    "start_time": "2026-04-10T19:00:00+03:00",
+    "url": "https://universum.fi/events/vinterkvallar-10-4/"
   },
   {
     "venue": "tanssintalo",
@@ -1820,6 +1918,20 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
   },
   {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Cb",
+    "start_time": "2026-04-16T19:00:00+03:00",
+    "url": "https://universum.fi/events/cb-16-4/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Laulujoutsen",
+    "start_time": "2026-04-16T19:00:00+03:00",
+    "url": "https://universum.fi/events/laulujoutsen-16-4/"
+  },
+  {
     "venue": "tanssintalo",
     "venue_label": "Tanssin Talo",
     "title": "Tanssiteatteri Tsuumi & Teatteri Metamorfoosi: TRUST",
@@ -1874,6 +1986,13 @@ window.SCRAPED_EVENTS = [
     "title": "Lady T",
     "start_time": "2026-04-17T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/lady-t"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Laulujoutsen",
+    "start_time": "2026-04-17T19:00:00+03:00",
+    "url": "https://universum.fi/events/laulujoutsen-17-4/"
   },
   {
     "venue": "zodiak",
@@ -1960,6 +2079,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/jotuni"
   },
   {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Vinterkvällar",
+    "start_time": "2026-04-18T19:00:00+03:00",
+    "url": "https://universum.fi/events/vinterkvallar-18-4/"
+  },
+  {
     "venue": "tanssintalo",
     "venue_label": "Tanssin Talo",
     "title": "April Jazz: Kimi Ervi & Aki Rissanen Trio: Traces Sonores / Sound Traces",
@@ -1972,6 +2098,20 @@ window.SCRAPED_EVENTS = [
     "title": "Puhutaan Richardista",
     "start_time": "2026-04-19T14:00:00+03:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Storysharing café",
+    "start_time": "2026-04-19T19:00:00+03:00",
+    "url": "https://universum.fi/events/storysharing-cafe-19-4/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Vinterkvällar",
+    "start_time": "2026-04-19T19:00:00+03:00",
+    "url": "https://universum.fi/events/vinterkvallar-19-4/"
   },
   {
     "venue": "viirus",
@@ -2014,6 +2154,20 @@ window.SCRAPED_EVENTS = [
     "title": "Puhutaan Richardista",
     "start_time": "2026-04-20T19:00:00+03:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Vinterkvällar",
+    "start_time": "2026-04-20T19:00:00+03:00",
+    "url": "https://universum.fi/events/vinterkvallar-20-4/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Laulujoutsen",
+    "start_time": "2026-04-20T19:00:00+03:00",
+    "url": "https://universum.fi/events/laulujoutsen-20-4/"
   },
   {
     "venue": "zodiak",
@@ -2163,6 +2317,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/ronja-rovardotter/"
   },
   {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Laulujoutsen",
+    "start_time": "2026-04-23T19:00:00+03:00",
+    "url": "https://universum.fi/events/laulujoutsen-23-4/"
+  },
+  {
     "venue": "kiasma",
     "venue_label": "Kiasma",
     "title": "SCREAM CRY EXORCISE",
@@ -2296,6 +2457,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/gudarnas-vaktare/"
   },
   {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Vinterkvällar",
+    "start_time": "2026-04-25T19:00:00+03:00",
+    "url": "https://universum.fi/events/vinterkvallar-25-4/"
+  },
+  {
     "venue": "tanssintalo",
     "venue_label": "Tanssin Talo",
     "title": "Ministry of Sound 35 Helsinki: Lilly Palmer",
@@ -2308,6 +2476,13 @@ window.SCRAPED_EVENTS = [
     "title": "SCREAM CRY EXORCISE",
     "start_time": "2026-04-26T15:00:00+03:00",
     "url": "https://kiasma.fi/esitykset/scream-cry-exorcise/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Vinterkvällar",
+    "start_time": "2026-04-26T19:00:00+03:00",
+    "url": "https://universum.fi/events/vinterkvallar-26-4/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2343,6 +2518,20 @@ window.SCRAPED_EVENTS = [
     "title": "Lady T",
     "start_time": "2026-04-27T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/lady-t"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Vinterkvällar",
+    "start_time": "2026-04-27T19:00:00+03:00",
+    "url": "https://universum.fi/events/vinterkvallar-27-4/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Laulujoutsen",
+    "start_time": "2026-04-27T19:00:00+03:00",
+    "url": "https://universum.fi/events/laulujoutsen-27-4/"
   },
   {
     "venue": "kiasma",
@@ -2394,6 +2583,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
   },
   {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Vinterkvällar 28.4 kl 16",
+    "start_time": "2026-04-28T19:00:00+03:00",
+    "url": "https://universum.fi/events/vinterkvallar-28-4-kl-16/"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "to be brutally honest 2.0",
@@ -2443,6 +2639,20 @@ window.SCRAPED_EVENTS = [
     "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
   },
   {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Bravotoga",
+    "start_time": "2026-04-29T19:00:00+03:00",
+    "url": "https://universum.fi/events/bravotoga-29-4/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Laulujoutsen",
+    "start_time": "2026-04-29T19:00:00+03:00",
+    "url": "https://universum.fi/events/laulujoutsen-29-4/"
+  },
+  {
     "venue": "tanssintalo",
     "venue_label": "Tanssin Talo",
     "title": "Ministry of Sound 35 Helsinki: Lilly Palmer",
@@ -2485,6 +2695,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
   },
   {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Bravotoga",
+    "start_time": "2026-04-30T19:00:00+03:00",
+    "url": "https://universum.fi/events/bravotoga-30-4/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Täällä Pohjantähden alla",
@@ -2525,6 +2742,13 @@ window.SCRAPED_EVENTS = [
     "title": "Toinen tasavalta",
     "start_time": "2026-05-02T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Laulujoutsen",
+    "start_time": "2026-05-03T19:00:00+03:00",
+    "url": "https://universum.fi/events/laulujoutsen-3-5/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2597,6 +2821,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/kulturbararna/"
   },
   {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Laulujoutsen",
+    "start_time": "2026-05-06T19:00:00+03:00",
+    "url": "https://universum.fi/events/laulujoutsen-6-5/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Täällä Pohjantähden alla",
@@ -2658,6 +2889,13 @@ window.SCRAPED_EVENTS = [
     "title": "Puhutaan Richardista",
     "start_time": "2026-05-08T19:00:00+03:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Laulujoutsen",
+    "start_time": "2026-05-08T19:00:00+03:00",
+    "url": "https://universum.fi/events/laulujoutsen-8-5/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2926,6 +3164,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/humorlandskampen/"
   },
   {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Soili 16.5 klo 19",
+    "start_time": "2026-05-16T19:00:00+03:00",
+    "url": "https://universum.fi/events/soili-16-5-klo-19/"
+  },
+  {
     "venue": "tanssintalo",
     "venue_label": "Tanssin Talo",
     "title": "Helsinki Music Week",
@@ -2952,6 +3197,20 @@ window.SCRAPED_EVENTS = [
     "title": "Muistopäivä",
     "start_time": "2026-05-18T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Soili 18.5 kl 14",
+    "start_time": "2026-05-18T19:00:00+03:00",
+    "url": "https://universum.fi/events/soili-18-5-kl-14/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Soili 18.5 kl 19",
+    "start_time": "2026-05-18T19:00:00+03:00",
+    "url": "https://universum.fi/events/soili-18-5-kl-19/"
   },
   {
     "venue": "zodiak",
@@ -3008,6 +3267,13 @@ window.SCRAPED_EVENTS = [
     "title": "Puhutaan Richardista",
     "start_time": "2026-05-19T19:00:00+03:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Soili 19.5 kl 19",
+    "start_time": "2026-05-19T19:00:00+03:00",
+    "url": "https://universum.fi/events/soili-19-5-kl-19/"
   },
   {
     "venue": "kansallisteatteri",
@@ -3241,6 +3507,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
   },
   {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "MG",
+    "start_time": "2026-06-07T19:00:00+03:00",
+    "url": "https://universum.fi/events/mg-7-6/"
+  },
+  {
     "venue": "tanssintalo",
     "venue_label": "Tanssin Talo",
     "title": "Finnish Dance Organization Kilpailut 2026",
@@ -3260,6 +3533,13 @@ window.SCRAPED_EVENTS = [
     "title": "Missä kuljimme kerran",
     "start_time": "2026-06-10T18:30:00+03:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "MG",
+    "start_time": "2026-06-10T19:00:00+03:00",
+    "url": "https://universum.fi/events/mg-10-6/"
   },
   {
     "venue": "ryhmateatteri",
@@ -3283,11 +3563,25 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
   },
   {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "MG",
+    "start_time": "2026-06-13T19:00:00+03:00",
+    "url": "https://universum.fi/events/mg-13-6/"
+  },
+  {
     "venue": "tanssintalo",
     "venue_label": "Tanssin Talo",
     "title": "Susanna Leinonen Company: Mozart Mozart",
     "start_time": "2026-06-13T19:00:00+03:00",
     "url": "https://www.tanssintalo.fi/ohjelma/susanna-leinonen-company-mozart"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "MG 15.6 kl 19",
+    "start_time": "2026-06-15T19:00:00+03:00",
+    "url": "https://universum.fi/events/mg-15-6-kl-19/"
   },
   {
     "venue": "ryhmateatteri",
@@ -3297,11 +3591,39 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
   },
   {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "MG 16.6 kl 19",
+    "start_time": "2026-06-16T19:00:00+03:00",
+    "url": "https://universum.fi/events/mg-16-6-kl-19/"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Missä kuljimme kerran",
     "start_time": "2026-06-17T18:30:00+03:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "MG 17.6 kl 16",
+    "start_time": "2026-06-17T19:00:00+03:00",
+    "url": "https://universum.fi/events/mg-17-6-kl-16/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "MG 20.6 kl 19",
+    "start_time": "2026-06-20T19:00:00+03:00",
+    "url": "https://universum.fi/events/mg-20-6-kl-19/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "MG 21.6 kl 19",
+    "start_time": "2026-06-21T19:00:00+03:00",
+    "url": "https://universum.fi/events/mg-21-6-kl-19/"
   },
   {
     "venue": "ryhmateatteri",
@@ -3337,6 +3659,20 @@ window.SCRAPED_EVENTS = [
     "title": "Missä kuljimme kerran",
     "start_time": "2026-06-27T14:00:00+03:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "MG",
+    "start_time": "2026-06-27T19:00:00+03:00",
+    "url": "https://universum.fi/events/mg-27-6/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "MG",
+    "start_time": "2026-06-29T19:00:00+03:00",
+    "url": "https://universum.fi/events/mg-29-6/"
   },
   {
     "venue": "ryhmateatteri",
@@ -3507,6 +3843,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tanssintalo.fi/ohjelma/cloud-gate-dance-theatre-of-taiwan-13-tongues"
   },
   {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Kettutytön paluu",
+    "start_time": "2026-09-08T19:00:00+03:00",
+    "url": "https://universum.fi/events/kettutyton-paluu-8-9/"
+  },
+  {
     "venue": "cirko",
     "venue_label": "Cirko",
     "title": "Helsinki Circus Festival",
@@ -3591,11 +3934,102 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tanssintalo.fi/ohjelma/anna-eriksson-juhlakonsertti"
   },
   {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Expeditionen",
+    "start_time": "2026-10-21T19:00:00+03:00",
+    "url": "https://universum.fi/events/expeditionen-21-10/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "ANDETAG",
+    "start_time": "2026-10-23T19:00:00+03:00",
+    "url": "https://universum.fi/events/andetag-23-10/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "ANDETAG",
+    "start_time": "2026-10-25T19:00:00+02:00",
+    "url": "https://universum.fi/events/andetag-25-10/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "ANDETAG",
+    "start_time": "2026-10-26T19:00:00+02:00",
+    "url": "https://universum.fi/events/andetag-26-10/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "ANDETAG",
+    "start_time": "2026-10-31T19:00:00+02:00",
+    "url": "https://universum.fi/events/andetag-31-10/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "ANDETAG",
+    "start_time": "2026-11-01T19:00:00+02:00",
+    "url": "https://universum.fi/events/andetag-1-11/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "ANDETAG",
+    "start_time": "2026-11-07T19:00:00+02:00",
+    "url": "https://universum.fi/events/andetag-7-11/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "ANDETAG",
+    "start_time": "2026-11-09T19:00:00+02:00",
+    "url": "https://universum.fi/events/andetag-9-11/"
+  },
+  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Nattland",
     "start_time": "2026-11-14T19:00:00+02:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/nattland/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "ANDETAG",
+    "start_time": "2026-11-15T19:00:00+02:00",
+    "url": "https://universum.fi/events/andetag-15-11/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "ANDETAG",
+    "start_time": "2026-11-16T19:00:00+02:00",
+    "url": "https://universum.fi/events/andetag-16-11/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "ANDETAG",
+    "start_time": "2026-11-20T19:00:00+02:00",
+    "url": "https://universum.fi/events/andetag-20-11/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "ANDETAG",
+    "start_time": "2026-11-22T19:00:00+02:00",
+    "url": "https://universum.fi/events/andetag-22-11/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "ANDETAG",
+    "start_time": "2026-11-23T19:00:00+02:00",
+    "url": "https://universum.fi/events/andetag-23-11/"
   },
   {
     "venue": "kansallisteatteri",
@@ -3612,6 +4046,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/pelle-svanslos/"
   },
   {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "ANDETAG",
+    "start_time": "2026-11-27T19:00:00+02:00",
+    "url": "https://universum.fi/events/andetag-27-11/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Starman",
@@ -3619,11 +4060,109 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/starman"
   },
   {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Kettutytön paluu",
+    "start_time": "2026-12-02T19:00:00+02:00",
+    "url": "https://universum.fi/events/kettutyton-paluu-2-12/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Kettutytön paluu",
+    "start_time": "2026-12-07T19:00:00+02:00",
+    "url": "https://universum.fi/events/kettutyton-paluu-7-12/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Kettutytön paluu",
+    "start_time": "2026-12-09T19:00:00+02:00",
+    "url": "https://universum.fi/events/kettutyton-paluu-9-12/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "ALL WOMEN STORY SHARING CAFE",
+    "start_time": "2026-12-10T19:00:00+02:00",
+    "url": "https://universum.fi/events/all-women-story-sharing-cafe-10-12/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Kettutytön paluu",
+    "start_time": "2026-12-17T19:00:00+02:00",
+    "url": "https://universum.fi/events/kettutyton-paluu-17-12/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Kettutytön",
+    "start_time": "2027-01-10T19:00:00+02:00",
+    "url": "https://universum.fi/events/kettutyton-10-1/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Kettutytön paluu",
+    "start_time": "2027-01-12T19:00:00+02:00",
+    "url": "https://universum.fi/events/kettutyton-paluu-12-1/"
+  },
+  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Änglagård",
     "start_time": "2027-01-14T19:00:00+02:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/anglagard/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Kettutytön paluu",
+    "start_time": "2027-01-16T19:00:00+02:00",
+    "url": "https://universum.fi/events/kettutyton-paluu-14-12/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Kettutytön paluu",
+    "start_time": "2027-01-20T19:00:00+02:00",
+    "url": "https://universum.fi/events/kettutyton-paluu-20-1/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Kettutytön paluu",
+    "start_time": "2027-01-26T19:00:00+02:00",
+    "url": "https://universum.fi/events/kettutyton-paluu-26-1/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Kettutytön paluu",
+    "start_time": "2027-01-27T19:00:00+02:00",
+    "url": "https://universum.fi/events/kettutyton-paluu-27-1/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Kettutytön paluu",
+    "start_time": "2027-01-31T19:00:00+02:00",
+    "url": "https://universum.fi/events/kettutyton-paluu-31-1/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Kettutytön paluu",
+    "start_time": "2027-02-08T19:00:00+02:00",
+    "url": "https://universum.fi/events/kettutyton-paluu-8-2/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Kettutytön paluu",
+    "start_time": "2027-02-09T19:00:00+02:00",
+    "url": "https://universum.fi/events/kettutyton-paluu-9-2/"
   },
   {
     "venue": "svenska",
