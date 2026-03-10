@@ -728,6 +728,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Fandango x Tekstin Taco",
+    "start_time": "2026-03-14T14:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/fandango-x-tekstin-taco"
+  },
+  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "&FEST: The Birds",
