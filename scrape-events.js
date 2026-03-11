@@ -1834,6 +1834,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/ympyrat-jotka-kuvittelevat-olevansa-viivoja"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "The Poet of Finland",
+    "start_time": "2026-04-15T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/the-poet-of-finland/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lady T",
@@ -1881,6 +1888,13 @@ window.SCRAPED_EVENTS = [
     "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
     "start_time": "2026-04-16T18:30:00+03:00",
     "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "The Poet of Finland",
+    "start_time": "2026-04-16T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/the-poet-of-finland/"
   },
   {
     "venue": "kansallisteatteri",
@@ -1951,6 +1965,13 @@ window.SCRAPED_EVENTS = [
     "title": "Jumppatytöt kiertueella",
     "start_time": "2026-04-17T18:30:00+03:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/jumppatytot-kiertueella/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "The Poet of Finland",
+    "start_time": "2026-04-17T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/the-poet-of-finland/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2035,6 +2056,13 @@ window.SCRAPED_EVENTS = [
     "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
     "start_time": "2026-04-18T14:00:00+03:00",
     "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "The Poet of Finland",
+    "start_time": "2026-04-18T14:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/the-poet-of-finland/"
   },
   {
     "venue": "cirko",
@@ -2331,6 +2359,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/versailles/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "The Poet of Finland",
+    "start_time": "2026-04-24T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/the-poet-of-finland/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Täällä Pohjantähden alla",
@@ -2406,6 +2441,13 @@ window.SCRAPED_EVENTS = [
     "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
     "start_time": "2026-04-25T14:00:00+03:00",
     "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "The Poet of Finland",
+    "start_time": "2026-04-25T14:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/the-poet-of-finland/"
   },
   {
     "venue": "kiasma",
