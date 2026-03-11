@@ -497,39 +497,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/swedish-asshole/"
   },
   {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "Vinterkvällar",
-    "start_time": "2026-03-09T19:00:00+02:00",
-    "url": "https://universum.fi/events/vinterkvallar-9-3/"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "&FEST:  The Gummy Bears’ Great War",
-    "start_time": "2026-03-10T18:00:00+02:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/fest-the-gummy-bears-great-war/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Swedish Asshole",
     "start_time": "2026-03-10T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/swedish-asshole/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Täällä Pohjantähden alla",
-    "start_time": "2026-03-10T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taalla-pohjantahden-alla"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Jotuni",
-    "start_time": "2026-03-10T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/jotuni"
   },
   {
     "venue": "qteatteri",
