@@ -511,25 +511,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://q-teatteri.fi/esitykset/kolme-sisarta"
   },
   {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "&FEST:  The Gummy Bears’ Great War",
-    "start_time": "2026-03-11T18:00:00+02:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/fest-the-gummy-bears-great-war/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Swedish Asshole",
     "start_time": "2026-03-11T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/swedish-asshole/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
-    "start_time": "2026-03-11T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
     "venue": "universum",
