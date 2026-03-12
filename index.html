@@ -1955,7 +1955,7 @@
 
       // Coordinated still-hold: when any slice ends, hold on last frame for STILL_MS,
       // then restart all slices in sync at 2x.
-      const STILL_MS = 5000;
+      const STILL_MS = 5 * 60 * 1000; // 5 minutes
       let stillTimer = null;
       function replayAll() {
         stillTimer = null;
