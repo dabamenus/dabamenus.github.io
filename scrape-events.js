@@ -532,13 +532,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/taalla-pohjantahden-alla"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
-    "start_time": "2026-03-12T14:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-1203"
-  },
-  {
     "venue": "qteatteri",
     "venue_label": "Q-Teatteri",
     "title": "Kolme sisarta",
