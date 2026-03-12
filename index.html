@@ -1953,8 +1953,17 @@
         return true;
       };
 
+      // Coordinated still-hold: when any slice ends, hold on last frame for STILL_MS,
+      // then restart all slices in sync at 2x.
+      const STILL_MS = 5000;
+      let stillTimer = null;
+      function replayAll() {
+        stillTimer = null;
+        vids.forEach(v => { try { v.currentTime = 0; v.playbackRate = 2; v.play(); } catch (_) {} });
+      }
+
       vids.forEach((v) => {
-        v.loop = true;
+        v.loop = false;
         v.autoplay = false;
         v.muted = true;
         v.playsInline = true;
@@ -1965,10 +1974,10 @@
         v.style.backgroundImage = `url(${poster})`;
         v.style.backgroundSize = 'cover';
         v.style.backgroundPosition = 'center';
-        v.playbackRate = 1; // normal speed
+        v.playbackRate = 2; // cycle at 2× speed
         try { v.load(); } catch (_) {}
-        // keep looping smoothly
-        v.addEventListener('ended', () => { try { v.currentTime = 0; v.play(); } catch (_) {} });
+        // Hold last frame for STILL_MS, then restart all slices together
+        v.addEventListener('ended', () => { if (!stillTimer) stillTimer = setTimeout(replayAll, STILL_MS); });
         const markReady = () => { ready.add(v); startSync(); };
         v.addEventListener('canplaythrough', markReady, { once: true });
         v.addEventListener('canplay', markReady, { once: true });
