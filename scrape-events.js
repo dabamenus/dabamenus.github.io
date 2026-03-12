@@ -539,13 +539,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://q-teatteri.fi/esitykset/kolme-sisarta"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "The Poet of Finland",
-    "start_time": "2026-03-12T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/the-poet-of-finland/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "TeaK-klubi: MITTA",
