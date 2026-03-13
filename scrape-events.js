@@ -525,13 +525,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://q-teatteri.fi/esitykset/kolme-sisarta"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "The Poet of Finland",
-    "start_time": "2026-03-13T14:00:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/the-poet-of-finland/"
-  },
-  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Workshop Uzi Freyjan kanssa: rap-lyriikoiden kirjoittaminen",
@@ -562,16 +555,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
+    "title": "Nämä juhlat jatkuvat vielä",
     "start_time": "2026-03-13T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
+    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Nämä juhlat jatkuvat vielä",
+    "title": "Toinen tasavalta",
     "start_time": "2026-03-13T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
+    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
     "venue": "madhouse",
@@ -702,16 +695,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Muistopäivä",
+    "title": "Toinen tasavalta",
     "start_time": "2026-03-16T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
+    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
+    "title": "Muistopäivä",
     "start_time": "2026-03-16T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
+    "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
   },
   {
     "venue": "zodiak",
@@ -730,16 +723,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Muistopäivä",
+    "title": "Toinen tasavalta",
     "start_time": "2026-03-17T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
+    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
+    "title": "Muistopäivä",
     "start_time": "2026-03-17T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
+    "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
   },
   {
     "venue": "qteatteri",
@@ -1017,16 +1010,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
+    "title": "Nämä juhlat jatkuvat vielä",
     "start_time": "2026-03-23T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
+    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Nämä juhlat jatkuvat vielä",
+    "title": "Toinen tasavalta",
     "start_time": "2026-03-23T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
+    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
     "venue": "universum",
@@ -1108,16 +1101,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
+    "title": "Nämä juhlat jatkuvat vielä",
     "start_time": "2026-03-25T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
+    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Nämä juhlat jatkuvat vielä",
+    "title": "Toinen tasavalta",
     "start_time": "2026-03-25T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
+    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
     "venue": "kansallisteatteri",
@@ -1178,16 +1171,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
+    "title": "Muistopäivä",
     "start_time": "2026-03-26T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
+    "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Muistopäivä",
+    "title": "Toinen tasavalta",
     "start_time": "2026-03-26T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
+    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
     "venue": "madhouse",
@@ -1311,16 +1304,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Vanja",
+    "title": "Toinen tasavalta",
     "start_time": "2026-03-28T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/vanja"
+    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
+    "title": "Vanja",
     "start_time": "2026-03-28T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
+    "url": "https://www.kansallisteatteri.fi/esitys/vanja"
   },
   {
     "venue": "kansallisteatteri",
@@ -1465,16 +1458,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Jotuni",
+    "title": "Täällä Pohjantähden alla",
     "start_time": "2026-04-07T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/jotuni"
+    "url": "https://www.kansallisteatteri.fi/esitys/taalla-pohjantahden-alla"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Täällä Pohjantähden alla",
+    "title": "Jotuni",
     "start_time": "2026-04-07T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taalla-pohjantahden-alla"
+    "url": "https://www.kansallisteatteri.fi/esitys/jotuni"
   },
   {
     "venue": "ryhmateatteri",
@@ -1654,9 +1647,9 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Täällä Pohjantähden alla",
+    "title": "Nämä juhlat jatkuvat vielä",
     "start_time": "2026-04-11T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taalla-pohjantahden-alla"
+    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
   },
   {
     "venue": "kansallisteatteri",
@@ -1668,9 +1661,9 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Nämä juhlat jatkuvat vielä",
+    "title": "Täällä Pohjantähden alla",
     "start_time": "2026-04-11T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
+    "url": "https://www.kansallisteatteri.fi/esitys/taalla-pohjantahden-alla"
   },
   {
     "venue": "tanssintalo",
@@ -1710,9 +1703,9 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Nämä juhlat jatkuvat vielä",
+    "title": "Lady T",
     "start_time": "2026-04-13T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
+    "url": "https://www.kansallisteatteri.fi/esitys/lady-t"
   },
   {
     "venue": "kansallisteatteri",
@@ -1724,9 +1717,9 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Lady T",
+    "title": "Nämä juhlat jatkuvat vielä",
     "start_time": "2026-04-13T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lady-t"
+    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
   },
   {
     "venue": "zodiak",
@@ -1769,6 +1762,13 @@ window.SCRAPED_EVENTS = [
     "title": "Laura Jantunen:ympyrät, jotka kuvittelevat olevansa viivoja",
     "start_time": "2026-04-15T16:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/ympyrat-jotka-kuvittelevat-olevansa-viivoja"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "The Poet of Finland",
+    "start_time": "2026-04-15T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/the-poet-of-finland/"
   },
   {
     "venue": "kansallisteatteri",
@@ -1820,6 +1820,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "The Poet of Finland",
+    "start_time": "2026-04-16T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/the-poet-of-finland/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Pelastaja",
@@ -1829,16 +1836,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Vanja",
+    "title": "Nämä juhlat jatkuvat vielä",
     "start_time": "2026-04-16T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/vanja"
+    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Nämä juhlat jatkuvat vielä",
+    "title": "Vanja",
     "start_time": "2026-04-16T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
+    "url": "https://www.kansallisteatteri.fi/esitys/vanja"
   },
   {
     "venue": "universum",
@@ -1890,11 +1897,18 @@ window.SCRAPED_EVENTS = [
     "url": "https://teatteritakomo.fi/ohjelmisto/jumppatytot-kiertueella/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "The Poet of Finland",
+    "start_time": "2026-04-17T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/the-poet-of-finland/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Jumppatytöt",
+    "title": "Lady T",
     "start_time": "2026-04-17T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/jumppatytot"
+    "url": "https://www.kansallisteatteri.fi/esitys/lady-t"
   },
   {
     "venue": "kansallisteatteri",
@@ -1906,9 +1920,9 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Lady T",
+    "title": "Jumppatytöt",
     "start_time": "2026-04-17T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lady-t"
+    "url": "https://www.kansallisteatteri.fi/esitys/jumppatytot"
   },
   {
     "venue": "universum",
@@ -1948,16 +1962,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Vanja",
+    "title": "Toinen tasavalta",
     "start_time": "2026-04-18T13:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/vanja"
+    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
+    "title": "Vanja",
     "start_time": "2026-04-18T13:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
+    "url": "https://www.kansallisteatteri.fi/esitys/vanja"
   },
   {
     "venue": "qteatteri",
@@ -1972,6 +1986,13 @@ window.SCRAPED_EVENTS = [
     "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
     "start_time": "2026-04-18T14:00:00+03:00",
     "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "The Poet of Finland",
+    "start_time": "2026-04-18T14:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/the-poet-of-finland/"
   },
   {
     "venue": "cirko",
@@ -2053,16 +2074,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Lady T",
+    "title": "Jotuni",
     "start_time": "2026-04-20T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lady-t"
+    "url": "https://www.kansallisteatteri.fi/esitys/jotuni"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Jotuni",
+    "title": "Lady T",
     "start_time": "2026-04-20T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/jotuni"
+    "url": "https://www.kansallisteatteri.fi/esitys/lady-t"
   },
   {
     "venue": "kansallisteatteri",
@@ -2130,16 +2151,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Muistopäivä",
+    "title": "Vanja",
     "start_time": "2026-04-21T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
+    "url": "https://www.kansallisteatteri.fi/esitys/vanja"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Vanja",
+    "title": "Muistopäivä",
     "start_time": "2026-04-21T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/vanja"
+    "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
   },
   {
     "venue": "zodiak",
@@ -2158,6 +2179,13 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
+    "title": "Lady T",
+    "start_time": "2026-04-22T18:30:00+03:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/lady-t"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
     "title": "Toinen tasavalta",
     "start_time": "2026-04-22T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
@@ -2168,13 +2196,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kolme harjoitelmaa sodan ja rakkauden vuosilta",
     "start_time": "2026-04-22T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/kolme-harjoitelmaa-sodan-ja-rakkauden-vuosilta"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Lady T",
-    "start_time": "2026-04-22T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lady-t"
   },
   {
     "venue": "svenska",
@@ -2268,6 +2289,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/versailles/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "The Poet of Finland",
+    "start_time": "2026-04-24T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/the-poet-of-finland/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Täällä Pohjantähden alla",
@@ -2305,9 +2333,9 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Vanja",
+    "title": "Toinen tasavalta",
     "start_time": "2026-04-25T13:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/vanja"
+    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
     "venue": "kansallisteatteri",
@@ -2319,16 +2347,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
+    "title": "Lady T",
     "start_time": "2026-04-25T13:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
+    "url": "https://www.kansallisteatteri.fi/esitys/lady-t"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Lady T",
+    "title": "Vanja",
     "start_time": "2026-04-25T13:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lady-t"
+    "url": "https://www.kansallisteatteri.fi/esitys/vanja"
   },
   {
     "venue": "takomo",
@@ -2343,6 +2371,13 @@ window.SCRAPED_EVENTS = [
     "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
     "start_time": "2026-04-25T14:00:00+03:00",
     "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "The Poet of Finland",
+    "start_time": "2026-04-25T14:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/the-poet-of-finland/"
   },
   {
     "venue": "kiasma",
@@ -2431,16 +2466,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Lady T",
+    "title": "Jumppatytöt",
     "start_time": "2026-04-27T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lady-t"
+    "url": "https://www.kansallisteatteri.fi/esitys/jumppatytot"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Jumppatytöt",
+    "title": "Lady T",
     "start_time": "2026-04-27T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/jumppatytot"
+    "url": "https://www.kansallisteatteri.fi/esitys/lady-t"
   },
   {
     "venue": "kansallisteatteri",
@@ -2487,6 +2522,13 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
+    "title": "Muistopäivä",
+    "start_time": "2026-04-28T18:30:00+03:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
     "title": "Lady T",
     "start_time": "2026-04-28T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/lady-t"
@@ -2497,13 +2539,6 @@ window.SCRAPED_EVENTS = [
     "title": "Toinen tasavalta",
     "start_time": "2026-04-28T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Muistopäivä",
-    "start_time": "2026-04-28T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
   },
   {
     "venue": "takomo",
@@ -2655,6 +2690,13 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
+    "title": "Toinen tasavalta",
+    "start_time": "2026-05-02T18:30:00+03:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
     "title": "Lady T",
     "start_time": "2026-05-02T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/lady-t"
@@ -2665,13 +2707,6 @@ window.SCRAPED_EVENTS = [
     "title": "Muistopäivä",
     "start_time": "2026-05-02T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
-    "start_time": "2026-05-02T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
     "venue": "universum",
@@ -2683,13 +2718,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Muistopäivä",
-    "start_time": "2026-05-04T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
     "title": "Lady T",
     "start_time": "2026-05-04T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/lady-t"
@@ -2700,6 +2728,13 @@ window.SCRAPED_EVENTS = [
     "title": "Toinen tasavalta",
     "start_time": "2026-05-04T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
+    "title": "Muistopäivä",
+    "start_time": "2026-05-04T18:30:00+03:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
   },
   {
     "venue": "takomo",
@@ -2732,16 +2767,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Nämä juhlat jatkuvat vielä",
+    "title": "Toinen tasavalta",
     "start_time": "2026-05-06T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
+    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
+    "title": "Nämä juhlat jatkuvat vielä",
     "start_time": "2026-05-06T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
+    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
   },
   {
     "venue": "svenska",
@@ -2788,16 +2823,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Pelastaja",
+    "title": "Nämä juhlat jatkuvat vielä",
     "start_time": "2026-05-07T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/pelastaja"
+    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Nämä juhlat jatkuvat vielä",
+    "title": "Pelastaja",
     "start_time": "2026-05-07T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
+    "url": "https://www.kansallisteatteri.fi/esitys/pelastaja"
   },
   {
     "venue": "viirus",
@@ -2865,16 +2900,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
+    "title": "Kolme harjoitelmaa sodan ja rakkauden vuosilta",
     "start_time": "2026-05-09T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
+    "url": "https://www.kansallisteatteri.fi/esitys/kolme-harjoitelmaa-sodan-ja-rakkauden-vuosilta"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Kolme harjoitelmaa sodan ja rakkauden vuosilta",
+    "title": "Toinen tasavalta",
     "start_time": "2026-05-09T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/kolme-harjoitelmaa-sodan-ja-rakkauden-vuosilta"
+    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
     "venue": "tanssintalo",
@@ -2914,13 +2949,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Muistopäivä",
-    "start_time": "2026-05-12T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
     "title": "Lapin Faarao",
     "start_time": "2026-05-12T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/lapin-faarao"
@@ -2931,6 +2959,13 @@ window.SCRAPED_EVENTS = [
     "title": "Leikin loppu",
     "start_time": "2026-05-12T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/leikin-loppu"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
+    "title": "Muistopäivä",
+    "start_time": "2026-05-12T18:30:00+03:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
   },
   {
     "venue": "takomo",
@@ -2956,9 +2991,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
+    "title": "Hautakivi",
     "start_time": "2026-05-13T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
+    "url": "https://www.kansallisteatteri.fi/esitys/hautakivi"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
+    "title": "Muistopäivä",
+    "start_time": "2026-05-13T18:30:00+03:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
   },
   {
     "venue": "kansallisteatteri",
@@ -2970,16 +3012,9 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Hautakivi",
+    "title": "Toinen tasavalta",
     "start_time": "2026-05-13T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/hautakivi"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Muistopäivä",
-    "start_time": "2026-05-13T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
+    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
     "venue": "svenska",
@@ -3012,16 +3047,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Hautakivi",
+    "title": "Leikin loppu",
     "start_time": "2026-05-15T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/hautakivi"
+    "url": "https://www.kansallisteatteri.fi/esitys/leikin-loppu"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Leikin loppu",
+    "title": "Nämä juhlat jatkuvat vielä",
     "start_time": "2026-05-15T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/leikin-loppu"
+    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
   },
   {
     "venue": "kansallisteatteri",
@@ -3033,9 +3068,9 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Nämä juhlat jatkuvat vielä",
+    "title": "Hautakivi",
     "start_time": "2026-05-15T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
+    "url": "https://www.kansallisteatteri.fi/esitys/hautakivi"
   },
   {
     "venue": "svenska",
@@ -3054,9 +3089,9 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Leikin loppu",
+    "title": "Hautakivi",
     "start_time": "2026-05-16T13:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/leikin-loppu"
+    "url": "https://www.kansallisteatteri.fi/esitys/hautakivi"
   },
   {
     "venue": "kansallisteatteri",
@@ -3075,9 +3110,9 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Hautakivi",
+    "title": "Leikin loppu",
     "start_time": "2026-05-16T13:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/hautakivi"
+    "url": "https://www.kansallisteatteri.fi/esitys/leikin-loppu"
   },
   {
     "venue": "kansallisteatteri",
@@ -3117,9 +3152,9 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
-    "start_time": "2026-05-18T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
+    "title": "Draama jatkuu Hietaniemessä",
+    "start_time": "2026-05-18T17:00:00+03:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/draama-jatkuu-hietaniemessa-0"
   },
   {
     "venue": "kansallisteatteri",
@@ -3134,6 +3169,13 @@ window.SCRAPED_EVENTS = [
     "title": "Muistopäivä",
     "start_time": "2026-05-18T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
+    "title": "Toinen tasavalta",
+    "start_time": "2026-05-18T18:30:00+03:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
     "venue": "universum",
@@ -3180,13 +3222,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Hautakivi",
-    "start_time": "2026-05-19T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/hautakivi"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
     "title": "Leikin loppu",
     "start_time": "2026-05-19T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/leikin-loppu"
@@ -3197,6 +3232,13 @@ window.SCRAPED_EVENTS = [
     "title": "Muistopäivä",
     "start_time": "2026-05-19T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
+    "title": "Hautakivi",
+    "start_time": "2026-05-19T18:30:00+03:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/hautakivi"
   },
   {
     "venue": "takomo",
@@ -3211,6 +3253,13 @@ window.SCRAPED_EVENTS = [
     "title": "Soili 19.5 kl 19",
     "start_time": "2026-05-19T19:00:00+03:00",
     "url": "https://universum.fi/events/soili-19-5-kl-19/"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
+    "title": "Draama jatkuu Hietaniemessä",
+    "start_time": "2026-05-20T12:00:00+03:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/draama-jatkuu-hietaniemessa-0"
   },
   {
     "venue": "kansallisteatteri",
@@ -3255,6 +3304,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-2105"
   },
   {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
+    "title": "Draama jatkuu Hietaniemessä",
+    "start_time": "2026-05-21T17:00:00+03:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/draama-jatkuu-hietaniemessa-0"
+  },
+  {
     "venue": "cirko",
     "venue_label": "Cirko",
     "title": "People Watching: Play Dead",
@@ -3292,16 +3348,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Leikin loppu",
+    "title": "Hautakivi",
     "start_time": "2026-05-22T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/leikin-loppu"
+    "url": "https://www.kansallisteatteri.fi/esitys/hautakivi"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Hautakivi",
+    "title": "Leikin loppu",
     "start_time": "2026-05-22T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/hautakivi"
+    "url": "https://www.kansallisteatteri.fi/esitys/leikin-loppu"
   },
   {
     "venue": "zodiak",
@@ -3309,6 +3365,13 @@ window.SCRAPED_EVENTS = [
     "title": "Hanna Ahti,Kid Kokko:Theoria",
     "start_time": "2026-05-23T12:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/theoria"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
+    "title": "Draama jatkuu Hietaniemessä",
+    "start_time": "2026-05-23T12:00:00+03:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/draama-jatkuu-hietaniemessa-0"
   },
   {
     "venue": "kansallisteatteri",
@@ -3334,6 +3397,13 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
+    "title": "ONE DROP",
+    "start_time": "2026-05-23T18:30:00+03:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/one-drop"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
     "title": "Mascu-Fuck",
     "start_time": "2026-05-23T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/mascu-fuck"
@@ -3341,8 +3411,15 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
+    "title": "Draama jatkuu Hietaniemessä",
+    "start_time": "2026-05-24T12:00:00+03:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/draama-jatkuu-hietaniemessa-0"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
     "title": "ONE DROP",
-    "start_time": "2026-05-23T18:30:00+03:00",
+    "start_time": "2026-05-25T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/one-drop"
   },
   {
@@ -3355,9 +3432,9 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "ONE DROP",
-    "start_time": "2026-05-25T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/one-drop"
+    "title": "Draama jatkuu Hietaniemessä",
+    "start_time": "2026-05-26T12:00:00+03:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/draama-jatkuu-hietaniemessa-0"
   },
   {
     "venue": "zodiak",
@@ -3379,6 +3456,20 @@ window.SCRAPED_EVENTS = [
     "title": "Hanna Ahti,Kid Kokko:Theoria",
     "start_time": "2026-05-27T16:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/theoria"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
+    "title": "Draama jatkuu Hietaniemessä",
+    "start_time": "2026-05-27T17:00:00+03:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/draama-jatkuu-hietaniemessa-0"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
+    "title": "Draama jatkuu Hietaniemessä",
+    "start_time": "2026-05-28T12:00:00+03:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/draama-jatkuu-hietaniemessa-0"
   },
   {
     "venue": "zodiak",
@@ -3414,6 +3505,20 @@ window.SCRAPED_EVENTS = [
     "title": "Hanna Ahti,Kid Kokko:Theoria",
     "start_time": "2026-05-29T16:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/theoria"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
+    "title": "Draama jatkuu Hietaniemessä",
+    "start_time": "2026-05-30T12:00:00+03:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/draama-jatkuu-hietaniemessa-0"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
+    "title": "Draama jatkuu Hietaniemessä",
+    "start_time": "2026-05-31T12:00:00+03:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/draama-jatkuu-hietaniemessa-0"
   },
   {
     "venue": "tekstintalo",
