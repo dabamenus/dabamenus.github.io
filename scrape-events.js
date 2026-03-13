@@ -749,6 +749,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "&FEST: Cadela Força Trilogy – Chapter I: The Bride and The Goodnight Cinderella",
+    "start_time": "2026-03-18T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/bride-and-goodnight-cinderella/"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "The Poet of Finland",
