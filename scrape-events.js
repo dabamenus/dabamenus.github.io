@@ -525,13 +525,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://q-teatteri.fi/esitykset/kolme-sisarta"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Workshop Uzi Freyjan kanssa: rap-lyriikoiden kirjoittaminen",
-    "start_time": "2026-03-13T15:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/workshop-uzi-freyjan-kanssa"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Swedish Asshole",
