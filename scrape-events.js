@@ -539,53 +539,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
   },
   {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "&FEST: The Birds",
-    "start_time": "2026-03-13T18:30:00+02:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/fest-the-birds/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Nämä juhlat jatkuvat vielä",
-    "start_time": "2026-03-13T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
-    "start_time": "2026-03-13T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
     "venue": "madhouse",
     "venue_label": "Mad House",
     "title": "Remi Vesala – showroom 3: rules of reality",
     "start_time": "2026-03-13T19:00:00+02:00",
     "url": "https://www.madhousehelsinki.fi/ohjelmisto/showroom3"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "showroom 3",
-    "start_time": "2026-03-13T19:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/showroom-3"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Ballet Finland: On aika",
-    "start_time": "2026-03-13T19:00:00+02:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/ballet-finland-on-aika"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Frankofonia-kiertue: Uzi Freyja",
-    "start_time": "2026-03-13T20:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/frankofonia-kiertue-uzi-freyja"
   },
   {
     "venue": "tekstintalo",
@@ -1391,6 +1349,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kruununhaan yläaste: Kirjakoreografiat",
     "start_time": "2026-04-01T19:00:00+03:00",
     "url": "https://www.tanssintalo.fi/ohjelma/kruununhaan-ylaaste-kirjakoreografiat"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "DJ Börjen senioridisco",
+    "start_time": "2026-04-01T19:00:00+03:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/senioridisco"
   },
   {
     "venue": "tanssintalo",
@@ -4226,6 +4191,13 @@ window.SCRAPED_EVENTS = [
     "title": "Vinterkvällar",
     "start_time": "2027-03-05T19:00:00+02:00",
     "url": "https://universum.fi/events/vinterkvallar-5-3/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Vinterkvällar",
+    "start_time": "2027-03-06T19:00:00+02:00",
+    "url": "https://universum.fi/events/vinterkvallar-6-3/"
   },
   {
     "venue": "svenska",
