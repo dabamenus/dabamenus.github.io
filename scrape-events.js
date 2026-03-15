@@ -553,39 +553,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/sana-ja-kuva-eli-kuinka-kirjoittaa-kuvaksi-verkkokurssitus-14-3-18-4"
   },
   {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Täällä Pohjantähden alla",
-    "start_time": "2026-03-14T12:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taalla-pohjantahden-alla"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Nämä juhlat jatkuvat vielä",
-    "start_time": "2026-03-14T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
-  },
-  {
     "venue": "qteatteri",
     "venue_label": "Q-Teatteri",
     "title": "Uuteen nousuun",
     "start_time": "2026-03-14T14:00:00+02:00",
     "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Fandango x Tekstin Taco",
-    "start_time": "2026-03-14T14:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/fandango-x-tekstin-taco"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "&FEST: The Birds",
-    "start_time": "2026-03-14T14:00:00+02:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/fest-the-birds/"
   },
   {
     "venue": "viirus",
@@ -602,32 +574,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://q-teatteri.fi/esitykset/kolme-sisarta"
   },
   {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
-    "start_time": "2026-03-14T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Muistopäivä",
-    "start_time": "2026-03-14T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
-  },
-  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Är det hett här?",
     "start_time": "2026-03-14T19:00:00+02:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/ar-det-hett-har/"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Groove House x Enchantè: Invite me series 002",
-    "start_time": "2026-03-14T19:00:00+02:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/groove-house-x-enchantè-invite-me-series-002"
   },
   {
     "venue": "qteatteri",
@@ -908,13 +859,6 @@ window.SCRAPED_EVENTS = [
     "title": "Teatteri Taimine: BullyBully",
     "start_time": "2026-03-21T19:00:00+02:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/bully-bully/"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Groove House x Enchantè: Invite me series 002",
-    "start_time": "2026-03-21T19:00:00+02:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/groove-house-x-enchantè-invite-me-series-002"
   },
   {
     "venue": "tanssintalo",
