@@ -574,13 +574,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://q-teatteri.fi/esitykset/kolme-sisarta"
   },
   {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Är det hett här?",
-    "start_time": "2026-03-14T19:00:00+02:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/ar-det-hett-har/"
-  },
-  {
     "venue": "qteatteri",
     "venue_label": "Q-Teatteri",
     "title": "Kolme sisarta",
@@ -4135,6 +4128,13 @@ window.SCRAPED_EVENTS = [
     "title": "Vinterkvällar",
     "start_time": "2027-03-06T19:00:00+02:00",
     "url": "https://universum.fi/events/vinterkvallar-6-3/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Vinterkvällar",
+    "start_time": "2027-03-08T19:00:00+02:00",
+    "url": "https://universum.fi/events/vinterkvallar-8-3/"
   },
   {
     "venue": "svenska",
