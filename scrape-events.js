@@ -539,13 +539,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
   },
   {
-    "venue": "madhouse",
-    "venue_label": "Mad House",
-    "title": "Remi Vesala – showroom 3: rules of reality",
-    "start_time": "2026-03-13T19:00:00+02:00",
-    "url": "https://www.madhousehelsinki.fi/ohjelmisto/showroom3"
-  },
-  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Sana ja kuva – eli kuinka kirjoittaa kuvaksi (verkkokurssitus 14.3. -18.4.)",
@@ -3953,6 +3946,41 @@ window.SCRAPED_EVENTS = [
     "title": "Lady T (syksy 2026)",
     "start_time": "2026-09-30T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/lady-t-syksy-2026"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Elina Pirinen:Ghosts of Rosegarden",
+    "start_time": "2026-10-06T16:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Elina Pirinen:Ghosts of Rosegarden",
+    "start_time": "2026-10-08T16:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Elina Pirinen:Ghosts of Rosegarden",
+    "start_time": "2026-10-09T16:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Elina Pirinen:Ghosts of Rosegarden",
+    "start_time": "2026-10-10T12:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Elina Pirinen: Ghosts of Rosegarden",
+    "start_time": "2026-10-10T19:00:00+03:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/elina-pirinen-ghosts-of-rosegarden"
   },
   {
     "venue": "kansallisteatteri",
