@@ -581,20 +581,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://q-teatteri.fi/esitykset/kolme-sisarta"
   },
   {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
-    "start_time": "2026-03-16T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Muistopäivä",
-    "start_time": "2026-03-16T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Keskustelu:Zodiak ja yhteisöllisyys",
@@ -4240,6 +4226,13 @@ window.SCRAPED_EVENTS = [
     "title": "Vinterkvällar",
     "start_time": "2027-03-08T19:00:00+02:00",
     "url": "https://universum.fi/events/vinterkvallar-8-3/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Vinterkvällar",
+    "start_time": "2027-03-09T19:00:00+02:00",
+    "url": "https://universum.fi/events/vinterkvallar-9-3/"
   },
   {
     "venue": "svenska",
