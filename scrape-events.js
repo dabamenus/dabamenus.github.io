@@ -373,13 +373,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "qteatteri",
     "venue_label": "Q-Teatteri",
-    "title": "Kolme sisarta",
-    "start_time": "2026-02-27T18:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/kolme-sisarta"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
     "title": "Uuteen nousuun",
     "start_time": "2026-02-27T18:30:00+02:00",
     "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
@@ -397,20 +390,6 @@ window.SCRAPED_EVENTS = [
     "title": "Uuteen nousuun",
     "start_time": "2026-03-02T18:30:00+02:00",
     "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Kolme sisarta",
-    "start_time": "2026-03-03T18:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/kolme-sisarta"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Kolme sisarta",
-    "start_time": "2026-03-04T15:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/kolme-sisarta"
   },
   {
     "venue": "viirus",
@@ -434,13 +413,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/zodiak-laboratory-ninu-lindfors-cia-rinne"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Kolme sisarta",
-    "start_time": "2026-03-05T18:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/kolme-sisarta"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Zodiak Laboratory:Ninu Lindfors & Cia Rinne",
@@ -453,13 +425,6 @@ window.SCRAPED_EVENTS = [
     "title": "Janina Rajakangas Projekti:Lattia on laavaa",
     "start_time": "2026-03-06T16:00:01+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/lattia-laavaa"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Kolme sisarta",
-    "start_time": "2026-03-06T18:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/kolme-sisarta"
   },
   {
     "venue": "viirus",
@@ -504,25 +469,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/swedish-asshole/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Kolme sisarta",
-    "start_time": "2026-03-11T18:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/kolme-sisarta"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Swedish Asshole",
     "start_time": "2026-03-11T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/swedish-asshole/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Kolme sisarta",
-    "start_time": "2026-03-12T18:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/kolme-sisarta"
   },
   {
     "venue": "viirus",
@@ -560,46 +511,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/swedish-asshole/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Kolme sisarta",
-    "start_time": "2026-03-14T15:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/kolme-sisarta"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Kolme sisarta",
-    "start_time": "2026-03-16T15:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/kolme-sisarta"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Keskustelu:Zodiak ja yhteisöllisyys",
     "start_time": "2026-03-17T14:30:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/keskustelu-zodiak-ja-yhteisollisyys"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Kolme sisarta",
-    "start_time": "2026-03-17T18:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/kolme-sisarta"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Muistopäivä",
-    "start_time": "2026-03-17T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
-    "start_time": "2026-03-17T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
     "venue": "qteatteri",
