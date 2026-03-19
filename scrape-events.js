@@ -525,27 +525,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
   },
   {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "&FEST: Cadela Força Trilogy – Chapter I: The Bride and The Goodnight Cinderella",
-    "start_time": "2026-03-18T18:30:00+02:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/bride-and-goodnight-cinderella/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Nämä juhlat jatkuvat vielä",
-    "start_time": "2026-03-18T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Täällä Pohjantähden alla",
-    "start_time": "2026-03-18T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taalla-pohjantahden-alla"
-  },
-  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Teatteri Taimine: BullyBully",
@@ -558,13 +537,6 @@ window.SCRAPED_EVENTS = [
     "title": "LIVETS SUMMA",
     "start_time": "2026-03-18T19:00:00+02:00",
     "url": "https://universum.fi/events/livets-summa-18-3/"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "&FEST: Cadela Força Trilogy – Chapter I: The Bride and The Goodnight Cinderella",
-    "start_time": "2026-03-18T19:00:00+02:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/fest-cadela-forca-trilogy-chapter-i-the-bride-and-the-goodnight-cinderella"
   },
   {
     "venue": "zodiak",
@@ -4184,5 +4156,12 @@ window.SCRAPED_EVENTS = [
     "title": "Pelle Svanslös",
     "start_time": "2027-03-10T19:00:00+02:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/pelle-svanslos/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Vinterkvällar",
+    "start_time": "2027-03-11T19:00:00+02:00",
+    "url": "https://universum.fi/events/vinterkvallar-11-3/"
   }
 ];
