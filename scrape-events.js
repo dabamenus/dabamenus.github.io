@@ -525,20 +525,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
   },
   {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Teatteri Taimine: BullyBully",
-    "start_time": "2026-03-18T19:00:00+02:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/bully-bully/"
-  },
-  {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "LIVETS SUMMA",
-    "start_time": "2026-03-18T19:00:00+02:00",
-    "url": "https://universum.fi/events/livets-summa-18-3/"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Zodiak Laboratory:Biret Haarla Pieski ja työryhmä",
@@ -551,27 +537,6 @@ window.SCRAPED_EVENTS = [
     "title": "Uuteen nousuun",
     "start_time": "2026-03-19T18:30:00+02:00",
     "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "&Fest: YES DADDY",
-    "start_time": "2026-03-19T18:30:00+02:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/fest-yes-daddy/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Muistopäivä",
-    "start_time": "2026-03-19T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Miespeto / Sinäkin täällä",
-    "start_time": "2026-03-19T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/miespeto-sinakin-taalla"
   },
   {
     "venue": "universum",
