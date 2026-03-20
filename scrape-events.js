@@ -553,13 +553,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/livets-summa-19-3/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "The Poet of Finland",
-    "start_time": "2026-03-20T14:00:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/the-poet-of-finland/"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Zodiak Laboratory:Biret Haarla Pieski ja työryhmä",
