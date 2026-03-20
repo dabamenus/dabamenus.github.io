@@ -560,13 +560,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/zodiak-laboratory-biret-haarla-pieski-ja-tyoryhma"
   },
   {
-    "venue": "kiasma",
-    "venue_label": "Kiasma",
-    "title": "Radouan Mriziga: Atlas / The Mountain",
-    "start_time": "2026-03-20T18:00:00+02:00",
-    "url": "https://kiasma.fi/esitykset/radouan-mriziga-atlas-the-mountain/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Versailles",
