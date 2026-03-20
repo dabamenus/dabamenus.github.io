@@ -2739,6 +2739,13 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "zodiak",
     "venue_label": "Zodiak",
+    "title": "Residenssidemo:Gaya de Medeiros",
+    "start_time": "2026-05-15T14:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/residenssidemo-gaya-de-medeiros"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
     "title": "Hanna Ahti,Kid Kokko:Theoria",
     "start_time": "2026-05-15T16:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/theoria"
