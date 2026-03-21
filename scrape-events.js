@@ -637,6 +637,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/livets-summa-22-3/"
   },
   {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Swedish Asshole",
+    "start_time": "2026-03-22T20:00:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/swedish-asshole/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Kirjailijat lavalla",
@@ -1596,6 +1603,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/konferenssi-apolloninen-ja-dionyysine"
   },
   {
+    "venue": "cirko",
+    "venue_label": "Cirko",
+    "title": "Kallo Collective: The Story of Pluto, Who Wanted to Be a Planet",
+    "start_time": "2026-04-18T12:30:00+03:00",
+    "url": "https://cirko.fi/esitys/kallo-collective-the-story-of-pluto-who-wanted-to-be-a-planet/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Vanja",
@@ -1643,6 +1657,13 @@ window.SCRAPED_EVENTS = [
     "title": "The Poet of Finland",
     "start_time": "2026-04-18T14:00:00+03:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/the-poet-of-finland/"
+  },
+  {
+    "venue": "cirko",
+    "venue_label": "Cirko",
+    "title": "Kallo Collective: The Story of Pluto, Who Wanted to Be a Planet",
+    "start_time": "2026-04-18T15:00:00+03:00",
+    "url": "https://cirko.fi/esitys/kallo-collective-the-story-of-pluto-who-wanted-to-be-a-planet/"
   },
   {
     "venue": "viirus",
@@ -1967,6 +1988,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/naiskirjoittamisen-kurssi-2"
   },
   {
+    "venue": "cirko",
+    "venue_label": "Cirko",
+    "title": "Kallo Collective: The Story of Pluto, Who Wanted to Be a Planet",
+    "start_time": "2026-04-25T12:30:00+03:00",
+    "url": "https://cirko.fi/esitys/kallo-collective-the-story-of-pluto-who-wanted-to-be-a-planet/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lady T",
@@ -2021,6 +2049,13 @@ window.SCRAPED_EVENTS = [
     "title": "SCREAM CRY EXORCISE",
     "start_time": "2026-04-25T15:00:00+03:00",
     "url": "https://kiasma.fi/esitykset/scream-cry-exorcise/"
+  },
+  {
+    "venue": "cirko",
+    "venue_label": "Cirko",
+    "title": "Kallo Collective: The Story of Pluto, Who Wanted to Be a Planet",
+    "start_time": "2026-04-25T15:00:00+03:00",
+    "url": "https://cirko.fi/esitys/kallo-collective-the-story-of-pluto-who-wanted-to-be-a-planet/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2835,6 +2870,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/theoria"
   },
   {
+    "venue": "cirko",
+    "venue_label": "Cirko",
+    "title": "People Watching: Play Dead",
+    "start_time": "2026-05-19T18:00:00+03:00",
+    "url": "https://cirko.fi/esitys/people-watching-play-dead-2/"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Puija",
@@ -2905,6 +2947,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/theoria"
   },
   {
+    "venue": "cirko",
+    "venue_label": "Cirko",
+    "title": "People Watching: Play Dead",
+    "start_time": "2026-05-20T18:00:00+03:00",
+    "url": "https://cirko.fi/esitys/people-watching-play-dead-2/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Leikin loppu",
@@ -2931,6 +2980,13 @@ window.SCRAPED_EVENTS = [
     "title": "Draama jatkuu Hietaniemessä",
     "start_time": "2026-05-21T17:00:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/draama-jatkuu-hietaniemessa-0"
+  },
+  {
+    "venue": "cirko",
+    "venue_label": "Cirko",
+    "title": "People Watching: Play Dead",
+    "start_time": "2026-05-21T18:00:00+03:00",
+    "url": "https://cirko.fi/esitys/people-watching-play-dead-2/"
   },
   {
     "venue": "viirus",
@@ -3584,11 +3640,25 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/kettutyton-paluu-8-9/"
   },
   {
+    "venue": "cirko",
+    "venue_label": "Cirko",
+    "title": "Helsinki Circus Festival",
+    "start_time": "2026-09-10T00:00:00+03:00",
+    "url": "https://cirko.fi/esitys/helsinki-circus-festival-2/"
+  },
+  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Nattland",
     "start_time": "2026-09-10T19:00:00+03:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/nattland/"
+  },
+  {
+    "venue": "cirko",
+    "venue_label": "Cirko",
+    "title": "Helsinki Circus Festival",
+    "start_time": "2026-09-11T00:00:00+03:00",
+    "url": "https://cirko.fi/esitys/helsinki-circus-festival-2/"
   },
   {
     "venue": "kansallisteatteri",
@@ -3598,6 +3668,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/lady-t-syksy-2026"
   },
   {
+    "venue": "cirko",
+    "venue_label": "Cirko",
+    "title": "Helsinki Circus Festival",
+    "start_time": "2026-09-12T00:00:00+03:00",
+    "url": "https://cirko.fi/esitys/helsinki-circus-festival-2/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lady T (syksy 2026)",
@@ -3605,11 +3682,46 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/lady-t-syksy-2026"
   },
   {
+    "venue": "cirko",
+    "venue_label": "Cirko",
+    "title": "Helsinki Circus Festival",
+    "start_time": "2026-09-13T00:00:00+03:00",
+    "url": "https://cirko.fi/esitys/helsinki-circus-festival-2/"
+  },
+  {
+    "venue": "cirko",
+    "venue_label": "Cirko",
+    "title": "Company Portmanteau: PYYKKI - Lost in Laundryland",
+    "start_time": "2026-09-17T18:00:00+03:00",
+    "url": "https://cirko.fi/esitys/company-portmanteau-pyykki-lost-in-laundryland/"
+  },
+  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Änglagård",
     "start_time": "2026-09-17T19:00:00+03:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/anglagard/"
+  },
+  {
+    "venue": "cirko",
+    "venue_label": "Cirko",
+    "title": "Company Portmanteau: PYYKKI - Lost in Laundryland",
+    "start_time": "2026-09-18T18:00:00+03:00",
+    "url": "https://cirko.fi/esitys/company-portmanteau-pyykki-lost-in-laundryland/"
+  },
+  {
+    "venue": "cirko",
+    "venue_label": "Cirko",
+    "title": "Company Portmanteau: PYYKKI - Lost in Laundryland",
+    "start_time": "2026-09-19T12:00:00+03:00",
+    "url": "https://cirko.fi/esitys/company-portmanteau-pyykki-lost-in-laundryland/"
+  },
+  {
+    "venue": "cirko",
+    "venue_label": "Cirko",
+    "title": "Company Portmanteau: PYYKKI - Lost in Laundryland",
+    "start_time": "2026-09-19T15:00:00+03:00",
+    "url": "https://cirko.fi/esitys/company-portmanteau-pyykki-lost-in-laundryland/"
   },
   {
     "venue": "kansallisteatteri",
