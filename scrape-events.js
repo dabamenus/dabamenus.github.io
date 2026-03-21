@@ -602,13 +602,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/jotuni"
   },
   {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Teatteri Taimine: BullyBully",
-    "start_time": "2026-03-21T19:00:00+02:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/bully-bully/"
-  },
-  {
     "venue": "tanssintalo",
     "venue_label": "Tanssin Talo",
     "title": "Helsinki International Drag Fest 2026",
