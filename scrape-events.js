@@ -560,53 +560,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
   },
   {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
-    "start_time": "2026-03-21T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Kolme harjoitelmaa sodan ja rakkauden vuosilta",
-    "start_time": "2026-03-21T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/kolme-harjoitelmaa-sodan-ja-rakkauden-vuosilta"
-  },
-  {
     "venue": "qteatteri",
     "venue_label": "Q-Teatteri",
     "title": "Uuteen nousuun",
     "start_time": "2026-03-21T14:00:00+02:00",
     "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "&Fest: YES DADDY",
-    "start_time": "2026-03-21T14:00:00+02:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/fest-yes-daddy/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Täällä Pohjantähden alla",
-    "start_time": "2026-03-21T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taalla-pohjantahden-alla"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Jotuni",
-    "start_time": "2026-03-21T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/jotuni"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Helsinki International Drag Fest 2026",
-    "start_time": "2026-03-21T19:00:00+02:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/helsinki-international-drag-fest-2026"
   },
   {
     "venue": "viirus",
