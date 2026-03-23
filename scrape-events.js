@@ -2760,7 +2760,7 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "tanssintalo",
     "venue_label": "Tanssin Talo",
-    "title": "Helsinki Music Week",
+    "title": "Helsinki Music Week: MELO & HMW Finale",
     "start_time": "2026-05-16T19:00:00+03:00",
     "url": "https://www.tanssintalo.fi/ohjelma/helsinki-music-week-2"
   },
