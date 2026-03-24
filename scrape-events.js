@@ -2660,6 +2660,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
   },
   {
+    "venue": "madhouse",
+    "venue_label": "Mad House",
+    "title": "Light House",
+    "start_time": "2026-05-15T19:00:00+03:00",
+    "url": "https://www.madhousehelsinki.fi/ohjelmisto/lighthouse"
+  },
+  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Humorlandskampen",
@@ -2707,6 +2714,13 @@ window.SCRAPED_EVENTS = [
     "title": "Lapin Faarao",
     "start_time": "2026-05-16T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/lapin-faarao"
+  },
+  {
+    "venue": "madhouse",
+    "venue_label": "Mad House",
+    "title": "Light House",
+    "start_time": "2026-05-16T19:00:00+03:00",
+    "url": "https://www.madhousehelsinki.fi/ohjelmisto/lighthouse"
   },
   {
     "venue": "takomo",
