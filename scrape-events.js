@@ -476,39 +476,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/swedish-asshole/"
   },
   {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "LIVETS SUMMA",
-    "start_time": "2026-03-23T19:00:00+02:00",
-    "url": "https://universum.fi/events/livets-summa-23-3/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Swedish Asshole",
     "start_time": "2026-03-24T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/swedish-asshole/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Vanja",
-    "start_time": "2026-03-24T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/vanja"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Muistopäivä",
-    "start_time": "2026-03-24T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Täällä Pohjantähden alla",
-    "start_time": "2026-03-24T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taalla-pohjantahden-alla"
   },
   {
     "venue": "universum",
@@ -1258,6 +1230,13 @@ window.SCRAPED_EVENTS = [
     "title": "Laulujoutsen",
     "start_time": "2026-04-16T19:00:00+03:00",
     "url": "https://universum.fi/events/laulujoutsen-16-4/"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Glims & Gloms ja Guardia Nueva: Piazzolla-ilta",
+    "start_time": "2026-04-16T19:00:00+03:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/glims-gloms-ja-guardia-nueva-piazzolla-ilta-2"
   },
   {
     "venue": "tanssintalo",
