@@ -392,13 +392,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
   },
   {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Swedish Asshole",
-    "start_time": "2026-03-04T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/swedish-asshole/"
-  },
-  {
     "venue": "qteatteri",
     "venue_label": "Q-Teatteri",
     "title": "Uuteen nousuun",
@@ -429,13 +422,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
-    "title": "Swedish Asshole",
-    "start_time": "2026-03-06T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/swedish-asshole/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
     "title": "Show Boudoir",
     "start_time": "2026-03-06T20:00:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/show-boudoir/"
@@ -453,34 +439,6 @@ window.SCRAPED_EVENTS = [
     "title": "Janina Rajakangas Projekti:Lattia on laavaa",
     "start_time": "2026-03-07T13:30:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/lattia-laavaa"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Swedish Asshole",
-    "start_time": "2026-03-07T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/swedish-asshole/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Swedish Asshole",
-    "start_time": "2026-03-10T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/swedish-asshole/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Swedish Asshole",
-    "start_time": "2026-03-11T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/swedish-asshole/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Swedish Asshole",
-    "start_time": "2026-03-13T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/swedish-asshole/"
   },
   {
     "venue": "qteatteri",
@@ -502,13 +460,6 @@ window.SCRAPED_EVENTS = [
     "title": "Uuteen nousuun",
     "start_time": "2026-03-14T14:00:00+02:00",
     "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Swedish Asshole",
-    "start_time": "2026-03-14T15:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/swedish-asshole/"
   },
   {
     "venue": "zodiak",
@@ -565,34 +516,6 @@ window.SCRAPED_EVENTS = [
     "title": "Uuteen nousuun",
     "start_time": "2026-03-21T14:00:00+02:00",
     "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Swedish Asshole",
-    "start_time": "2026-03-22T15:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/swedish-asshole/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Swedish Asshole",
-    "start_time": "2026-03-22T20:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/swedish-asshole/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Swedish Asshole",
-    "start_time": "2026-03-23T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/swedish-asshole/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Swedish Asshole",
-    "start_time": "2026-03-24T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/swedish-asshole/"
   },
   {
     "venue": "universum",
@@ -992,6 +915,13 @@ window.SCRAPED_EVENTS = [
     "title": "Vinterkvällar",
     "start_time": "2026-04-06T19:00:00+03:00",
     "url": "https://universum.fi/events/vinterkvallar-6-4/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Versailles",
+    "start_time": "2026-04-07T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/versailles/"
   },
   {
     "venue": "kansallisteatteri",
@@ -1944,6 +1874,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kallo Collective: The Story of Pluto, Who Wanted to Be a Planet",
     "start_time": "2026-04-25T15:00:00+03:00",
     "url": "https://cirko.fi/esitys/kallo-collective-the-story-of-pluto-who-wanted-to-be-a-planet/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Versailles",
+    "start_time": "2026-04-25T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/versailles/"
   },
   {
     "venue": "kansallisteatteri",
