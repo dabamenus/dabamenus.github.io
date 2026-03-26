@@ -482,7 +482,7 @@ window.SCRAPED_EVENTS = [
     "title": "Susanna Leinonen Company: Rajatila",
     "start_time": "2026-03-26T00:00:00+02:00",
     "end_time": "2026-03-26T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/FF3719D394AE7E8C9E3D07BEB9332262/susanna-leinonen-company-rajatila"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/susanna-leinonen-company-rajatila"
   },
   {
     "venue": "stoa",
@@ -3764,14 +3764,6 @@ window.SCRAPED_EVENTS = [
     "title": "Humorlandskampen",
     "start_time": "2026-05-15T19:00:00+03:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/humorlandskampen/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "JUST DANCE FINLAND GOES STOA",
-    "start_time": "2026-05-16T00:00:00+03:00",
-    "end_time": "2026-05-16T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/ADCB301C7260DF0ACFDC03487D952EC1/just-dance-finland-goes-stoa"
   },
   {
     "venue": "zodiak",
