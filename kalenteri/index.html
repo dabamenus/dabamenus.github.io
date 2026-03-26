@@ -939,12 +939,20 @@
         </div>`;
     }
 
-    // Render active items in their array order; emit a group header whenever the month changes.
+    // Sort active items chronologically so same-month events are always contiguous
+    const activeSorted = [...active].sort((a, b) => {
+      if (!a.start_time && !b.start_time) return 0;
+      if (!a.start_time) return 1;
+      if (!b.start_time) return -1;
+      return a.start_time.localeCompare(b.start_time);
+    });
+
+    // Render; emit a group header whenever the month changes.
     // Undated items inherit the current group rather than forcing an "Undated" sub-header.
     let html = '';
     let currentKey = null;
     let inGroup = false;
-    for (const ev of active) {
+    for (const ev of activeSorted) {
       const key = evMonthKey(ev);
       const effectiveKey = (key === 'undated' && currentKey !== null) ? currentKey : key;
       if (effectiveKey !== currentKey) {
