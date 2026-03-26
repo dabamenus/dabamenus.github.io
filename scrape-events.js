@@ -501,13 +501,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/3277AE8B4B918F5ABAB29911F6D9E856/taidetta-taaperoille"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "hellänä - tender",
-    "start_time": "2026-03-26T18:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/hellana-tender2"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Versailles",
@@ -520,13 +513,6 @@ window.SCRAPED_EVENTS = [
     "title": "&FEST: Zona Franca",
     "start_time": "2026-03-26T18:30:00+02:00",
     "url": "https://espoonteatteri.fi/ohjelmisto/fest-zona-franca/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "The Poet of Finland",
-    "start_time": "2026-03-26T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/the-poet-of-finland/"
   },
   {
     "venue": "kansallisteatteri",
@@ -7666,6 +7652,13 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-11-21T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Matti Johannes Koivu: 80-luvun lapsi -juhlakonsertti",
+    "start_time": "2026-11-21T19:00:00+02:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/matti-johannes-koivu-80-luvun-lapsi--juhlakonsertti"
   },
   {
     "venue": "hkt",
