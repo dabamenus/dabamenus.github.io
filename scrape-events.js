@@ -406,53 +406,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/versailles/"
   },
   {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "LIVETS SUMMA",
-    "start_time": "2026-03-24T19:00:00+02:00",
-    "url": "https://universum.fi/events/livets-summa-24-3/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Versailles",
     "start_time": "2026-03-25T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "&FEST: Zona Franca",
-    "start_time": "2026-03-25T18:30:00+02:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/fest-zona-franca/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
-    "start_time": "2026-03-25T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Nämä juhlat jatkuvat vielä",
-    "start_time": "2026-03-25T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Vanja",
-    "start_time": "2026-03-25T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/vanja"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Kruununhaan yläaste: Kirjakoreografiat",
-    "start_time": "2026-03-25T19:00:00+02:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/kruununhaan-ylaaste-kirjakoreografiat"
   },
   {
     "venue": "tekstintalo",
@@ -653,13 +611,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "tanssintalo",
     "venue_label": "Tanssin Talo",
-    "title": "Kruununhaan yläaste: Kirjakoreografiat",
-    "start_time": "2026-03-28T19:00:00+02:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/kruununhaan-ylaaste-kirjakoreografiat"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
     "title": "DJ Börjen senioridisco",
     "start_time": "2026-03-28T19:00:00+02:00",
     "url": "https://www.tanssintalo.fi/ohjelma/senioridisco"
@@ -684,13 +635,6 @@ window.SCRAPED_EVENTS = [
     "title": "Versailles",
     "start_time": "2026-04-01T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Kruununhaan yläaste: Kirjakoreografiat",
-    "start_time": "2026-04-01T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/kruununhaan-ylaaste-kirjakoreografiat"
   },
   {
     "venue": "tanssintalo",
@@ -4436,5 +4380,12 @@ window.SCRAPED_EVENTS = [
     "title": "Vinterkvällar",
     "start_time": "2027-03-11T19:00:00+02:00",
     "url": "https://universum.fi/events/vinterkvallar-11-3/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "LIVETS SUMMA",
+    "start_time": "2027-03-18T19:00:00+02:00",
+    "url": "https://universum.fi/events/livets-summa-18-3/"
   }
 ];
