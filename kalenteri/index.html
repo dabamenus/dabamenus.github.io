@@ -1174,6 +1174,8 @@
     const lastDay     = new Date(currentYear, currentMonth + 1, 0).getDate();
     const end         = `${currentYear}-${pad(currentMonth + 1)}-${pad(lastDay)}`;
     const monthPrefix = `${currentYear}-${pad(currentMonth + 1)}`;
+    const monthStart  = new Date(currentYear, currentMonth, 1);
+    const monthEnd    = new Date(currentYear, currentMonth + 1, 0, 23, 59, 59, 999);
 
     const apiUrl = `https://api.hel.fi/linkedevents/v1/event/?format=json`
       + `&location=${API_IDS}`
