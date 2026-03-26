@@ -490,7 +490,7 @@ window.SCRAPED_EVENTS = [
     "title": "Tapaa tekijä Stoan aulassa",
     "start_time": "2026-03-26T00:00:00+02:00",
     "end_time": "2026-03-26T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/42D0A0FFD5B07FCE1F582FF87DE70A4B/tapaa-tekij-stoan-aulassa"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/tapaa-tekij-stoan-aulassa"
   },
   {
     "venue": "caisa",
@@ -499,13 +499,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-03-26T00:00:00+02:00",
     "end_time": "2026-05-28T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/3277AE8B4B918F5ABAB29911F6D9E856/taidetta-taaperoille"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
-    "start_time": "2026-03-26T14:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-2603"
   },
   {
     "venue": "tekstintalo",
