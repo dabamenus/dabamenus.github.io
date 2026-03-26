@@ -949,6 +949,206 @@ try:
 except Exception as e:
     print(f'  Tanssin Talo failed: {e}')
 
+# ── HKT ──────────────────────────────────────────────────────────────────────
+print('Scraping HKT...')
+
+try:
+    today_str = date.today().isoformat()
+    r = get(f'https://hkt.fi/wp-json/tickets/date/{today_str}/180')
+    chunk = r.json()
+    all_days = dict(chunk.get('data', {}))
+    # Paginate if API returns a next date within our window
+    while chunk.get('next'):
+        next_d = date.fromisoformat(chunk['next'])
+        remaining = (next_d - date.today()).days
+        if remaining < 180:
+            r = get(f'https://hkt.fi/wp-json/tickets/date/{next_d.isoformat()}/180')
+            chunk = r.json()
+            all_days.update(chunk.get('data', {}))
+        else:
+            break
+
+    seen_hkt = set()
+    count = 0
+    for date_str, day_data in all_days.items():
+        try:
+            d = date.fromisoformat(date_str)
+        except ValueError:
+            continue
+        for ev in day_data.get('events', {}).values():
+            wp_raw = ev.get('wordpress', '')
+            if isinstance(wp_raw, dict):
+                wp = wp_raw
+            elif wp_raw:
+                try:
+                    wp = json.loads(wp_raw)
+                except (ValueError, TypeError):
+                    wp = {}
+            else:
+                wp = {}
+            title = wp.get('title', '').strip()
+            if not title:
+                continue
+            ev_url  = wp.get('url', '') or ev.get('url', '')
+            time_str = ev.get('time', '19:00') or '19:00'
+            key = (title, date_str, time_str)
+            if key in seen_hkt:
+                continue
+            seen_hkt.add(key)
+            events.append({
+                'venue':       'hkt',
+                'venue_label': 'HKT',
+                'title':       title,
+                'start_time':  hki_tz(d, time_str),
+                'url':         ev_url,
+            })
+            count += 1
+    print(f'  {count} events added')
+
+except Exception as e:
+    print(f'  HKT failed: {e}')
+
+# ── STOA ──────────────────────────────────────────────────────────────────────
+print('Scraping Stoa...')
+
+def kulke_events(base_url, venue_key, venue_label, location_id):
+    """Fetch events from the Kulke WCF API for a specific location."""
+    import datetime as dt
+    today  = date.today()
+    end    = today + timedelta(days=365)
+    r = requests.post(
+        base_url + 'services/Resurssivaraus/EventCalendarService.svc/GetEvents',
+        json={'StartTime': today.isoformat(), 'EndTime': end.isoformat(), 'Language': 'fi'},
+        headers={**HEADERS, 'Content-Type': 'application/json; charset=utf-8'},
+        timeout=20,
+    )
+    r.raise_for_status()
+    ev_list = json.loads(r.json().get('EventData', '[]'))
+
+    added = []
+    seen  = set()
+    for ev in ev_list:
+        if str(ev.get('eventLocation', '')) != str(location_id):
+            continue
+        title = ev.get('title', '').strip()
+        if not title:
+            continue
+
+        def ms_to_date(val):
+            m = re.search(r'Date\((\d+)\)', str(val))
+            if m:
+                ts  = int(m.group(1)) / 1000
+                utc = datetime.utcfromtimestamp(ts).replace(tzinfo=timezone.utc)
+                # Approximate Helsinki local date (UTC+2/+3)
+                return (utc + timedelta(hours=3)).date()
+            return None
+
+        start_d = ms_to_date(ev.get('start'))
+        end_d   = ms_to_date(ev.get('end')) or start_d
+        if not start_d:
+            continue
+        if end_d < date.today() - timedelta(days=1):
+            continue
+
+        ev_id = (title, start_d.isoformat())
+        if ev_id in seen:
+            continue
+        seen.add(ev_id)
+
+        key  = ev.get('key', '')
+        slug = re.sub(r'[^a-z0-9]+', '-', title.lower()).strip('-')
+        ev_url = (f'{base_url}fi/tapahtumat/tapahtumahaku/event/{key}/{slug}'
+                  if key else base_url + 'fi/tapahtumat/tapahtumahaku')
+
+        added.append({
+            'venue':       venue_key,
+            'venue_label': venue_label,
+            'title':       title,
+            'start_time':  hki_tz(start_d, '00:00'),
+            'end_time':    hki_tz(end_d,   '23:59'),
+            'url':         ev_url,
+        })
+    return added
+
+try:
+    stoa_evs = kulke_events('https://stoa.fi/', 'stoa', 'Stoa', 44)
+    events.extend(stoa_evs)
+    print(f'  {len(stoa_evs)} events added')
+except Exception as e:
+    print(f'  Stoa failed: {e}')
+
+# ── CAISA ─────────────────────────────────────────────────────────────────────
+print('Scraping Caisa...')
+
+try:
+    caisa_evs = kulke_events('https://caisa.fi/', 'caisa', 'Caisa', 47)
+    events.extend(caisa_evs)
+    print(f'  {len(caisa_evs)} events added')
+except Exception as e:
+    print(f'  Caisa failed: {e}')
+
+# ── JURKKA ────────────────────────────────────────────────────────────────────
+print('Scraping Jurkka...')
+
+try:
+    r = get('https://www.jurkka.fi/')
+    soup = BeautifulSoup(r.text, 'html.parser')
+    show_urls = list(dict.fromkeys(
+        a['href'] for a in soup.find_all('a', href=re.compile(r'jurkka\.fi/class/'))
+    ))
+    print(f'  Found {len(show_urls)} shows')
+
+    count = 0
+    for url in show_urls:
+        try:
+            pr = get(url)
+            psoup = BeautifulSoup(pr.text, 'html.parser')
+            h1 = psoup.find('h1')
+            raw_title = h1.get_text(strip=True) if h1 else url.rstrip('/').split('/')[-1]
+            # Remove any appended status like "LOPPUUNMYYTY" (sold out)
+            title = re.sub(r'(LOPPUUNMYYTY|SOLD OUT|LOPPUU|PERUTTU)\s*$', '', raw_title, flags=re.IGNORECASE).strip()
+
+            date_el = psoup.find(class_='wcs-single__date')
+            if not date_el:
+                continue
+            date_text = date_el.get_text(strip=True)
+            dates = re.findall(r'(\d{1,2})\.(\d{1,2})\.(202\d)', date_text)
+            if not dates:
+                continue
+            s = dates[0]
+            e = dates[1] if len(dates) >= 2 else dates[0]
+            try:
+                start_d = date(int(s[2]), int(s[1]), int(s[0]))
+                end_d   = date(int(e[2]), int(e[1]), int(e[0]))
+            except ValueError:
+                continue
+            if end_d < date.today() - timedelta(days=1):
+                continue
+
+            time_el = psoup.find(class_='wcs-single__time-duration') or psoup.find(class_='wcs-single__time')
+            time_str = '19:00'
+            if time_el:
+                tm = re.search(r'(\d{1,2}:\d{2})', time_el.get_text())
+                if tm:
+                    time_str = tm.group(1)
+
+            events.append({
+                'venue':       'jurkka',
+                'venue_label': 'Teatteri Jurkka',
+                'title':       title,
+                'start_time':  hki_tz(start_d, time_str),
+                'end_time':    hki_tz(end_d,   '23:59'),
+                'url':         url,
+            })
+            count += 1
+            print(f'  {title}: {start_d} – {end_d}')
+        except Exception as e:
+            print(f'  SKIP {url}: {e}')
+    print(f'  {count} events added')
+
+except Exception as e:
+    print(f'  Jurkka failed: {e}')
+
 # ── WRITE OUTPUT ─────────────────────────────────────────────────────────────
 events.sort(key=lambda e: e['start_time'])
 

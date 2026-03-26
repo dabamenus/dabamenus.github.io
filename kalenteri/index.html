@@ -1205,11 +1205,18 @@
       }
 
       const scrapedMonth = scraped
-        .filter(ev => ev.start_time && ev.start_time.startsWith(monthPrefix))
+        .filter(ev => {
+          if (!ev.start_time) return false;
+          if (ev.end_time) {
+            return new Date(ev.start_time) <= monthEnd && new Date(ev.end_time) >= monthStart;
+          }
+          return ev.start_time.startsWith(monthPrefix);
+        })
         .map(ev => ({
           _source:    'scrape',
           _venueKey:  ev.venue,
           start_time: ev.start_time,
+          end_time:   ev.end_time || null,
           title:      ev.title,
           url:        ev.url || '',
         }));
