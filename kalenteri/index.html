@@ -1184,20 +1184,25 @@
 
     try {
       const scraped   = window.SCRAPED_EVENTS || [];
-      const apiEvents = await fetchAll(apiUrl);
 
-      const normalised = apiEvents.map(ev => {
-        const pid  = placeId(ev);
-        const vkey = ID_TO_VENUE[pid] || null;
-        return {
-          _source:    'api',
-          _venueKey:  vkey,
-          start_time: ev.start_time,
-          end_time:   ev.end_time || null,
-          title:      ev.name?.fi || ev.name?.en || '—',
-          url:        ev.info_url?.fi || ev.info_url?.en || '',
-        };
-      });
+      let normalised = [];
+      try {
+        const apiEvents = await fetchAll(apiUrl);
+        normalised = apiEvents.map(ev => {
+          const pid  = placeId(ev);
+          const vkey = ID_TO_VENUE[pid] || null;
+          return {
+            _source:    'api',
+            _venueKey:  vkey,
+            start_time: ev.start_time,
+            end_time:   ev.end_time || null,
+            title:      ev.name?.fi || ev.name?.en || '—',
+            url:        ev.info_url?.fi || ev.info_url?.en || '',
+          };
+        });
+      } catch (_apiErr) {
+        // API unreachable (e.g. SSL/network issue) — fall through with scraped data only
+      }
 
       const scrapedMonth = scraped
         .filter(ev => ev.start_time && ev.start_time.startsWith(monthPrefix))
