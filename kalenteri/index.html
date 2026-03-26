@@ -1193,6 +1193,7 @@
           _source:    'api',
           _venueKey:  vkey,
           start_time: ev.start_time,
+          end_time:   ev.end_time || null,
           title:      ev.name?.fi || ev.name?.en || '—',
           url:        ev.info_url?.fi || ev.info_url?.en || '',
         };
@@ -1239,10 +1240,16 @@
           return activeVenues.has(ev._venueKey);
         });
 
+    const monthStart = new Date(currentYear, currentMonth, 1);
+    const monthEnd   = new Date(currentYear, currentMonth + 1, 0, 23, 59, 59, 999);
+
     const filtered = venueFiltered.filter(ev => {
       if (!ev.start_time) return false;
-      const localDate = new Date(ev.start_time)
-        .toLocaleDateString('sv-SE', { timeZone: 'Europe/Helsinki' });
+      const evStart = new Date(ev.start_time);
+      if (evStart > monthEnd) return false;
+      if (ev.end_time) return new Date(ev.end_time) >= monthStart;
+      // No end_time: single-date event — must start in this month
+      const localDate = evStart.toLocaleDateString('sv-SE', { timeZone: 'Europe/Helsinki' });
       return localDate.startsWith(monthPrefix);
     });
 
@@ -1251,17 +1258,53 @@
       return;
     }
 
-    // Group by Helsinki local date
-    const groups = {};
+    // Separate ongoing (started before this month) from events starting this month
+    const ongoing = [];
+    const groups  = {};
     for (const ev of filtered) {
       if (!ev.start_time) continue;
-      const dateKey = new Date(ev.start_time)
+      const localDate = new Date(ev.start_time)
         .toLocaleDateString('sv-SE', { timeZone: 'Europe/Helsinki' });
-      if (!groups[dateKey]) groups[dateKey] = [];
-      groups[dateKey].push(ev);
+      if (!localDate.startsWith(monthPrefix)) {
+        ongoing.push(ev);
+      } else {
+        if (!groups[localDate]) groups[localDate] = [];
+        groups[localDate].push(ev);
+      }
     }
 
     let html = '';
+
+    // Render ongoing block first
+    if (ongoing.length) {
+      html += `<div class="day-group">
+        <div class="day-heading">
+          <span class="day-name" style="font-size:0.8em;letter-spacing:0.02em">ongoing</span>
+          <span class="day-num"></span>
+        </div>`;
+      for (const ev of ongoing.sort((a,b) => a.title.localeCompare(b.title, 'fi'))) {
+        const nameHtml = ev.url
+          ? `<a href="${esc(ev.url)}" target="_blank" rel="noopener">${esc(ev.title)}</a>`
+          : esc(ev.title);
+        const vinfo = ev._venueKey ? VENUES[ev._venueKey] : null;
+        const tag   = vinfo ? `<span class="venue-tag ${vinfo.cls}">${vinfo.label}</span>` : '';
+        const id        = evId(ev);
+        const curatedEv = curated.find(c => c.id === id);
+        const isAdded   = !!curatedEv;
+        const colorMatch = curatedEv || curated.find(c => c.title === ev.title && c.color);
+        const colorCls  = colorMatch?.color ? ` color-${colorMatch.color}` : '';
+        html += `<div class="event${colorCls}">
+          <div class="event-time"></div>
+          <div class="event-body">
+            <div class="event-name">${nameHtml}</div>
+            ${tag}
+          </div>
+          <button class="add-btn${isAdded ? ' added' : ''}" data-eid="${esc(id)}" title="${isAdded ? 'Remove from list' : 'Add to list'}">${isAdded ? '✓' : '+'}</button>
+        </div>`;
+      }
+      html += '</div>';
+    }
+
     for (const dateKey of Object.keys(groups).sort()) {
       const d = new Date(dateKey + 'T12:00:00+03:00');
       html += `<div class="day-group">
