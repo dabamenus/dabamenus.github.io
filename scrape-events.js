@@ -519,7 +519,7 @@ window.SCRAPED_EVENTS = [
     "title": "Susanna Leinonen Company: Rajatila",
     "start_time": "2026-03-27T00:00:00+02:00",
     "end_time": "2026-03-27T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/BCB808B5A225E0D1653B5458F29D315E/susanna-leinonen-company-rajatila"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/susanna-leinonen-company-rajatila"
   },
   {
     "venue": "stoa",
