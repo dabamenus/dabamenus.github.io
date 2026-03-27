@@ -527,7 +527,7 @@ window.SCRAPED_EVENTS = [
     "title": "Susanna Leinonen Company 25v disko",
     "start_time": "2026-03-27T00:00:00+02:00",
     "end_time": "2026-03-27T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/659D202C7EB5EDE972FD29D9F84F9014/susanna-leinonen-company-25v-disko"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/susanna-leinonen-company-25v-disko"
   },
   {
     "venue": "caisa",
@@ -543,14 +543,7 @@ window.SCRAPED_EVENTS = [
     "title": "Compañía Kaari & Roni Martin Goes ROOTS",
     "start_time": "2026-03-27T00:00:00+02:00",
     "end_time": "2026-03-27T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/51329E36382ABCED6A8CC8D45CC4D16F/compa-a-kaari-roni-martin-goes-roots"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "hellänä - tender",
-    "start_time": "2026-03-27T18:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/hellana-tender"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/compa-a-kaari-roni-martin-goes-roots"
   },
   {
     "venue": "viirus",
