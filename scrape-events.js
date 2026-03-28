@@ -541,7 +541,7 @@ window.SCRAPED_EVENTS = [
     "title": "Kudontakioski",
     "start_time": "2026-03-28T00:00:00+02:00",
     "end_time": "2026-03-28T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/4BDE88F5BBA334F3EB2EFD192D352E41/kudontakioski"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/kudontakioski"
   },
   {
     "venue": "stoa",
@@ -549,7 +549,7 @@ window.SCRAPED_EVENTS = [
     "title": "Susanna Leinonen Company: Rajatila",
     "start_time": "2026-03-28T00:00:00+02:00",
     "end_time": "2026-03-28T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/E80415EBBEB1087EC45972BCA1E35DC0/susanna-leinonen-company-rajatila"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/susanna-leinonen-company-rajatila"
   },
   {
     "venue": "tekstintalo",
@@ -606,13 +606,6 @@ window.SCRAPED_EVENTS = [
     "title": "Hildur",
     "start_time": "2026-03-28T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/hildur/"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "hellänä - tender",
-    "start_time": "2026-03-28T15:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/hellana-tender3"
   },
   {
     "venue": "kansallisteatteri",
