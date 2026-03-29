@@ -536,13 +536,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/show-boudoir/"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Asiantuntijan neuvottelutaidot",
-    "start_time": "2026-03-28T10:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/asiantuntijan-neuvottelutaidot"
-  },
-  {
     "venue": "madhouse",
     "venue_label": "Mad House",
     "title": "hellänä - tender",
@@ -555,7 +548,7 @@ window.SCRAPED_EVENTS = [
     "title": "Kudontakioski",
     "start_time": "2026-03-29T00:00:00+03:00",
     "end_time": "2026-03-29T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/1888DBC5FDCF4A9AA8DAC9E719E7494B/kudontakioski"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/kudontakioski"
   },
   {
     "venue": "espoonteatteri",
