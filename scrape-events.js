@@ -543,21 +543,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.madhousehelsinki.fi/ohjelmisto/tender"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Kudontakioski",
-    "start_time": "2026-03-29T00:00:00+03:00",
-    "end_time": "2026-03-29T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/kudontakioski"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "&FEST: asses.masses",
-    "start_time": "2026-03-29T13:00:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/fest-asses-masses/"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Tanssi ja leikki",
@@ -1576,13 +1561,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/hildur/"
   },
   {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
-    "start_time": "2026-04-18T14:00:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
-  },
-  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "The Poet of Finland",
@@ -1811,13 +1789,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/to-be-brutally-honest-2-0/"
   },
   {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
-    "start_time": "2026-04-21T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Muistopäivä",
@@ -2025,13 +1996,6 @@ window.SCRAPED_EVENTS = [
     "title": "SCREAM CRY EXORCISE",
     "start_time": "2026-04-23T18:00:00+03:00",
     "url": "https://kiasma.fi/esitykset/scream-cry-exorcise/"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
-    "start_time": "2026-04-23T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2258,13 +2222,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
   },
   {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
-    "start_time": "2026-04-25T14:00:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
-  },
-  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "The Poet of Finland",
@@ -2468,13 +2425,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/to-be-brutally-honest-2-0/"
   },
   {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
-    "start_time": "2026-04-28T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Muistopäivä",
@@ -2543,13 +2493,6 @@ window.SCRAPED_EVENTS = [
     "title": "to be brutally honest 2.0",
     "start_time": "2026-04-29T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/to-be-brutally-honest-2-0/"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
-    "start_time": "2026-04-29T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2891,13 +2834,6 @@ window.SCRAPED_EVENTS = [
     "url": ""
   },
   {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
-    "start_time": "2026-05-05T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Antigone",
@@ -2931,13 +2867,6 @@ window.SCRAPED_EVENTS = [
     "title": "Ashla: Underdogs",
     "start_time": "2026-05-06T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/ashla-underdogs/"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
-    "start_time": "2026-05-06T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
   },
   {
     "venue": "kansallisteatteri",
@@ -3016,13 +2945,6 @@ window.SCRAPED_EVENTS = [
     "title": "Ashla: Underdogs",
     "start_time": "2026-05-07T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/ashla-underdogs/"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
-    "start_time": "2026-05-07T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
   },
   {
     "venue": "kansallisteatteri",
@@ -4014,18 +3936,10 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
-    "title": "Jussin metsäsadu",
-    "start_time": "2026-05-28T00:00:00+03:00",
-    "end_time": "2026-05-28T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/EA6E041ED1B7F131C30E9778FBBFF007/jussin-mets-sadu"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
     "title": "Jussin metsäsadut",
     "start_time": "2026-05-28T00:00:00+03:00",
     "end_time": "2026-05-28T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F46C54BFCC85A9E6781E77E5CB36112B/jussin-mets-sadut"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/EA6E041ED1B7F131C30E9778FBBFF007/jussin-mets-sadut"
   },
   {
     "venue": "stoa",
@@ -5223,6 +5137,13 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-09-12T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "MINNA TERVAMÄKI – 40 VUOTTA NÄYTTÄMÖLLÄ",
+    "start_time": "2026-09-12T19:00:00+03:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/minna-tervamaki"
   },
   {
     "venue": "cirko",
@@ -8086,5 +8007,12 @@ window.SCRAPED_EVENTS = [
     "title": "LIVETS SUMMA",
     "start_time": "2027-03-19T19:00:00+02:00",
     "url": "https://universum.fi/events/livets-summa-19-3/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "LIVETS SUMMA",
+    "start_time": "2027-03-22T19:00:00+02:00",
+    "url": "https://universum.fi/events/livets-summa-22-3/"
   }
 ];
