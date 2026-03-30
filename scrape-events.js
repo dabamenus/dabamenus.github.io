@@ -530,13 +530,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/955001E3E341352D22B3996DDBEB66B6/tanssi-ja-leikki"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Aika loistaa – esittävien taiteiden festivaali yli 65-vuotiaille 30.-31.3.2026",
-    "start_time": "2026-03-30T14:00:00+03:00",
-    "url": ""
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Versailles",
