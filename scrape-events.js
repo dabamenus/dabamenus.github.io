@@ -374,13 +374,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/lattia-laavaa"
   },
   {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Show Boudoir",
-    "start_time": "2026-03-06T20:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/show-boudoir/"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Janina Rajakangas Projekti:Lattia on laavaa",
@@ -513,13 +506,6 @@ window.SCRAPED_EVENTS = [
     "title": "Versailles",
     "start_time": "2026-03-27T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Show Boudoir",
-    "start_time": "2026-03-27T20:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/show-boudoir/"
   },
   {
     "venue": "caisa",
@@ -1612,6 +1598,20 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "tanssintalo",
     "venue_label": "Tanssin Talo",
+    "title": "Tanssiteatteri Tsuumi & Teatteri Metamorfoosi: TRUST",
+    "start_time": "2026-04-18T19:00:00+03:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/tanssiteatteri-tsuumi-teatteri-metamorfoosi-trust-2"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Matching Steps: Työpaja",
+    "start_time": "2026-04-18T19:00:00+03:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/matching-steps-työpaja"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
     "title": "April Jazz: Kimi Ervi & Aki Rissanen Trio: Traces Sonores / Sound Traces",
     "start_time": "2026-04-18T19:00:00+03:00",
     "url": "https://www.tanssintalo.fi/ohjelma/april-jazz-kimi-ervi-aki-rissanen-trio-traces-sonores-sound-traces"
@@ -2318,6 +2318,13 @@ window.SCRAPED_EVENTS = [
     "title": "Vinterkvällar",
     "start_time": "2026-04-25T19:00:00+03:00",
     "url": "https://universum.fi/events/vinterkvallar-25-4/"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "April Jazz: Kimi Ervi & Aki Rissanen Trio: Traces Sonores / Sound Traces",
+    "start_time": "2026-04-25T19:00:00+03:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/april-jazz-kimi-ervi-aki-rissanen-trio-traces-sonores-sound-traces"
   },
   {
     "venue": "tanssintalo",
@@ -8105,5 +8112,12 @@ window.SCRAPED_EVENTS = [
     "title": "LIVETS SUMMA",
     "start_time": "2027-03-23T19:00:00+02:00",
     "url": "https://universum.fi/events/livets-summa-23-3/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "LIVETS SUMMA",
+    "start_time": "2027-03-24T19:00:00+02:00",
+    "url": "https://universum.fi/events/livets-summa-24-3/"
   }
 ];
