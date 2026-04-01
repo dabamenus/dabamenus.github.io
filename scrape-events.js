@@ -4138,6 +4138,20 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/74B7B0631FE3FC6CCE6DF3521F580B00/lavastettu-juttu"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Sarjakuvakeskuksen kesäleirit: Mangaleiri",
+    "start_time": "2026-06-01T10:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvakeskuksen-kesaleirit-mangaleiri"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Sarjakuvakeskuksen kesäleirit: Sarjakuvaleiri",
+    "start_time": "2026-06-01T10:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvakeskuksen-kesaleirit-sarjakuvaleiri"
+  },
+  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "BLOOD BERRIES: JUSTICE FOR THAI BERRY PICKERS",
@@ -4224,6 +4238,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-06-08T00:00:00+03:00",
     "end_time": "2026-06-12T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/ED4DCD9E32DEC64648CC445411E403AC/lavastettu-juttu"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Sarjakuvakeskuksen kesäleirit: Sarjakuva- ja animaatioleiri",
+    "start_time": "2026-06-08T10:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvakeskuksen-kesaleirit-sarjakuva-animaatio"
   },
   {
     "venue": "stoa",
@@ -4370,6 +4391,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/D6EFA83B81970CA8E0ED0A0B43861F2A/kahlekuningatar"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Sarjakuvakeskuksen kesäleirit: Sarjakuvaleiri",
+    "start_time": "2026-06-15T10:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvakeskuksen-kesaleirit-sarjakuvaleiri3"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "MG 15.6 kl 19",
@@ -4424,6 +4452,13 @@ window.SCRAPED_EVENTS = [
     "title": "MG 21.6 kl 19",
     "start_time": "2026-06-21T19:00:00+03:00",
     "url": "https://universum.fi/events/mg-21-6-kl-19/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Sarjakuvakeskuksen kesäleirit: Mangaleiri",
+    "start_time": "2026-06-22T10:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvakeskuksen-kesaleirit-mangaleiri4"
   },
   {
     "venue": "ryhmateatteri",
