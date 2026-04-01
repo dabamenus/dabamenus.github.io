@@ -1962,6 +1962,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/9D89C7B4C5AC1B101435D5649F68BF6E/tapaa-tekij-stoan-aulassa"
   },
   {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Mirjamin runot",
+    "start_time": "2026-04-23T00:00:00+03:00",
+    "end_time": "2026-04-23T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/126FBF50D96A285C840241D7C094B113/mirjamin-runot"
+  },
+  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "CaisaKallio esittää:",
@@ -4065,10 +4073,10 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "caisa",
     "venue_label": "Caisa",
-    "title": "Habit Bodies",
+    "title": "”Habit Bodies” (a brief history of failure)",
     "start_time": "2026-05-29T00:00:00+03:00",
     "end_time": "2026-06-27T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/0EE0B91B61A6D8C707237F2F771DEE8B/habit-bodies"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/0EE0B91B61A6D8C707237F2F771DEE8B/habit-bodies-a-brief-history-of-failure"
   },
   {
     "venue": "caisa",
