@@ -439,22 +439,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/23C3BA231AD3DAC2AC3F434FFF483BB6/syvemm-lle-seikkailuun"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Seikkailu jatkuu!",
-    "start_time": "2026-03-25T00:00:00+02:00",
-    "end_time": "2026-04-22T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/C9A27CE0E86B7F80EFA9DCA0955F81AB/seikkailu-jatkuu"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Seikkailu alkaa!",
-    "start_time": "2026-03-25T00:00:00+02:00",
-    "end_time": "2026-04-22T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/DA2830A1B4B0B28C2BD666DED4905636/seikkailu-alkaa"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Versailles",
