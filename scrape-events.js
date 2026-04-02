@@ -538,20 +538,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/versailles/"
   },
   {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Kulttuurin kummilapset: Tanssiteatteri Raatikko: Tiimi Vilkkuvalot",
-    "start_time": "2026-04-01T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/kulttuurin-kummilapset-tanssiteatteri-raatikko-tiimi-vilkkuvalot"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Atte Kilpinen: Kreutzersonaatti",
-    "start_time": "2026-04-01T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/kreutzersonaatti-2"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Versailles",
