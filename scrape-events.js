@@ -353,6 +353,76 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/83772E75EC05890053A1F0A18BB53DA7/sirkuskurssi-senioreille-seikkailun-mestarit"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Uuteen nousuun",
+    "start_time": "2026-02-18T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Uuteen nousuun",
+    "start_time": "2026-02-19T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Uuteen nousuun",
+    "start_time": "2026-02-20T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Uuteen nousuun",
+    "start_time": "2026-02-21T14:00:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Uuteen nousuun",
+    "start_time": "2026-02-25T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Uuteen nousuun",
+    "start_time": "2026-02-26T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Uuteen nousuun",
+    "start_time": "2026-02-27T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Uuteen nousuun",
+    "start_time": "2026-02-28T14:00:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Uuteen nousuun",
+    "start_time": "2026-03-02T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Uuteen nousuun",
+    "start_time": "2026-03-04T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
+  },
+  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Zodiak Laboratory:Ninu Lindfors & Cia Rinne",
@@ -388,11 +458,18 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/lattia-laavaa"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Sana ja kuva – eli kuinka kirjoittaa kuvaksi (verkkokurssitus 14.3. -18.4.)",
-    "start_time": "2026-03-14T12:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/sana-ja-kuva-eli-kuinka-kirjoittaa-kuvaksi-verkkokurssitus-14-3-18-4"
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Uuteen nousuun",
+    "start_time": "2026-03-13T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Uuteen nousuun",
+    "start_time": "2026-03-14T14:00:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
   },
   {
     "venue": "zodiak",
@@ -400,6 +477,13 @@ window.SCRAPED_EVENTS = [
     "title": "Keskustelu:Zodiak ja yhteisöllisyys",
     "start_time": "2026-03-17T14:30:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/keskustelu-zodiak-ja-yhteisollisyys"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Uuteen nousuun",
+    "start_time": "2026-03-18T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
   },
   {
     "venue": "jurkka",
@@ -417,6 +501,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/zodiak-laboratory-biret-haarla-pieski-ja-tyoryhma"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Uuteen nousuun",
+    "start_time": "2026-03-19T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
+  },
+  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Zodiak Laboratory:Biret Haarla Pieski ja työryhmä",
@@ -429,6 +520,20 @@ window.SCRAPED_EVENTS = [
     "title": "Versailles",
     "start_time": "2026-03-20T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/versailles/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Uuteen nousuun",
+    "start_time": "2026-03-20T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Uuteen nousuun",
+    "start_time": "2026-03-21T14:00:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
   },
   {
     "venue": "stoa",
@@ -470,6 +575,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/versailles/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Uuteen nousuun",
+    "start_time": "2026-03-25T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
+  },
+  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Taidetta taaperoille",
@@ -483,6 +595,13 @@ window.SCRAPED_EVENTS = [
     "title": "Versailles",
     "start_time": "2026-03-26T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/versailles/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Uuteen nousuun",
+    "start_time": "2026-03-26T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
   },
   {
     "venue": "stoa",
@@ -508,6 +627,20 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/versailles/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Uuteen nousuun",
+    "start_time": "2026-03-27T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Uuteen nousuun",
+    "start_time": "2026-03-28T14:00:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
+  },
+  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Tanssi ja leikki",
@@ -523,12 +656,26 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/versailles/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Uuteen nousuun",
+    "start_time": "2026-03-30T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
+  },
+  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Taidetta taaperoille",
     "start_time": "2026-03-31T00:00:00+03:00",
     "end_time": "2026-05-26T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/E6F30ED2D6DA4534B02069DB32A1CAEB/taidetta-taaperoille"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Uuteen nousuun",
+    "start_time": "2026-03-31T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
   },
   {
     "venue": "viirus",
@@ -543,20 +690,6 @@ window.SCRAPED_EVENTS = [
     "title": "Versailles",
     "start_time": "2026-04-02T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Raisa Omaheimo: Setämiestennielijä",
-    "start_time": "2026-04-03T19:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/raisa-omaheimo-setamiestennielija0304"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Raisa Omaheimo: Setämiestennielijä",
-    "start_time": "2026-04-04T19:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/raisa-omaheimo-setamiestennielija0404"
   },
   {
     "venue": "universum",
@@ -696,13 +829,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/8DE1DAE20D0FB9CCC3490D0F68977EE5/peruttu-celestial-body-galaktinen-rakkaustarina"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
-    "start_time": "2026-04-09T14:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-0904"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Versailles",
@@ -767,13 +893,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/ympyrat-jotka-kuvittelevat-olevansa-viivoja"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Mikä kritiikki! -kirjoituskilpailun palkintojenjakotilaisuus",
-    "start_time": "2026-04-10T17:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/mika-kritiikki"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Marthas Hus",
@@ -781,11 +900,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/marthas-hus/"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "TRAG3DIA 10.4.",
-    "start_time": "2026-04-10T18:30:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/trag3dia-10-04"
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Uuteen nousuun",
+    "start_time": "2026-04-10T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
   },
   {
     "venue": "ryhmateatteri",
@@ -895,6 +1014,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/veljeni-leijonamieli/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Uuteen nousuun",
+    "start_time": "2026-04-11T14:00:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "The Poet of Finland",
@@ -907,13 +1033,6 @@ window.SCRAPED_EVENTS = [
     "title": "Marthas Hus",
     "start_time": "2026-04-11T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/marthas-hus/"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "TRAG3DIA 11.4.",
-    "start_time": "2026-04-11T18:30:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/trag3dia-1104"
   },
   {
     "venue": "kansallisteatteri",
@@ -987,32 +1106,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/0459129B21D032E020E27BD11F3AE6CF/peruttu-celestial-body-galaktinen-rakkaustarina"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "TRAG3DIA 12.4. päivänäytös",
-    "start_time": "2026-04-12T14:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/trag3dia-1204-paivanaytos"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "TRAG3DIA 12.4.",
-    "start_time": "2026-04-12T18:30:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/trag3dia-1204"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Versailles",
     "start_time": "2026-04-13T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "TRAG3DIA 13.4.",
-    "start_time": "2026-04-13T18:30:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/trag3dia-1304"
   },
   {
     "venue": "kansallisteatteri",
@@ -1243,11 +1341,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/ympyrat-jotka-kuvittelevat-olevansa-viivoja"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "TRAG3DIA 16.4.",
-    "start_time": "2026-04-16T18:30:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/trag3dia-1604"
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Uuteen nousuun",
+    "start_time": "2026-04-16T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
   },
   {
     "venue": "espoonteatteri",
@@ -1349,6 +1447,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/versailles/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Uuteen nousuun",
+    "start_time": "2026-04-17T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
+  },
+  {
     "venue": "takomo",
     "venue_label": "Teatteri Takomo",
     "title": "Jumppatytöt kiertueella",
@@ -1435,20 +1540,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/ympyrat-jotka-kuvittelevat-olevansa-viivoja"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Brunssi: tÿpo x Linna",
-    "start_time": "2026-04-18T12:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/brunssi-typo-x-linna"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Kasvatuksen foorumin konferenssi: Apolloninen ja dionyysinen kasvatuksessa",
-    "start_time": "2026-04-18T12:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/konferenssi-apolloninen-ja-dionyysine"
-  },
-  {
     "venue": "cirko",
     "venue_label": "Cirko",
     "title": "Kallo Collective: The Story of Pluto, Who Wanted to Be a Planet",
@@ -1510,6 +1601,13 @@ window.SCRAPED_EVENTS = [
     "title": "Hildur",
     "start_time": "2026-04-18T13:00:00+03:00",
     "url": "https://hkt.fi/esitykset/hildur/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Uuteen nousuun",
+    "start_time": "2026-04-18T14:00:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
   },
   {
     "venue": "espoonteatteri",
@@ -1642,7 +1740,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "Caisa",
     "title": "CaisaKallio",
     "start_time": "2026-04-20T00:00:00+03:00",
-    "end_time": "2026-04-20T23:59:00+03:00",
+    "end_time": "2026-04-23T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/0ADA46660E83311FC7654416EA9ED996/caisakallio"
   },
   {
@@ -1856,13 +1954,6 @@ window.SCRAPED_EVENTS = [
     "url": ""
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Kirjajulkkarit: Katoamiskertomus",
-    "start_time": "2026-04-22T17:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/kirjajulkkarit-katoamiskertomus"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Versailles",
@@ -1969,13 +2060,6 @@ window.SCRAPED_EVENTS = [
     "title": "Hildur",
     "start_time": "2026-04-23T13:00:00+03:00",
     "url": "https://hkt.fi/esitykset/hildur/"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
-    "start_time": "2026-04-23T14:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-2304"
   },
   {
     "venue": "zodiak",
@@ -2144,13 +2228,6 @@ window.SCRAPED_EVENTS = [
     "title": "Out of Order",
     "start_time": "2026-04-24T19:30:00+03:00",
     "url": "https://hkt.fi/esitykset/out-of-order/"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Naiskirjoittamisen kurssi",
-    "start_time": "2026-04-25T10:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/naiskirjoittamisen-kurssi-2"
   },
   {
     "venue": "cirko",
@@ -2863,13 +2940,6 @@ window.SCRAPED_EVENTS = [
     "url": ""
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Kirjajulkkarit: Linnan varjossa",
-    "start_time": "2026-05-05T18:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/kirjajulkkarit-linnan-varjossa"
-  },
-  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
@@ -2981,13 +3051,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kurtturuusut",
     "start_time": "2026-05-07T13:00:00+03:00",
     "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
-    "start_time": "2026-05-07T14:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-0705"
   },
   {
     "venue": "viirus",
@@ -3758,13 +3821,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/79462A1E557BC7A32091BE74A151B7E1/surullinen-tytt"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
-    "start_time": "2026-05-21T14:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-2105"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Draama jatkuu Hietaniemessä",
@@ -4124,33 +4180,12 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/74B7B0631FE3FC6CCE6DF3521F580B00/lavastettu-juttu"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Sarjakuvakeskuksen kesäleirit: Mangaleiri",
-    "start_time": "2026-06-01T10:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvakeskuksen-kesaleirit-mangaleiri"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Sarjakuvakeskuksen kesäleirit: Sarjakuvaleiri",
-    "start_time": "2026-06-01T10:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvakeskuksen-kesaleirit-sarjakuvaleiri"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "BLOOD BERRIES: JUSTICE FOR THAI BERRY PICKERS",
     "start_time": "2026-06-02T00:00:00+03:00",
     "end_time": "2026-06-02T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F37EF508EEA60FB8BB0810D8928587B3/blood-berries-justice-for-thai-berry-pickers"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
-    "start_time": "2026-06-04T14:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-0406"
   },
   {
     "venue": "ryhmateatteri",
@@ -4224,13 +4259,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-06-08T00:00:00+03:00",
     "end_time": "2026-06-12T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/ED4DCD9E32DEC64648CC445411E403AC/lavastettu-juttu"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Sarjakuvakeskuksen kesäleirit: Sarjakuva- ja animaatioleiri",
-    "start_time": "2026-06-08T10:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvakeskuksen-kesaleirit-sarjakuva-animaatio"
   },
   {
     "venue": "stoa",
@@ -4377,13 +4405,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/D6EFA83B81970CA8E0ED0A0B43861F2A/kahlekuningatar"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Sarjakuvakeskuksen kesäleirit: Sarjakuvaleiri",
-    "start_time": "2026-06-15T10:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvakeskuksen-kesaleirit-sarjakuvaleiri3"
-  },
-  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "MG 15.6 kl 19",
@@ -4419,13 +4440,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/mg-17-6-kl-16/"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
-    "start_time": "2026-06-18T14:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-1806"
-  },
-  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "MG 20.6 kl 19",
@@ -4438,13 +4452,6 @@ window.SCRAPED_EVENTS = [
     "title": "MG 21.6 kl 19",
     "start_time": "2026-06-21T19:00:00+03:00",
     "url": "https://universum.fi/events/mg-21-6-kl-19/"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Sarjakuvakeskuksen kesäleirit: Mangaleiri",
-    "start_time": "2026-06-22T10:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvakeskuksen-kesaleirit-mangaleiri4"
   },
   {
     "venue": "ryhmateatteri",
@@ -4641,6 +4648,14 @@ window.SCRAPED_EVENTS = [
     "title": "Birds of Paradise",
     "start_time": "2026-08-12T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/birds-of-paradise/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Re-Charge",
+    "start_time": "2026-08-13T00:00:00+03:00",
+    "end_time": "2026-08-13T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/468A2280F632A1643BEA63AE8E027A25/re-charge"
   },
   {
     "venue": "ryhmateatteri",
