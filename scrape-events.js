@@ -524,13 +524,6 @@ window.SCRAPED_EVENTS = [
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Vinterkvällar",
-    "start_time": "2026-04-05T19:00:00+03:00",
-    "url": "https://universum.fi/events/vinterkvallar-5-4/"
-  },
-  {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "Vinterkvällar",
     "start_time": "2026-04-06T19:00:00+03:00",
     "url": "https://universum.fi/events/vinterkvallar-6-4/"
   },
