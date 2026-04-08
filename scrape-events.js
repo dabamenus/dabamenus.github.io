@@ -533,7 +533,7 @@ window.SCRAPED_EVENTS = [
     "title": "Ekologinen eväspakkaus: Mehiläisvahakääre",
     "start_time": "2026-04-08T00:00:00+03:00",
     "end_time": "2026-04-08T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/420EF29D63AFF289FCFCB8DD006D6BB6/ekologinen-ev-spakkaus-mehil-isvahak-re"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/ekologinen-ev-spakkaus-mehil-isvahak-re"
   },
   {
     "venue": "caisa",
@@ -549,13 +549,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kahvilla kirjailijan kanssa",
     "start_time": "2026-04-08T16:30:00+03:00",
     "url": ""
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "The Poet of Finland",
-    "start_time": "2026-04-08T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/the-poet-of-finland/"
   },
   {
     "venue": "kansallisteatteri",
