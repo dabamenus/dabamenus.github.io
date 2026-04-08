@@ -541,14 +541,7 @@ window.SCRAPED_EVENTS = [
     "title": "PERUTTU Celestial Body – galaktinen rakkaustarina",
     "start_time": "2026-04-08T00:00:00+03:00",
     "end_time": "2026-04-08T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/1A89FB5352085E79977AE1BA5C0C659B/peruttu-celestial-body-galaktinen-rakkaustarina"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kahvilla kirjailijan kanssa",
-    "start_time": "2026-04-08T16:30:00+03:00",
-    "url": ""
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/peruttu-celestial-body-galaktinen-rakkaustarina"
   },
   {
     "venue": "kansallisteatteri",
