@@ -3590,6 +3590,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/hildur/"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Mystery of The Male God: An International Literary Evening",
+    "start_time": "2026-05-20T19:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/mystery-of-the-male-god-an-international-literary-evening"
+  },
+  {
     "venue": "takomo",
     "venue_label": "Teatteri Takomo",
     "title": "Puhutaan Richardista",
