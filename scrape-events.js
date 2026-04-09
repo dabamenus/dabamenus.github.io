@@ -544,13 +544,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/8DE1DAE20D0FB9CCC3490D0F68977EE5/peruttu-celestial-body-galaktinen-rakkaustarina"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
-    "start_time": "2026-04-09T14:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-0904"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Versailles",
@@ -1961,13 +1954,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Status quo",
-    "start_time": "2026-04-24T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/status-quo/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
     "title": "Komedia pankkiryöstöstä",
     "start_time": "2026-04-24T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/komedia-pankkiryostosta/"
@@ -2416,13 +2402,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Status quo",
-    "start_time": "2026-04-29T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/status-quo/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
     "title": "Komedia pankkiryöstöstä",
     "start_time": "2026-04-29T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/komedia-pankkiryostosta/"
@@ -2505,13 +2484,6 @@ window.SCRAPED_EVENTS = [
     "title": "Jotuni",
     "start_time": "2026-04-30T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/jotuni"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Status quo",
-    "start_time": "2026-04-30T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/status-quo/"
   },
   {
     "venue": "hkt",
@@ -3921,10 +3893,10 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "caisa",
     "venue_label": "Caisa",
-    "title": "”Habit Bodies” (a brief history of failure)",
+    "title": "”Habit Bodies”",
     "start_time": "2026-05-29T00:00:00+03:00",
     "end_time": "2026-06-27T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/0EE0B91B61A6D8C707237F2F771DEE8B/habit-bodies-a-brief-history-of-failure"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/0EE0B91B61A6D8C707237F2F771DEE8B/habit-bodies"
   },
   {
     "venue": "caisa",
