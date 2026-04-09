@@ -530,64 +530,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
-    "title": "Ekologinen eväspakkaus: Mehiläisvahakääre",
-    "start_time": "2026-04-08T00:00:00+03:00",
-    "end_time": "2026-04-08T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/ekologinen-ev-spakkaus-mehil-isvahak-re"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "PERUTTU Celestial Body – galaktinen rakkaustarina",
-    "start_time": "2026-04-08T00:00:00+03:00",
-    "end_time": "2026-04-08T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/peruttu-celestial-body-galaktinen-rakkaustarina"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
-    "start_time": "2026-04-08T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Vanja",
-    "start_time": "2026-04-08T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/vanja"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Kolme harjoitelmaa sodan ja rakkauden vuosilta",
-    "start_time": "2026-04-08T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/kolme-harjoitelmaa-sodan-ja-rakkauden-vuosilta"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Status quo",
-    "start_time": "2026-04-08T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/status-quo/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Komedia pankkiryöstöstä",
-    "start_time": "2026-04-08T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/komedia-pankkiryostosta/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Hildur",
-    "start_time": "2026-04-08T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/hildur/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
     "title": "Red Nose Company: About the Kevätuhri ENSI-ILTA",
     "start_time": "2026-04-09T00:00:00+03:00",
     "end_time": "2026-04-09T23:59:00+03:00",
@@ -3009,6 +2951,13 @@ window.SCRAPED_EVENTS = [
     "title": "Laulujoutsen",
     "start_time": "2026-05-08T19:00:00+03:00",
     "url": "https://universum.fi/events/laulujoutsen-8-5/"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Tamara Rasmussen opisto & Jazz-Point: Tanssia ikä kaikki",
+    "start_time": "2026-05-08T19:00:00+03:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/jazz-point-tro"
   },
   {
     "venue": "stoa",
@@ -7335,13 +7284,6 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-11-21T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Matti Johannes Koivu: 80-luvun lapsi -juhlakonsertti",
-    "start_time": "2026-11-21T19:00:00+02:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/matti-johannes-koivu-80-luvun-lapsi--juhlakonsertti"
   },
   {
     "venue": "hkt",
