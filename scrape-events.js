@@ -4107,6 +4107,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/7266C7DE6D0537729934979626C5B164/mila-milax-soul-of-helsinki-study-of-soul-from-a-city-perspective"
   },
   {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Luontosuhteita",
+    "start_time": "2026-06-12T00:00:00+03:00",
+    "end_time": "2026-08-30T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F2E50462006DF628DE768041D5EE7228/luontosuhteita"
+  },
+  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Kahlekuningatar",
