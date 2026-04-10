@@ -3490,6 +3490,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/theoria"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Workshop: Demystification of Pertormance Poetry",
+    "start_time": "2026-05-20T16:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/workshop-pertormance-poetry"
+  },
+  {
     "venue": "cirko",
     "venue_label": "Cirko",
     "title": "People Watching: Play Dead",
