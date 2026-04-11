@@ -535,21 +535,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/versailles/"
   },
   {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "Vinterkvällar",
-    "start_time": "2026-04-09T19:00:00+03:00",
-    "url": "https://universum.fi/events/vinterkvallar-9-4/"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "PERUTTU Celestial Body – galaktinen rakkaustarina",
-    "start_time": "2026-04-10T00:00:00+03:00",
-    "end_time": "2026-04-10T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/peruttu-celestial-body-galaktinen-rakkaustarina"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Laura Jantunen:ympyrät, jotka kuvittelevat olevansa viivoja",
@@ -564,53 +549,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/marthas-hus/"
   },
   {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Von Hertzen Brothers Acoustic",
-    "start_time": "2026-04-10T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/von-hertzen-brothers-acoustic"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Jotuni",
-    "start_time": "2026-04-10T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/jotuni"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kiviä taskussa",
-    "start_time": "2026-04-10T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Veljeni Leijonamieli",
-    "start_time": "2026-04-10T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/veljeni-leijonamieli/"
-  },
-  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "VINTERKVÄLLAR",
     "start_time": "2026-04-10T19:00:00+03:00",
     "url": "https://universum.fi/events/vinterkvallar-10-4/"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Glims & Gloms ja Guardia Nueva: Piazzolla-ilta",
-    "start_time": "2026-04-10T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/glims-gloms-ja-guardia-nueva-piazzolla-ilta-2"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "André Wickström – 30 år på scen och inget slut i sikte!",
-    "start_time": "2026-04-10T19:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/andre-wickstrom-30-ar-pa-scen-och-inget-slut-i-sikte/"
   },
   {
     "venue": "stoa",
@@ -1080,13 +1023,6 @@ window.SCRAPED_EVENTS = [
     "title": "Laulujoutsen",
     "start_time": "2026-04-16T19:00:00+03:00",
     "url": "https://universum.fi/events/laulujoutsen-16-4/"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Glims & Gloms ja Guardia Nueva: Piazzolla-ilta",
-    "start_time": "2026-04-16T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/glims-gloms-ja-guardia-nueva-piazzolla-ilta-2"
   },
   {
     "venue": "tanssintalo",
