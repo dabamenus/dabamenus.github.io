@@ -569,7 +569,7 @@ window.SCRAPED_EVENTS = [
     "title": "PERUTTU Celestial Body – galaktinen rakkaustarina",
     "start_time": "2026-04-11T00:00:00+03:00",
     "end_time": "2026-04-11T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F24C236A846C53BB41A4BF8DF03BAB4C/peruttu-celestial-body-galaktinen-rakkaustarina"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/peruttu-celestial-body-galaktinen-rakkaustarina"
   },
   {
     "venue": "hkt",
@@ -605,13 +605,6 @@ window.SCRAPED_EVENTS = [
     "title": "Veljeni Leijonamieli",
     "start_time": "2026-04-11T13:00:00+03:00",
     "url": "https://hkt.fi/esitykset/veljeni-leijonamieli/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "The Poet of Finland",
-    "start_time": "2026-04-11T14:00:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/the-poet-of-finland/"
   },
   {
     "venue": "viirus",
