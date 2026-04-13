@@ -570,14 +570,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/marthas-hus/"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "PERUTTU Celestial Body – galaktinen rakkaustarina",
-    "start_time": "2026-04-12T00:00:00+03:00",
-    "end_time": "2026-04-12T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/peruttu-celestial-body-galaktinen-rakkaustarina"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Versailles",
@@ -7770,5 +7762,12 @@ window.SCRAPED_EVENTS = [
     "title": "Vinterkvällar",
     "start_time": "2027-04-04T19:00:00+03:00",
     "url": "https://universum.fi/events/vinterkvallar-4-4/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Vinterkvällar",
+    "start_time": "2027-04-05T19:00:00+03:00",
+    "url": "https://universum.fi/events/vinterkvallar-5-4/"
   }
 ];
