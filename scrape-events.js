@@ -168,14 +168,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/1984/"
   },
   {
-    "venue": "jurkka",
-    "venue_label": "Teatteri Jurkka",
-    "title": "Väylä",
-    "start_time": "2025-10-01T19:00:00+03:00",
-    "end_time": "2026-11-21T23:59:00+02:00",
-    "url": "https://www.jurkka.fi/class/vayla/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "1984",
@@ -267,14 +259,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/sivuaskel-2026-teoskeskustelut"
   },
   {
-    "venue": "jurkka",
-    "venue_label": "Teatteri Jurkka",
-    "title": "Myrsky",
-    "start_time": "2026-02-04T19:00:00+02:00",
-    "end_time": "2026-05-16T23:59:00+03:00",
-    "url": "https://www.jurkka.fi/class/myrsky/"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Alma Söderberg:Infinétude",
@@ -345,76 +329,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/sivuaskel-2026-loppubileet"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Uuteen nousuun",
-    "start_time": "2026-02-18T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Uuteen nousuun",
-    "start_time": "2026-02-19T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Uuteen nousuun",
-    "start_time": "2026-02-20T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Uuteen nousuun",
-    "start_time": "2026-02-21T14:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Uuteen nousuun",
-    "start_time": "2026-02-25T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Uuteen nousuun",
-    "start_time": "2026-02-26T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Uuteen nousuun",
-    "start_time": "2026-02-27T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Uuteen nousuun",
-    "start_time": "2026-02-28T14:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Uuteen nousuun",
-    "start_time": "2026-03-02T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Uuteen nousuun",
-    "start_time": "2026-03-04T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Zodiak Laboratory:Ninu Lindfors & Cia Rinne",
@@ -450,25 +364,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/lattia-laavaa"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Uuteen nousuun",
-    "start_time": "2026-03-13T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
-  },
-  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Sana ja kuva – eli kuinka kirjoittaa kuvaksi (verkkokurssitus 14.3. -18.4.)",
     "start_time": "2026-03-14T12:00:00+02:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/sana-ja-kuva-eli-kuinka-kirjoittaa-kuvaksi-verkkokurssitus-14-3-18-4"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Uuteen nousuun",
-    "start_time": "2026-03-14T14:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
   },
   {
     "venue": "zodiak",
@@ -478,33 +378,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/keskustelu-zodiak-ja-yhteisollisyys"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Uuteen nousuun",
-    "start_time": "2026-03-18T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
-  },
-  {
-    "venue": "jurkka",
-    "venue_label": "Teatteri Jurkka",
-    "title": "Pantteri ja minä",
-    "start_time": "2026-03-18T19:00:00+02:00",
-    "end_time": "2026-04-14T23:59:00+03:00",
-    "url": "https://www.jurkka.fi/class/pantteri-ja-mina/"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Zodiak Laboratory:Biret Haarla Pieski ja työryhmä",
     "start_time": "2026-03-19T15:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/zodiak-laboratory-biret-haarla-pieski-ja-tyoryhma"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Uuteen nousuun",
-    "start_time": "2026-03-19T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
   },
   {
     "venue": "zodiak",
@@ -519,20 +397,6 @@ window.SCRAPED_EVENTS = [
     "title": "Versailles",
     "start_time": "2026-03-20T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Uuteen nousuun",
-    "start_time": "2026-03-20T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Uuteen nousuun",
-    "start_time": "2026-03-21T14:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
   },
   {
     "venue": "stoa",
@@ -558,13 +422,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/versailles/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Uuteen nousuun",
-    "start_time": "2026-03-25T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Taidetta taaperoille",
@@ -578,13 +435,6 @@ window.SCRAPED_EVENTS = [
     "title": "Versailles",
     "start_time": "2026-03-26T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Uuteen nousuun",
-    "start_time": "2026-03-26T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
   },
   {
     "venue": "stoa",
@@ -610,20 +460,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/versailles/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Uuteen nousuun",
-    "start_time": "2026-03-27T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Uuteen nousuun",
-    "start_time": "2026-03-28T14:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Tanssi ja leikki",
@@ -639,26 +475,12 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/versailles/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Uuteen nousuun",
-    "start_time": "2026-03-30T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Taidetta taaperoille",
     "start_time": "2026-03-31T00:00:00+03:00",
     "end_time": "2026-05-26T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/E6F30ED2D6DA4534B02069DB32A1CAEB/taidetta-taaperoille"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Uuteen nousuun",
-    "start_time": "2026-03-31T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
   },
   {
     "venue": "viirus",
@@ -703,13 +525,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/marthas-hus/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Uuteen nousuun",
-    "start_time": "2026-04-10T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Laura Jantunen:ympyrät, jotka kuvittelevat olevansa viivoja",
@@ -722,13 +537,6 @@ window.SCRAPED_EVENTS = [
     "title": "Versailles",
     "start_time": "2026-04-11T13:00:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Uuteen nousuun",
-    "start_time": "2026-04-11T14:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
   },
   {
     "venue": "viirus",
@@ -750,7 +558,7 @@ window.SCRAPED_EVENTS = [
     "title": "Red Nose Company: About the Kevätuhri",
     "start_time": "2026-04-14T00:00:00+03:00",
     "end_time": "2026-04-14T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/825BCA3D97CB1F03E5BAED2E9F76C44D/red-nose-company-about-the-kev-tuhri"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/red-nose-company-about-the-kev-tuhri"
   },
   {
     "venue": "zodiak",
@@ -758,13 +566,6 @@ window.SCRAPED_EVENTS = [
     "title": "Laura Jantunen:ympyrät, jotka kuvittelevat olevansa viivoja",
     "start_time": "2026-04-14T16:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/ympyrat-jotka-kuvittelevat-olevansa-viivoja"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "PROSESSISSA &#8211; esitys teatteriesityksen valmistamisesta",
-    "start_time": "2026-04-14T18:00:00+03:00",
-    "url": ""
   },
   {
     "venue": "viirus",
@@ -931,25 +732,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/ympyrat-jotka-kuvittelevat-olevansa-viivoja"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Uuteen nousuun",
-    "start_time": "2026-04-16T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
-  },
-  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "TRAG3DIA 16.4.",
     "start_time": "2026-04-16T18:30:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/trag3dia-1604"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
-    "start_time": "2026-04-16T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
   },
   {
     "venue": "ryhmateatteri",
@@ -1035,13 +822,6 @@ window.SCRAPED_EVENTS = [
     "title": "Versailles",
     "start_time": "2026-04-17T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Uuteen nousuun",
-    "start_time": "2026-04-17T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
   },
   {
     "venue": "takomo",
@@ -1212,20 +992,6 @@ window.SCRAPED_EVENTS = [
     "title": "Hildur",
     "start_time": "2026-04-18T13:00:00+03:00",
     "url": "https://hkt.fi/esitykset/hildur/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Uuteen nousuun",
-    "start_time": "2026-04-18T14:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/uuteen-nousuun"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
-    "start_time": "2026-04-18T14:00:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
   },
   {
     "venue": "ryhmateatteri",
@@ -1470,13 +1236,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/to-be-brutally-honest-2-0/"
   },
   {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
-    "start_time": "2026-04-21T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Täällä Pohjantähden alla",
@@ -1671,13 +1430,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-04-23T00:00:00+03:00",
     "end_time": "2026-04-23T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/911E661EC8E5541ED06B5639DB05EFFE/caisakallio-esitt"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
-    "start_time": "2026-04-23T13:00:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
   },
   {
     "venue": "hkt",
@@ -1925,13 +1677,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
   },
   {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
-    "start_time": "2026-04-25T14:00:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
-  },
-  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "The Poet of Finland",
@@ -2149,13 +1894,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/to-be-brutally-honest-2-0/"
   },
   {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
-    "start_time": "2026-04-28T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Toinen tasavalta",
@@ -2231,13 +1969,6 @@ window.SCRAPED_EVENTS = [
     "title": "to be brutally honest 2.0",
     "start_time": "2026-04-29T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/to-be-brutally-honest-2-0/"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
-    "start_time": "2026-04-29T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2572,13 +2303,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/kirjajulkkarit-linnan-varjossa"
   },
   {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
-    "start_time": "2026-05-05T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Antigone",
@@ -2612,13 +2336,6 @@ window.SCRAPED_EVENTS = [
     "title": "Ashla: Underdogs",
     "start_time": "2026-05-06T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/ashla-underdogs/"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
-    "start_time": "2026-05-06T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2697,13 +2414,6 @@ window.SCRAPED_EVENTS = [
     "title": "Ashla: Underdogs",
     "start_time": "2026-05-07T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/ashla-underdogs/"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
-    "start_time": "2026-05-07T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
   },
   {
     "venue": "kansallisteatteri",
@@ -4091,13 +3801,6 @@ window.SCRAPED_EVENTS = [
     "title": "Missä kuljimme kerran",
     "start_time": "2026-06-13T14:00:00+03:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Jumppatytöt",
-    "start_time": "2026-06-13T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/jumppatytot/"
   },
   {
     "venue": "universum",
