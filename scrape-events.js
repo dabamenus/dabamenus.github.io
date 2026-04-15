@@ -582,7 +582,7 @@ window.SCRAPED_EVENTS = [
     "title": "Red Nose Company: About the Kevätuhri",
     "start_time": "2026-04-15T00:00:00+03:00",
     "end_time": "2026-04-15T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/FDC61E07C383B91F72F048C796D691D4/red-nose-company-about-the-kev-tuhri"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/red-nose-company-about-the-kev-tuhri"
   },
   {
     "venue": "hkt",
@@ -597,13 +597,6 @@ window.SCRAPED_EVENTS = [
     "title": "Laura Jantunen:ympyrät, jotka kuvittelevat olevansa viivoja",
     "start_time": "2026-04-15T16:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/ympyrat-jotka-kuvittelevat-olevansa-viivoja"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Esteetön kulissikierros",
-    "start_time": "2026-04-15T16:30:00+03:00",
-    "url": ""
   },
   {
     "venue": "kansallisteatteri",
