@@ -2880,13 +2880,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
-    "venue": "madhouse",
-    "venue_label": "Mad House",
-    "title": "Light House: Haliz Yosef, ONCE WE WERE ISLANDS, Salla Valle ja Viljami Nissi & Aeon Lux",
-    "start_time": "2026-05-15T19:00:00+03:00",
-    "url": "https://www.madhousehelsinki.fi/ohjelmisto/lighthouse"
-  },
-  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Humorlandskampen",
@@ -2948,13 +2941,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kurtturuusut",
     "start_time": "2026-05-16T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "madhouse",
-    "venue_label": "Mad House",
-    "title": "Light House: Haliz Yosef, ONCE WE WERE ISLANDS, Salla Valle ja Viljami Nissi & Aeon Lux",
-    "start_time": "2026-05-16T19:00:00+03:00",
-    "url": "https://www.madhousehelsinki.fi/ohjelmisto/lighthouse"
   },
   {
     "venue": "takomo",
@@ -3363,13 +3349,6 @@ window.SCRAPED_EVENTS = [
     "title": "ONE DROP",
     "start_time": "2026-05-23T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/one-drop"
-  },
-  {
-    "venue": "madhouse",
-    "venue_label": "Mad House",
-    "title": "Essi Kummu, Minna Henriksson & Ylimuonion urheiluteatteri: Taistelu taiteesta ja siveellisyydestä-lukuteatterikonsertti",
-    "start_time": "2026-05-23T19:00:00+03:00",
-    "url": "https://www.madhousehelsinki.fi/ohjelmisto/taistelu-taiteesta-ja-siveellisyydesta-lukuteatterikonsertti"
   },
   {
     "venue": "caisa",
