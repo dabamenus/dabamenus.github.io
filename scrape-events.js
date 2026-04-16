@@ -588,7 +588,7 @@ window.SCRAPED_EVENTS = [
     "title": "Red Nose Company: About the Kevätuhri",
     "start_time": "2026-04-16T00:00:00+03:00",
     "end_time": "2026-04-16T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/8526883BC8B3C0D0E45612D280704E6A/red-nose-company-about-the-kev-tuhri"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/red-nose-company-about-the-kev-tuhri"
   },
   {
     "venue": "stoa",
@@ -596,7 +596,7 @@ window.SCRAPED_EVENTS = [
     "title": "Piano ja vapaa säestys -kurssien kevätsoittajaiset",
     "start_time": "2026-04-16T00:00:00+03:00",
     "end_time": "2026-04-16T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/77AC2163D790EB3C44E89EED1B06D79C/piano-ja-vapaa-s-estys-kurssien-kev-tsoittajaiset"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/piano-ja-vapaa-s-estys-kurssien-kev-tsoittajaiset"
   },
   {
     "venue": "kansallisteatteri",
@@ -611,13 +611,6 @@ window.SCRAPED_EVENTS = [
     "title": "Laura Jantunen:ympyrät, jotka kuvittelevat olevansa viivoja",
     "start_time": "2026-04-16T16:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/ympyrat-jotka-kuvittelevat-olevansa-viivoja"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "TRAG3DIA 16.4.",
-    "start_time": "2026-04-16T18:30:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/trag3dia-1604"
   },
   {
     "venue": "espoonteatteri",
