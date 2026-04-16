@@ -7062,6 +7062,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/kettutyton-paluu-2-12/"
   },
   {
+    "venue": "jurkka",
+    "venue_label": "Teatteri Jurkka",
+    "title": "Mitä tapahtui Oliverille?",
+    "start_time": "2026-12-02T19:00:00+02:00",
+    "end_time": "2027-03-20T23:59:00+02:00",
+    "url": "https://www.jurkka.fi/class/mita-tapahtui-oliverille/"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kotijoukot",
