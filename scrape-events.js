@@ -576,83 +576,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/ympyrat-jotka-kuvittelevat-olevansa-viivoja"
   },
   {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Puhutaan Richardista",
-    "start_time": "2026-04-15T19:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Red Nose Company: About the Kevätuhri",
-    "start_time": "2026-04-16T00:00:00+03:00",
-    "end_time": "2026-04-16T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/red-nose-company-about-the-kev-tuhri"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Piano ja vapaa säestys -kurssien kevätsoittajaiset",
-    "start_time": "2026-04-16T00:00:00+03:00",
-    "end_time": "2026-04-16T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/piano-ja-vapaa-s-estys-kurssien-kev-tsoittajaiset"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
-    "start_time": "2026-04-16T12:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Laura Jantunen:ympyrät, jotka kuvittelevat olevansa viivoja",
     "start_time": "2026-04-16T16:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/ympyrat-jotka-kuvittelevat-olevansa-viivoja"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
-    "start_time": "2026-04-16T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Pelastaja",
-    "start_time": "2026-04-16T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/pelastaja"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Nämä juhlat jatkuvat vielä",
-    "start_time": "2026-04-16T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Vanja",
-    "start_time": "2026-04-16T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/vanja"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Antigone",
-    "start_time": "2026-04-16T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/antigone/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Veljeni Leijonamieli",
-    "start_time": "2026-04-16T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/veljeni-leijonamieli/"
   },
   {
     "venue": "universum",
@@ -667,20 +595,6 @@ window.SCRAPED_EVENTS = [
     "title": "Laulujoutsen",
     "start_time": "2026-04-16T19:00:00+03:00",
     "url": "https://universum.fi/events/laulujoutsen-16-4/"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Tanssiteatteri Tsuumi & Teatteri Metamorfoosi: TRUST",
-    "start_time": "2026-04-16T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/tanssiteatteri-tsuumi-teatteri-metamorfoosi-trust-2"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Matching Steps: Työpaja",
-    "start_time": "2026-04-16T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/matching-steps-työpaja"
   },
   {
     "venue": "caisa",
@@ -936,20 +850,6 @@ window.SCRAPED_EVENTS = [
     "title": "Vinterkvällar",
     "start_time": "2026-04-18T19:00:00+03:00",
     "url": "https://universum.fi/events/vinterkvallar-18-4/"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Tanssiteatteri Tsuumi & Teatteri Metamorfoosi: TRUST",
-    "start_time": "2026-04-18T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/tanssiteatteri-tsuumi-teatteri-metamorfoosi-trust-2"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Matching Steps: Työpaja",
-    "start_time": "2026-04-18T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/matching-steps-työpaja"
   },
   {
     "venue": "tanssintalo",
@@ -7579,5 +7479,12 @@ window.SCRAPED_EVENTS = [
     "title": "Vinterkvällar",
     "start_time": "2027-04-06T19:00:00+03:00",
     "url": "https://universum.fi/events/vinterkvallar-6-4/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Vinterkvällar",
+    "start_time": "2027-04-09T19:00:00+03:00",
+    "url": "https://universum.fi/events/vinterkvallar-9-4/"
   }
 ];
