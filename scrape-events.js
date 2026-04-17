@@ -3465,6 +3465,14 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
+    "title": "Flow Mo Crew 24th Anniversary",
+    "start_time": "2026-06-06T00:00:00+03:00",
+    "end_time": "2026-06-06T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0265B8B140E30D9B044205EB549B3BA9/flow-mo-crew-24th-anniversary"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
     "title": "PORTTITEATTERI: JÄLJET – Dokumentaarinen esitys kehojemme muistista",
     "start_time": "2026-06-06T00:00:00+03:00",
     "end_time": "2026-06-06T23:59:00+03:00",
@@ -3642,6 +3650,13 @@ window.SCRAPED_EVENTS = [
     "title": "Missä kuljimme kerran",
     "start_time": "2026-06-13T14:00:00+03:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Jumppatytöt",
+    "start_time": "2026-06-13T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/jumppatytot/"
   },
   {
     "venue": "universum",
