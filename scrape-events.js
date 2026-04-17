@@ -3373,6 +3373,30 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/draama-jatkuu-hietaniemessa-0"
   },
   {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuksen kesäkurssit koululaisille / Summer Circus at Stoa",
+    "start_time": "2026-06-01T00:00:00+03:00",
+    "end_time": "2026-06-05T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/7B005F6ABD56F3DDE4E4E116A17B32C4/sirkuksen-kes-kurssit-koululaisille-summer-circus-at-stoa"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Jäljillä -taideleiri 7–9-vuotiaille",
+    "start_time": "2026-06-01T00:00:00+03:00",
+    "end_time": "2026-06-05T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/BA0947F26BEA1EC383C450A55E6F18C6/j-ljill-taideleiri-7-9-vuotiaille"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Muodonmuutoksia eliökunnassa -taideleiri 10–12-vuotiaille",
+    "start_time": "2026-06-01T00:00:00+03:00",
+    "end_time": "2026-06-05T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/E651A2D53944AE93A65DCF0B0C6506BD/muodonmuutoksia-eli-kunnassa-taideleiri-10-12-vuotiaille"
+  },
+  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Lavastettu juttu",
@@ -3618,13 +3642,6 @@ window.SCRAPED_EVENTS = [
     "title": "Missä kuljimme kerran",
     "start_time": "2026-06-13T14:00:00+03:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Jumppatytöt",
-    "start_time": "2026-06-13T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/jumppatytot/"
   },
   {
     "venue": "universum",
