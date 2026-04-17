@@ -602,7 +602,7 @@ window.SCRAPED_EVENTS = [
     "title": "Flagellate – Leväkonsertti",
     "start_time": "2026-04-17T00:00:00+03:00",
     "end_time": "2026-04-17T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/2A6079F448E16EB34E20B50CC6FD758B/flagellate-lev-konsertti"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/flagellate-lev-konsertti"
   },
   {
     "venue": "viirus",
