@@ -168,6 +168,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/1984/"
   },
   {
+    "venue": "jurkka",
+    "venue_label": "Teatteri Jurkka",
+    "title": "Väylä",
+    "start_time": "2025-10-01T19:00:00+03:00",
+    "end_time": "2026-11-21T23:59:00+02:00",
+    "url": "https://www.jurkka.fi/class/vayla/"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "1984",
@@ -257,6 +265,14 @@ window.SCRAPED_EVENTS = [
     "title": "Sivuaskel 2026:Teoskeskustelut",
     "start_time": "2026-02-04T18:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/sivuaskel-2026-teoskeskustelut"
+  },
+  {
+    "venue": "jurkka",
+    "venue_label": "Teatteri Jurkka",
+    "title": "Myrsky",
+    "start_time": "2026-02-04T19:00:00+02:00",
+    "end_time": "2026-05-16T23:59:00+03:00",
+    "url": "https://www.jurkka.fi/class/myrsky/"
   },
   {
     "venue": "zodiak",
@@ -674,6 +690,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/hildur/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
+    "start_time": "2026-04-18T14:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
+  },
+  {
     "venue": "cirko",
     "venue_label": "Cirko",
     "title": "Kallo Collective: The Story of Pluto, Who Wanted to Be a Planet",
@@ -895,6 +918,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/to-be-brutally-honest-2-0/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
+    "start_time": "2026-04-21T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Täällä Pohjantähden alla",
@@ -1089,6 +1119,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-04-23T00:00:00+03:00",
     "end_time": "2026-04-23T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/911E661EC8E5541ED06B5639DB05EFFE/caisakallio-esitt"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
+    "start_time": "2026-04-23T13:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
   },
   {
     "venue": "hkt",
@@ -1336,6 +1373,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
+    "start_time": "2026-04-25T14:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "The Poet of Finland",
@@ -1553,6 +1597,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/to-be-brutally-honest-2-0/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
+    "start_time": "2026-04-28T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lady T",
@@ -1628,6 +1679,13 @@ window.SCRAPED_EVENTS = [
     "title": "to be brutally honest 2.0",
     "start_time": "2026-04-29T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/to-be-brutally-honest-2-0/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
+    "start_time": "2026-04-29T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
   },
   {
     "venue": "kansallisteatteri",
@@ -1962,6 +2020,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/kirjajulkkarit-linnan-varjossa"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
+    "start_time": "2026-05-05T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Antigone",
@@ -1995,6 +2060,13 @@ window.SCRAPED_EVENTS = [
     "title": "Ashla: Underdogs",
     "start_time": "2026-05-06T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/ashla-underdogs/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
+    "start_time": "2026-05-06T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2073,6 +2145,13 @@ window.SCRAPED_EVENTS = [
     "title": "Ashla: Underdogs",
     "start_time": "2026-05-07T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/ashla-underdogs/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
+    "start_time": "2026-05-07T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
   },
   {
     "venue": "kansallisteatteri",
@@ -3486,6 +3565,13 @@ window.SCRAPED_EVENTS = [
     "title": "Missä kuljimme kerran",
     "start_time": "2026-06-13T14:00:00+03:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Jumppatytöt",
+    "start_time": "2026-06-13T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/jumppatytot/"
   },
   {
     "venue": "universum",
@@ -6793,6 +6879,14 @@ window.SCRAPED_EVENTS = [
     "title": "Kettutytön paluu",
     "start_time": "2026-12-02T19:00:00+02:00",
     "url": "https://universum.fi/events/kettutyton-paluu-2-12/"
+  },
+  {
+    "venue": "jurkka",
+    "venue_label": "Teatteri Jurkka",
+    "title": "Mitä tapahtui Oliverille?",
+    "start_time": "2026-12-02T19:00:00+02:00",
+    "end_time": "2027-03-20T23:59:00+02:00",
+    "url": "https://www.jurkka.fi/class/mita-tapahtui-oliverille/"
   },
   {
     "venue": "hkt",
