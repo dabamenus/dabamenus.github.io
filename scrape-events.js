@@ -583,28 +583,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/ympyrat-jotka-kuvittelevat-olevansa-viivoja"
   },
   {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "Cb",
-    "start_time": "2026-04-16T19:00:00+03:00",
-    "url": "https://universum.fi/events/cb-16-4/"
-  },
-  {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "Laulujoutsen",
-    "start_time": "2026-04-16T19:00:00+03:00",
-    "url": "https://universum.fi/events/laulujoutsen-16-4/"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Flagellate – Leväkonsertti",
-    "start_time": "2026-04-17T00:00:00+03:00",
-    "end_time": "2026-04-17T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/flagellate-lev-konsertti"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Versailles",
@@ -619,60 +597,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://teatteritakomo.fi/ohjelmisto/jumppatytot-kiertueella/"
   },
   {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Muistopäivä",
-    "start_time": "2026-04-17T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Lady T",
-    "start_time": "2026-04-17T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lady-t"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Jumppatytöt",
-    "start_time": "2026-04-17T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/jumppatytot"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Status quo",
-    "start_time": "2026-04-17T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/status-quo/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Komedia pankkiryöstöstä",
-    "start_time": "2026-04-17T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/komedia-pankkiryostosta/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Hildur",
-    "start_time": "2026-04-17T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/hildur/"
-  },
-  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Laulujoutsen",
     "start_time": "2026-04-17T19:00:00+03:00",
     "url": "https://universum.fi/events/laulujoutsen-17-4/"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "hackIT! Helsinki",
-    "start_time": "2026-04-17T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/hackit-helsinki"
   },
   {
     "venue": "stoa",
@@ -2459,6 +2388,20 @@ window.SCRAPED_EVENTS = [
     "venue_label": "Tanssin Talo",
     "title": "Show of the Year",
     "start_time": "2026-05-09T19:00:00+03:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/show-of-the-year-3"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Tamara Rasmussen opisto & Jazz-Point: Tanssia ikä kaikki",
+    "start_time": "2026-05-10T19:00:00+03:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/jazz-point-tro"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Show of the Year",
+    "start_time": "2026-05-10T19:00:00+03:00",
     "url": "https://www.tanssintalo.fi/ohjelma/show-of-the-year-3"
   },
   {
@@ -7511,5 +7454,12 @@ window.SCRAPED_EVENTS = [
     "title": "Vinterkvällar",
     "start_time": "2027-04-09T19:00:00+03:00",
     "url": "https://universum.fi/events/vinterkvallar-9-4/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "VINTERKVÄLLAR",
+    "start_time": "2027-04-10T19:00:00+03:00",
+    "url": "https://universum.fi/events/vinterkvallar-10-4/"
   }
 ];
