@@ -602,7 +602,7 @@ window.SCRAPED_EVENTS = [
     "title": "Itäkuskus stand-up -klubi K18",
     "start_time": "2026-04-18T00:00:00+03:00",
     "end_time": "2026-04-18T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/C59E8B30FFC42A64D9ECA482B50B82EB/it-kuskus-stand-up-klubi-k18"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/it-kuskus-stand-up-klubi-k18"
   },
   {
     "venue": "caisa",
