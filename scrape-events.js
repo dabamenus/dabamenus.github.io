@@ -590,13 +590,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/ympyrat-jotka-kuvittelevat-olevansa-viivoja"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Kasvatuksen foorumin konferenssi: Apolloninen ja dionyysinen kasvatuksessa",
-    "start_time": "2026-04-18T12:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/konferenssi-apolloninen-ja-dionyysine"
-  },
-  {
     "venue": "cirko",
     "venue_label": "Cirko",
     "title": "Kallo Collective: The Story of Pluto, Who Wanted to Be a Planet",
