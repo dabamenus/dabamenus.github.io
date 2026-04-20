@@ -611,13 +611,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/versailles/"
   },
   {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "Vinterkvällar",
-    "start_time": "2026-04-18T19:00:00+03:00",
-    "url": "https://universum.fi/events/vinterkvallar-18-4/"
-  },
-  {
     "venue": "takomo",
     "venue_label": "Teatteri Takomo",
     "title": "Puhutaan Richardista",
