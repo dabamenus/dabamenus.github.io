@@ -655,13 +655,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/versailles/"
   },
   {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Jumppatytöt kiertueella",
-    "start_time": "2026-04-20T18:30:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/jumppatytot-kiertueella/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Jotuni",
