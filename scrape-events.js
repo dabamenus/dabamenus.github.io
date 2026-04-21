@@ -421,7 +421,7 @@ window.SCRAPED_EVENTS = [
     "title": "Syvemmälle seikkailuun!",
     "start_time": "2026-03-24T00:00:00+02:00",
     "end_time": "2026-04-21T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/23C3BA231AD3DAC2AC3F434FFF483BB6/syvemm-lle-seikkailuun"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/syvemm-lle-seikkailuun"
   },
   {
     "venue": "viirus",
@@ -644,7 +644,7 @@ window.SCRAPED_EVENTS = [
     "title": "CaisaKallio esittää:",
     "start_time": "2026-04-21T00:00:00+03:00",
     "end_time": "2026-04-21T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/C6A7ABA9B524E1B42CC627359106A63B/caisakallio-esitt"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/caisakallio-esitt"
   },
   {
     "venue": "zodiak",
@@ -652,13 +652,6 @@ window.SCRAPED_EVENTS = [
     "title": "Laura Jantunen:ympyrät, jotka kuvittelevat olevansa viivoja",
     "start_time": "2026-04-21T16:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/ympyrat-jotka-kuvittelevat-olevansa-viivoja"
-  },
-  {
-    "venue": "kiasma",
-    "venue_label": "Kiasma",
-    "title": "SCREAM CRY EXORCISE",
-    "start_time": "2026-04-21T18:00:00+03:00",
-    "url": "https://kiasma.fi/esitykset/scream-cry-exorcise/"
   },
   {
     "venue": "viirus",
