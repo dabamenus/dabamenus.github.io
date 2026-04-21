@@ -469,14 +469,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/versailles/"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Tanssi ja leikki",
-    "start_time": "2026-03-30T00:00:00+03:00",
-    "end_time": "2026-05-25T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/955001E3E341352D22B3996DDBEB66B6/tanssi-ja-leikki"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Versailles",
@@ -784,6 +776,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kirjajulkkarit: Katoamiskertomus",
     "start_time": "2026-04-22T17:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/kirjajulkkarit-katoamiskertomus"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Kuvittaja-lehden klubi",
+    "start_time": "2026-04-22T18:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/kuvittaja-lehden-klubi"
   },
   {
     "venue": "viirus",
@@ -1265,6 +1264,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/vinterkvallar-26-4/"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Tanssi ja leikki",
+    "start_time": "2026-04-27T00:00:00+03:00",
+    "end_time": "2026-05-25T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/955001E3E341352D22B3996DDBEB66B6/tanssi-ja-leikki"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Kirjailijat lavalla",
@@ -1431,6 +1438,13 @@ window.SCRAPED_EVENTS = [
     "title": "Out of Order",
     "start_time": "2026-04-28T19:30:00+03:00",
     "url": "https://hkt.fi/esitykset/out-of-order/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "HPC:n Lavarunotyöpaja 1",
+    "start_time": "2026-04-29T17:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/hpc-n-lavarunotyopaja-1"
   },
   {
     "venue": "viirus",
@@ -1941,6 +1955,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/hildur/"
   },
   {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Tanssikoulu DCA: Kevätnäytökset 2026",
+    "start_time": "2026-05-07T19:00:00+03:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/tanssikoulu-dca-kevatnaytokset-2025"
+  },
+  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Puhos – Itähelsinkiläisestä ostarista kulttuurien keitaaksi",
@@ -2024,6 +2045,13 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "tanssintalo",
     "venue_label": "Tanssin Talo",
+    "title": "Tanssikoulu DCA: Kevätnäytökset 2026",
+    "start_time": "2026-05-08T19:00:00+03:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/tanssikoulu-dca-kevatnaytokset-2025"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
     "title": "Tamara Rasmussen opisto & Jazz-Point: Tanssia ikä kaikki",
     "start_time": "2026-05-08T19:00:00+03:00",
     "url": "https://www.tanssintalo.fi/ohjelma/jazz-point-tro"
@@ -2073,6 +2101,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "HPC:n Lavarunotyöpaja 2",
+    "start_time": "2026-05-09T16:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/hpc-n-lavarunotyopaja-2"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Ashla: Underdogs",
@@ -2117,6 +2152,13 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "tanssintalo",
     "venue_label": "Tanssin Talo",
+    "title": "Tanssikoulu DCA: Kevätnäytökset 2026",
+    "start_time": "2026-05-09T19:00:00+03:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/tanssikoulu-dca-kevatnaytokset-2025"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
     "title": "Tamara Rasmussen opisto & Jazz-Point: Tanssia ikä kaikki",
     "start_time": "2026-05-09T19:00:00+03:00",
     "url": "https://www.tanssintalo.fi/ohjelma/jazz-point-tro"
@@ -2126,20 +2168,6 @@ window.SCRAPED_EVENTS = [
     "venue_label": "Tanssin Talo",
     "title": "Show of the Year",
     "start_time": "2026-05-09T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/show-of-the-year-3"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Tamara Rasmussen opisto & Jazz-Point: Tanssia ikä kaikki",
-    "start_time": "2026-05-10T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/jazz-point-tro"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Show of the Year",
-    "start_time": "2026-05-10T19:00:00+03:00",
     "url": "https://www.tanssintalo.fi/ohjelma/show-of-the-year-3"
   },
   {
@@ -3890,13 +3918,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Cloud Gate Dance Theatre of Taiwan: 13 Tongues",
-    "start_time": "2026-08-30T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/cloud-gate-dance-theatre-of-taiwan-13-tongues"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Orvot",
@@ -4259,13 +4280,6 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-09-12T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Minna Tervamäki – 40 vuotta näyttämöllä",
-    "start_time": "2026-09-12T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/minna-tervamäki-40-vuotta-näyttämöllä"
   },
   {
     "venue": "cirko",
