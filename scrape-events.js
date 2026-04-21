@@ -476,14 +476,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/versailles/"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-03-31T00:00:00+03:00",
-    "end_time": "2026-05-26T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/E6F30ED2D6DA4534B02069DB32A1CAEB/taidetta-taaperoille"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Versailles",
@@ -644,7 +636,7 @@ window.SCRAPED_EVENTS = [
     "title": "Päivätanssit",
     "start_time": "2026-04-21T00:00:00+03:00",
     "end_time": "2026-04-21T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/73FF0A3C2313849127CED11ACBC91635/p-iv-tanssit"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/p-iv-tanssit"
   },
   {
     "venue": "caisa",
@@ -1333,6 +1325,14 @@ window.SCRAPED_EVENTS = [
     "title": "Out of Order",
     "start_time": "2026-04-27T19:30:00+03:00",
     "url": "https://hkt.fi/esitykset/out-of-order/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2026-04-28T00:00:00+03:00",
+    "end_time": "2026-05-26T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/E6F30ED2D6DA4534B02069DB32A1CAEB/taidetta-taaperoille"
   },
   {
     "venue": "hkt",
