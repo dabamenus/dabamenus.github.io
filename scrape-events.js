@@ -654,13 +654,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/ympyrat-jotka-kuvittelevat-olevansa-viivoja"
   },
   {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "to be brutally honest 2.0",
-    "start_time": "2026-04-21T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/to-be-brutally-honest-2-0/"
-  },
-  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
@@ -1659,6 +1652,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/hildur/"
   },
   {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "to be brutally honest 2.0",
+    "start_time": "2026-05-02T15:00:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/to-be-brutally-honest-2-0/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lady T",
@@ -1699,6 +1699,13 @@ window.SCRAPED_EVENTS = [
     "title": "Hildur",
     "start_time": "2026-05-02T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/hildur/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "to be brutally honest 2.0",
+    "start_time": "2026-05-02T19:00:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/to-be-brutally-honest-2-0/"
   },
   {
     "venue": "takomo",
