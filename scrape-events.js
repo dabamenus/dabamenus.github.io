@@ -611,27 +611,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/versailles/"
   },
   {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Puhutaan Richardista",
-    "start_time": "2026-04-19T14:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
-  },
-  {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "Storysharing café",
-    "start_time": "2026-04-19T19:00:00+03:00",
-    "url": "https://universum.fi/events/storysharing-cafe-19-4/"
-  },
-  {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "Vinterkvällar",
-    "start_time": "2026-04-19T19:00:00+03:00",
-    "url": "https://universum.fi/events/vinterkvallar-19-4/"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "CaisaKallio",
@@ -640,47 +619,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/0ADA46660E83311FC7654416EA9ED996/caisakallio"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "CaisaKallio esittää:",
-    "start_time": "2026-04-20T00:00:00+03:00",
-    "end_time": "2026-04-20T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/caisakallio-esitt"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Versailles",
     "start_time": "2026-04-20T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Jotuni",
-    "start_time": "2026-04-20T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/jotuni"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Jumppatytöt",
-    "start_time": "2026-04-20T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/jumppatytot"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Lady T",
-    "start_time": "2026-04-20T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lady-t"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kiviä taskussa",
-    "start_time": "2026-04-20T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
     "venue": "takomo",
@@ -702,13 +645,6 @@ window.SCRAPED_EVENTS = [
     "title": "Laulujoutsen",
     "start_time": "2026-04-20T19:00:00+03:00",
     "url": "https://universum.fi/events/laulujoutsen-20-4/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Out of Order",
-    "start_time": "2026-04-20T19:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/out-of-order/"
   },
   {
     "venue": "stoa",
