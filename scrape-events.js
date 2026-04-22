@@ -648,20 +648,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/ympyrat-jotka-kuvittelevat-olevansa-viivoja"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Keskiviikon kulissikierros",
-    "start_time": "2026-04-22T16:30:00+03:00",
-    "url": ""
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Kuvittaja-lehden klubi",
-    "start_time": "2026-04-22T18:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/kuvittaja-lehden-klubi"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Versailles",
