@@ -614,7 +614,7 @@ window.SCRAPED_EVENTS = [
     "title": "Skidikino: Muumien maailma",
     "start_time": "2026-04-22T00:00:00+03:00",
     "end_time": "2026-04-22T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/D5321F60AF4C1D3C0F4C6F3387D332E7/skidikino-muumien-maailma"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/skidikino-muumien-maailma"
   },
   {
     "venue": "stoa",
