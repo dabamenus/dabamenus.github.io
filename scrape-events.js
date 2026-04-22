@@ -622,7 +622,7 @@ window.SCRAPED_EVENTS = [
     "title": "Yläkoulukino: Kapina elämän puolesta (2025)",
     "start_time": "2026-04-22T00:00:00+03:00",
     "end_time": "2026-04-22T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/628F1DF1AEF8AA0147A0F86B28AC405E/yl-koulukino-kapina-el-m-n-puolesta-2025"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/yl-koulukino-kapina-el-m-n-puolesta-2025"
   },
   {
     "venue": "stoa",
@@ -2926,7 +2926,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "Caisa",
     "title": "”Habit Bodies”",
     "start_time": "2026-05-29T00:00:00+03:00",
-    "end_time": "2026-06-27T23:59:00+03:00",
+    "end_time": "2026-06-26T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/0EE0B91B61A6D8C707237F2F771DEE8B/habit-bodies"
   },
   {
