@@ -630,7 +630,7 @@ window.SCRAPED_EVENTS = [
     "title": "PodiKlubi",
     "start_time": "2026-04-22T00:00:00+03:00",
     "end_time": "2026-04-22T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/3F7E297E5F4693E5CC8A76E4F6FC398E/podiklubi"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/podiklubi"
   },
   {
     "venue": "caisa",
@@ -638,7 +638,7 @@ window.SCRAPED_EVENTS = [
     "title": "CaisaKallio esittää:",
     "start_time": "2026-04-22T00:00:00+03:00",
     "end_time": "2026-04-22T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/9652F8A42B10BE6EA01BBD0E776EB99A/caisakallio-esitt"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/caisakallio-esitt"
   },
   {
     "venue": "zodiak",
@@ -653,13 +653,6 @@ window.SCRAPED_EVENTS = [
     "title": "Keskiviikon kulissikierros",
     "start_time": "2026-04-22T16:30:00+03:00",
     "url": ""
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Kirjajulkkarit: Katoamiskertomus",
-    "start_time": "2026-04-22T17:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/kirjajulkkarit-katoamiskertomus"
   },
   {
     "venue": "tekstintalo",
@@ -2924,7 +2917,7 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "caisa",
     "venue_label": "Caisa",
-    "title": "”Habit Bodies”",
+    "title": "Habit Bodies",
     "start_time": "2026-05-29T00:00:00+03:00",
     "end_time": "2026-06-26T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/0EE0B91B61A6D8C707237F2F771DEE8B/habit-bodies"
