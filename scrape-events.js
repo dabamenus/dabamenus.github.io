@@ -592,7 +592,7 @@ window.SCRAPED_EVENTS = [
     "title": "CaisaKallio",
     "start_time": "2026-04-20T00:00:00+03:00",
     "end_time": "2026-04-23T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/0ADA46660E83311FC7654416EA9ED996/caisakallio"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/caisakallio"
   },
   {
     "venue": "viirus",
