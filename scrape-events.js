@@ -609,38 +609,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/ympyrat-jotka-kuvittelevat-olevansa-viivoja"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Skidikino: Muumien maailma",
-    "start_time": "2026-04-22T00:00:00+03:00",
-    "end_time": "2026-04-22T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/skidikino-muumien-maailma"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Yläkoulukino: Kapina elämän puolesta (2025)",
-    "start_time": "2026-04-22T00:00:00+03:00",
-    "end_time": "2026-04-22T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/yl-koulukino-kapina-el-m-n-puolesta-2025"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "PodiKlubi",
-    "start_time": "2026-04-22T00:00:00+03:00",
-    "end_time": "2026-04-22T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/podiklubi"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "CaisaKallio esittää:",
-    "start_time": "2026-04-22T00:00:00+03:00",
-    "end_time": "2026-04-22T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/caisakallio-esitt"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Laura Jantunen:ympyrät, jotka kuvittelevat olevansa viivoja",
@@ -655,74 +623,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/versailles/"
   },
   {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
-    "start_time": "2026-04-22T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Lady T",
-    "start_time": "2026-04-22T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lady-t"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Kolme harjoitelmaa sodan ja rakkauden vuosilta",
-    "start_time": "2026-04-22T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/kolme-harjoitelmaa-sodan-ja-rakkauden-vuosilta"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Vanja",
-    "start_time": "2026-04-22T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/vanja"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Somatic Sitcom",
-    "start_time": "2026-04-22T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/somatic-sitcom/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Status quo",
-    "start_time": "2026-04-22T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/status-quo/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Komedia pankkiryöstöstä",
-    "start_time": "2026-04-22T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/komedia-pankkiryostosta/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Hildur",
-    "start_time": "2026-04-22T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/hildur/"
-  },
-  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Topelius och teatern",
     "start_time": "2026-04-22T19:00:00+03:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/topelius-och-teatern/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Out of Order",
-    "start_time": "2026-04-22T19:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/out-of-order/"
   },
   {
     "venue": "stoa",
@@ -2520,6 +2425,14 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-05-20T00:00:00+03:00",
     "end_time": "2026-05-20T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/BBEB6C8F6F4892CF24572933C399810B/mets-n-laskeutumiset-karhukalliolla"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Stoan mehiläispäivä",
+    "start_time": "2026-05-20T00:00:00+03:00",
+    "end_time": "2026-05-20T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/038CE4DF47290B59897BCB11C6C55882/stoan-mehil-isp-iv"
   },
   {
     "venue": "caisa",
