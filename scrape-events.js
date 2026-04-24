@@ -2832,11 +2832,39 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F37EF508EEA60FB8BB0810D8928587B3/blood-berries-justice-for-thai-berry-pickers"
   },
   {
+    "venue": "kiasma",
+    "venue_label": "Kiasma",
+    "title": "Sonya Lindfors: common moves revisited",
+    "start_time": "2026-06-03T17:30:00+03:00",
+    "url": "https://kiasma.fi/esitykset/urb26-common-moves-revisited/"
+  },
+  {
+    "venue": "kiasma",
+    "venue_label": "Kiasma",
+    "title": "Ama Kyei & työryhmä: Walk with me",
+    "start_time": "2026-06-03T18:00:00+03:00",
+    "url": "https://kiasma.fi/esitykset/urb26-walk-with-me/"
+  },
+  {
+    "venue": "kiasma",
+    "venue_label": "Kiasma",
+    "title": "Sonya Lindfors: common moves revisited",
+    "start_time": "2026-06-03T19:00:00+03:00",
+    "url": "https://kiasma.fi/esitykset/urb26-common-moves-revisited/"
+  },
+  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
     "start_time": "2026-06-04T14:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-0406"
+  },
+  {
+    "venue": "kiasma",
+    "venue_label": "Kiasma",
+    "title": "Ama Kyei & työryhmä: Walk with me",
+    "start_time": "2026-06-04T18:00:00+03:00",
+    "url": "https://kiasma.fi/esitykset/urb26-walk-with-me/"
   },
   {
     "venue": "ryhmateatteri",
@@ -2854,11 +2882,32 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/AC63DBF6A6F8110B4F5466AA555A0BB9/porttiteatteri-j-ljet-dokumentaarinen-esitys-kehojemme-muistista"
   },
   {
+    "venue": "kiasma",
+    "venue_label": "Kiasma",
+    "title": "Sonya Lindfors: common moves revisited",
+    "start_time": "2026-06-05T15:00:00+03:00",
+    "url": "https://kiasma.fi/esitykset/urb26-common-moves-revisited/"
+  },
+  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Spring Thing",
     "start_time": "2026-06-05T16:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/spring-thing"
+  },
+  {
+    "venue": "kiasma",
+    "venue_label": "Kiasma",
+    "title": "Sonya Lindfors: common moves revisited",
+    "start_time": "2026-06-05T17:00:00+03:00",
+    "url": "https://kiasma.fi/esitykset/urb26-common-moves-revisited/"
+  },
+  {
+    "venue": "kiasma",
+    "venue_label": "Kiasma",
+    "title": "URB 26: World Canvas esittää",
+    "start_time": "2026-06-05T18:00:00+03:00",
+    "url": "https://kiasma.fi/esitykset/urb-26-world-canvas-esittaa/"
   },
   {
     "venue": "ryhmateatteri",
@@ -2896,6 +2945,27 @@ window.SCRAPED_EVENTS = [
     "title": "Missä kuljimme kerran",
     "start_time": "2026-06-06T18:30:00+03:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
+  },
+  {
+    "venue": "kiasma",
+    "venue_label": "Kiasma",
+    "title": "Biret Haarla Pieski: Päähenkilö",
+    "start_time": "2026-06-06T19:00:00+03:00",
+    "url": "https://kiasma.fi/esitykset/urb26-paahenkilo/"
+  },
+  {
+    "venue": "kiasma",
+    "venue_label": "Kiasma",
+    "title": "Tibau Beirnaert & Laurens Aneca: Zero Feet Away",
+    "start_time": "2026-06-07T15:00:00+03:00",
+    "url": "https://kiasma.fi/esitykset/urb26-zero-feet-away/"
+  },
+  {
+    "venue": "kiasma",
+    "venue_label": "Kiasma",
+    "title": "Biret Haarla Pieski: Päähenkilö",
+    "start_time": "2026-06-07T19:00:00+03:00",
+    "url": "https://kiasma.fi/esitykset/urb26-paahenkilo/"
   },
   {
     "venue": "universum",
