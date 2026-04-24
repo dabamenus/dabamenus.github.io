@@ -643,13 +643,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/laulujoutsen-23-4/"
   },
   {
-    "venue": "kiasma",
-    "venue_label": "Kiasma",
-    "title": "SCREAM CRY EXORCISE",
-    "start_time": "2026-04-24T18:00:00+03:00",
-    "url": "https://kiasma.fi/esitykset/scream-cry-exorcise/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Versailles",
