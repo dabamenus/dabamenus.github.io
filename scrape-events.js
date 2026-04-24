@@ -2578,6 +2578,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/one-drop"
   },
   {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Ballet National de Marseille: työpaja ammattilaisille",
+    "start_time": "2026-05-25T19:00:00+03:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/bndm-tyopaja"
+  },
+  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Opi suomea laulaen TÄYNNÄ",
@@ -2703,6 +2710,13 @@ window.SCRAPED_EVENTS = [
     "title": "(LA)HORDE / Ballet national de Marseille: Age of Content",
     "start_time": "2026-05-28T19:00:00+03:00",
     "url": "https://www.tanssintalo.fi/ohjelma/lahorde-ballet-national-de-marseille-age-of-content"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Ballet National de Marseille: TikTok Jazz -työpaja",
+    "start_time": "2026-05-28T19:00:00+03:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/bndm-tyopaja-2"
   },
   {
     "venue": "caisa",
@@ -3065,13 +3079,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/mg-13-6/"
   },
   {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Susanna Leinonen Company: Mozart Mozart",
-    "start_time": "2026-06-13T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/susanna-leinonen-company-mozart"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Kahlekuningatar",
@@ -3177,13 +3184,6 @@ window.SCRAPED_EVENTS = [
     "title": "Missä kuljimme kerran",
     "start_time": "2026-06-25T18:30:00+03:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Tanssin talo 2026 intensiivi x Nederlands Dans Theater",
-    "start_time": "2026-06-25T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/ndt-kesäintensiivikurssi"
   },
   {
     "venue": "ryhmateatteri",
@@ -5975,6 +5975,13 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
+    "title": "Iikka Kivi &#8211; Protestinauru Stand Up Show",
+    "start_time": "2026-11-13T19:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/iikka-kivi-protestinauru-stand-up-show/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-11-14T12:00:00+02:00",
     "url": "https://hkt.fi/esitykset/kurtturuusut/"
@@ -6125,6 +6132,13 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-11-21T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Iikka Kivi &#8211; Protestinauru Stand Up Show",
+    "start_time": "2026-11-21T19:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/iikka-kivi-protestinauru-stand-up-show/"
   },
   {
     "venue": "hkt",
