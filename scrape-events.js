@@ -566,20 +566,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/ympyrat-jotka-kuvittelevat-olevansa-viivoja"
   },
   {
-    "venue": "cirko",
-    "venue_label": "Cirko",
-    "title": "Kallo Collective: The Story of Pluto, Who Wanted to Be a Planet",
-    "start_time": "2026-04-18T12:30:00+03:00",
-    "url": "https://cirko.fi/esitys/kallo-collective-the-story-of-pluto-who-wanted-to-be-a-planet/"
-  },
-  {
-    "venue": "cirko",
-    "venue_label": "Cirko",
-    "title": "Kallo Collective: The Story of Pluto, Who Wanted to Be a Planet",
-    "start_time": "2026-04-18T15:00:00+03:00",
-    "url": "https://cirko.fi/esitys/kallo-collective-the-story-of-pluto-who-wanted-to-be-a-planet/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Versailles",
@@ -650,13 +636,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/naiskirjoittamisen-kurssi-2"
   },
   {
-    "venue": "cirko",
-    "venue_label": "Cirko",
-    "title": "Kallo Collective: The Story of Pluto, Who Wanted to Be a Planet",
-    "start_time": "2026-04-25T12:30:00+03:00",
-    "url": "https://cirko.fi/esitys/kallo-collective-the-story-of-pluto-who-wanted-to-be-a-planet/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Muistopäivä",
@@ -725,13 +704,6 @@ window.SCRAPED_EVENTS = [
     "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
     "start_time": "2026-04-25T14:00:00+03:00",
     "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
-  },
-  {
-    "venue": "cirko",
-    "venue_label": "Cirko",
-    "title": "Kallo Collective: The Story of Pluto, Who Wanted to Be a Planet",
-    "start_time": "2026-04-25T15:00:00+03:00",
-    "url": "https://cirko.fi/esitys/kallo-collective-the-story-of-pluto-who-wanted-to-be-a-planet/"
   },
   {
     "venue": "viirus",
