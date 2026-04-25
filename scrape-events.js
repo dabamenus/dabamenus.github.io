@@ -629,20 +629,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/to-be-brutally-honest-2-0/"
   },
   {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Ronja Rövardotter",
-    "start_time": "2026-04-23T19:00:00+03:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/ronja-rovardotter/"
-  },
-  {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "Laulujoutsen",
-    "start_time": "2026-04-23T19:00:00+03:00",
-    "url": "https://universum.fi/events/laulujoutsen-23-4/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Versailles",
@@ -650,60 +636,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/versailles/"
   },
   {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Täällä Pohjantähden alla",
-    "start_time": "2026-04-24T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taalla-pohjantahden-alla"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Muistopäivä",
-    "start_time": "2026-04-24T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Vanja",
-    "start_time": "2026-04-24T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/vanja"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Somatic Sitcom",
-    "start_time": "2026-04-24T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/somatic-sitcom/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Komedia pankkiryöstöstä",
-    "start_time": "2026-04-24T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/komedia-pankkiryostosta/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Hildur",
-    "start_time": "2026-04-24T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/hildur/"
-  },
-  {
     "venue": "takomo",
     "venue_label": "Teatteri Takomo",
     "title": "Puhutaan Richardista",
     "start_time": "2026-04-24T19:00:00+03:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Out of Order",
-    "start_time": "2026-04-24T19:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/out-of-order/"
   },
   {
     "venue": "tekstintalo",
@@ -7050,5 +6987,12 @@ window.SCRAPED_EVENTS = [
     "title": "Laulujoutsen",
     "start_time": "2027-04-16T19:00:00+03:00",
     "url": "https://universum.fi/events/laulujoutsen-16-4/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Laulujoutsen",
+    "start_time": "2027-04-17T19:00:00+03:00",
+    "url": "https://universum.fi/events/laulujoutsen-17-4/"
   }
 ];
