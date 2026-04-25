@@ -727,20 +727,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "The Poet of Finland",
-    "start_time": "2026-04-25T14:00:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/the-poet-of-finland/"
-  },
-  {
-    "venue": "kiasma",
-    "venue_label": "Kiasma",
-    "title": "SCREAM CRY EXORCISE",
-    "start_time": "2026-04-25T15:00:00+03:00",
-    "url": "https://kiasma.fi/esitykset/scream-cry-exorcise/"
-  },
-  {
     "venue": "cirko",
     "venue_label": "Cirko",
     "title": "Kallo Collective: The Story of Pluto, Who Wanted to Be a Planet",
