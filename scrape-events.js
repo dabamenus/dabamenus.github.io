@@ -451,7 +451,7 @@ window.SCRAPED_EVENTS = [
     "title": "MAAN LUVALLA",
     "start_time": "2026-03-27T00:00:00+02:00",
     "end_time": "2026-04-25T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/975D2AEA636230778CE58626AAFFBB98/maan-luvalla"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/maan-luvalla"
   },
   {
     "venue": "viirus",
@@ -753,13 +753,6 @@ window.SCRAPED_EVENTS = [
     "title": "Puhutaan Richardista",
     "start_time": "2026-04-25T19:00:00+03:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
-  },
-  {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Gudarnas väktare",
-    "start_time": "2026-04-25T19:00:00+03:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/gudarnas-vaktare/"
   },
   {
     "venue": "universum",
