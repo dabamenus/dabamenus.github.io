@@ -2374,9 +2374,9 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "tanssintalo",
     "venue_label": "Tanssin Talo",
-    "title": "Age of Content: lavastuskierros",
+    "title": "Age of Content: lavastekierros",
     "start_time": "2026-05-27T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/bndm-tyopaja-2-2"
+    "url": "https://www.tanssintalo.fi/ohjelma/age-of-content-lavastekierros"
   },
   {
     "venue": "stoa",
