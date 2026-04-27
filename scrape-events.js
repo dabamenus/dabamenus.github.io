@@ -345,6 +345,20 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/sivuaskel-2026-loppubileet"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Kirjoittajakoulun haku",
+    "start_time": "2026-03-01T12:40:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/kirjoittajakoulun-haku"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Tietokirjoittajakoulun haku",
+    "start_time": "2026-03-01T12:40:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/tietokirjoittajakoulun-haku"
+  },
+  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Zodiak Laboratory:Ninu Lindfors & Cia Rinne",
@@ -2285,6 +2299,14 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
+    "title": "Mainiot materiaalit - installaatio (terraarion puoleisten rappusten vieressä)",
+    "start_time": "2026-05-26T00:00:00+03:00",
+    "end_time": "2026-08-31T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/B5CEECA15BBB114F544F7263E2517AE4/mainiot-materiaalit-installaatio-terraarion-puoleisten-rappusten-vieress"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
     "title": "Päivätanssit",
     "start_time": "2026-05-26T00:00:00+03:00",
     "end_time": "2026-05-26T23:59:00+03:00",
@@ -2348,6 +2370,13 @@ window.SCRAPED_EVENTS = [
     "title": "Draama jatkuu Hietaniemessä",
     "start_time": "2026-05-27T17:00:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/draama-jatkuu-hietaniemessa-0"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Age of Content: lavastuskierros",
+    "start_time": "2026-05-27T19:00:00+03:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/bndm-tyopaja-2-2"
   },
   {
     "venue": "stoa",
@@ -2663,13 +2692,6 @@ window.SCRAPED_EVENTS = [
     "title": "MG",
     "start_time": "2026-06-07T19:00:00+03:00",
     "url": "https://universum.fi/events/mg-7-6/"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Finnish Dance Organization Kilpailut 2026",
-    "start_time": "2026-06-07T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/finnish-dance-organization-kilpailut-2026"
   },
   {
     "venue": "stoa",
