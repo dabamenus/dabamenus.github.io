@@ -678,13 +678,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/seniorisoppa-kevatkonsertti/"
   },
   {
-    "venue": "kiasma",
-    "venue_label": "Kiasma",
-    "title": "SCREAM CRY EXORCISE",
-    "start_time": "2026-04-28T18:00:00+03:00",
-    "url": "https://kiasma.fi/esitykset/scream-cry-exorcise/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "to be brutally honest 2.0",
