@@ -2195,7 +2195,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "Tanssin Talo",
     "title": "Ballet National de Marseille: työpaja ammattilaisille",
     "start_time": "2026-05-25T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/bndm-tyopaja"
+    "url": "https://www.tanssintalo.fi/ohjelma/bnm-tyopaja"
   },
   {
     "venue": "stoa",
