@@ -642,20 +642,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/versailles/"
   },
   {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "Vinterkvällar",
-    "start_time": "2026-04-27T19:00:00+03:00",
-    "url": "https://universum.fi/events/vinterkvallar-27-4/"
-  },
-  {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "Laulujoutsen",
-    "start_time": "2026-04-27T19:00:00+03:00",
-    "url": "https://universum.fi/events/laulujoutsen-27-4/"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Taidetta taaperoille",
@@ -664,81 +650,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/E6F30ED2D6DA4534B02069DB32A1CAEB/taidetta-taaperoille"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Seniorisoppa kevätkonsertti",
-    "start_time": "2026-04-28T11:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/seniorisoppa-kevatkonsertti/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Seniorisoppa kevätkonsertti",
-    "start_time": "2026-04-28T14:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/seniorisoppa-kevatkonsertti/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "to be brutally honest 2.0",
     "start_time": "2026-04-28T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/to-be-brutally-honest-2-0/"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
-    "start_time": "2026-04-28T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Lady T",
-    "start_time": "2026-04-28T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lady-t"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Muistopäivä",
-    "start_time": "2026-04-28T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
-    "start_time": "2026-04-28T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Vanja",
-    "start_time": "2026-04-28T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/vanja"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Somatic Sitcom",
-    "start_time": "2026-04-28T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/somatic-sitcom/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Komedia pankkiryöstöstä",
-    "start_time": "2026-04-28T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/komedia-pankkiryostosta/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Hildur",
-    "start_time": "2026-04-28T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/hildur/"
   },
   {
     "venue": "takomo",
@@ -753,13 +669,6 @@ window.SCRAPED_EVENTS = [
     "title": "Vinterkvällar 28.4 kl 16",
     "start_time": "2026-04-28T19:00:00+03:00",
     "url": "https://universum.fi/events/vinterkvallar-28-4-kl-16/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Out of Order",
-    "start_time": "2026-04-28T19:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/out-of-order/"
   },
   {
     "venue": "tekstintalo",
@@ -844,6 +753,13 @@ window.SCRAPED_EVENTS = [
     "title": "Puhutaan Richardista",
     "start_time": "2026-04-29T19:00:00+03:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
+  },
+  {
+    "venue": "svenska",
+    "venue_label": "Svenska Teatern",
+    "title": "Onko täällä kuuma?",
+    "start_time": "2026-04-29T19:00:00+03:00",
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/onko-taalla-kuuma/"
   },
   {
     "venue": "universum",
@@ -1206,6 +1122,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/kulturbararna/"
   },
   {
+    "venue": "svenska",
+    "venue_label": "Svenska Teatern",
+    "title": "Onko täällä kuuma?",
+    "start_time": "2026-05-06T19:00:00+03:00",
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/onko-taalla-kuuma/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Laulujoutsen",
@@ -1497,6 +1420,27 @@ window.SCRAPED_EVENTS = [
     "venue_label": "Tanssin Talo",
     "title": "Show of the Year",
     "start_time": "2026-05-09T19:00:00+03:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/show-of-the-year-3"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Tanssikoulu DCA: Kevätnäytökset 2026",
+    "start_time": "2026-05-10T19:00:00+03:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/tanssikoulu-dca-kevatnaytokset-2025"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Tamara Rasmussen opisto & Jazz-Point: Tanssia ikä kaikki",
+    "start_time": "2026-05-10T19:00:00+03:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/jazz-point-tro"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Show of the Year",
+    "start_time": "2026-05-10T19:00:00+03:00",
     "url": "https://www.tanssintalo.fi/ohjelma/show-of-the-year-3"
   },
   {
@@ -1821,6 +1765,13 @@ window.SCRAPED_EVENTS = [
     "title": "Soili 16.5 klo 19",
     "start_time": "2026-05-16T19:00:00+03:00",
     "url": "https://universum.fi/events/soili-16-5-klo-19/"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Helsingin nuorisopalveluiden tanssitoiminta: Kevätnäytös 2026",
+    "start_time": "2026-05-16T19:00:00+03:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/helsingin-nuorisopalveluiden-tanssitoiminta-kevätnäytös-2026"
   },
   {
     "venue": "tanssintalo",
@@ -5902,6 +5853,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
+    "venue": "svenska",
+    "venue_label": "Svenska Teatern",
+    "title": "Onko täällä kuuma?",
+    "start_time": "2026-11-19T19:00:00+02:00",
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/onko-taalla-kuuma/"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "no-no",
@@ -6678,6 +6636,13 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-12-30T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "svenska",
+    "venue_label": "Svenska Teatern",
+    "title": "Onko täällä kuuma?",
+    "start_time": "2026-12-30T19:00:00+02:00",
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/onko-taalla-kuuma/"
   },
   {
     "venue": "hkt",
