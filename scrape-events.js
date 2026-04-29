@@ -671,13 +671,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/vinterkvallar-28-4-kl-16/"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "HPC:n Lavarunotyöpaja 1",
-    "start_time": "2026-04-29T17:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/hpc-n-lavarunotyopaja-1"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "to be brutally honest 2.0",
@@ -3928,13 +3921,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-09-21T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Orvot",
@@ -3954,13 +3940,6 @@ window.SCRAPED_EVENTS = [
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-09-22T18:00:00+03:00",
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-09-22T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -3989,13 +3968,6 @@ window.SCRAPED_EVENTS = [
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-09-23T18:00:00+03:00",
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-09-23T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -4101,13 +4073,6 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-09-26T13:00:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-09-26T14:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "hkt",
@@ -4229,13 +4194,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-09-30T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lady T (syksy 2026)",
@@ -4285,13 +4243,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-01T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Toinen tasavalta",
@@ -4318,13 +4269,6 @@ window.SCRAPED_EVENTS = [
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-02T18:00:00+03:00",
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-02T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -4402,13 +4346,6 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-10-03T13:00:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-03T14:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "hkt",
@@ -4493,13 +4430,6 @@ window.SCRAPED_EVENTS = [
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-06T18:00:00+03:00",
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-06T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -4600,13 +4530,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-08T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Toinen tasavalta",
@@ -4647,13 +4570,6 @@ window.SCRAPED_EVENTS = [
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-09T18:00:00+03:00",
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-09T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -4768,13 +4684,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-10T14:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lady T (syksy 2026)",
@@ -4831,13 +4740,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-13T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "De obehöriga",
@@ -4873,13 +4775,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-14T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Orvot",
@@ -4906,13 +4801,6 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-10-14T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-15T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -4969,13 +4857,6 @@ window.SCRAPED_EVENTS = [
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-16T18:00:00+03:00",
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-16T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -5181,13 +5062,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-22T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Sivuraide",
@@ -5314,13 +5188,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-24T14:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
@@ -5419,13 +5286,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-27T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Orvot",
@@ -5475,13 +5335,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-28T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lopetus",
@@ -5524,13 +5377,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-29T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Sivuraide",
@@ -5564,13 +5410,6 @@ window.SCRAPED_EVENTS = [
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-30T18:00:00+02:00",
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-30T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -5650,13 +5489,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/andetag-1-11/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-03T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kiviä taskussa",
@@ -5669,13 +5501,6 @@ window.SCRAPED_EVENTS = [
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-11-05T18:00:00+02:00",
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-05T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "hkt",
@@ -5697,13 +5522,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kiviä taskussa",
     "start_time": "2026-11-05T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/kivia-taskussa/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-06T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "hkt",
@@ -5753,13 +5571,6 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-11-07T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-07T14:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "cirko",
@@ -5860,13 +5671,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-11T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kotijoukot",
@@ -5902,13 +5706,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-12T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kotijoukot",
@@ -5921,13 +5718,6 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-11-12T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-13T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "hkt",
@@ -5970,13 +5760,6 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-11-14T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-14T14:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "cirko",
@@ -6035,13 +5818,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/andetag-16-11/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-17T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
@@ -6054,13 +5830,6 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-11-19T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-19T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "hkt",
@@ -6089,13 +5858,6 @@ window.SCRAPED_EVENTS = [
     "title": "no-no",
     "start_time": "2026-11-19T19:30:00+02:00",
     "url": "https://hkt.fi/esitykset/no-no-2/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-20T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "hkt",
@@ -6145,13 +5907,6 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-11-21T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-21T14:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "hkt",
@@ -6238,13 +5993,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-25T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kurtturuusut",
@@ -6264,13 +6012,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kurtturuusut",
     "start_time": "2026-11-26T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-26T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "hkt",
@@ -6299,13 +6040,6 @@ window.SCRAPED_EVENTS = [
     "title": "Pelle Svanslös",
     "start_time": "2026-11-26T19:00:00+02:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/pelle-svanslos/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-27T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "hkt",
@@ -6355,13 +6089,6 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-11-28T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-28T14:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "hkt",
@@ -6425,13 +6152,6 @@ window.SCRAPED_EVENTS = [
     "title": "Seniorisoppa joulukonsertti",
     "start_time": "2026-12-01T14:00:00+02:00",
     "url": "https://hkt.fi/esitykset/seniorisoppa-joulukonsertti/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-12-01T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -6512,13 +6232,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-12-04T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
@@ -6559,13 +6272,6 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-12-05T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-12-05T14:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "hkt",
@@ -6617,13 +6323,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/no-no-2/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-12-08T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kurtturuusut",
@@ -6645,13 +6344,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-12-09T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kurtturuusut",
@@ -6671,13 +6363,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kettutytön paluu",
     "start_time": "2026-12-09T19:00:00+02:00",
     "url": "https://universum.fi/events/kettutyton-paluu-9-12/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-12-10T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "hkt",
@@ -6706,13 +6391,6 @@ window.SCRAPED_EVENTS = [
     "title": "ALL WOMEN STORY SHARING CAFE",
     "start_time": "2026-12-10T19:00:00+02:00",
     "url": "https://universum.fi/events/all-women-story-sharing-cafe-10-12/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-12-11T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "hkt",
