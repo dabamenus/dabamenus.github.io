@@ -1012,16 +1012,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
-    "title": "Kulturbärarna",
+    "title": "Onko täällä kuuma?",
     "start_time": "2026-05-06T19:00:00+03:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/kulturbararna/"
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/onko-taalla-kuuma/"
   },
   {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
-    "title": "Onko täällä kuuma?",
+    "title": "Kulturbärarna",
     "start_time": "2026-05-06T19:00:00+03:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/onko-taalla-kuuma/"
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/kulturbararna/"
   },
   {
     "venue": "universum",
