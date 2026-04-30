@@ -657,88 +657,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/to-be-brutally-honest-2-0/"
   },
   {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Puhutaan Richardista",
-    "start_time": "2026-04-28T19:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
-  },
-  {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "Vinterkvällar 28.4 kl 16",
-    "start_time": "2026-04-28T19:00:00+03:00",
-    "url": "https://universum.fi/events/vinterkvallar-28-4-kl-16/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "to be brutally honest 2.0",
     "start_time": "2026-04-29T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/to-be-brutally-honest-2-0/"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
-    "start_time": "2026-04-29T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Vanja",
-    "start_time": "2026-04-29T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/vanja"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Nämä juhlat jatkuvat vielä",
-    "start_time": "2026-04-29T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
-    "start_time": "2026-04-29T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Lady T",
-    "start_time": "2026-04-29T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lady-t"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Antigone",
-    "start_time": "2026-04-29T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/antigone/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Somatic Sitcom",
-    "start_time": "2026-04-29T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/somatic-sitcom/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Komedia pankkiryöstöstä",
-    "start_time": "2026-04-29T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/komedia-pankkiryostosta/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kiviä taskussa",
-    "start_time": "2026-04-29T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
     "venue": "takomo",
@@ -767,20 +690,6 @@ window.SCRAPED_EVENTS = [
     "title": "Laulujoutsen",
     "start_time": "2026-04-29T19:00:00+03:00",
     "url": "https://universum.fi/events/laulujoutsen-29-4/"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Carl Knif Company: Matching Steps",
-    "start_time": "2026-04-29T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/carl-knif-company-matching-steps"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Tanssin päivän lavatanssit",
-    "start_time": "2026-04-29T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/tanssin-päivän-lavatanssit"
   },
   {
     "venue": "stoa",
