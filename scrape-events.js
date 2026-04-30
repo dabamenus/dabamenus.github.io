@@ -347,13 +347,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
-    "title": "Kirjoittajakoulun haku",
-    "start_time": "2026-03-01T12:40:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/kirjoittajakoulun-haku"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
     "title": "Tietokirjoittajakoulun haku",
     "start_time": "2026-03-01T12:40:00+02:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/tietokirjoittajakoulun-haku"
