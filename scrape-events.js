@@ -657,83 +657,12 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/to-be-brutally-honest-2-0/"
   },
   {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Puhutaan Richardista",
-    "start_time": "2026-04-29T19:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
-  },
-  {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Onko täällä kuuma?",
-    "start_time": "2026-04-29T19:00:00+03:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/onko-taalla-kuuma/"
-  },
-  {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "Bravotoga",
-    "start_time": "2026-04-29T19:00:00+03:00",
-    "url": "https://universum.fi/events/bravotoga-29-4/"
-  },
-  {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "Laulujoutsen",
-    "start_time": "2026-04-29T19:00:00+03:00",
-    "url": "https://universum.fi/events/laulujoutsen-29-4/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Luukas Rajamäki: Porttitaide",
     "start_time": "2026-04-30T00:00:00+03:00",
     "end_time": "2026-05-31T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/6ABB580085D6BB5179773DCD0A640DB2/luukas-rajam-ki-porttitaide"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Stoan Vapputanssit: Amadeus Lundberg",
-    "start_time": "2026-04-30T00:00:00+03:00",
-    "end_time": "2026-04-30T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/stoan-vapputanssit-amadeus-lundberg"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Jotuni",
-    "start_time": "2026-04-30T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/jotuni"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Täällä Pohjantähden alla",
-    "start_time": "2026-04-30T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taalla-pohjantahden-alla"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-04-30T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Komedia pankkiryöstöstä",
-    "start_time": "2026-04-30T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/komedia-pankkiryostosta/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Hildur",
-    "start_time": "2026-04-30T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/hildur/"
   },
   {
     "venue": "takomo",
@@ -6853,5 +6782,12 @@ window.SCRAPED_EVENTS = [
     "title": "Laulujoutsen",
     "start_time": "2027-04-20T19:00:00+03:00",
     "url": "https://universum.fi/events/laulujoutsen-20-4/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Laulujoutsen",
+    "start_time": "2027-04-23T19:00:00+03:00",
+    "url": "https://universum.fi/events/laulujoutsen-23-4/"
   }
 ];
