@@ -442,7 +442,7 @@ window.SCRAPED_EVENTS = [
     "title": "Alrsumi, Parkkinen, Suomi: Alkumaisema",
     "start_time": "2026-03-27T00:00:00+02:00",
     "end_time": "2026-05-03T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/FCC893EED5CD5189986500796102908D/alrsumi-parkkinen-suomi-alkumaisema"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/alrsumi-parkkinen-suomi-alkumaisema"
   },
   {
     "venue": "viirus",
