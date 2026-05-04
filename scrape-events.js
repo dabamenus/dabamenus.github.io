@@ -437,14 +437,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/versailles/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Alrsumi, Parkkinen, Suomi: Alkumaisema",
-    "start_time": "2026-03-27T00:00:00+02:00",
-    "end_time": "2026-05-03T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/alrsumi-parkkinen-suomi-alkumaisema"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Versailles",
@@ -1252,6 +1244,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kurtturuusut",
     "start_time": "2026-05-12T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/kurtturuusut/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Julkkarit: Paranoidi lukutapa ja reparatiivinen lukutapa",
+    "start_time": "2026-05-12T19:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/julkkarit-paranoidi-lukutapa-ja-reparatiivinen-lukutapa"
   },
   {
     "venue": "takomo",
@@ -6698,5 +6697,12 @@ window.SCRAPED_EVENTS = [
     "title": "Vinterkvällar",
     "start_time": "2027-04-25T19:00:00+03:00",
     "url": "https://universum.fi/events/vinterkvallar-25-4/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Vinterkvällar",
+    "start_time": "2027-04-26T19:00:00+03:00",
+    "url": "https://universum.fi/events/vinterkvallar-26-4/"
   }
 ];
