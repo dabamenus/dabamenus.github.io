@@ -742,6 +742,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/onko-taalla-kuuma/"
   },
   {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Tanssikoulu DCA: Kevätnäytökset 2026",
+    "start_time": "2026-05-05T19:00:00+03:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/tanssikoulu-dca-kevatnaytokset-2025"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Keskiviikon kulissikierros",
@@ -2428,6 +2435,14 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-06-12T00:00:00+03:00",
     "end_time": "2026-08-30T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F2E50462006DF628DE768041D5EE7228/luontosuhteita"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Helsinki-päivä Stoassa",
+    "start_time": "2026-06-12T00:00:00+03:00",
+    "end_time": "2026-06-12T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/7410FE6427C79B67F43EBDE51AD2941F/helsinki-p-iv-stoassa"
   },
   {
     "venue": "caisa",
