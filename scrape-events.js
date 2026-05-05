@@ -674,55 +674,6 @@ window.SCRAPED_EVENTS = [
     "venue": "takomo",
     "venue_label": "Teatteri Takomo",
     "title": "Puhutaan Richardista",
-    "start_time": "2026-05-03T14:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
-  },
-  {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "Laulujoutsen",
-    "start_time": "2026-05-03T19:00:00+03:00",
-    "url": "https://universum.fi/events/laulujoutsen-3-5/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Muistopäivä",
-    "start_time": "2026-05-04T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
-    "start_time": "2026-05-04T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Lady T",
-    "start_time": "2026-05-04T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lady-t"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Antigone",
-    "start_time": "2026-05-04T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/antigone/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kiviä taskussa",
-    "start_time": "2026-05-04T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
-  },
-  {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Puhutaan Richardista",
     "start_time": "2026-05-04T19:00:00+03:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
   },
@@ -782,6 +733,13 @@ window.SCRAPED_EVENTS = [
     "title": "Hildur",
     "start_time": "2026-05-05T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/hildur/"
+  },
+  {
+    "venue": "svenska",
+    "venue_label": "Svenska Teatern",
+    "title": "Onko täällä kuuma?",
+    "start_time": "2026-05-05T19:00:00+03:00",
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/onko-taalla-kuuma/"
   },
   {
     "venue": "hkt",
@@ -2143,6 +2101,14 @@ window.SCRAPED_EVENTS = [
     "title": "CSSADANCE: Encounter",
     "start_time": "2026-05-30T19:00:00+03:00",
     "url": "https://www.tanssintalo.fi/ohjelma/cssadance-encounter"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Stoan kesäbasaari",
+    "start_time": "2026-05-31T00:00:00+03:00",
+    "end_time": "2026-05-31T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/8D91A9A4744DB55B2C0FA71F865891E4/stoan-kes-basaari"
   },
   {
     "venue": "kansallisteatteri",
@@ -6704,5 +6670,19 @@ window.SCRAPED_EVENTS = [
     "title": "Vinterkvällar",
     "start_time": "2027-04-26T19:00:00+03:00",
     "url": "https://universum.fi/events/vinterkvallar-26-4/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Vinterkvällar",
+    "start_time": "2027-04-27T19:00:00+03:00",
+    "url": "https://universum.fi/events/vinterkvallar-27-4/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Laulujoutsen",
+    "start_time": "2027-04-27T19:00:00+03:00",
+    "url": "https://universum.fi/events/laulujoutsen-27-4/"
   }
 ];
