@@ -612,27 +612,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/versailles/"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Tanssi ja leikki",
-    "start_time": "2026-04-27T00:00:00+03:00",
-    "end_time": "2026-05-25T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/955001E3E341352D22B3996DDBEB66B6/tanssi-ja-leikki"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Versailles",
     "start_time": "2026-04-27T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-04-28T00:00:00+03:00",
-    "end_time": "2026-05-26T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/E6F30ED2D6DA4534B02069DB32A1CAEB/taidetta-taaperoille"
   },
   {
     "venue": "viirus",
@@ -733,13 +717,6 @@ window.SCRAPED_EVENTS = [
     "title": "Hildur",
     "start_time": "2026-05-05T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/hildur/"
-  },
-  {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Onko täällä kuuma?",
-    "start_time": "2026-05-05T19:00:00+03:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/onko-taalla-kuuma/"
   },
   {
     "venue": "tanssintalo",
@@ -1134,6 +1111,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tanssintalo.fi/ohjelma/helsingin-nuorisopalveluiden-tanssitoiminta-kevätnäytös-2026"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Tanssi ja leikki",
+    "start_time": "2026-05-11T00:00:00+03:00",
+    "end_time": "2026-05-25T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/955001E3E341352D22B3996DDBEB66B6/tanssi-ja-leikki"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Ashla: Underdogs",
@@ -1167,6 +1152,14 @@ window.SCRAPED_EVENTS = [
     "title": "Puhutaan Richardista",
     "start_time": "2026-05-11T19:00:00+03:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2026-05-12T00:00:00+03:00",
+    "end_time": "2026-05-26T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/E6F30ED2D6DA4534B02069DB32A1CAEB/taidetta-taaperoille"
   },
   {
     "venue": "viirus",
@@ -2179,6 +2172,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F37EF508EEA60FB8BB0810D8928587B3/blood-berries-justice-for-thai-berry-pickers"
   },
   {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "URB 26 Stoa, URB 26 festivaali, 3.-7.6.",
+    "start_time": "2026-06-03T00:00:00+03:00",
+    "end_time": "2026-06-03T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/3C2E4A2FCEE2A6DCE08C955950A84D68/urb-26-stoa-urb-26-festivaali-3-7-6"
+  },
+  {
     "venue": "kiasma",
     "venue_label": "Kiasma",
     "title": "Sonya Lindfors: common moves revisited",
@@ -2223,10 +2224,26 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
+    "title": "URB 26 Stoa, URB 26 festivaali, 3.-7.6.",
+    "start_time": "2026-06-05T00:00:00+03:00",
+    "end_time": "2026-06-05T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/DB7EB101B4557BB13471E971FDC4F815/urb-26-stoa-urb-26-festivaali-3-7-6"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
     "title": "PORTTITEATTERI: JÄLJET – Dokumentaarinen esitys kehojemme muistista",
     "start_time": "2026-06-05T00:00:00+03:00",
     "end_time": "2026-06-05T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/AC63DBF6A6F8110B4F5466AA555A0BB9/porttiteatteri-j-ljet-dokumentaarinen-esitys-kehojemme-muistista"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "URB 26: World Canvas esittää",
+    "start_time": "2026-06-05T00:00:00+03:00",
+    "end_time": "2026-06-05T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/E448E124235B35866193B05F735BADA1/urb-26-world-canvas-esitt"
   },
   {
     "venue": "zodiak",
