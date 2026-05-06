@@ -952,6 +952,13 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
+    "title": "Fandango x Tekstin Taco",
+    "start_time": "2026-05-09T15:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/fandango-x-tekstin-taco-0905"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
     "title": "HPC:n Lavarunotyöpaja 2",
     "start_time": "2026-05-09T16:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/hpc-n-lavarunotyopaja-2"
@@ -1634,6 +1641,13 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
+    "title": "Värt att veta",
+    "start_time": "2026-05-21T14:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/vart-att-veta-1"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
     "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
     "start_time": "2026-05-21T14:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-2105"
@@ -1899,6 +1913,13 @@ window.SCRAPED_EVENTS = [
     "title": "Draama jatkuu Hietaniemessä",
     "start_time": "2026-05-27T17:00:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/draama-jatkuu-hietaniemessa-0"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Mustekalan pulputuksia: Aktivismi ja taide",
+    "start_time": "2026-05-27T19:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/mustekalan-pulputuksia-aktivismi-ja-taide"
   },
   {
     "venue": "tanssintalo",
