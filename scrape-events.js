@@ -670,13 +670,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tanssintalo.fi/ohjelma/tanssikoulu-dca-kevatnaytokset-2025"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Keskiviikon kulissikierros",
-    "start_time": "2026-05-06T16:30:00+03:00",
-    "url": ""
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Ashla: Underdogs",
