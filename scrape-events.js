@@ -712,13 +712,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Hildur",
-    "start_time": "2026-05-06T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/hildur/"
-  },
-  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Onko täällä kuuma?",
@@ -2816,6 +2809,14 @@ window.SCRAPED_EVENTS = [
     "title": "Birds of Paradise",
     "start_time": "2026-08-17T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/birds-of-paradise/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Marja Rautakorpi & Adelante: Criaturas",
+    "start_time": "2026-08-18T00:00:00+03:00",
+    "end_time": "2026-08-18T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/6A54D926360A4D5DABA41459420267B0/marja-rautakorpi-adelante-criaturas"
   },
   {
     "venue": "ryhmateatteri",
