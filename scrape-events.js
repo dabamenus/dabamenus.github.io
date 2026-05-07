@@ -663,13 +663,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/17449BAAD2C1158A38ABB569A60AB363/leijuu-unelmia-ja-utopioita-helsingin-kuvataidelukio-100-vuotta"
   },
   {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Tanssikoulu DCA: Kevätnäytökset 2026",
-    "start_time": "2026-05-05T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/tanssikoulu-dca-kevatnaytokset-2025"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Ashla: Underdogs",
@@ -677,46 +670,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/ashla-underdogs/"
   },
   {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
-    "start_time": "2026-05-06T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Nämä juhlat jatkuvat vielä",
-    "start_time": "2026-05-06T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
-    "start_time": "2026-05-06T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-05-06T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Onko täällä kuuma?",
     "start_time": "2026-05-06T19:00:00+03:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/onko-taalla-kuuma/"
-  },
-  {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Kulturbärarna",
-    "start_time": "2026-05-06T19:00:00+03:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/kulturbararna/"
   },
   {
     "venue": "universum",
@@ -2045,6 +2003,13 @@ window.SCRAPED_EVENTS = [
     "title": "Alexandra Mitiku: for every home, a stone",
     "start_time": "2026-05-30T15:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/alexandra-mitiku-for-every-home-a-stone3"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "(LA)HORDE / Ballet national de Marseille: Age of Content",
+    "start_time": "2026-05-30T19:00:00+03:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/lahorde-ballet-national-de-marseille-age-of-content"
   },
   {
     "venue": "tanssintalo",
@@ -7312,5 +7277,19 @@ window.SCRAPED_EVENTS = [
     "title": "Vinterkvällar 28.4 kl 16",
     "start_time": "2027-04-28T19:00:00+03:00",
     "url": "https://universum.fi/events/vinterkvallar-28-4-kl-16/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Bravotoga",
+    "start_time": "2027-04-29T19:00:00+03:00",
+    "url": "https://universum.fi/events/bravotoga-29-4/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Laulujoutsen",
+    "start_time": "2027-04-29T19:00:00+03:00",
+    "url": "https://universum.fi/events/laulujoutsen-29-4/"
   }
 ];
