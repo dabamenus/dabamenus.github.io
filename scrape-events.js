@@ -689,7 +689,7 @@ window.SCRAPED_EVENTS = [
     "title": "Eye Dance International: Depths and Horizons -aistiesitys",
     "start_time": "2026-05-07T00:00:00+03:00",
     "end_time": "2026-05-07T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/EF55A1DD0E44991F4B2D37A79F6364E3/eye-dance-international-depths-and-horizons-aistiesitys"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/eye-dance-international-depths-and-horizons-aistiesitys"
   },
   {
     "venue": "kansallisteatteri",
