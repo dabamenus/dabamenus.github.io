@@ -670,89 +670,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/ashla-underdogs/"
   },
   {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Onko täällä kuuma?",
-    "start_time": "2026-05-06T19:00:00+03:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/onko-taalla-kuuma/"
-  },
-  {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "Laulujoutsen",
-    "start_time": "2026-05-06T19:00:00+03:00",
-    "url": "https://universum.fi/events/laulujoutsen-6-5/"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Eye Dance International: Depths and Horizons -aistiesitys",
-    "start_time": "2026-05-07T00:00:00+03:00",
-    "end_time": "2026-05-07T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/eye-dance-international-depths-and-horizons-aistiesitys"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Täällä Pohjantähden alla",
-    "start_time": "2026-05-07T12:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taalla-pohjantahden-alla"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-05-07T13:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Ashla: Underdogs",
     "start_time": "2026-05-07T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/ashla-underdogs/"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "PETER ASUI TALOSSA – delfiini pisteestä pisteeseen",
-    "start_time": "2026-05-07T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/peter-asui-talossa/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Pelastaja",
-    "start_time": "2026-05-07T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/pelastaja"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Nämä juhlat jatkuvat vielä",
-    "start_time": "2026-05-07T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Somatic Sitcom",
-    "start_time": "2026-05-07T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/somatic-sitcom/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Hildur",
-    "start_time": "2026-05-07T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/hildur/"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Tanssikoulu DCA: Kevätnäytökset 2026",
-    "start_time": "2026-05-07T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/tanssikoulu-dca-kevatnaytokset-2025"
   },
   {
     "venue": "stoa",
@@ -834,13 +756,6 @@ window.SCRAPED_EVENTS = [
     "title": "Laulujoutsen",
     "start_time": "2026-05-08T19:00:00+03:00",
     "url": "https://universum.fi/events/laulujoutsen-8-5/"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Tanssikoulu DCA: Kevätnäytökset 2026",
-    "start_time": "2026-05-08T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/tanssikoulu-dca-kevatnaytokset-2025"
   },
   {
     "venue": "tanssintalo",
@@ -952,13 +867,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "tanssintalo",
     "venue_label": "Tanssin Talo",
-    "title": "Tanssikoulu DCA: Kevätnäytökset 2026",
-    "start_time": "2026-05-09T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/tanssikoulu-dca-kevatnaytokset-2025"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
     "title": "Tamara Rasmussen opisto & Jazz-Point: Tanssia ikä kaikki",
     "start_time": "2026-05-09T19:00:00+03:00",
     "url": "https://www.tanssintalo.fi/ohjelma/jazz-point-tro"
@@ -969,13 +877,6 @@ window.SCRAPED_EVENTS = [
     "title": "Show of the Year",
     "start_time": "2026-05-09T19:00:00+03:00",
     "url": "https://www.tanssintalo.fi/ohjelma/show-of-the-year-3"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Tanssikoulu DCA: Kevätnäytökset 2026",
-    "start_time": "2026-05-10T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/tanssikoulu-dca-kevatnaytokset-2025"
   },
   {
     "venue": "tanssintalo",
@@ -2195,7 +2096,7 @@ window.SCRAPED_EVENTS = [
     "title": "Flow Mo Crew 24th Anniversary",
     "start_time": "2026-06-06T00:00:00+03:00",
     "end_time": "2026-06-06T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0265B8B140E30D9B044205EB549B3BA9/flow-mo-crew-24th-anniversary"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/95631A4DDF72146A437985469B972EEF/flow-mo-crew-24th-anniversary"
   },
   {
     "venue": "stoa",
@@ -7284,5 +7185,12 @@ window.SCRAPED_EVENTS = [
     "title": "Laulujoutsen",
     "start_time": "2027-04-29T19:00:00+03:00",
     "url": "https://universum.fi/events/laulujoutsen-29-4/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Bravotoga",
+    "start_time": "2027-04-30T19:00:00+03:00",
+    "url": "https://universum.fi/events/bravotoga-30-4/"
   }
 ];
