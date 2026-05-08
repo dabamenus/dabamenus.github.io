@@ -690,7 +690,7 @@ window.SCRAPED_EVENTS = [
     "title": "Playground Co.: Paperia",
     "start_time": "2026-05-08T00:00:00+03:00",
     "end_time": "2026-05-08T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/A23BF19945D9A8094C2CA8570A5B9B4B/playground-co-paperia"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/playground-co-paperia"
   },
   {
     "venue": "stoa",
