@@ -2592,6 +2592,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/birds-of-paradise/"
   },
   {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Skeittipaku Stoan aukio",
+    "start_time": "2026-08-12T00:00:00+03:00",
+    "end_time": "2026-08-12T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/7444BA62FEBBCE82C005A9D24EA9A0E6/skeittipaku-stoan-aukio"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Missä kuljimme kerran",
@@ -2711,6 +2719,14 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-08-18T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Skeittipaku Stoan aukio",
+    "start_time": "2026-08-19T00:00:00+03:00",
+    "end_time": "2026-08-19T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/E95F792CA0D49D07FBBE1C99994AB303/skeittipaku-stoan-aukio"
   },
   {
     "venue": "ryhmateatteri",
