@@ -757,13 +757,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/fandango-x-tekstin-taco-0905"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "HPC:n Lavarunotyöpaja 2",
-    "start_time": "2026-05-09T16:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/hpc-n-lavarunotyopaja-2"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Ashla: Underdogs",
