@@ -711,7 +711,7 @@ window.SCRAPED_EVENTS = [
     "title": "Stoan laulupäivä",
     "start_time": "2026-05-09T00:00:00+03:00",
     "end_time": "2026-05-09T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/79C347F3AD6050633BB7C7B1FC88F809/stoan-laulup-iv"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/stoan-laulup-iv"
   },
   {
     "venue": "caisa",
@@ -719,7 +719,7 @@ window.SCRAPED_EVENTS = [
     "title": "Eye Dance International: Depths and Horizons -aistiesitys",
     "start_time": "2026-05-09T00:00:00+03:00",
     "end_time": "2026-05-09T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/8F6FDEFD60F1E7104325F0761ED5990F/eye-dance-international-depths-and-horizons-aistiesitys"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/eye-dance-international-depths-and-horizons-aistiesitys"
   },
   {
     "venue": "kansallisteatteri",
