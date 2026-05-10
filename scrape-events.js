@@ -1662,6 +1662,13 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "tanssintalo",
     "venue_label": "Tanssin Talo",
+    "title": "Age of Content: lavastekierros",
+    "start_time": "2026-05-28T19:00:00+03:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/age-of-content-lavastekierros"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
     "title": "Ballet National de Marseille: TikTok Jazz -työpaja",
     "start_time": "2026-05-28T19:00:00+03:00",
     "url": "https://www.tanssintalo.fi/ohjelma/bndm-tyopaja-2"
