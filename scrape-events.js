@@ -695,66 +695,8 @@ window.SCRAPED_EVENTS = [
     "venue": "takomo",
     "venue_label": "Teatteri Takomo",
     "title": "Puhutaan Richardista",
-    "start_time": "2026-05-08T19:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
-  },
-  {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "Laulujoutsen",
-    "start_time": "2026-05-08T19:00:00+03:00",
-    "url": "https://universum.fi/events/laulujoutsen-8-5/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Stoan laulupäivä",
-    "start_time": "2026-05-09T00:00:00+03:00",
-    "end_time": "2026-05-09T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/stoan-laulup-iv"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Eye Dance International: Depths and Horizons -aistiesitys",
-    "start_time": "2026-05-09T00:00:00+03:00",
-    "end_time": "2026-05-09T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/eye-dance-international-depths-and-horizons-aistiesitys"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Täällä Pohjantähden alla",
-    "start_time": "2026-05-09T12:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taalla-pohjantahden-alla"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Nämä juhlat jatkuvat vielä",
-    "start_time": "2026-05-09T13:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Hildur",
-    "start_time": "2026-05-09T13:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/hildur/"
-  },
-  {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Puhutaan Richardista",
     "start_time": "2026-05-09T14:00:00+03:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Fandango x Tekstin Taco",
-    "start_time": "2026-05-09T15:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/fandango-x-tekstin-taco-0905"
   },
   {
     "venue": "viirus",
@@ -762,55 +704,6 @@ window.SCRAPED_EVENTS = [
     "title": "Ashla: Underdogs",
     "start_time": "2026-05-09T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/ashla-underdogs/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Kolme harjoitelmaa sodan ja rakkauden vuosilta",
-    "start_time": "2026-05-09T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/kolme-harjoitelmaa-sodan-ja-rakkauden-vuosilta"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
-    "start_time": "2026-05-09T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Antigone",
-    "start_time": "2026-05-09T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/antigone/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Somatic Sitcom",
-    "start_time": "2026-05-09T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/somatic-sitcom/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Hildur",
-    "start_time": "2026-05-09T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/hildur/"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Show of the Year",
-    "start_time": "2026-05-09T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/show-of-the-year-3"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Show of the Year",
-    "start_time": "2026-05-10T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/show-of-the-year-3"
   },
   {
     "venue": "tanssintalo",
@@ -1685,6 +1578,13 @@ window.SCRAPED_EVENTS = [
     "title": "Mustekalan pulputuksia: Aktivismi ja taide",
     "start_time": "2026-05-27T19:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/mustekalan-pulputuksia-aktivismi-ja-taide"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "Ballet National de Marseille: työpaja ammattilaisille",
+    "start_time": "2026-05-27T19:00:00+03:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/bnm-tyopaja"
   },
   {
     "venue": "tanssintalo",
