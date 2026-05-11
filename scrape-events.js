@@ -1270,10 +1270,10 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "caisa",
     "venue_label": "Caisa",
-    "title": "SURULLINEN TYTTÖ",
+    "title": "SURULLINEN TYTTÖ ENSI-ILTA",
     "start_time": "2026-05-21T00:00:00+03:00",
     "end_time": "2026-05-21T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/79462A1E557BC7A32091BE74A151B7E1/surullinen-tytt"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/79462A1E557BC7A32091BE74A151B7E1/surullinen-tytt-ensi-ilta"
   },
   {
     "venue": "tekstintalo",
@@ -1334,10 +1334,10 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "caisa",
     "venue_label": "Caisa",
-    "title": "SURULLINEN TYTTÖ",
+    "title": "SURULLINEN TYTTÖ ENSI-ILTA",
     "start_time": "2026-05-22T00:00:00+03:00",
     "end_time": "2026-05-22T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/32844C9425B8CE2C3CA8A55C1CC2FEEA/surullinen-tytt"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/32844C9425B8CE2C3CA8A55C1CC2FEEA/surullinen-tytt-ensi-ilta"
   },
   {
     "venue": "zodiak",
@@ -1371,10 +1371,10 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "caisa",
     "venue_label": "Caisa",
-    "title": "SURULLINEN TYTTÖ",
+    "title": "SURULLINEN TYTTÖ ENSI-ILTA",
     "start_time": "2026-05-23T00:00:00+03:00",
     "end_time": "2026-05-23T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/FB8D012931177A213273E2DC5756A8CF/surullinen-tytt"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/FB8D012931177A213273E2DC5756A8CF/surullinen-tytt-ensi-ilta"
   },
   {
     "venue": "zodiak",
@@ -1435,10 +1435,10 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "caisa",
     "venue_label": "Caisa",
-    "title": "SURULLINEN TYTTÖ",
+    "title": "SURULLINEN TYTTÖ ENSI-ILTA",
     "start_time": "2026-05-24T00:00:00+03:00",
     "end_time": "2026-05-24T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/49EB66E93B06F5BEBDFCA5593999EFAC/surullinen-tytt"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/49EB66E93B06F5BEBDFCA5593999EFAC/surullinen-tytt-ensi-ilta"
   },
   {
     "venue": "kansallisteatteri",
