@@ -764,13 +764,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Julkkarit: Paranoidi lukutapa ja reparatiivinen lukutapa",
-    "start_time": "2026-05-12T19:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/julkkarit-paranoidi-lukutapa-ja-reparatiivinen-lukutapa"
-  },
-  {
     "venue": "takomo",
     "venue_label": "Teatteri Takomo",
     "title": "Puhutaan Richardista",
