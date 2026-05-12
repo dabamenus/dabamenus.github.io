@@ -271,7 +271,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "Teatteri Jurkka",
     "title": "Myrsky",
     "start_time": "2026-02-04T19:00:00+02:00",
-    "end_time": "2026-05-16T23:59:00+03:00",
+    "end_time": "2027-05-29T23:59:00+03:00",
     "url": "https://www.jurkka.fi/class/myrsky/"
   },
   {
@@ -712,27 +712,6 @@ window.SCRAPED_EVENTS = [
     "title": "Ashla: Underdogs",
     "start_time": "2026-05-11T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/ashla-underdogs/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Eevan ilta: Äidit ja tyttäret",
-    "start_time": "2026-05-11T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/eevan-ilta-aidit-ja-tyttaret"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Timo Tuominen: Brel – Trubaduuri",
-    "start_time": "2026-05-11T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/timo-tuominen-brel-trubaduuri"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kiviä taskussa",
-    "start_time": "2026-05-11T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
     "venue": "takomo",
@@ -2752,6 +2731,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
+    "venue": "svenska",
+    "venue_label": "Svenska Teatern",
+    "title": "På besök hos småkrypen– Vierailulla ötököiden maailmassa",
+    "start_time": "2026-09-02T19:00:00+03:00",
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/pa-besok-hos-smakrypen/"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
@@ -3296,6 +3282,13 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-09-19T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "svenska",
+    "venue_label": "Svenska Teatern",
+    "title": "På besök hos småkrypen– Vierailulla ötököiden maailmassa",
+    "start_time": "2026-09-19T19:00:00+03:00",
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/pa-besok-hos-smakrypen/"
   },
   {
     "venue": "hkt",
@@ -7238,5 +7231,12 @@ window.SCRAPED_EVENTS = [
     "title": "Laulujoutsen",
     "start_time": "2027-05-03T19:00:00+03:00",
     "url": "https://universum.fi/events/laulujoutsen-3-5/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Puhutaan Richardista",
+    "start_time": "2027-05-04T19:00:00+03:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
   }
 ];
