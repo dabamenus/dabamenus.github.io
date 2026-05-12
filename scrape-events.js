@@ -172,7 +172,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "Teatteri Jurkka",
     "title": "Väylä",
     "start_time": "2025-10-01T19:00:00+03:00",
-    "end_time": "2026-11-21T23:59:00+02:00",
+    "end_time": "2027-05-20T23:59:00+03:00",
     "url": "https://www.jurkka.fi/class/vayla/"
   },
   {
@@ -343,13 +343,6 @@ window.SCRAPED_EVENTS = [
     "title": "Sivuaskel 2026:Loppubileet",
     "start_time": "2026-02-07T19:30:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/sivuaskel-2026-loppubileet"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Tietokirjoittajakoulun haku",
-    "start_time": "2026-03-01T12:40:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/tietokirjoittajakoulun-haku"
   },
   {
     "venue": "zodiak",
@@ -877,11 +870,25 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/theoria"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Greenpeacen keskustelupaneeli: Our land, our future",
+    "start_time": "2026-05-15T16:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/greenpeacen-keskustelupaneeli-our-land-our-future"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Puija",
     "start_time": "2026-05-15T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/puija/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Penthouse-kollektiivi: Eteinen-julkkarit",
+    "start_time": "2026-05-15T18:30:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/penthouse-kollektiivi-eteinen-julkkarit"
   },
   {
     "venue": "kansallisteatteri",
@@ -945,6 +952,13 @@ window.SCRAPED_EVENTS = [
     "title": "Hanna Ahti,Kid Kokko:Theoria",
     "start_time": "2026-05-16T12:00:20+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/theoria"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Poesian kevätsiivojaiset",
+    "start_time": "2026-05-16T13:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/poesian-kevatsiivojaiset"
   },
   {
     "venue": "kansallisteatteri",
