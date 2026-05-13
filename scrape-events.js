@@ -734,7 +734,7 @@ window.SCRAPED_EVENTS = [
     "title": "Tanssin juhlaa – Helsingin Tanssikeskuksen kevätnäytös",
     "start_time": "2026-05-13T00:00:00+03:00",
     "end_time": "2026-05-13T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/111C5A3FA92935E079F573D8BE44F0A5/tanssin-juhlaa-helsingin-tanssikeskuksen-kev-tn-yt-s"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/tanssin-juhlaa-helsingin-tanssikeskuksen-kev-tn-yt-s"
   },
   {
     "venue": "zodiak",
@@ -784,13 +784,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kurtturuusut",
     "start_time": "2026-05-13T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Amos A",
-    "start_time": "2026-05-13T19:00:00+03:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/amos-a/"
   },
   {
     "venue": "takomo",
