@@ -707,13 +707,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/ashla-underdogs/"
   },
   {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Puhutaan Richardista",
-    "start_time": "2026-05-11T19:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Taidetta taaperoille",
@@ -727,41 +720,6 @@ window.SCRAPED_EVENTS = [
     "title": "Ashla: Underdogs",
     "start_time": "2026-05-12T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/ashla-underdogs/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Lapin Faarao",
-    "start_time": "2026-05-12T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lapin-faarao"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Leikin loppu",
-    "start_time": "2026-05-12T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/leikin-loppu"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Muistopäivä",
-    "start_time": "2026-05-12T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Hildur",
-    "start_time": "2026-05-12T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/hildur/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-05-12T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "takomo",
