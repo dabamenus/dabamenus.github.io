@@ -744,13 +744,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/theoria"
   },
   {
-    "venue": "kiasma",
-    "venue_label": "Kiasma",
-    "title": "Elle Sofe Company: Vástádus eana / The Answer is Land",
-    "start_time": "2026-05-13T18:00:00+03:00",
-    "url": "https://kiasma.fi/esitykset/elle-sofe-company-vastadus-eana-the-answer-is-land/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Muistopäivä",
