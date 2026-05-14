@@ -2,160 +2,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2022-10-21T19:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2022-10-26T19:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2022-10-27T19:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2023-02-15T19:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2023-02-16T19:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2024-03-15T19:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2024-03-19T19:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2024-03-21T19:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2024-03-22T19:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2024-03-27T19:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2024-03-28T19:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2024-04-05T19:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2024-04-06T14:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2024-04-10T19:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2024-04-12T14:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2024-04-13T19:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2024-04-16T14:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2024-04-17T19:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2024-04-24T19:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2024-04-26T19:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2024-04-29T19:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2024-04-30T19:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
     "title": "1984",
     "start_time": "2025-09-11T20:00:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/1984/"
@@ -401,75 +247,12 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/zodiak-laboratory-biret-haarla-pieski-ja-tyoryhma"
   },
   {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2026-03-20T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2026-03-25T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Taidetta taaperoille",
     "start_time": "2026-03-26T00:00:00+02:00",
     "end_time": "2026-05-28T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/3277AE8B4B918F5ABAB29911F6D9E856/taidetta-taaperoille"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2026-03-26T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2026-03-27T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2026-03-30T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2026-04-01T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2026-04-02T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2026-04-07T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2026-04-09T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
   },
   {
     "venue": "zodiak",
@@ -486,32 +269,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/ympyrat-jotka-kuvittelevat-olevansa-viivoja"
   },
   {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2026-04-11T13:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2026-04-13T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Laura Jantunen:ympyrät, jotka kuvittelevat olevansa viivoja",
     "start_time": "2026-04-14T16:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/ympyrat-jotka-kuvittelevat-olevansa-viivoja"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2026-04-14T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
   },
   {
     "venue": "zodiak",
@@ -528,32 +290,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/ympyrat-jotka-kuvittelevat-olevansa-viivoja"
   },
   {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2026-04-17T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Laura Jantunen:ympyrät, jotka kuvittelevat olevansa viivoja",
     "start_time": "2026-04-18T12:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/ympyrat-jotka-kuvittelevat-olevansa-viivoja"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2026-04-18T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2026-04-20T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
   },
   {
     "venue": "zodiak",
@@ -570,60 +311,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/ympyrat-jotka-kuvittelevat-olevansa-viivoja"
   },
   {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2026-04-22T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Laura Jantunen:ympyrät, jotka kuvittelevat olevansa viivoja",
     "start_time": "2026-04-23T16:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/ympyrat-jotka-kuvittelevat-olevansa-viivoja"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "to be brutally honest 2.0",
-    "start_time": "2026-04-23T19:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/to-be-brutally-honest-2-0/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2026-04-24T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2026-04-25T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Versailles",
-    "start_time": "2026-04-27T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/versailles/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "to be brutally honest 2.0",
-    "start_time": "2026-04-28T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/to-be-brutally-honest-2-0/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "to be brutally honest 2.0",
-    "start_time": "2026-04-29T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/to-be-brutally-honest-2-0/"
   },
   {
     "venue": "stoa",
@@ -632,20 +324,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-04-30T00:00:00+03:00",
     "end_time": "2026-05-31T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/6ABB580085D6BB5179773DCD0A640DB2/luukas-rajam-ki-porttitaide"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "to be brutally honest 2.0",
-    "start_time": "2026-05-02T15:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/to-be-brutally-honest-2-0/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "to be brutally honest 2.0",
-    "start_time": "2026-05-02T19:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/to-be-brutally-honest-2-0/"
   },
   {
     "venue": "caisa",
@@ -722,68 +400,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/ashla-underdogs/"
   },
   {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Puhutaan Richardista",
-    "start_time": "2026-05-12T19:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Tanssin juhlaa – Helsingin Tanssikeskuksen kevätnäytös",
-    "start_time": "2026-05-13T00:00:00+03:00",
-    "end_time": "2026-05-13T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/tanssin-juhlaa-helsingin-tanssikeskuksen-kev-tn-yt-s"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Hanna Ahti,Kid Kokko:Theoria",
     "start_time": "2026-05-13T16:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/theoria"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Muistopäivä",
-    "start_time": "2026-05-13T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
-    "start_time": "2026-05-13T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Hautakivi",
-    "start_time": "2026-05-13T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/hautakivi"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Leikin loppu",
-    "start_time": "2026-05-13T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/leikin-loppu"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Hildur",
-    "start_time": "2026-05-13T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/hildur/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-05-13T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "takomo",
@@ -7212,5 +6833,12 @@ window.SCRAPED_EVENTS = [
     "title": "Puhutaan Richardista",
     "start_time": "2027-05-04T19:00:00+03:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Laulujoutsen",
+    "start_time": "2027-05-06T19:00:00+03:00",
+    "url": "https://universum.fi/events/laulujoutsen-6-5/"
   }
 ];
