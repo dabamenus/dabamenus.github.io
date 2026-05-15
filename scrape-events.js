@@ -999,6 +999,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/draama-jatkuu-hietaniemessa-0"
   },
   {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Zodiak Laboratory:Ama Kyei ja työryhmä",
+    "start_time": "2026-05-25T14:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/zodiak-laboratory-ama-kyei-ja-tyoryhma"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "ONE DROP",
@@ -1155,13 +1162,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/draama-jatkuu-hietaniemessa-0"
   },
   {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Zodiak Laboratory:Ama Kyei ja työryhmä",
-    "start_time": "2026-05-28T14:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/zodiak-laboratory-ama-kyei-ja-tyoryhma"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Puija",
@@ -1218,13 +1218,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-05-29T00:00:00+03:00",
     "end_time": "2026-05-29T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/4ACBBC685D751D13B4BC0199E121B57E/ra-z"
-  },
-  {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Zodiak Laboratory:Ama Kyei ja työryhmä",
-    "start_time": "2026-05-29T14:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/zodiak-laboratory-ama-kyei-ja-tyoryhma"
   },
   {
     "venue": "zodiak",
