@@ -428,25 +428,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/theoria"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Greenpeacen keskustelupaneeli: Our land, our future",
-    "start_time": "2026-05-15T16:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/greenpeacen-keskustelupaneeli-our-land-our-future"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Puija",
     "start_time": "2026-05-15T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/puija/"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Penthouse-kollektiivi: Eteinen-julkkarit",
-    "start_time": "2026-05-15T18:30:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/penthouse-kollektiivi-eteinen-julkkarit"
   },
   {
     "venue": "kansallisteatteri",
@@ -1108,6 +1094,13 @@ window.SCRAPED_EVENTS = [
     "title": "Draama jatkuu Hietaniemessä",
     "start_time": "2026-05-27T17:00:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/draama-jatkuu-hietaniemessa-0"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Tuli & Savun Hämärä-klubi",
+    "start_time": "2026-05-27T17:30:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/tuli-savun-hamara-klubi"
   },
   {
     "venue": "tekstintalo",
@@ -2557,6 +2550,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://cirko.fi/esitys/helsinki-circus-festival-2/"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Olen X (verkkokurssitus 12.9.-12.12. 2026)",
+    "start_time": "2026-09-12T11:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/olen-x-verkkokurssitus-12-9-12-12-2026"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
@@ -3626,6 +3626,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kotijoukot",
     "start_time": "2026-10-09T19:00:00+03:00",
     "url": "https://hkt.fi/esitykset/kotijoukot/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Olen X (verkkokurssitus 12.9.-12.12. 2026)",
+    "start_time": "2026-10-10T11:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/olen-x-verkkokurssitus-12-9-12-12-2026-copy"
   },
   {
     "venue": "zodiak",
@@ -4993,6 +5000,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/iikka-kivi-protestinauru-stand-up-show/"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Olen X (verkkokurssitus 12.9.-12.12. 2026)",
+    "start_time": "2026-11-14T11:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/olen-x-verkkokurssitus-12-9-12-12-2026-copy3"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kurtturuusut",
@@ -6084,6 +6098,13 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-12-11T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Olen X (verkkokurssitus 12.9.-12.12. 2026)",
+    "start_time": "2026-12-12T11:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/olen-x-verkkokurssitus-12-9-12-12-2026-copy4"
   },
   {
     "venue": "kansallisteatteri",
