@@ -334,40 +334,12 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/17449BAAD2C1158A38ABB569A60AB363/leijuu-unelmia-ja-utopioita-helsingin-kuvataidelukio-100-vuotta"
   },
   {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Ashla: Underdogs",
-    "start_time": "2026-05-06T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/ashla-underdogs/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Ashla: Underdogs",
-    "start_time": "2026-05-07T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/ashla-underdogs/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Puhos – Itähelsinkiläisestä ostarista kulttuurien keitaaksi",
     "start_time": "2026-05-08T00:00:00+03:00",
     "end_time": "2026-06-07T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/D7027FC4306AFFFFDB99B52B88746965/puhos-it-helsinkil-isest-ostarista-kulttuurien-keitaaksi"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Ashla: Underdogs",
-    "start_time": "2026-05-08T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/ashla-underdogs/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Ashla: Underdogs",
-    "start_time": "2026-05-09T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/ashla-underdogs/"
   },
   {
     "venue": "caisa",
@@ -378,26 +350,12 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/955001E3E341352D22B3996DDBEB66B6/tanssi-ja-leikki"
   },
   {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Ashla: Underdogs",
-    "start_time": "2026-05-11T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/ashla-underdogs/"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Taidetta taaperoille",
     "start_time": "2026-05-12T00:00:00+03:00",
     "end_time": "2026-05-26T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/E6F30ED2D6DA4534B02069DB32A1CAEB/taidetta-taaperoille"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "Ashla: Underdogs",
-    "start_time": "2026-05-12T18:30:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/ashla-underdogs/"
   },
   {
     "venue": "zodiak",
