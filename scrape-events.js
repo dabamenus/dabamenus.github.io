@@ -407,13 +407,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/theoria"
   },
   {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Puhutaan Richardista",
-    "start_time": "2026-05-14T19:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Residenssidemo:Gaya de Medeiros",
@@ -433,48 +426,6 @@ window.SCRAPED_EVENTS = [
     "title": "Puija",
     "start_time": "2026-05-15T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/puija/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Leikin loppu",
-    "start_time": "2026-05-15T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/leikin-loppu"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Hautakivi",
-    "start_time": "2026-05-15T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/hautakivi"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Täällä Pohjantähden alla",
-    "start_time": "2026-05-15T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taalla-pohjantahden-alla"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Nämä juhlat jatkuvat vielä",
-    "start_time": "2026-05-15T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Hildur",
-    "start_time": "2026-05-15T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/hildur/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-05-15T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "tekstintalo",
@@ -6861,5 +6812,19 @@ window.SCRAPED_EVENTS = [
     "title": "Laulujoutsen",
     "start_time": "2027-05-06T19:00:00+03:00",
     "url": "https://universum.fi/events/laulujoutsen-6-5/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Puhutaan Richardista",
+    "start_time": "2027-05-08T19:00:00+03:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Laulujoutsen",
+    "start_time": "2027-05-08T19:00:00+03:00",
+    "url": "https://universum.fi/events/laulujoutsen-8-5/"
   }
 ];
