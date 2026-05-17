@@ -386,67 +386,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/puija/"
   },
   {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Humorlandskampen",
-    "start_time": "2026-05-15T19:00:00+03:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/humorlandskampen/"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Hanna Ahti,Kid Kokko:Theoria",
     "start_time": "2026-05-16T12:00:20+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/theoria"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Hautakivi",
-    "start_time": "2026-05-16T13:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/hautakivi"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Leikin loppu",
-    "start_time": "2026-05-16T13:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/leikin-loppu"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
-    "start_time": "2026-05-16T13:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Nämä juhlat jatkuvat vielä",
-    "start_time": "2026-05-16T13:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-05-16T13:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Lapin Faarao",
-    "start_time": "2026-05-16T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lapin-faarao"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-05-16T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "takomo",
@@ -468,13 +412,6 @@ window.SCRAPED_EVENTS = [
     "title": "Soili 16.5 klo 19",
     "start_time": "2026-05-16T19:00:00+03:00",
     "url": "https://universum.fi/events/soili-16-5-klo-19/"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Helsinki Music Week: MELO & HMW Finale",
-    "start_time": "2026-05-16T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/helsinki-music-week-2"
   },
   {
     "venue": "kansallisteatteri",
@@ -6770,5 +6707,12 @@ window.SCRAPED_EVENTS = [
     "title": "Laulujoutsen",
     "start_time": "2027-05-08T19:00:00+03:00",
     "url": "https://universum.fi/events/laulujoutsen-8-5/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Puhutaan Richardista",
+    "start_time": "2027-05-09T14:00:00+03:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
   }
 ];
