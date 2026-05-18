@@ -393,27 +393,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/theoria"
   },
   {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Puhutaan Richardista",
-    "start_time": "2026-05-16T19:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
-  },
-  {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Humorlandskampen",
-    "start_time": "2026-05-16T19:00:00+03:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/humorlandskampen/"
-  },
-  {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "Soili 16.5 klo 19",
-    "start_time": "2026-05-16T19:00:00+03:00",
-    "url": "https://universum.fi/events/soili-16-5-klo-19/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Draama jatkuu Hietaniemessä",
@@ -551,10 +530,10 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
-    "title": "Metsään laskeutumiset Karhukalliolla",
+    "title": "Metsään laskeutuminen Karhukalliolla",
     "start_time": "2026-05-20T00:00:00+03:00",
     "end_time": "2026-05-20T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/BBEB6C8F6F4892CF24572933C399810B/mets-n-laskeutumiset-karhukalliolla"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/BBEB6C8F6F4892CF24572933C399810B/mets-n-laskeutuminen-karhukalliolla"
   },
   {
     "venue": "stoa",
@@ -908,10 +887,10 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
-    "title": "Metsään laskeutumiset Karhukalliolla",
+    "title": "Metsään laskeutuminen Karhukalliolla",
     "start_time": "2026-05-27T00:00:00+03:00",
     "end_time": "2026-05-27T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0DFEAB0EA78C256294EA5E9C46151C92/mets-n-laskeutumiset-karhukalliolla"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0DFEAB0EA78C256294EA5E9C46151C92/mets-n-laskeutuminen-karhukalliolla"
   },
   {
     "venue": "zodiak",
