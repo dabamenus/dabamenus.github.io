@@ -609,6 +609,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/79462A1E557BC7A32091BE74A151B7E1/surullinen-tytt-ensi-ilta"
   },
   {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Zodiak Laboratory:Ama Kyei ja työryhmä",
+    "start_time": "2026-05-21T14:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/zodiak-laboratory-ama-kyei-ja-tyoryhma"
+  },
+  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Värt att veta",
