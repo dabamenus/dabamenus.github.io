@@ -344,14 +344,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "caisa",
     "venue_label": "Caisa",
-    "title": "Tanssi ja leikki",
-    "start_time": "2026-05-11T00:00:00+03:00",
-    "end_time": "2026-05-25T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/955001E3E341352D22B3996DDBEB66B6/tanssi-ja-leikki"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
     "title": "Taidetta taaperoille",
     "start_time": "2026-05-12T00:00:00+03:00",
     "end_time": "2026-05-26T23:59:00+03:00",
@@ -455,13 +447,6 @@ window.SCRAPED_EVENTS = [
     "title": "Hanna Ahti,Kid Kokko:Theoria",
     "start_time": "2026-05-19T16:00:32+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/theoria"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Esteetön kulissikierros",
-    "start_time": "2026-05-19T16:30:00+03:00",
-    "url": ""
   },
   {
     "venue": "cirko",
@@ -796,6 +781,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/draama-jatkuu-hietaniemessa-0"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Tanssi ja leikki",
+    "start_time": "2026-05-25T00:00:00+03:00",
+    "end_time": "2026-05-25T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/955001E3E341352D22B3996DDBEB66B6/tanssi-ja-leikki"
+  },
+  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Zodiak Laboratory:Ama Kyei ja työryhmä",
@@ -1107,10 +1100,10 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
-    "title": "Muodonmuutoksia eliökunnassa -taideleiri 10–12-vuotiaille",
+    "title": "Muodonmuutoksia eliökunnassa -taideleiri 9–12-vuotiaille",
     "start_time": "2026-06-01T00:00:00+03:00",
     "end_time": "2026-06-05T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/E651A2D53944AE93A65DCF0B0C6506BD/muodonmuutoksia-eli-kunnassa-taideleiri-10-12-vuotiaille"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/E651A2D53944AE93A65DCF0B0C6506BD/muodonmuutoksia-eli-kunnassa-taideleiri-9-12-vuotiaille"
   },
   {
     "venue": "caisa",
