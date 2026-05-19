@@ -404,7 +404,7 @@ window.SCRAPED_EVENTS = [
     "title": "BODIES OF WORK AND REST",
     "start_time": "2026-05-19T00:00:00+03:00",
     "end_time": "2026-05-19T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/BADC6BD1D2697C25C8F17CC7724FE79E/bodies-of-work-and-rest"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/bodies-of-work-and-rest"
   },
   {
     "venue": "zodiak",
