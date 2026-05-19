@@ -1225,6 +1225,14 @@
       .player .sliders input[type="range"] { height: 1px; }
       .player-volume { display: none; }
     }
+    /* PREVIEW: light purple tint on hero — revert with: git checkout index.html */
+    .entry-hero img,
+    .landing-hero-tail img,
+    .landing-hero-tail2 img,
+    .landing-hero-tail-m1 img,
+    .landing-hero-tail-m2 img {
+      filter: sepia(1) hue-rotate(230deg) saturate(0.8) brightness(1.05);
+    }
   </style>
 
   <!-- Structured Data: Person -->
