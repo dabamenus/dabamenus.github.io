@@ -433,7 +433,7 @@ window.SCRAPED_EVENTS = [
     "title": "Metsään laskeutuminen Karhukalliolla",
     "start_time": "2026-05-20T00:00:00+03:00",
     "end_time": "2026-05-20T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/BBEB6C8F6F4892CF24572933C399810B/mets-n-laskeutuminen-karhukalliolla"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/mets-n-laskeutuminen-karhukalliolla"
   },
   {
     "venue": "stoa",
@@ -464,13 +464,6 @@ window.SCRAPED_EVENTS = [
     "title": "Hanna Ahti,Kid Kokko:Theoria",
     "start_time": "2026-05-20T16:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/theoria"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Workshop: Demystification of Pertormance Poetry",
-    "start_time": "2026-05-20T16:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/workshop-pertormance-poetry"
   },
   {
     "venue": "cirko",
