@@ -1226,12 +1226,18 @@
       .player-volume { display: none; }
     }
     /* PREVIEW: light purple tint on hero — revert with: git checkout index.html */
-    .entry-hero img,
-    .landing-hero-tail img,
-    .landing-hero-tail2 img,
-    .landing-hero-tail-m1 img,
-    .landing-hero-tail-m2 img {
-      filter: sepia(1) hue-rotate(230deg) saturate(0.8) brightness(1.05);
+    .entry-hero::after,
+    .landing-hero-tail::after,
+    .landing-hero-tail2::after,
+    .landing-hero-tail-m1::after,
+    .landing-hero-tail-m2::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: rgba(195, 155, 255, 0.32);
+      mix-blend-mode: multiply;
+      pointer-events: none;
+      z-index: 1;
     }
     /* PREVIEW: slight purple tint on text */
     :root { --text: #5c5860; --muted: #5c5860; }
