@@ -385,28 +385,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/theoria"
   },
   {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "Soili 18.5 kl 14",
-    "start_time": "2026-05-18T19:00:00+03:00",
-    "url": "https://universum.fi/events/soili-18-5-kl-14/"
-  },
-  {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "Soili 18.5 kl 19",
-    "start_time": "2026-05-18T19:00:00+03:00",
-    "url": "https://universum.fi/events/soili-18-5-kl-19/"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "BODIES OF WORK AND REST",
-    "start_time": "2026-05-19T00:00:00+03:00",
-    "end_time": "2026-05-19T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/bodies-of-work-and-rest"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Hanna Ahti,Kid Kokko:Theoria",
@@ -428,34 +406,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/puija/"
   },
   {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Muistopäivä",
-    "start_time": "2026-05-19T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/muistopaiva"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Leikin loppu",
-    "start_time": "2026-05-19T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/leikin-loppu"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Täällä Pohjantähden alla",
-    "start_time": "2026-05-19T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taalla-pohjantahden-alla"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Hildur",
-    "start_time": "2026-05-19T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/hildur/"
-  },
-  {
     "venue": "takomo",
     "venue_label": "Teatteri Takomo",
     "title": "Puhutaan Richardista",
@@ -475,7 +425,7 @@ window.SCRAPED_EVENTS = [
     "title": "Metsään laskeutumiset Karhukalliolla (päiväkodeille)",
     "start_time": "2026-05-20T00:00:00+03:00",
     "end_time": "2026-05-20T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/9AA3E1F8FD0CAE867A87D554033F93F5/mets-n-laskeutumiset-karhukalliolla-p-iv-kodeille"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/mets-n-laskeutumiset-karhukalliolla-p-iv-kodeille"
   },
   {
     "venue": "stoa",
@@ -1273,6 +1223,14 @@ window.SCRAPED_EVENTS = [
     "title": "MG",
     "start_time": "2026-06-07T19:00:00+03:00",
     "url": "https://universum.fi/events/mg-7-6/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Stoan tekstiilisuunnittelun kesäkoulu",
+    "start_time": "2026-06-08T00:00:00+03:00",
+    "end_time": "2026-06-17T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/447E4B842CFEA25D63B5FB314B03A240/stoan-tekstiilisuunnittelun-kes-koulu"
   },
   {
     "venue": "stoa",
@@ -6685,6 +6643,13 @@ window.SCRAPED_EVENTS = [
     "venue_label": "Teatteri Takomo",
     "title": "Puhutaan Richardista",
     "start_time": "2027-05-11T19:00:00+03:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Puhutaan Richardista",
+    "start_time": "2027-05-12T19:00:00+03:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
   },
   {
