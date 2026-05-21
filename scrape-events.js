@@ -392,13 +392,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/theoria"
   },
   {
-    "venue": "cirko",
-    "venue_label": "Cirko",
-    "title": "People Watching: Play Dead",
-    "start_time": "2026-05-19T18:00:00+03:00",
-    "url": "https://cirko.fi/esitys/people-watching-play-dead-2/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Puija",
@@ -411,13 +404,6 @@ window.SCRAPED_EVENTS = [
     "title": "Hanna Ahti,Kid Kokko:Theoria",
     "start_time": "2026-05-20T16:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/theoria"
-  },
-  {
-    "venue": "cirko",
-    "venue_label": "Cirko",
-    "title": "People Watching: Play Dead",
-    "start_time": "2026-05-20T18:00:00+03:00",
-    "url": "https://cirko.fi/esitys/people-watching-play-dead-2/"
   },
   {
     "venue": "takomo",
@@ -440,7 +426,7 @@ window.SCRAPED_EVENTS = [
     "title": "SURULLINEN TYTTÖ",
     "start_time": "2026-05-21T00:00:00+03:00",
     "end_time": "2026-05-21T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/79462A1E557BC7A32091BE74A151B7E1/surullinen-tytt"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/surullinen-tytt"
   },
   {
     "venue": "zodiak",
@@ -455,13 +441,6 @@ window.SCRAPED_EVENTS = [
     "title": "Draama jatkuu Hietaniemessä",
     "start_time": "2026-05-21T17:00:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/draama-jatkuu-hietaniemessa-0"
-  },
-  {
-    "venue": "cirko",
-    "venue_label": "Cirko",
-    "title": "People Watching: Play Dead",
-    "start_time": "2026-05-21T18:00:00+03:00",
-    "url": "https://cirko.fi/esitys/people-watching-play-dead-2/"
   },
   {
     "venue": "viirus",
