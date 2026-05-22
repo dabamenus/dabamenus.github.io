@@ -406,29 +406,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/theoria"
   },
   {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Puhutaan Richardista",
-    "start_time": "2026-05-20T19:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Jussin metsäsadut",
-    "start_time": "2026-05-21T00:00:00+03:00",
-    "end_time": "2026-05-21T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/jussin-mets-sadut"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "SURULLINEN TYTTÖ",
-    "start_time": "2026-05-21T00:00:00+03:00",
-    "end_time": "2026-05-21T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/surullinen-tytt"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Zodiak Laboratory:Ama Kyei ja työryhmä",
@@ -436,39 +413,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/zodiak-laboratory-ama-kyei-ja-tyoryhma"
   },
   {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Draama jatkuu Hietaniemessä",
-    "start_time": "2026-05-21T17:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/draama-jatkuu-hietaniemessa-0"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Puija",
     "start_time": "2026-05-21T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/puija/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Leikin loppu",
-    "start_time": "2026-05-21T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/leikin-loppu"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Syleily",
-    "start_time": "2026-05-21T19:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/syleily"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "People Watching: Play Dead",
-    "start_time": "2026-05-21T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/people-watching-play-dead"
   },
   {
     "venue": "caisa",
@@ -6584,5 +6533,12 @@ window.SCRAPED_EVENTS = [
     "title": "Änglagård",
     "start_time": "2027-05-13T19:00:00+03:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/anglagard/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Puhutaan Richardista",
+    "start_time": "2027-05-14T19:00:00+03:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
   }
 ];
