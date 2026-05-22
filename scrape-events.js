@@ -425,7 +425,7 @@ window.SCRAPED_EVENTS = [
     "title": "SURULLINEN TYTTÖ",
     "start_time": "2026-05-22T00:00:00+03:00",
     "end_time": "2026-05-22T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/32844C9425B8CE2C3CA8A55C1CC2FEEA/surullinen-tytt"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/surullinen-tytt"
   },
   {
     "venue": "zodiak",
