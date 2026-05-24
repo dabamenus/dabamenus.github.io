@@ -438,7 +438,7 @@ window.SCRAPED_EVENTS = [
     "title": "SURULLINEN TYTTÖ",
     "start_time": "2026-05-24T00:00:00+03:00",
     "end_time": "2026-05-24T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/49EB66E93B06F5BEBDFCA5593999EFAC/surullinen-tytt"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/surullinen-tytt"
   },
   {
     "venue": "kansallisteatteri",
