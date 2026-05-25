@@ -435,25 +435,10 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "caisa",
     "venue_label": "Caisa",
-    "title": "SURULLINEN TYTTÖ",
-    "start_time": "2026-05-24T00:00:00+03:00",
-    "end_time": "2026-05-24T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/surullinen-tytt"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Draama jatkuu Hietaniemessä",
-    "start_time": "2026-05-24T12:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/draama-jatkuu-hietaniemessa-0"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
     "title": "Tanssi ja leikki",
     "start_time": "2026-05-25T00:00:00+03:00",
     "end_time": "2026-05-25T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/955001E3E341352D22B3996DDBEB66B6/tanssi-ja-leikki"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/tanssi-ja-leikki"
   },
   {
     "venue": "zodiak",
@@ -1295,6 +1280,14 @@ window.SCRAPED_EVENTS = [
     "title": "Missä kuljimme kerran",
     "start_time": "2026-06-24T18:30:00+03:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Stoan nuorten Pride",
+    "start_time": "2026-06-25T00:00:00+03:00",
+    "end_time": "2026-06-25T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/100DB5DE412C1855B34F6922798B56F7/stoan-nuorten-pride"
   },
   {
     "venue": "ryhmateatteri",
