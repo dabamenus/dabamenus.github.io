@@ -339,7 +339,7 @@ window.SCRAPED_EVENTS = [
     "title": "Taidetta taaperoille",
     "start_time": "2026-05-12T00:00:00+03:00",
     "end_time": "2026-05-26T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/E6F30ED2D6DA4534B02069DB32A1CAEB/taidetta-taaperoille"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/taidetta-taaperoille"
   },
   {
     "venue": "zodiak",
@@ -461,7 +461,7 @@ window.SCRAPED_EVENTS = [
     "title": "Päivätanssit",
     "start_time": "2026-05-26T00:00:00+03:00",
     "end_time": "2026-05-26T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/A551DA296794C6B8D0BBBFAAF39D3108/p-iv-tanssit"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/p-iv-tanssit"
   },
   {
     "venue": "caisa",
@@ -491,6 +491,13 @@ window.SCRAPED_EVENTS = [
     "title": "Puija",
     "start_time": "2026-05-26T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/puija/"
+  },
+  {
+    "venue": "tanssintalo",
+    "venue_label": "Tanssin Talo",
+    "title": "(LA)HORDE / Ballet national de Marseille: Age of Content",
+    "start_time": "2026-05-26T19:00:00+03:00",
+    "url": "https://www.tanssintalo.fi/ohjelma/lahorde-ballet-national-de-marseille-age-of-content"
   },
   {
     "venue": "stoa",
@@ -1252,6 +1259,14 @@ window.SCRAPED_EVENTS = [
     "title": "Missä kuljimme kerran",
     "start_time": "2026-06-25T18:30:00+03:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "The Art of Diversity (K16)",
+    "start_time": "2026-06-26T00:00:00+03:00",
+    "end_time": "2026-06-26T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F234109E6D9176498878350AD1DB05B2/the-art-of-diversity-k16"
   },
   {
     "venue": "ryhmateatteri",
@@ -2413,6 +2428,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
+    "venue": "kiasma",
+    "venue_label": "Kiasma",
+    "title": "Saana Pohjonen & Henia Nikkilä: JUMALA=RAKKAUS",
+    "start_time": "2026-09-24T18:00:00+03:00",
+    "url": "https://kiasma.fi/esitykset/saana-pohjonen-henia-nikkila-jumalarakkaus/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Sivuraide",
@@ -2439,6 +2461,13 @@ window.SCRAPED_EVENTS = [
     "title": "Elolliset",
     "start_time": "2026-09-24T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/elolliset/"
+  },
+  {
+    "venue": "kiasma",
+    "venue_label": "Kiasma",
+    "title": "Saana Pohjonen & Henia Nikkilä: JUMALA=RAKKAUS",
+    "start_time": "2026-09-25T18:00:00+03:00",
+    "url": "https://kiasma.fi/esitykset/saana-pohjonen-henia-nikkila-jumalarakkaus/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2560,6 +2589,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
+    "venue": "kiasma",
+    "venue_label": "Kiasma",
+    "title": "Saana Pohjonen & Henia Nikkilä: JUMALA=RAKKAUS",
+    "start_time": "2026-09-27T14:00:00+03:00",
+    "url": "https://kiasma.fi/esitykset/saana-pohjonen-henia-nikkila-jumalarakkaus/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Orvot",
@@ -2586,6 +2622,13 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-09-28T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
+  },
+  {
+    "venue": "kiasma",
+    "venue_label": "Kiasma",
+    "title": "Saana Pohjonen & Henia Nikkilä: JUMALA=RAKKAUS",
+    "start_time": "2026-09-29T18:00:00+03:00",
+    "url": "https://kiasma.fi/esitykset/saana-pohjonen-henia-nikkila-jumalarakkaus/"
   },
   {
     "venue": "hkt",
@@ -3736,6 +3779,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
+    "venue": "kiasma",
+    "venue_label": "Kiasma",
+    "title": "Entanglement: I am a tree, I am a mouth",
+    "start_time": "2026-10-24T15:00:00+03:00",
+    "url": "https://kiasma.fi/esitykset/entanglement-i-am-a-tree-i-am-a-mouth/"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
@@ -3797,6 +3847,13 @@ window.SCRAPED_EVENTS = [
     "title": "Club act!one",
     "start_time": "2026-10-24T21:00:00+03:00",
     "url": "https://hkt.fi/esitykset/club-actone/"
+  },
+  {
+    "venue": "kiasma",
+    "venue_label": "Kiasma",
+    "title": "Entanglement: I am a tree, I am a mouth",
+    "start_time": "2026-10-25T15:00:00+02:00",
+    "url": "https://kiasma.fi/esitykset/entanglement-i-am-a-tree-i-am-a-mouth/"
   },
   {
     "venue": "universum",
@@ -3890,6 +3947,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
+    "venue": "kiasma",
+    "venue_label": "Kiasma",
+    "title": "Entanglement: I am a tree, I am a mouth",
+    "start_time": "2026-10-28T18:00:00+02:00",
+    "url": "https://kiasma.fi/esitykset/entanglement-i-am-a-tree-i-am-a-mouth/"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
@@ -3979,6 +4043,13 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-10-29T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
+  },
+  {
+    "venue": "kiasma",
+    "venue_label": "Kiasma",
+    "title": "Entanglement: I am a tree, I am a mouth",
+    "start_time": "2026-10-30T18:00:00+02:00",
+    "url": "https://kiasma.fi/esitykset/entanglement-i-am-a-tree-i-am-a-mouth/"
   },
   {
     "venue": "hkt",
@@ -4982,6 +5053,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/pelle-svanslos/"
   },
   {
+    "venue": "kiasma",
+    "venue_label": "Kiasma",
+    "title": "Kauri Sorvari: Forevermore",
+    "start_time": "2026-11-27T18:00:00+02:00",
+    "url": "https://kiasma.fi/esitykset/kauri-sorvari-forevermore/"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
@@ -5087,6 +5165,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
+    "venue": "kiasma",
+    "venue_label": "Kiasma",
+    "title": "Kauri Sorvari: Forevermore",
+    "start_time": "2026-11-28T15:00:00+02:00",
+    "url": "https://kiasma.fi/esitykset/kauri-sorvari-forevermore/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Toinen tasavalta",
@@ -5127,6 +5212,13 @@ window.SCRAPED_EVENTS = [
     "title": "Club act!one",
     "start_time": "2026-11-28T21:00:00+02:00",
     "url": "https://hkt.fi/esitykset/club-actone/"
+  },
+  {
+    "venue": "kiasma",
+    "venue_label": "Kiasma",
+    "title": "Kauri Sorvari: Forevermore",
+    "start_time": "2026-11-29T15:00:00+02:00",
+    "url": "https://kiasma.fi/esitykset/kauri-sorvari-forevermore/"
   },
   {
     "venue": "kansallisteatteri",
@@ -5171,6 +5263,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/seniorisoppa-joulukonsertti/"
   },
   {
+    "venue": "kiasma",
+    "venue_label": "Kiasma",
+    "title": "Kauri Sorvari: Forevermore",
+    "start_time": "2026-12-01T18:00:00+02:00",
+    "url": "https://kiasma.fi/esitykset/kauri-sorvari-forevermore/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Starman",
@@ -5204,6 +5303,13 @@ window.SCRAPED_EVENTS = [
     "title": "Toinen tasavalta",
     "start_time": "2026-12-02T12:00:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
+  },
+  {
+    "venue": "kiasma",
+    "venue_label": "Kiasma",
+    "title": "Kauri Sorvari: Forevermore",
+    "start_time": "2026-12-02T18:00:00+02:00",
+    "url": "https://kiasma.fi/esitykset/kauri-sorvari-forevermore/"
   },
   {
     "venue": "kansallisteatteri",
@@ -5247,6 +5353,13 @@ window.SCRAPED_EVENTS = [
     "title": "no-no",
     "start_time": "2026-12-03T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/no-no-2/"
+  },
+  {
+    "venue": "kiasma",
+    "venue_label": "Kiasma",
+    "title": "Kauri Sorvari: Forevermore",
+    "start_time": "2026-12-03T18:00:00+02:00",
+    "url": "https://kiasma.fi/esitykset/kauri-sorvari-forevermore/"
   },
   {
     "venue": "kansallisteatteri",
@@ -5359,6 +5472,13 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-12-05T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
+  },
+  {
+    "venue": "kiasma",
+    "venue_label": "Kiasma",
+    "title": "Kauri Sorvari: Forevermore",
+    "start_time": "2026-12-05T15:00:00+02:00",
+    "url": "https://kiasma.fi/esitykset/kauri-sorvari-forevermore/"
   },
   {
     "venue": "kansallisteatteri",
