@@ -433,14 +433,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/puija/"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Tanssi ja leikki",
-    "start_time": "2026-05-25T00:00:00+03:00",
-    "end_time": "2026-05-25T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/tanssi-ja-leikki"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Zodiak Laboratory:Ama Kyei ja työryhmä",
@@ -448,33 +440,12 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/zodiak-laboratory-ama-kyei-ja-tyoryhma"
   },
   {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "ONE DROP",
-    "start_time": "2026-05-25T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/one-drop"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Mascu-Fuck",
-    "start_time": "2026-05-25T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/mascu-fuck"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Ballet National de Marseille: työpaja ammattilaisille",
-    "start_time": "2026-05-25T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/bnm-tyopaja"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Opi suomea laulaen TÄYNNÄ",
     "start_time": "2026-05-26T00:00:00+03:00",
     "end_time": "2026-05-26T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/87B3C5768E2CE1F9E973039547EEE635/opi-suomea-laulaen-t-ynn"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/opi-suomea-laulaen-t-ynn"
   },
   {
     "venue": "stoa",
@@ -568,13 +539,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "tanssintalo",
     "venue_label": "Tanssin Talo",
-    "title": "Ballet National de Marseille: työpaja ammattilaisille",
-    "start_time": "2026-05-27T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/bnm-tyopaja"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
     "title": "Age of Content: lavastekierros",
     "start_time": "2026-05-27T19:00:00+03:00",
     "url": "https://www.tanssintalo.fi/ohjelma/age-of-content-lavastekierros"
@@ -630,13 +594,6 @@ window.SCRAPED_EVENTS = [
     "title": "Alexandra Mitiku: for every home, a stone",
     "start_time": "2026-05-28T19:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/alexandra-mitiku-for-every-home-a-stone"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Ballet National de Marseille: työpaja ammattilaisille",
-    "start_time": "2026-05-28T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/bnm-tyopaja"
   },
   {
     "venue": "tanssintalo",
@@ -717,13 +674,6 @@ window.SCRAPED_EVENTS = [
     "title": "Alexandra Mitiku: for every home, a stone",
     "start_time": "2026-05-30T15:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/alexandra-mitiku-for-every-home-a-stone3"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Ballet National de Marseille: työpaja ammattilaisille",
-    "start_time": "2026-05-30T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/bnm-tyopaja"
   },
   {
     "venue": "tanssintalo",
@@ -6487,5 +6437,19 @@ window.SCRAPED_EVENTS = [
     "title": "Soili 16.5 klo 19",
     "start_time": "2027-05-16T19:00:00+03:00",
     "url": "https://universum.fi/events/soili-16-5-klo-19/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Soili 18.5 kl 14",
+    "start_time": "2027-05-18T19:00:00+03:00",
+    "url": "https://universum.fi/events/soili-18-5-kl-14/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Soili 18.5 kl 19",
+    "start_time": "2027-05-18T19:00:00+03:00",
+    "url": "https://universum.fi/events/soili-18-5-kl-19/"
   }
 ];
