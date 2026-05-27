@@ -491,13 +491,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/draama-jatkuu-hietaniemessa-0"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Mustekalan pulputuksia: Aktivismi ja taide",
-    "start_time": "2026-05-27T19:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/mustekalan-pulputuksia-aktivismi-ja-taide"
-  },
-  {
     "venue": "tanssintalo",
     "venue_label": "Tanssin Talo",
     "title": "Age of Content: lavastekierros",
