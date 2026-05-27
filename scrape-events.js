@@ -14,14 +14,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/1984/"
   },
   {
-    "venue": "jurkka",
-    "venue_label": "Teatteri Jurkka",
-    "title": "Väylä",
-    "start_time": "2025-10-01T19:00:00+03:00",
-    "end_time": "2027-05-20T23:59:00+03:00",
-    "url": "https://www.jurkka.fi/class/vayla/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "1984",
@@ -111,14 +103,6 @@ window.SCRAPED_EVENTS = [
     "title": "Sivuaskel 2026:Teoskeskustelut",
     "start_time": "2026-02-04T18:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/sivuaskel-2026-teoskeskustelut"
-  },
-  {
-    "venue": "jurkka",
-    "venue_label": "Teatteri Jurkka",
-    "title": "Myrsky",
-    "start_time": "2026-02-04T19:00:00+02:00",
-    "end_time": "2027-05-29T23:59:00+03:00",
-    "url": "https://www.jurkka.fi/class/myrsky/"
   },
   {
     "venue": "zodiak",
@@ -334,14 +318,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/D7027FC4306AFFFFDB99B52B88746965/puhos-it-helsinkil-isest-ostarista-kulttuurien-keitaaksi"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-05-12T00:00:00+03:00",
-    "end_time": "2026-05-26T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/taidetta-taaperoille"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Hanna Ahti,Kid Kokko:Theoria",
@@ -442,41 +418,10 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
-    "title": "Opi suomea laulaen TÄYNNÄ",
-    "start_time": "2026-05-26T00:00:00+03:00",
-    "end_time": "2026-05-26T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/opi-suomea-laulaen-t-ynn"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
     "title": "Mainiot materiaalit - installaatio (terraarion puoleisten rappusten vieressä)",
     "start_time": "2026-05-26T00:00:00+03:00",
     "end_time": "2026-08-31T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/B5CEECA15BBB114F544F7263E2517AE4/mainiot-materiaalit-installaatio-terraarion-puoleisten-rappusten-vieress"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Päivätanssit",
-    "start_time": "2026-05-26T00:00:00+03:00",
-    "end_time": "2026-05-26T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/p-iv-tanssit"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "SICK AND TIRED",
-    "start_time": "2026-05-26T00:00:00+03:00",
-    "end_time": "2026-05-26T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sick-and-tired"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Draama jatkuu Hietaniemessä",
-    "start_time": "2026-05-26T12:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/draama-jatkuu-hietaniemessa-0"
   },
   {
     "venue": "zodiak",
@@ -505,7 +450,7 @@ window.SCRAPED_EVENTS = [
     "title": "Metsään laskeutumiset Karhukalliolla (päiväkodeille)",
     "start_time": "2026-05-27T00:00:00+03:00",
     "end_time": "2026-05-27T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/E2CBF66AB682237E5868264BCF1C284E/mets-n-laskeutumiset-karhukalliolla-p-iv-kodeille"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/mets-n-laskeutumiset-karhukalliolla-p-iv-kodeille"
   },
   {
     "venue": "stoa",
@@ -894,7 +839,7 @@ window.SCRAPED_EVENTS = [
     "title": "Flow Mo Crew 24th Anniversary",
     "start_time": "2026-06-06T00:00:00+03:00",
     "end_time": "2026-06-06T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0265B8B140E30D9B044205EB549B3BA9/flow-mo-crew-24th-anniversary"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/95631A4DDF72146A437985469B972EEF/flow-mo-crew-24th-anniversary"
   },
   {
     "venue": "stoa",
@@ -1122,13 +1067,6 @@ window.SCRAPED_EVENTS = [
     "title": "Missä kuljimme kerran",
     "start_time": "2026-06-13T14:00:00+03:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Jumppatytöt",
-    "start_time": "2026-06-13T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/jumppatytot/"
   },
   {
     "venue": "universum",
@@ -5396,14 +5334,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/kettutyton-paluu-2-12/"
   },
   {
-    "venue": "jurkka",
-    "venue_label": "Teatteri Jurkka",
-    "title": "Mitä tapahtui Oliverille?",
-    "start_time": "2026-12-02T19:00:00+02:00",
-    "end_time": "2027-03-20T23:59:00+02:00",
-    "url": "https://www.jurkka.fi/class/mita-tapahtui-oliverille/"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "no-no",
@@ -6634,5 +6564,19 @@ window.SCRAPED_EVENTS = [
     "title": "Soili 18.5 kl 19",
     "start_time": "2027-05-18T19:00:00+03:00",
     "url": "https://universum.fi/events/soili-18-5-kl-19/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Puhutaan Richardista",
+    "start_time": "2027-05-19T19:00:00+03:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Soili 19.5 kl 19",
+    "start_time": "2027-05-19T19:00:00+03:00",
+    "url": "https://universum.fi/events/soili-19-5-kl-19/"
   }
 ];
