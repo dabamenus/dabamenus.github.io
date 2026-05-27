@@ -493,13 +493,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
-    "title": "Tuli & Savun Hämärä-klubi",
-    "start_time": "2026-05-27T17:30:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/tuli-savun-hamara-klubi"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
     "title": "Mustekalan pulputuksia: Aktivismi ja taide",
     "start_time": "2026-05-27T19:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/mustekalan-pulputuksia-aktivismi-ja-taide"
