@@ -482,7 +482,7 @@ window.SCRAPED_EVENTS = [
     "title": "NUMI – Nuorten Uuden Musiikin Ilta",
     "start_time": "2026-05-28T00:00:00+03:00",
     "end_time": "2026-05-28T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F6EF1B1D0DBA36609BDF24E6BE3872C5/numi-nuorten-uuden-musiikin-ilta"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/numi-nuorten-uuden-musiikin-ilta"
   },
   {
     "venue": "kansallisteatteri",
@@ -504,13 +504,6 @@ window.SCRAPED_EVENTS = [
     "title": "Puija",
     "start_time": "2026-05-28T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/puija/"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Alexandra Mitiku: for every home, a stone",
-    "start_time": "2026-05-28T19:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/alexandra-mitiku-for-every-home-a-stone"
   },
   {
     "venue": "tanssintalo",
