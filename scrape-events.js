@@ -252,7 +252,7 @@ window.SCRAPED_EVENTS = [
     "title": "Taidetta taaperoille",
     "start_time": "2026-03-26T00:00:00+02:00",
     "end_time": "2026-05-28T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/3277AE8B4B918F5ABAB29911F6D9E856/taidetta-taaperoille"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/taidetta-taaperoille"
   },
   {
     "venue": "zodiak",
@@ -676,6 +676,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F37EF508EEA60FB8BB0810D8928587B3/blood-berries-justice-for-thai-berry-pickers"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Drink & Draw: croquis, nude session",
+    "start_time": "2026-06-02T18:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/drink-draw-croquis-nude-session"
+  },
+  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "URB 26 Stoa, URB 26 festivaali, 3.-7.6.",
@@ -808,6 +815,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/spring-thing"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Nousu-festivaali",
+    "start_time": "2026-06-06T12:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/nousu-festivaali"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Missä kuljimme kerran",
@@ -911,6 +925,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-06-10T00:00:00+03:00",
     "end_time": "2026-06-10T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/9BA74AF51992BBB0D8D7533E3C24D213/kahlekuningatar"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Son Jarocho -lyriikkatyöpaja",
+    "start_time": "2026-06-10T17:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/son-jarocho-lyriikkatyopaja"
   },
   {
     "venue": "ryhmateatteri",
@@ -1184,6 +1205,13 @@ window.SCRAPED_EVENTS = [
     "title": "MG",
     "start_time": "2026-06-27T19:00:00+03:00",
     "url": "https://universum.fi/events/mg-27-6/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Tuhmatukan ja Bingolutkan queerbingo-show",
+    "start_time": "2026-06-28T15:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/tuhmatukan-ja-bingolutkan-queerbingo-show"
   },
   {
     "venue": "universum",
@@ -2035,6 +2063,13 @@ window.SCRAPED_EVENTS = [
     "title": "Viidakon villit naiset",
     "start_time": "2026-09-14T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Kahvilla kirjailijan kanssa",
+    "start_time": "2026-09-15T16:30:00+03:00",
+    "url": ""
   },
   {
     "venue": "kansallisteatteri",
@@ -3486,6 +3521,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Kahvilla kirjailijan kanssa",
+    "start_time": "2026-10-19T16:30:00+03:00",
+    "url": ""
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Orvot",
@@ -4338,6 +4380,13 @@ window.SCRAPED_EVENTS = [
     "title": "ANDETAG",
     "start_time": "2026-11-09T19:00:00+02:00",
     "url": "https://universum.fi/events/andetag-9-11/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Kahvilla kirjailijan kanssa",
+    "start_time": "2026-11-10T16:30:00+02:00",
+    "url": ""
   },
   {
     "venue": "kansallisteatteri",
