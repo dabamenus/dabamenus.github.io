@@ -454,29 +454,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/puija/"
   },
   {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "(LA)HORDE / Ballet national de Marseille: Age of Content",
-    "start_time": "2026-05-26T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/lahorde-ballet-national-de-marseille-age-of-content"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Metsään laskeutumiset Karhukalliolla (päiväkodeille)",
-    "start_time": "2026-05-27T00:00:00+03:00",
-    "end_time": "2026-05-27T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/mets-n-laskeutumiset-karhukalliolla-p-iv-kodeille"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "TAPAHTUMA SIIRTYY SATEEN TAKIA Metsään laskeutuminen Karhukalliolla",
-    "start_time": "2026-05-27T00:00:00+03:00",
-    "end_time": "2026-05-27T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/tapahtuma-siirtyy-sateen-takia-mets-n-laskeutuminen-karhukalliolla"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Hanna Ahti,Kid Kokko:Theoria",
@@ -484,26 +461,12 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/theoria"
   },
   {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Draama jatkuu Hietaniemessä",
-    "start_time": "2026-05-27T17:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/draama-jatkuu-hietaniemessa-0"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Age of Content: lavastekierros",
-    "start_time": "2026-05-27T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/age-of-content-lavastekierros"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Jussin metsäsadut",
     "start_time": "2026-05-28T00:00:00+03:00",
     "end_time": "2026-05-28T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/EA6E041ED1B7F131C30E9778FBBFF007/jussin-mets-sadut"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/jussin-mets-sadut"
   },
   {
     "venue": "stoa",
@@ -555,13 +518,6 @@ window.SCRAPED_EVENTS = [
     "title": "(LA)HORDE / Ballet national de Marseille: Age of Content",
     "start_time": "2026-05-28T19:00:00+03:00",
     "url": "https://www.tanssintalo.fi/ohjelma/lahorde-ballet-national-de-marseille-age-of-content"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Age of Content: lavastekierros",
-    "start_time": "2026-05-28T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/age-of-content-lavastekierros"
   },
   {
     "venue": "tanssintalo",
@@ -635,13 +591,6 @@ window.SCRAPED_EVENTS = [
     "title": "(LA)HORDE / Ballet national de Marseille: Age of Content",
     "start_time": "2026-05-30T19:00:00+03:00",
     "url": "https://www.tanssintalo.fi/ohjelma/lahorde-ballet-national-de-marseille-age-of-content"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "Age of Content: lavastekierros",
-    "start_time": "2026-05-30T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/age-of-content-lavastekierros"
   },
   {
     "venue": "tanssintalo",
@@ -1619,6 +1568,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Karkelot",
+    "start_time": "2026-08-25T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Ilta Mellerin kanssa",
@@ -2405,7 +2361,7 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kiasma",
     "venue_label": "Kiasma",
-    "title": "Saana Pohjonen & Henia Nikkilä: JUMALA=RAKKAUS",
+    "title": "JUMALA=RAKKAUS",
     "start_time": "2026-09-24T18:00:00+03:00",
     "url": "https://kiasma.fi/esitykset/saana-pohjonen-henia-nikkila-jumalarakkaus/"
   },
@@ -2440,7 +2396,7 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kiasma",
     "venue_label": "Kiasma",
-    "title": "Saana Pohjonen & Henia Nikkilä: JUMALA=RAKKAUS",
+    "title": "JUMALA=RAKKAUS",
     "start_time": "2026-09-25T18:00:00+03:00",
     "url": "https://kiasma.fi/esitykset/saana-pohjonen-henia-nikkila-jumalarakkaus/"
   },
@@ -2573,7 +2529,7 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kiasma",
     "venue_label": "Kiasma",
-    "title": "Saana Pohjonen & Henia Nikkilä: JUMALA=RAKKAUS",
+    "title": "JUMALA=RAKKAUS",
     "start_time": "2026-09-27T14:00:00+03:00",
     "url": "https://kiasma.fi/esitykset/saana-pohjonen-henia-nikkila-jumalarakkaus/"
   },
@@ -2608,7 +2564,7 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kiasma",
     "venue_label": "Kiasma",
-    "title": "Saana Pohjonen & Henia Nikkilä: JUMALA=RAKKAUS",
+    "title": "JUMALA=RAKKAUS",
     "start_time": "2026-09-29T18:00:00+03:00",
     "url": "https://kiasma.fi/esitykset/saana-pohjonen-henia-nikkila-jumalarakkaus/"
   },
@@ -6595,5 +6551,12 @@ window.SCRAPED_EVENTS = [
     "title": "Soili 19.5 kl 19",
     "start_time": "2027-05-19T19:00:00+03:00",
     "url": "https://universum.fi/events/soili-19-5-kl-19/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Puhutaan Richardista",
+    "start_time": "2027-05-20T19:00:00+03:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
   }
 ];
