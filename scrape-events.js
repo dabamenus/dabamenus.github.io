@@ -474,7 +474,7 @@ window.SCRAPED_EVENTS = [
     "title": "Tapaa tekijä Stoan aulassa",
     "start_time": "2026-05-28T00:00:00+03:00",
     "end_time": "2026-05-28T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/116E5BCEC29922A3AA434A81FB27B51F/tapaa-tekij-stoan-aulassa"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/tapaa-tekij-stoan-aulassa"
   },
   {
     "venue": "stoa",
