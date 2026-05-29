@@ -453,6 +453,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/theoria"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Sarjakuvailmaisun kevätnäyttely: Menee jo!",
+    "start_time": "2026-05-28T18:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/menee-jo-sarjakuvailmaisun-kevatnayttely"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Puija",
@@ -483,6 +490,20 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/theoria"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Sarjakuvaseuran tuparit",
+    "start_time": "2026-05-29T18:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvaseuran-tuparit"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Alexandra Mitiku: for every home, a stone",
+    "start_time": "2026-05-29T19:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/alexandra-mitiku-for-every-home-a-stone-copy"
+  },
+  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "RAÍZ",
@@ -496,6 +517,13 @@ window.SCRAPED_EVENTS = [
     "title": "Draama jatkuu Hietaniemessä",
     "start_time": "2026-05-30T12:00:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/draama-jatkuu-hietaniemessa-0"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Alexandra Mitiku: for every home, a stone",
+    "start_time": "2026-05-30T15:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/alexandra-mitiku-for-every-home-a-stone3"
   },
   {
     "venue": "tanssintalo",
@@ -552,12 +580,33 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/74B7B0631FE3FC6CCE6DF3521F580B00/lavastettu-juttu"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Sarjakuvakeskuksen kesäleirit: Mangaleiri",
+    "start_time": "2026-06-01T10:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvakeskuksen-kesaleirit-mangaleiri"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Sarjakuvakeskuksen kesäleirit: Sarjakuvaleiri",
+    "start_time": "2026-06-01T10:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvakeskuksen-kesaleirit-sarjakuvaleiri"
+  },
+  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "BLOOD BERRIES: JUSTICE FOR THAI BERRY PICKERS",
     "start_time": "2026-06-02T00:00:00+03:00",
     "end_time": "2026-06-02T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F37EF508EEA60FB8BB0810D8928587B3/blood-berries-justice-for-thai-berry-pickers"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Drink & Draw: croquis, nude session",
+    "start_time": "2026-06-02T18:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/drink-draw-croquis-nude-session"
   },
   {
     "venue": "stoa",
@@ -587,6 +636,13 @@ window.SCRAPED_EVENTS = [
     "title": "Sonya Lindfors: common moves revisited",
     "start_time": "2026-06-03T19:00:00+03:00",
     "url": "https://kiasma.fi/esitykset/urb26-common-moves-revisited/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
+    "start_time": "2026-06-04T14:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-0406"
   },
   {
     "venue": "kiasma",
@@ -685,6 +741,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/spring-thing"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Nousu-festivaali",
+    "start_time": "2026-06-06T12:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/nousu-festivaali"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Missä kuljimme kerran",
@@ -744,6 +807,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/ED4DCD9E32DEC64648CC445411E403AC/lavastettu-juttu"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Sarjakuvakeskuksen kesäleirit: Sarjakuva- ja animaatioleiri",
+    "start_time": "2026-06-08T10:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvakeskuksen-kesaleirit-sarjakuva-animaatio"
+  },
+  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "PORTTITEATTERI: JÄLJET – Dokumentaarinen esitys kehojemme muistista",
@@ -781,6 +851,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-06-10T00:00:00+03:00",
     "end_time": "2026-06-10T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/9BA74AF51992BBB0D8D7533E3C24D213/kahlekuningatar"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Son Jarocho -lyriikkatyöpaja",
+    "start_time": "2026-06-10T17:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/son-jarocho-lyriikkatyopaja"
   },
   {
     "venue": "ryhmateatteri",
@@ -920,6 +997,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/D6EFA83B81970CA8E0ED0A0B43861F2A/kahlekuningatar"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Sarjakuvakeskuksen kesäleirit: Sarjakuvaleiri",
+    "start_time": "2026-06-15T10:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvakeskuksen-kesaleirit-sarjakuvaleiri3"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "MG 15.6 kl 19",
@@ -955,6 +1039,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/mg-17-6-kl-16/"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
+    "start_time": "2026-06-18T14:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-1806"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "MG 20.6 kl 19",
@@ -967,6 +1058,13 @@ window.SCRAPED_EVENTS = [
     "title": "MG 21.6 kl 19",
     "start_time": "2026-06-21T19:00:00+03:00",
     "url": "https://universum.fi/events/mg-21-6-kl-19/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Sarjakuvakeskuksen kesäleirit: Mangaleiri",
+    "start_time": "2026-06-22T10:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvakeskuksen-kesaleirit-mangaleiri4"
   },
   {
     "venue": "ryhmateatteri",
@@ -1033,6 +1131,13 @@ window.SCRAPED_EVENTS = [
     "title": "MG",
     "start_time": "2026-06-27T19:00:00+03:00",
     "url": "https://universum.fi/events/mg-27-6/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Tuhmatukan ja Bingolutkan queerbingo-show",
+    "start_time": "2026-06-28T15:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/tuhmatukan-ja-bingolutkan-queerbingo-show"
   },
   {
     "venue": "universum",
@@ -1814,6 +1919,13 @@ window.SCRAPED_EVENTS = [
     "title": "Helsinki Circus Festival",
     "start_time": "2026-09-12T00:00:00+03:00",
     "url": "https://cirko.fi/esitys/helsinki-circus-festival-2/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Olen X (verkkokurssitus 12.9.-12.12. 2026)",
+    "start_time": "2026-09-12T11:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/olen-x-verkkokurssitus-12-9-12-12-2026"
   },
   {
     "venue": "hkt",
@@ -2990,6 +3102,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kotijoukot",
     "start_time": "2026-10-09T19:00:00+03:00",
     "url": "https://hkt.fi/esitykset/kotijoukot/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Olen X (verkkokurssitus 12.9.-12.12. 2026)",
+    "start_time": "2026-10-10T11:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/olen-x-verkkokurssitus-12-9-12-12-2026-copy"
   },
   {
     "venue": "zodiak",
@@ -4427,6 +4546,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/iikka-kivi-protestinauru-stand-up-show/"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Olen X (verkkokurssitus 12.9.-12.12. 2026)",
+    "start_time": "2026-11-14T11:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/olen-x-verkkokurssitus-12-9-12-12-2026-copy3"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kurtturuusut",
@@ -5588,6 +5714,13 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-12-11T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Olen X (verkkokurssitus 12.9.-12.12. 2026)",
+    "start_time": "2026-12-12T11:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/olen-x-verkkokurssitus-12-9-12-12-2026-copy4"
   },
   {
     "venue": "kansallisteatteri",
