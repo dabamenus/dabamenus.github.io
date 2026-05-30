@@ -475,14 +475,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/0EE0B91B61A6D8C707237F2F771DEE8B/habit-bodies"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "RAÍZ",
-    "start_time": "2026-05-29T00:00:00+03:00",
-    "end_time": "2026-05-29T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/ra-z"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Hanna Ahti,Kid Kokko:Theoria",
@@ -1527,6 +1519,13 @@ window.SCRAPED_EVENTS = [
     "title": "Ilta Mellerin kanssa",
     "start_time": "2026-08-26T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/ilta-mellerin-kanssa"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Karkelot",
+    "start_time": "2026-08-27T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
   },
   {
     "venue": "kansallisteatteri",
