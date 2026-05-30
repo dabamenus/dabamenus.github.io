@@ -487,7 +487,7 @@ window.SCRAPED_EVENTS = [
     "title": "RAÍZ",
     "start_time": "2026-05-30T00:00:00+03:00",
     "end_time": "2026-05-30T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/765F08CC042160CC76A8958E7D295FF1/ra-z"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/ra-z"
   },
   {
     "venue": "kansallisteatteri",
