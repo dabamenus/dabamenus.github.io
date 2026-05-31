@@ -482,28 +482,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/theoria"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "RAÍZ",
-    "start_time": "2026-05-30T00:00:00+03:00",
-    "end_time": "2026-05-30T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/ra-z"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Draama jatkuu Hietaniemessä",
-    "start_time": "2026-05-30T12:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/draama-jatkuu-hietaniemessa-0"
-  },
-  {
-    "venue": "tanssintalo",
-    "venue_label": "Tanssin Talo",
-    "title": "CSSADANCE: Encounter",
-    "start_time": "2026-05-30T19:00:00+03:00",
-    "url": "https://www.tanssintalo.fi/ohjelma/cssadance-encounter"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Stoan kesäbasaari",
