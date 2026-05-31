@@ -315,7 +315,7 @@ window.SCRAPED_EVENTS = [
     "title": "Luukas Rajamäki: Porttitaide",
     "start_time": "2026-04-30T00:00:00+03:00",
     "end_time": "2026-05-31T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/6ABB580085D6BB5179773DCD0A640DB2/luukas-rajam-ki-porttitaide"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/luukas-rajam-ki-porttitaide"
   },
   {
     "venue": "stoa",
