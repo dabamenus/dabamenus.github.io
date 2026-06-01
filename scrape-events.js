@@ -312,14 +312,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
-    "title": "Luukas Rajamäki: Porttitaide",
-    "start_time": "2026-04-30T00:00:00+03:00",
-    "end_time": "2026-05-31T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/luukas-rajam-ki-porttitaide"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
     "title": "Puhos – Itähelsinkiläisestä ostarista kulttuurien keitaaksi",
     "start_time": "2026-05-08T00:00:00+03:00",
     "end_time": "2026-06-07T23:59:00+03:00",
@@ -482,19 +474,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/theoria"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Stoan kesäbasaari",
-    "start_time": "2026-05-31T00:00:00+03:00",
-    "end_time": "2026-05-31T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/stoan-kes-basaari"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Draama jatkuu Hietaniemessä",
-    "start_time": "2026-05-31T12:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/draama-jatkuu-hietaniemessa-0"
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Queer-zinekirjasto",
+    "start_time": "2026-05-29T18:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/queer-zinekirjasto"
   },
   {
     "venue": "stoa",
@@ -1525,6 +1509,13 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-08-29T13:00:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Karkelot",
+    "start_time": "2026-08-29T15:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
   },
   {
     "venue": "kansallisteatteri",
@@ -4626,6 +4617,13 @@ window.SCRAPED_EVENTS = [
     "title": "Lapin Faarao",
     "start_time": "2026-11-16T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/lapin-faarao"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Nauravan kulkurin tarina",
+    "start_time": "2026-11-16T18:30:00+02:00",
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "universum",
