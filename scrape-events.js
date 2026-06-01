@@ -1171,6 +1171,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/birds-of-paradise/"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Jussi Rinta-Hoiska: Lukosta valoon",
+    "start_time": "2026-08-07T00:00:00+03:00",
+    "end_time": "2026-08-29T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/8C1B1D1737BCC328A3D394F41E9C5324/jussi-rinta-hoiska-lukosta-valoon"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Missä kuljimme kerran",
@@ -1553,6 +1561,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2026-09-01T00:00:00+03:00",
+    "end_time": "2026-09-01T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/090BE058FE197926A7F00ACAA34B65A9/taidetta-taaperoille"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "?",
@@ -1614,6 +1630,14 @@ window.SCRAPED_EVENTS = [
     "title": "På besök hos småkrypen– Vierailulla ötököiden maailmassa",
     "start_time": "2026-09-02T19:00:00+03:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/pa-besok-hos-smakrypen/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2026-09-03T00:00:00+03:00",
+    "end_time": "2026-09-03T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/79F74D13B8D13B29EAAB5B1DAC3F5127/taidetta-taaperoille"
   },
   {
     "venue": "kansallisteatteri",
@@ -1943,6 +1967,14 @@ window.SCRAPED_EVENTS = [
     "title": "Helsinki Circus Festival",
     "start_time": "2026-09-13T00:00:00+03:00",
     "url": "https://cirko.fi/esitys/helsinki-circus-festival-2/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Tanssi ja leikki",
+    "start_time": "2026-09-14T00:00:00+03:00",
+    "end_time": "2026-09-14T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/37A077C19A795C1F3A003FFE51535D21/tanssi-ja-leikki"
   },
   {
     "venue": "kansallisteatteri",
