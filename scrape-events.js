@@ -2094,6 +2094,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
   },
   {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
+    "title": "Hajuvesi",
+    "start_time": "2026-09-26T13:00:00+03:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/hajuvesi"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
@@ -2127,13 +2134,6 @@ window.SCRAPED_EVENTS = [
     "title": "Orvot",
     "start_time": "2026-09-26T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/orvot"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Hajuvesi",
-    "start_time": "2026-09-26T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/hajuvesi"
   },
   {
     "venue": "kansallisteatteri",
