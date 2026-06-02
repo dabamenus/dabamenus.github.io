@@ -159,14 +159,7 @@ window.SCRAPED_EVENTS = [
     "title": "BLOOD BERRIES: JUSTICE FOR THAI BERRY PICKERS",
     "start_time": "2026-06-02T00:00:00+03:00",
     "end_time": "2026-06-02T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F37EF508EEA60FB8BB0810D8928587B3/blood-berries-justice-for-thai-berry-pickers"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Drink & Draw: croquis, nude session",
-    "start_time": "2026-06-02T18:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/drink-draw-croquis-nude-session"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/blood-berries-justice-for-thai-berry-pickers"
   },
   {
     "venue": "stoa",
