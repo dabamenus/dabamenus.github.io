@@ -14,14 +14,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/1984/"
   },
   {
-    "venue": "jurkka",
-    "venue_label": "Teatteri Jurkka",
-    "title": "Väylä",
-    "start_time": "2025-10-01T19:00:00+03:00",
-    "end_time": "2027-05-20T23:59:00+03:00",
-    "url": "https://www.jurkka.fi/class/vayla/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "1984",
@@ -34,14 +26,6 @@ window.SCRAPED_EVENTS = [
     "title": "1984",
     "start_time": "2025-12-02T19:00:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/1984/"
-  },
-  {
-    "venue": "jurkka",
-    "venue_label": "Teatteri Jurkka",
-    "title": "Myrsky",
-    "start_time": "2026-02-04T19:00:00+02:00",
-    "end_time": "2027-05-29T23:59:00+03:00",
-    "url": "https://www.jurkka.fi/class/myrsky/"
   },
   {
     "venue": "stoa",
@@ -543,11 +527,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
   },
   {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Jumppatytöt",
-    "start_time": "2026-06-13T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/jumppatytot/"
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Fandango x Tekstin taco 13.6.",
+    "start_time": "2026-06-13T15:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/fandango-x-tekstin-taco-13-6"
   },
   {
     "venue": "universum",
@@ -656,6 +640,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-06-24T00:00:00+03:00",
     "end_time": "2026-08-05T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/5FC809166894B73E4F1F367244DA072A/kaupunkitanssit"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Lilat-zinen lesbo/feministinen presis-ilta",
+    "start_time": "2026-06-24T18:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/lilat-zinen-presis-ilta"
   },
   {
     "venue": "ryhmateatteri",
@@ -1113,32 +1104,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Karkelot",
-    "start_time": "2026-08-25T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Karkelot",
-    "start_time": "2026-08-26T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Ilta Mellerin kanssa",
     "start_time": "2026-08-26T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/ilta-mellerin-kanssa"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Karkelot",
-    "start_time": "2026-08-27T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
   },
   {
     "venue": "kansallisteatteri",
@@ -1169,13 +1139,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Karkelot",
-    "start_time": "2026-08-29T15:00:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lady T",
@@ -1195,13 +1158,6 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-08-29T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Karkelot",
-    "start_time": "2026-08-30T15:00:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
   },
   {
     "venue": "kansallisteatteri",
@@ -5242,14 +5198,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/kettutyton-paluu-2-12/"
   },
   {
-    "venue": "jurkka",
-    "venue_label": "Teatteri Jurkka",
-    "title": "Mitä tapahtui Oliverille?",
-    "start_time": "2026-12-02T19:00:00+02:00",
-    "end_time": "2027-03-20T23:59:00+02:00",
-    "url": "https://www.jurkka.fi/class/mita-tapahtui-oliverille/"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Taidetta taaperoille",
@@ -5574,6 +5522,13 @@ window.SCRAPED_EVENTS = [
     "title": "Taru hohtavasta helmestä",
     "start_time": "2026-12-10T12:00:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "no-no",
+    "start_time": "2026-12-10T13:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/no-no-2/"
   },
   {
     "venue": "kansallisteatteri",
