@@ -175,28 +175,7 @@ window.SCRAPED_EVENTS = [
     "title": "URB 26 Stoa, URB 26 festivaali, 3.-7.6.",
     "start_time": "2026-06-03T00:00:00+03:00",
     "end_time": "2026-06-03T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/3C2E4A2FCEE2A6DCE08C955950A84D68/urb-26-stoa-urb-26-festivaali-3-7-6"
-  },
-  {
-    "venue": "kiasma",
-    "venue_label": "Kiasma",
-    "title": "Sonya Lindfors: common moves revisited",
-    "start_time": "2026-06-03T17:30:00+03:00",
-    "url": "https://kiasma.fi/esitykset/urb26-common-moves-revisited/"
-  },
-  {
-    "venue": "kiasma",
-    "venue_label": "Kiasma",
-    "title": "Ama Kyei & työryhmä: Walk with me",
-    "start_time": "2026-06-03T18:00:00+03:00",
-    "url": "https://kiasma.fi/esitykset/urb26-walk-with-me/"
-  },
-  {
-    "venue": "kiasma",
-    "venue_label": "Kiasma",
-    "title": "Sonya Lindfors: common moves revisited",
-    "start_time": "2026-06-03T19:00:00+03:00",
-    "url": "https://kiasma.fi/esitykset/urb26-common-moves-revisited/"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/urb-26-stoa-urb-26-festivaali-3-7-6"
   },
   {
     "venue": "tekstintalo",
