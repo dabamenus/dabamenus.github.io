@@ -154,14 +154,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvakeskuksen-kesaleirit-sarjakuvaleiri"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "BLOOD BERRIES: JUSTICE FOR THAI BERRY PICKERS",
-    "start_time": "2026-06-02T00:00:00+03:00",
-    "end_time": "2026-06-02T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/blood-berries-justice-for-thai-berry-pickers"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "URB 26 Stoa, URB 26 festivaali, 3.-7.6.",
