@@ -170,13 +170,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvakeskuksen-kesaleirit-sarjakuvaleiri"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
-    "start_time": "2026-06-04T14:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-0406"
-  },
-  {
     "venue": "kiasma",
     "venue_label": "Kiasma",
     "title": "Ama Kyei & työryhmä: Walk with me",
