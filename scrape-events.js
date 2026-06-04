@@ -170,20 +170,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvakeskuksen-kesaleirit-sarjakuvaleiri"
   },
   {
-    "venue": "kiasma",
-    "venue_label": "Kiasma",
-    "title": "Ama Kyei & työryhmä: Walk with me",
-    "start_time": "2026-06-04T18:00:00+03:00",
-    "url": "https://kiasma.fi/esitykset/urb26-walk-with-me/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Missä kuljimme kerran",
-    "start_time": "2026-06-04T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "URB 26 Stoa, URB 26 festivaali, 3.-7.6.",
