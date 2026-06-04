@@ -999,6 +999,20 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "NVL:n kirjoittajaryhmien tekstinäyttely",
+    "start_time": "2026-08-20T17:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/nvl-n-kirjoittajaryhmien-tekstinayttely"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Runokuu: Runokimara",
+    "start_time": "2026-08-20T17:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/runokuu-runokimara"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Missä kuljimme kerran",
@@ -1011,6 +1025,20 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-08-20T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Poetry Jam: YÖ",
+    "start_time": "2026-08-20T19:30:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/poetry-jam-yo"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Runokuu: Yhteiskirjoittamisen poetiikkaa",
+    "start_time": "2026-08-21T17:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/runokuu-yhteiskirjoittamisen-poetiikkaa"
   },
   {
     "venue": "ryhmateatteri",
@@ -1020,6 +1048,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Runokuu: Kokeellisen runouden iltama",
+    "start_time": "2026-08-21T19:30:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/runokuu-kokeellisen-runouden-iltama"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "The Silence",
@@ -1027,11 +1062,25 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/silence"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Runokuu: NVL Nyt",
+    "start_time": "2026-08-22T12:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/runokuu-nvl-nyt"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-08-22T13:00:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Runokuu: SYKLI",
+    "start_time": "2026-08-22T14:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/runokuu-sykli"
   },
   {
     "venue": "ryhmateatteri",
@@ -1046,6 +1095,13 @@ window.SCRAPED_EVENTS = [
     "title": "The Silence",
     "start_time": "2026-08-22T15:00:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/silence"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Runokuu: Versopolis poets 2026",
+    "start_time": "2026-08-22T17:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/runokuu-versopolis-poets-2026"
   },
   {
     "venue": "kansallisteatteri",
@@ -1067,6 +1123,27 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-08-22T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Runokuu: Poetry Mixtape",
+    "start_time": "2026-08-22T19:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/runokuu-poetry-mixtape"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Runokuu: Festarijatkot",
+    "start_time": "2026-08-22T22:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/runokuu-festarijatkot"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Runokuu: Runomarkkinat",
+    "start_time": "2026-08-23T12:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/runokuu-runomarkkinat"
   },
   {
     "venue": "kansallisteatteri",
@@ -3785,6 +3862,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Caisa 30 Club - Luciana Garcia Ensemble",
+    "start_time": "2026-10-30T00:00:00+02:00",
+    "end_time": "2026-10-30T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/AF8043AFA23C9A82F0871693042F7CA3/caisa-30-club-luciana-garcia-ensemble"
+  },
+  {
     "venue": "kiasma",
     "venue_label": "Kiasma",
     "title": "Entanglement: I am a tree, I am a mouth",
@@ -4915,6 +5000,14 @@ window.SCRAPED_EVENTS = [
     "title": "Pelle Svanslös",
     "start_time": "2026-11-26T19:00:00+02:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/pelle-svanslos/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "We Music: EMILII – Kaisa Ollila – Milou – Vilma Talvitie Caisa 30 Club",
+    "start_time": "2026-11-27T00:00:00+02:00",
+    "end_time": "2026-11-27T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/A30CB5D0F313FCDE93ADD51AE9BE95FA/we-music-emilii-kaisa-ollila-milou-vilma-talvitie-caisa-30-club"
   },
   {
     "venue": "kiasma",
