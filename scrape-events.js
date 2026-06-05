@@ -177,7 +177,7 @@ window.SCRAPED_EVENTS = [
     "title": "URB 26: World Canvas esittää",
     "start_time": "2026-06-05T00:00:00+03:00",
     "end_time": "2026-06-05T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/E448E124235B35866193B05F735BADA1/urb-26-world-canvas-esitt"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/urb-26-world-canvas-esitt"
   },
   {
     "venue": "zodiak",
@@ -2944,6 +2944,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Collage",
+    "start_time": "2026-10-10T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Toinen tasavalta",
@@ -3005,6 +3012,13 @@ window.SCRAPED_EVENTS = [
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-13T18:00:00+03:00",
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Collage",
+    "start_time": "2026-10-13T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
     "venue": "hkt",
@@ -3077,6 +3091,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Collage",
+    "start_time": "2026-10-15T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lopetus",
@@ -3131,6 +3152,13 @@ window.SCRAPED_EVENTS = [
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-16T18:00:00+03:00",
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Collage",
+    "start_time": "2026-10-16T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
     "venue": "kansallisteatteri",
@@ -3296,6 +3324,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/541141A6B9E637B92BC0CB7FD7A31B01/taidetta-taaperoille"
   },
   {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Collage",
+    "start_time": "2026-10-20T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Toinen tasavalta",
@@ -3381,6 +3416,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Collage",
+    "start_time": "2026-10-22T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
@@ -3442,6 +3484,13 @@ window.SCRAPED_EVENTS = [
     "title": "?",
     "start_time": "2026-10-23T17:30:00+03:00",
     "url": ""
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Collage",
+    "start_time": "2026-10-23T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
     "venue": "ryhmateatteri",
@@ -3568,6 +3617,13 @@ window.SCRAPED_EVENTS = [
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-24T17:00:00+03:00",
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Collage",
+    "start_time": "2026-10-24T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
     "venue": "kansallisteatteri",
@@ -3811,6 +3867,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Collage",
+    "start_time": "2026-10-29T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
@@ -3997,6 +4060,20 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/EE318E599696EB8638A9013F83A945CD/taidetta-taaperoille"
   },
   {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Collage",
+    "start_time": "2026-11-03T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Collage",
+    "start_time": "2026-11-04T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
@@ -4038,6 +4115,13 @@ window.SCRAPED_EVENTS = [
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-11-05T18:00:00+02:00",
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Collage",
+    "start_time": "2026-11-05T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
     "venue": "ryhmateatteri",
@@ -4259,6 +4343,13 @@ window.SCRAPED_EVENTS = [
     "url": ""
   },
   {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Collage",
+    "start_time": "2026-11-10T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Viides askel",
@@ -4379,6 +4470,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Collage",
+    "start_time": "2026-11-13T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
@@ -4447,6 +4545,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kallo Collective: The Story of Pluto, Who Wanted to Be a Planet",
     "start_time": "2026-11-14T12:30:00+02:00",
     "url": "https://cirko.fi/esitys/kallo-collective-the-story-of-pluto-who-wanted-to-be-a-planet/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Collage",
+    "start_time": "2026-11-14T13:00:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
     "venue": "kansallisteatteri",
@@ -4584,6 +4689,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/9CDF298DACB75FADA9E241DEF33574C4/taidetta-taaperoille"
   },
   {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Collage",
+    "start_time": "2026-11-17T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Taru hohtavasta helmestä",
@@ -4641,6 +4753,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Collage",
+    "start_time": "2026-11-19T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
@@ -4682,6 +4801,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-11-20T00:00:00+02:00",
     "end_time": "2026-11-21T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/85ADA8784DE99B8177BBCBA878648A85/resonance-festival-vol-2-threshold-states"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Collage",
+    "start_time": "2026-11-20T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
     "venue": "ryhmateatteri",
@@ -4875,6 +5001,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/678F7E66FADFB972D528C39E75AB9E61/taidetta-taaperoille"
   },
   {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Collage",
+    "start_time": "2026-11-24T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Mirdja",
@@ -4960,6 +5093,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Collage",
+    "start_time": "2026-11-26T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
@@ -5015,6 +5155,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kauri Sorvari: Forevermore",
     "start_time": "2026-11-27T18:00:00+02:00",
     "url": "https://kiasma.fi/esitykset/kauri-sorvari-forevermore/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Collage",
+    "start_time": "2026-11-27T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
     "venue": "ryhmateatteri",
@@ -5243,6 +5390,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://kiasma.fi/esitykset/kauri-sorvari-forevermore/"
   },
   {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Collage",
+    "start_time": "2026-12-01T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Starman",
@@ -5283,6 +5437,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kauri Sorvari: Forevermore",
     "start_time": "2026-12-02T18:00:00+02:00",
     "url": "https://kiasma.fi/esitykset/kauri-sorvari-forevermore/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Collage",
+    "start_time": "2026-12-02T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
     "venue": "kansallisteatteri",
@@ -5376,6 +5537,13 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-12-03T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Collage",
+    "start_time": "2026-12-04T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
     "venue": "kansallisteatteri",
