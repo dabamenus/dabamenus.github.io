@@ -137,7 +137,7 @@ window.SCRAPED_EVENTS = [
     "title": "Jäljillä -taideleiri 7–9-vuotiaille",
     "start_time": "2026-06-01T00:00:00+03:00",
     "end_time": "2026-06-05T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/BA0947F26BEA1EC383C450A55E6F18C6/j-ljill-taideleiri-7-9-vuotiaille"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/j-ljill-taideleiri-7-9-vuotiaille"
   },
   {
     "venue": "stoa",
@@ -145,7 +145,7 @@ window.SCRAPED_EVENTS = [
     "title": "Muodonmuutoksia eliökunnassa -taideleiri 9–12-vuotiaille",
     "start_time": "2026-06-01T00:00:00+03:00",
     "end_time": "2026-06-05T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/E651A2D53944AE93A65DCF0B0C6506BD/muodonmuutoksia-eli-kunnassa-taideleiri-9-12-vuotiaille"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/muodonmuutoksia-eli-kunnassa-taideleiri-9-12-vuotiaille"
   },
   {
     "venue": "caisa",
@@ -153,21 +153,7 @@ window.SCRAPED_EVENTS = [
     "title": "Lavastettu juttu",
     "start_time": "2026-06-01T00:00:00+03:00",
     "end_time": "2026-06-05T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/74B7B0631FE3FC6CCE6DF3521F580B00/lavastettu-juttu"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Sarjakuvakeskuksen kesäleirit: Mangaleiri",
-    "start_time": "2026-06-01T10:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvakeskuksen-kesaleirit-mangaleiri"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Sarjakuvakeskuksen kesäleirit: Sarjakuvaleiri",
-    "start_time": "2026-06-01T10:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvakeskuksen-kesaleirit-sarjakuvaleiri"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/lavastettu-juttu"
   },
   {
     "venue": "stoa",
@@ -585,6 +571,13 @@ window.SCRAPED_EVENTS = [
     "title": "MG 20.6 kl 19",
     "start_time": "2026-06-20T19:00:00+03:00",
     "url": "https://universum.fi/events/mg-20-6-kl-19/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Haku Esseekouluun",
+    "start_time": "2026-06-21T14:45:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/haku-esseekouluun"
   },
   {
     "venue": "universum",
@@ -3952,6 +3945,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Old Forest Echoes – Ikimetsän kaiku: immersiivinen luontokonsertti",
+    "start_time": "2026-10-31T00:00:00+02:00",
+    "end_time": "2026-10-31T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/4315416BF35517CB764A83C690F786FD/old-forest-echoes-ikimets-n-kaiku-immersiivinen-luontokonsertti"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Viidakon villit naiset",
@@ -3985,6 +3986,14 @@ window.SCRAPED_EVENTS = [
     "title": "ANDETAG",
     "start_time": "2026-10-31T19:00:00+02:00",
     "url": "https://universum.fi/events/andetag-31-10/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Old Forest Echoes – Ikimetsän kaiku: immersiivinen luontokonsertti",
+    "start_time": "2026-11-01T00:00:00+02:00",
+    "end_time": "2026-11-01T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/8376C1D627E9F010009A7F12E757C791/old-forest-echoes-ikimets-n-kaiku-immersiivinen-luontokonsertti"
   },
   {
     "venue": "universum",
