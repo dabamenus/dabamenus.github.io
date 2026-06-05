@@ -169,7 +169,7 @@ window.SCRAPED_EVENTS = [
     "title": "PORTTITEATTERI: JÄLJET – Dokumentaarinen esitys kehojemme muistista",
     "start_time": "2026-06-05T00:00:00+03:00",
     "end_time": "2026-06-05T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/AC63DBF6A6F8110B4F5466AA555A0BB9/porttiteatteri-j-ljet-dokumentaarinen-esitys-kehojemme-muistista"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/porttiteatteri-j-ljet-dokumentaarinen-esitys-kehojemme-muistista"
   },
   {
     "venue": "stoa",
@@ -185,27 +185,6 @@ window.SCRAPED_EVENTS = [
     "title": "Spring Thing",
     "start_time": "2026-06-05T16:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/spring-thing"
-  },
-  {
-    "venue": "kiasma",
-    "venue_label": "Kiasma",
-    "title": "URB 26: World Canvas esittää",
-    "start_time": "2026-06-05T18:00:00+03:00",
-    "url": "https://kiasma.fi/esitykset/urb-26-world-canvas-esittaa/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Missä kuljimme kerran",
-    "start_time": "2026-06-05T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
-  },
-  {
-    "venue": "kiasma",
-    "venue_label": "Kiasma",
-    "title": "Sonya Lindfors: common moves revisited",
-    "start_time": "2026-06-05T19:00:00+03:00",
-    "url": "https://kiasma.fi/esitykset/urb26-common-moves-revisited/"
   },
   {
     "venue": "stoa",
