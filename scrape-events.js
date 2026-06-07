@@ -124,13 +124,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kiasma",
     "venue_label": "Kiasma",
-    "title": "Tibau Beirnaert & Laurens Aneca: Zero Feet Away",
-    "start_time": "2026-06-07T15:00:00+03:00",
-    "url": "https://kiasma.fi/esitykset/urb26-zero-feet-away/"
-  },
-  {
-    "venue": "kiasma",
-    "venue_label": "Kiasma",
     "title": "Biret Haarla Pieski: Päähenkilö",
     "start_time": "2026-06-07T19:00:00+03:00",
     "url": "https://kiasma.fi/esitykset/urb26-paahenkilo/"
