@@ -796,6 +796,14 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
+    "title": "Teatteri Qo: Niitty",
+    "start_time": "2026-08-19T00:00:00+03:00",
+    "end_time": "2026-08-19T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/A07D5C75A1E5F8D7B6113F78D1730A4D/teatteri-qo-niitty"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
     "title": "Skeittipaku Stoan aukio",
     "start_time": "2026-08-19T00:00:00+03:00",
     "end_time": "2026-08-19T23:59:00+03:00",
@@ -828,6 +836,14 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-08-19T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Teatteri Qo: Niitty",
+    "start_time": "2026-08-20T00:00:00+03:00",
+    "end_time": "2026-08-20T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/4DDB625525B0583E2281FBF21A7873EE/teatteri-qo-niitty"
   },
   {
     "venue": "tekstintalo",
