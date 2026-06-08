@@ -1794,6 +1794,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/anglagard/"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Esseetyöpajaryhmät",
+    "start_time": "2026-09-18T16:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/esseetyopajaryhmat"
+  },
+  {
     "venue": "cirko",
     "venue_label": "Cirko",
     "title": "Company Portmanteau: PYYKKI - Lost in Laundryland",
