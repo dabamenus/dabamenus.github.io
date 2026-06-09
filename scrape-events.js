@@ -14,14 +14,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/1984/"
   },
   {
-    "venue": "jurkka",
-    "venue_label": "Teatteri Jurkka",
-    "title": "Väylä",
-    "start_time": "2025-10-01T19:00:00+03:00",
-    "end_time": "2027-05-20T23:59:00+03:00",
-    "url": "https://www.jurkka.fi/class/vayla/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "1984",
@@ -34,14 +26,6 @@ window.SCRAPED_EVENTS = [
     "title": "1984",
     "start_time": "2025-12-02T19:00:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/1984/"
-  },
-  {
-    "venue": "jurkka",
-    "venue_label": "Teatteri Jurkka",
-    "title": "Myrsky",
-    "start_time": "2026-02-04T19:00:00+02:00",
-    "end_time": "2027-05-29T23:59:00+03:00",
-    "url": "https://www.jurkka.fi/class/myrsky/"
   },
   {
     "venue": "viirus",
@@ -307,13 +291,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/fandango-x-tekstin-taco-13-6"
   },
   {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Jumppatytöt",
-    "start_time": "2026-06-13T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/jumppatytot/"
-  },
-  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "MG",
@@ -339,10 +316,10 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
-    "title": "Metsään laskeutumiset Karhukalliolla",
+    "title": "Metsään laskeutuminen Karhukalliolla",
     "start_time": "2026-06-15T00:00:00+03:00",
     "end_time": "2026-06-15T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0DFEAB0EA78C256294EA5E9C46151C92/mets-n-laskeutumiset-karhukalliolla"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0DFEAB0EA78C256294EA5E9C46151C92/mets-n-laskeutuminen-karhukalliolla"
   },
   {
     "venue": "tekstintalo",
@@ -1014,25 +991,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
   },
   {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Karkelot",
-    "start_time": "2026-08-25T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Kati Raatikainen,Milla Martikainen:Sotku ja rakkaus",
     "start_time": "2026-08-26T16:00:19+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Karkelot",
-    "start_time": "2026-08-26T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
   },
   {
     "venue": "kansallisteatteri",
@@ -1042,18 +1005,18 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/ilta-mellerin-kanssa"
   },
   {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Karkelot",
-    "start_time": "2026-08-27T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lady T",
     "start_time": "2026-08-27T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Kuvataidekoulu",
+    "start_time": "2026-08-28T11:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/kuvataidekoulu"
   },
   {
     "venue": "hkt",
@@ -1091,13 +1054,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Karkelot",
-    "start_time": "2026-08-29T15:00:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lady T",
@@ -1117,13 +1073,6 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-08-29T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Karkelot",
-    "start_time": "2026-08-30T15:00:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
   },
   {
     "venue": "kansallisteatteri",
@@ -1390,12 +1339,26 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/nina-davies-2girls1comp-inexorable-non-player-character"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "12 filosofia – Muinaisten filosofien suuria oivalluksia",
+    "start_time": "2026-09-07T18:15:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/12-filosofia-muinaisten-filosofien-suuria-oivalluksia"
+  },
+  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Taidetta taaperoille",
     "start_time": "2026-09-08T00:00:00+03:00",
     "end_time": "2026-09-08T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/08633655C8DCB06899076885C7278626/taidetta-taaperoille"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Planetaarisen yhteisvaurauden ja hyvinvoinnin uudet jakoperusteet",
+    "start_time": "2026-09-08T18:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/planetaarisen-yhteisvaurauden-jakoperusteet"
   },
   {
     "venue": "kansallisteatteri",
@@ -1417,6 +1380,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kettutytön paluu",
     "start_time": "2026-09-08T19:00:00+03:00",
     "url": "https://universum.fi/events/kettutyton-paluu-8-9/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Itsenäisen tekemisen kuvataideryhmä",
+    "start_time": "2026-09-09T13:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/itsenaisen-tekemisen-kuvataideryhma"
   },
   {
     "venue": "kansallisteatteri",
@@ -2124,6 +2094,13 @@ window.SCRAPED_EVENTS = [
     "title": "Eteläpohjalaisia",
     "start_time": "2026-09-25T19:00:00+03:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Kollaasin tekeminen",
+    "start_time": "2026-09-26T11:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/kollaasin-tekeminen"
   },
   {
     "venue": "hkt",
@@ -4560,13 +4537,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/iikka-kivi-protestinauru-stand-up-show/"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Olen X (verkkokurssitus 12.9.-12.12. 2026)",
-    "start_time": "2026-11-14T11:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/olen-x-verkkokurssitus-12-9-12-12-2026-copy3"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kurtturuusut",
@@ -5536,14 +5506,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/kettutyton-paluu-2-12/"
   },
   {
-    "venue": "jurkka",
-    "venue_label": "Teatteri Jurkka",
-    "title": "Mitä tapahtui Oliverille?",
-    "start_time": "2026-12-02T19:00:00+02:00",
-    "end_time": "2027-03-20T23:59:00+02:00",
-    "url": "https://www.jurkka.fi/class/mita-tapahtui-oliverille/"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Taidetta taaperoille",
@@ -6001,13 +5963,6 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-12-11T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Olen X (verkkokurssitus 12.9.-12.12. 2026)",
-    "start_time": "2026-12-12T11:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/olen-x-verkkokurssitus-12-9-12-12-2026-copy4"
   },
   {
     "venue": "kansallisteatteri",
