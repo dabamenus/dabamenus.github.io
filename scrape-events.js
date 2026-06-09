@@ -116,19 +116,12 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/queer-zinekirjasto"
   },
   {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "MG",
-    "start_time": "2026-06-07T19:00:00+03:00",
-    "url": "https://universum.fi/events/mg-7-6/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
-    "title": "Stoan tekstiilisuunnittelun kesäkoulu",
+    "title": "TÄYNNÄ | Stoan tekstiilisuunnittelun kesäkoulu",
     "start_time": "2026-06-08T00:00:00+03:00",
     "end_time": "2026-06-17T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/447E4B842CFEA25D63B5FB314B03A240/stoan-tekstiilisuunnittelun-kes-koulu"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/447E4B842CFEA25D63B5FB314B03A240/t-ynn-stoan-tekstiilisuunnittelun-kes-koulu"
   },
   {
     "venue": "stoa",
