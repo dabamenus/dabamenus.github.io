@@ -110,7 +110,7 @@ window.SCRAPED_EVENTS = [
     "title": "PORTTITEATTERI: JÄLJET – Dokumentaarinen esitys kehojemme muistista",
     "start_time": "2026-06-10T00:00:00+03:00",
     "end_time": "2026-06-10T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/72C7B45BF466F6600F1EAA7BC58E3201/porttiteatteri-j-ljet-dokumentaarinen-esitys-kehojemme-muistista"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/porttiteatteri-j-ljet-dokumentaarinen-esitys-kehojemme-muistista"
   },
   {
     "venue": "caisa",
@@ -118,14 +118,7 @@ window.SCRAPED_EVENTS = [
     "title": "Kahlekuningatar",
     "start_time": "2026-06-10T00:00:00+03:00",
     "end_time": "2026-06-10T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/9BA74AF51992BBB0D8D7533E3C24D213/kahlekuningatar"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Son Jarocho -lyriikkatyöpaja",
-    "start_time": "2026-06-10T17:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/son-jarocho-lyriikkatyopaja"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/kahlekuningatar"
   },
   {
     "venue": "universum",
@@ -2145,6 +2138,13 @@ window.SCRAPED_EVENTS = [
     "title": "Eteläpohjalaisia",
     "start_time": "2026-09-25T19:00:00+03:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Kollaasin tekeminen",
+    "start_time": "2026-09-26T11:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/kollaasin-tekeminen"
   },
   {
     "venue": "hkt",
