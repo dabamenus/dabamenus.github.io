@@ -14,6 +14,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/1984/"
   },
   {
+    "venue": "jurkka",
+    "venue_label": "Teatteri Jurkka",
+    "title": "Väylä",
+    "start_time": "2025-10-01T19:00:00+03:00",
+    "end_time": "2027-05-20T23:59:00+03:00",
+    "url": "https://www.jurkka.fi/class/vayla/"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "1984",
@@ -26,6 +34,14 @@ window.SCRAPED_EVENTS = [
     "title": "1984",
     "start_time": "2025-12-02T19:00:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/1984/"
+  },
+  {
+    "venue": "jurkka",
+    "venue_label": "Teatteri Jurkka",
+    "title": "Myrsky",
+    "start_time": "2026-02-04T19:00:00+02:00",
+    "end_time": "2027-05-29T23:59:00+03:00",
+    "url": "https://www.jurkka.fi/class/myrsky/"
   },
   {
     "venue": "stoa",
@@ -87,22 +103,6 @@ window.SCRAPED_EVENTS = [
     "title": "Sarjakuvakeskuksen kesäleirit: Sarjakuva- ja animaatioleiri",
     "start_time": "2026-06-08T10:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvakeskuksen-kesaleirit-sarjakuva-animaatio"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "PORTTITEATTERI: JÄLJET – Dokumentaarinen esitys kehojemme muistista",
-    "start_time": "2026-06-10T00:00:00+03:00",
-    "end_time": "2026-06-10T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/porttiteatteri-j-ljet-dokumentaarinen-esitys-kehojemme-muistista"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Kahlekuningatar",
-    "start_time": "2026-06-10T00:00:00+03:00",
-    "end_time": "2026-06-10T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/kahlekuningatar"
   },
   {
     "venue": "universum",
@@ -210,6 +210,13 @@ window.SCRAPED_EVENTS = [
     "title": "Fandango x Tekstin taco 13.6.",
     "start_time": "2026-06-13T15:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/fandango-x-tekstin-taco-13-6"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Jumppatytöt",
+    "start_time": "2026-06-13T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/jumppatytot/"
   },
   {
     "venue": "universum",
@@ -649,6 +656,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/birds-of-paradise/"
   },
   {
+    "venue": "madhouse",
+    "venue_label": "Mad House",
+    "title": "MAR/MÆR – BEDROCK : : ROCKBED",
+    "start_time": "2026-08-16T19:00:00+03:00",
+    "url": "https://www.madhousehelsinki.fi/ohjelmisto/bedrock-rockbed"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Birds of Paradise",
@@ -727,6 +741,14 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-08-19T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Stoan Elojuhla X Middle East Jam Festival",
+    "start_time": "2026-08-20T00:00:00+03:00",
+    "end_time": "2026-08-20T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F13D83B4A15B5A37E9F24CCFE70BBF0C/stoan-elojuhla-x-middle-east-jam-festival"
   },
   {
     "venue": "stoa",
@@ -935,11 +957,25 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Karkelot",
+    "start_time": "2026-08-25T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
+  },
+  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Kati Raatikainen,Milla Martikainen:Sotku ja rakkaus",
     "start_time": "2026-08-26T16:00:19+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Karkelot",
+    "start_time": "2026-08-26T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
   },
   {
     "venue": "kansallisteatteri",
@@ -949,11 +985,26 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/ilta-mellerin-kanssa"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Karkelot",
+    "start_time": "2026-08-27T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lady T",
     "start_time": "2026-08-27T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Jussin niittysadut",
+    "start_time": "2026-08-28T00:00:00+03:00",
+    "end_time": "2026-08-28T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/4294A0D40DA4E3E043A94DE3154BD942/jussin-niittysadut"
   },
   {
     "venue": "tekstintalo",
@@ -984,6 +1035,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Stoan Suomen luonnon päivä",
+    "start_time": "2026-08-29T00:00:00+03:00",
+    "end_time": "2026-08-29T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/8B98D98603660D2FD7CEE575BB858041/stoan-suomen-luonnon-p-iv"
+  },
+  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Kati Raatikainen,Milla Martikainen:Sotku ja rakkaus",
@@ -996,6 +1055,13 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-08-29T13:00:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Karkelot",
+    "start_time": "2026-08-29T15:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
   },
   {
     "venue": "kansallisteatteri",
@@ -1017,6 +1083,13 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-08-29T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Karkelot",
+    "start_time": "2026-08-30T15:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
   },
   {
     "venue": "kansallisteatteri",
@@ -1167,6 +1240,14 @@ window.SCRAPED_EVENTS = [
     "title": "De obehöriga",
     "start_time": "2026-09-03T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/de-obehoriga/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Jussin niittysadut",
+    "start_time": "2026-09-04T00:00:00+03:00",
+    "end_time": "2026-09-04T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/691BF08803460CBE7842EF701E1CECCF/jussin-niittysadut"
   },
   {
     "venue": "kansallisteatteri",
@@ -1375,6 +1456,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://cirko.fi/esitys/helsinki-circus-festival-2/"
   },
   {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "The Nordic Council: Häppy Hour",
+    "start_time": "2026-09-10T00:00:00+03:00",
+    "end_time": "2026-09-10T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/30B39F2FA211A5459EABBE29CE2DD2D4/the-nordic-council-h-ppy-hour"
+  },
+  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Taidetta taaperoille",
@@ -1430,6 +1519,14 @@ window.SCRAPED_EVENTS = [
     "title": "Helsinki Circus Festival",
     "start_time": "2026-09-11T00:00:00+03:00",
     "url": "https://cirko.fi/esitys/helsinki-circus-festival-2/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "The Nordic Council: Häppy Hour",
+    "start_time": "2026-09-11T00:00:00+03:00",
+    "end_time": "2026-09-11T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0AE565F8B77CB33EA192F4134FA49151/the-nordic-council-h-ppy-hour"
   },
   {
     "venue": "kansallisteatteri",
@@ -1888,6 +1985,13 @@ window.SCRAPED_EVENTS = [
     "title": "Sandyrella",
     "start_time": "2026-09-19T19:00:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/sandyrella/"
+  },
+  {
+    "venue": "madhouse",
+    "venue_label": "Mad House",
+    "title": "Tuomas Laitinen – Elämä on väliaikaista",
+    "start_time": "2026-09-19T19:00:00+03:00",
+    "url": "https://www.madhousehelsinki.fi/ohjelmisto/elama-on-valiaikaista"
   },
   {
     "venue": "svenska",
@@ -2787,6 +2891,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "madhouse",
+    "venue_label": "Mad House",
+    "title": "Emil Santtu Uuttu Et al –  Valokuvista",
+    "start_time": "2026-10-09T19:00:00+03:00",
+    "url": "https://www.madhousehelsinki.fi/ohjelmisto/valokuvista"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kotijoukot",
@@ -2897,6 +3008,13 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-10-10T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "madhouse",
+    "venue_label": "Mad House",
+    "title": "Emil Santtu Uuttu Et al –  Valokuvista",
+    "start_time": "2026-10-10T19:00:00+03:00",
+    "url": "https://www.madhousehelsinki.fi/ohjelmisto/valokuvista"
   },
   {
     "venue": "hkt",
@@ -3476,6 +3594,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
+    "venue": "madhouse",
+    "venue_label": "Mad House",
+    "title": "Luonnos-ilta",
+    "start_time": "2026-10-23T19:00:00+03:00",
+    "url": "https://www.madhousehelsinki.fi/ohjelmisto/luonnos-ilta"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "ANDETAG",
@@ -3947,6 +4072,13 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-10-30T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
+  },
+  {
+    "venue": "madhouse",
+    "venue_label": "Mad House",
+    "title": "Atte Kantonen – bugbath: pathmaking",
+    "start_time": "2026-10-30T19:00:00+02:00",
+    "url": "https://www.madhousehelsinki.fi/ohjelmisto/bugbathpathmaking"
   },
   {
     "venue": "svenska",
@@ -5560,6 +5692,14 @@ window.SCRAPED_EVENTS = [
     "title": "Kettutytön paluu",
     "start_time": "2026-12-02T19:00:00+02:00",
     "url": "https://universum.fi/events/kettutyton-paluu-2-12/"
+  },
+  {
+    "venue": "jurkka",
+    "venue_label": "Teatteri Jurkka",
+    "title": "Mitä tapahtui Oliverille?",
+    "start_time": "2026-12-02T19:00:00+02:00",
+    "end_time": "2027-03-20T23:59:00+02:00",
+    "url": "https://www.jurkka.fi/class/mita-tapahtui-oliverille/"
   },
   {
     "venue": "caisa",
