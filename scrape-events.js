@@ -87,7 +87,7 @@ window.SCRAPED_EVENTS = [
     "title": "Kesätaidefillari itähelsinkiläisissä leikkipuistoissa",
     "start_time": "2026-06-08T00:00:00+03:00",
     "end_time": "2026-06-12T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/6EAA0D7324E3366DC97DAEC285EFE57B/kes-taidefillari-it-helsinkil-isiss-leikkipuistoissa"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/kes-taidefillari-it-helsinkil-isiss-leikkipuistoissa"
   },
   {
     "venue": "caisa",
@@ -95,14 +95,7 @@ window.SCRAPED_EVENTS = [
     "title": "Lavastettu juttu",
     "start_time": "2026-06-08T00:00:00+03:00",
     "end_time": "2026-06-12T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/ED4DCD9E32DEC64648CC445411E403AC/lavastettu-juttu"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Sarjakuvakeskuksen kesäleirit: Sarjakuva- ja animaatioleiri",
-    "start_time": "2026-06-08T10:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvakeskuksen-kesaleirit-sarjakuva-animaatio"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/lavastettu-juttu"
   },
   {
     "venue": "stoa",
@@ -2940,6 +2933,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kotijoukot",
     "start_time": "2026-10-09T19:00:00+03:00",
     "url": "https://hkt.fi/esitykset/kotijoukot/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Olen X (verkkokurssitus 12.9.-12.12. 2026)",
+    "start_time": "2026-10-10T11:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/olen-x-verkkokurssitus-12-9-12-12-2026-copy"
   },
   {
     "venue": "zodiak",
