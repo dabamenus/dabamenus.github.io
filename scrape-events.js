@@ -119,7 +119,7 @@ window.SCRAPED_EVENTS = [
     "title": "Helsinki-päivä Stoassa: Helsinki Circus Festivalin ennakkojuhla",
     "start_time": "2026-06-12T00:00:00+03:00",
     "end_time": "2026-06-12T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/7410FE6427C79B67F43EBDE51AD2941F/helsinki-p-iv-stoassa-helsinki-circus-festivalin-ennakkojuhla"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/helsinki-p-iv-stoassa-helsinki-circus-festivalin-ennakkojuhla"
   },
   {
     "venue": "caisa",
@@ -127,14 +127,7 @@ window.SCRAPED_EVENTS = [
     "title": "Kahlekuningatar",
     "start_time": "2026-06-12T00:00:00+03:00",
     "end_time": "2026-06-12T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/8B817A42C4FBCD12CE45F4A065406F6F/kahlekuningatar"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Missä kuljimme kerran",
-    "start_time": "2026-06-12T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/kahlekuningatar"
   },
   {
     "venue": "stoa",
