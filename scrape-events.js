@@ -122,13 +122,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/DAE88FCD84E8608FB3B1AB4FF550A076/kahlekuningatar"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Missä kuljimme kerran",
-    "start_time": "2026-06-13T14:00:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
-  },
-  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Fandango x Tekstin taco 13.6.",
