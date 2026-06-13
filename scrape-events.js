@@ -84,22 +84,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
-    "title": "Kesätaidefillari itähelsinkiläisissä leikkipuistoissa",
-    "start_time": "2026-06-08T00:00:00+03:00",
-    "end_time": "2026-06-12T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/kes-taidefillari-it-helsinkil-isiss-leikkipuistoissa"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Lavastettu juttu",
-    "start_time": "2026-06-08T00:00:00+03:00",
-    "end_time": "2026-06-12T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/lavastettu-juttu"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
     "title": "Mila Milax: Soul of Helsinki - Study of soul from a city perspective",
     "start_time": "2026-06-12T00:00:00+03:00",
     "end_time": "2026-08-09T23:59:00+03:00",
@@ -112,22 +96,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-06-12T00:00:00+03:00",
     "end_time": "2026-08-30T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F2E50462006DF628DE768041D5EE7228/luontosuhteita"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Helsinki-päivä Stoassa: Helsinki Circus Festivalin ennakkojuhla",
-    "start_time": "2026-06-12T00:00:00+03:00",
-    "end_time": "2026-06-12T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/helsinki-p-iv-stoassa-helsinki-circus-festivalin-ennakkojuhla"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Kahlekuningatar",
-    "start_time": "2026-06-12T00:00:00+03:00",
-    "end_time": "2026-06-12T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/kahlekuningatar"
   },
   {
     "venue": "stoa",
