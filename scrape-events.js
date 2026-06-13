@@ -103,7 +103,7 @@ window.SCRAPED_EVENTS = [
     "title": "Stoa Hip Hop Saturday",
     "start_time": "2026-06-13T00:00:00+03:00",
     "end_time": "2026-06-13T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/83EFA0506392238403F7D5E7E49CA6F6/stoa-hip-hop-saturday"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/stoa-hip-hop-saturday"
   },
   {
     "venue": "stoa",
@@ -119,7 +119,7 @@ window.SCRAPED_EVENTS = [
     "title": "Kahlekuningatar",
     "start_time": "2026-06-13T00:00:00+03:00",
     "end_time": "2026-06-13T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/DAE88FCD84E8608FB3B1AB4FF550A076/kahlekuningatar"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/kahlekuningatar"
   },
   {
     "venue": "tekstintalo",
