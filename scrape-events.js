@@ -111,7 +111,7 @@ window.SCRAPED_EVENTS = [
     "title": "Metsän ötökät ja otukset - savimuovailutyöpaja",
     "start_time": "2026-06-13T00:00:00+03:00",
     "end_time": "2026-06-13T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/7E8B049BE2A0ADC1635DF78878B88833/mets-n-t-k-t-ja-otukset-savimuovailuty-paja"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/mets-n-t-k-t-ja-otukset-savimuovailuty-paja"
   },
   {
     "venue": "caisa",
