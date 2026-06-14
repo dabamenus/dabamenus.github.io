@@ -110,7 +110,7 @@ window.SCRAPED_EVENTS = [
     "title": "Metsäfoorumi",
     "start_time": "2026-06-14T00:00:00+03:00",
     "end_time": "2026-06-14T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/727F4D380C1632021DC48F98D7A0777B/mets-foorumi"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/mets-foorumi"
   },
   {
     "venue": "caisa",
@@ -118,7 +118,7 @@ window.SCRAPED_EVENTS = [
     "title": "Kahlekuningatar",
     "start_time": "2026-06-14T00:00:00+03:00",
     "end_time": "2026-06-14T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/D6EFA83B81970CA8E0ED0A0B43861F2A/kahlekuningatar"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/kahlekuningatar"
   },
   {
     "venue": "stoa",
