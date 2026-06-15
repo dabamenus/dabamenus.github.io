@@ -103,7 +103,7 @@ window.SCRAPED_EVENTS = [
     "title": "SIIRTYY EPÄVAKAISEN SÄÄN VUOKSI: Metsään laskeutuminen Karhukalliolla",
     "start_time": "2026-06-15T00:00:00+03:00",
     "end_time": "2026-06-15T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0DFEAB0EA78C256294EA5E9C46151C92/siirtyy-ep-vakaisen-s-n-vuoksi-mets-n-laskeutuminen-karhukalliolla"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/siirtyy-ep-vakaisen-s-n-vuoksi-mets-n-laskeutuminen-karhukalliolla"
   },
   {
     "venue": "tekstintalo",
@@ -1139,6 +1139,30 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
+    "title": "Ukrainalais–suomalaisen sarjakuvaprojektin näyttely",
+    "start_time": "2026-09-03T00:00:00+03:00",
+    "end_time": "2026-09-20T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/9AAC9784DCE71EC7FA0A7C59641E12E1/ukrainalais-suomalaisen-sarjakuvaprojektin-n-yttely"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Kutiburger: suomalais-slovenialainen sarjakuvadialogi",
+    "start_time": "2026-09-03T00:00:00+03:00",
+    "end_time": "2026-09-20T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/FC1DA793193AA4A546DA0DB8AB30B2D5/kutiburger-suomalais-slovenialainen-sarjakuvadialogi"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Festivaalitaiteilija Emilia Laatikaisen näyttely",
+    "start_time": "2026-09-03T00:00:00+03:00",
+    "end_time": "2026-09-20T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/77B4BF323E2BCDCAC329960BC09C0F96/festivaalitaiteilija-emilia-laatikaisen-n-yttely"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
     "title": "RISA: Only Bones 2.0",
     "start_time": "2026-09-03T00:00:00+03:00",
     "end_time": "2026-09-03T23:59:00+03:00",
@@ -1845,6 +1869,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/anglagard/"
   },
   {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Lasten sarjisfestarit",
+    "start_time": "2026-09-18T00:00:00+03:00",
+    "end_time": "2026-09-18T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/CD1E8994BEBA8BCE424542BEE651819D/lasten-sarjisfestarit"
+  },
+  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Esseetyöpajaryhmät",
@@ -1906,6 +1938,14 @@ window.SCRAPED_EVENTS = [
     "title": "Eteläpohjalaisia",
     "start_time": "2026-09-18T19:00:00+03:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Helsingin sarjakuvafestivaalit",
+    "start_time": "2026-09-19T00:00:00+03:00",
+    "end_time": "2026-09-20T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/8B3A99510EE5067F529C53D4BED6E973/helsingin-sarjakuvafestivaalit"
   },
   {
     "venue": "cirko",
@@ -2051,6 +2091,14 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
+    "title": "Opi suomea laulaen",
+    "start_time": "2026-09-22T00:00:00+03:00",
+    "end_time": "2026-09-22T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/83D6E20221ABD26DE81714BA01241ABF/opi-suomea-laulaen"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
     "title": "Sirkuskurssi senioreille, Ryhmä 1",
     "start_time": "2026-09-22T00:00:00+03:00",
     "end_time": "2026-09-22T23:59:00+03:00",
@@ -2106,6 +2154,14 @@ window.SCRAPED_EVENTS = [
     "title": "Eteläpohjalaisia",
     "start_time": "2026-09-22T19:00:00+03:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Jäljellä on kuva",
+    "start_time": "2026-09-23T00:00:00+03:00",
+    "end_time": "2026-10-11T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/D88C1822202FDD5517A20FB653A6FB51/j-ljell-on-kuva"
   },
   {
     "venue": "hkt",
