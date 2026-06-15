@@ -98,35 +98,12 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F2E50462006DF628DE768041D5EE7228/luontosuhteita"
   },
   {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "MG",
-    "start_time": "2026-06-13T19:00:00+03:00",
-    "url": "https://universum.fi/events/mg-13-6/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
-    "title": "Metsäfoorumi",
-    "start_time": "2026-06-14T00:00:00+03:00",
-    "end_time": "2026-06-14T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/mets-foorumi"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Kahlekuningatar",
-    "start_time": "2026-06-14T00:00:00+03:00",
-    "end_time": "2026-06-14T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/kahlekuningatar"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Metsään laskeutuminen Karhukalliolla",
+    "title": "SIIRTYY EPÄVAKAISEN SÄÄN VUOKSI: Metsään laskeutuminen Karhukalliolla",
     "start_time": "2026-06-15T00:00:00+03:00",
     "end_time": "2026-06-15T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0DFEAB0EA78C256294EA5E9C46151C92/mets-n-laskeutuminen-karhukalliolla"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0DFEAB0EA78C256294EA5E9C46151C92/siirtyy-ep-vakaisen-s-n-vuoksi-mets-n-laskeutuminen-karhukalliolla"
   },
   {
     "venue": "tekstintalo",
@@ -1020,6 +997,38 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Ohjatut päivätanssit Stoan aulassa",
+    "start_time": "2026-09-01T00:00:00+03:00",
+    "end_time": "2026-09-01T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/05F99034CC9C1FDCE9EDD347207A415D/ohjatut-p-iv-tanssit-stoan-aulassa"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi senioreille, Ryhmä 1",
+    "start_time": "2026-09-01T00:00:00+03:00",
+    "end_time": "2026-09-01T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/176DEAA5C2D5ADDCBB54B5C3449D61AB/sirkuskurssi-senioreille-ryhm-1"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi senioreille, Ryhmä 2",
+    "start_time": "2026-09-01T00:00:00+03:00",
+    "end_time": "2026-09-01T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/6C4DB859FDD07715FE6E40B243BB0D2F/sirkuskurssi-senioreille-ryhm-2"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi perheille",
+    "start_time": "2026-09-01T00:00:00+03:00",
+    "end_time": "2026-09-01T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/AED2392D6C9BB3172716FB1B75401839/sirkuskurssi-perheille"
+  },
+  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Taidetta taaperoille",
@@ -1061,6 +1070,22 @@ window.SCRAPED_EVENTS = [
     "title": "Elolliset",
     "start_time": "2026-09-01T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/elolliset/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi taaperoperheille",
+    "start_time": "2026-09-02T00:00:00+03:00",
+    "end_time": "2026-09-02T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/689869865C6F95FA8FC8822FC6F9E56F/sirkuskurssi-taaperoperheille"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi vauvaperheille",
+    "start_time": "2026-09-02T00:00:00+03:00",
+    "end_time": "2026-09-02T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/A7FFA9AE1FDF94A7431D4D864F605B0C/sirkuskurssi-vauvaperheille"
   },
   {
     "venue": "zodiak",
@@ -1290,6 +1315,22 @@ window.SCRAPED_EVENTS = [
     "title": "12 filosofia – Muinaisten filosofien suuria oivalluksia",
     "start_time": "2026-09-07T18:15:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/12-filosofia-muinaisten-filosofien-suuria-oivalluksia"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi senioreille, Ryhmä 1",
+    "start_time": "2026-09-08T00:00:00+03:00",
+    "end_time": "2026-09-08T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/E6DAD2F1E3A490BE2D04FEDFBC48DD1D/sirkuskurssi-senioreille-ryhm-1"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi senioreille, Ryhmä 2",
+    "start_time": "2026-09-08T00:00:00+03:00",
+    "end_time": "2026-09-08T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/20762AE6A5795D8074A7BB9187CCAF14/sirkuskurssi-senioreille-ryhm-2"
   },
   {
     "venue": "caisa",
@@ -1609,6 +1650,14 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
+    "title": "Agit Cirk - Kajo",
+    "start_time": "2026-09-13T00:00:00+03:00",
+    "end_time": "2026-09-13T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/385D81DD6FC5F88A5D042AC3184C7A3D/agit-cirk-kajo"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
     "title": "Blind Gut Company: Maannos",
     "start_time": "2026-09-13T00:00:00+03:00",
     "end_time": "2026-09-13T23:59:00+03:00",
@@ -1628,6 +1677,22 @@ window.SCRAPED_EVENTS = [
     "title": "Viidakon villit naiset",
     "start_time": "2026-09-14T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi senioreille, Ryhmä 1",
+    "start_time": "2026-09-15T00:00:00+03:00",
+    "end_time": "2026-09-15T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/BDA8962F605840426C6487B08001BD86/sirkuskurssi-senioreille-ryhm-1"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi senioreille, Ryhmä 2",
+    "start_time": "2026-09-15T00:00:00+03:00",
+    "end_time": "2026-09-15T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F80E4B366996649CC35DBC150AAD24CB/sirkuskurssi-senioreille-ryhm-2"
   },
   {
     "venue": "caisa",
@@ -1678,6 +1743,14 @@ window.SCRAPED_EVENTS = [
     "title": "Eteläpohjalaisia",
     "start_time": "2026-09-15T19:00:00+03:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Ellin elokuvahetki",
+    "start_time": "2026-09-16T00:00:00+03:00",
+    "end_time": "2026-09-16T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/EA81E543E4BD95A56054B54AB781E43F/ellin-elokuvahetki"
   },
   {
     "venue": "kansallisteatteri",
@@ -1974,6 +2047,22 @@ window.SCRAPED_EVENTS = [
     "title": "Kotijoukot",
     "start_time": "2026-09-21T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/kotijoukot/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi senioreille, Ryhmä 1",
+    "start_time": "2026-09-22T00:00:00+03:00",
+    "end_time": "2026-09-22T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/15AB6834BA033B6081C7CE094BE56ECC/sirkuskurssi-senioreille-ryhm-1"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi senioreille, Ryhmä 2",
+    "start_time": "2026-09-22T00:00:00+03:00",
+    "end_time": "2026-09-22T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/06759AD55844CDCBD2FE33542C9DDF13/sirkuskurssi-senioreille-ryhm-2"
   },
   {
     "venue": "caisa",
@@ -2287,6 +2376,22 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi senioreille, Ryhmä 1",
+    "start_time": "2026-09-29T00:00:00+03:00",
+    "end_time": "2026-09-29T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/7E3D5095E1D79ECCDDF669C89538BC48/sirkuskurssi-senioreille-ryhm-1"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi senioreille, Ryhmä 2",
+    "start_time": "2026-09-29T00:00:00+03:00",
+    "end_time": "2026-09-29T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/FB37C530BF44E5793D55F29E23180971/sirkuskurssi-senioreille-ryhm-2"
+  },
+  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Taidetta taaperoille",
@@ -2596,6 +2701,30 @@ window.SCRAPED_EVENTS = [
     "title": "Kurtturuusut",
     "start_time": "2026-10-05T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/kurtturuusut/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Ohjatut päivätanssit Stoan aulassa",
+    "start_time": "2026-10-06T00:00:00+03:00",
+    "end_time": "2026-10-06T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/E88FD69E2D363CF0EB403E7F641A2B2D/ohjatut-p-iv-tanssit-stoan-aulassa"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi senioreille, Ryhmä 1",
+    "start_time": "2026-10-06T00:00:00+03:00",
+    "end_time": "2026-10-06T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/5350FEF475E8C47716309543288DA2E7/sirkuskurssi-senioreille-ryhm-1"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi senioreille, Ryhmä 2",
+    "start_time": "2026-10-06T00:00:00+03:00",
+    "end_time": "2026-10-06T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/5C75C823402BFDBC299BA6765D23FCFE/sirkuskurssi-senioreille-ryhm-2"
   },
   {
     "venue": "caisa",
@@ -3307,6 +3436,22 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/orvot"
   },
   {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi senioreille, Ryhmä 1",
+    "start_time": "2026-10-20T00:00:00+03:00",
+    "end_time": "2026-10-20T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/B7105B7CC54E9137DCB921377CC83DBD/sirkuskurssi-senioreille-ryhm-1"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi senioreille, Ryhmä 2",
+    "start_time": "2026-10-20T00:00:00+03:00",
+    "end_time": "2026-10-20T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F04868F2159C700880D63D85E968F6C7/sirkuskurssi-senioreille-ryhm-2"
+  },
+  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Taidetta taaperoille",
@@ -3751,6 +3896,22 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/andetag-26-10/"
   },
   {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi senioreille, Ryhmä 1",
+    "start_time": "2026-10-27T00:00:00+02:00",
+    "end_time": "2026-10-27T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0E78AFFC7FD570D4AC46F200A0790C91/sirkuskurssi-senioreille-ryhm-1"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi senioreille, Ryhmä 2",
+    "start_time": "2026-10-27T00:00:00+02:00",
+    "end_time": "2026-10-27T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/432E0EB177ADAFF660AC9EFADE4B9E61/sirkuskurssi-senioreille-ryhm-2"
+  },
+  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Taidetta taaperoille",
@@ -3958,10 +4119,10 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "caisa",
     "venue_label": "Caisa",
-    "title": "Caisa 30 Club - Luciana Garcia Ensemble",
+    "title": "Luciana García Ensemble",
     "start_time": "2026-10-30T00:00:00+02:00",
     "end_time": "2026-10-30T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/AF8043AFA23C9A82F0871693042F7CA3/caisa-30-club-luciana-garcia-ensemble"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/AF8043AFA23C9A82F0871693042F7CA3/luciana-garc-a-ensemble"
   },
   {
     "venue": "zodiak",
@@ -4139,6 +4300,30 @@ window.SCRAPED_EVENTS = [
     "title": "Viidakon villit naiset",
     "start_time": "2026-11-02T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Ohjatut päivätanssit Stoan aulassa",
+    "start_time": "2026-11-03T00:00:00+02:00",
+    "end_time": "2026-11-03T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/097FA14A8BBCB3EFD131073BF3287651/ohjatut-p-iv-tanssit-stoan-aulassa"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi senioreille, Ryhmä 1",
+    "start_time": "2026-11-03T00:00:00+02:00",
+    "end_time": "2026-11-03T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/AC500E50B5954CD964D1987AB05F11B0/sirkuskurssi-senioreille-ryhm-1"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi senioreille, Ryhmä 2",
+    "start_time": "2026-11-03T00:00:00+02:00",
+    "end_time": "2026-11-03T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/09F955F50A40FB785A4D4170B94459F3/sirkuskurssi-senioreille-ryhm-2"
   },
   {
     "venue": "caisa",
@@ -4443,6 +4628,22 @@ window.SCRAPED_EVENTS = [
     "title": "ANDETAG",
     "start_time": "2026-11-09T19:00:00+02:00",
     "url": "https://universum.fi/events/andetag-9-11/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi senioreille, Ryhmä 1",
+    "start_time": "2026-11-10T00:00:00+02:00",
+    "end_time": "2026-11-10T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/2BD18F58043330B53F60CE9AB38BEBF9/sirkuskurssi-senioreille-ryhm-1"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi senioreille, Ryhmä 2",
+    "start_time": "2026-11-10T00:00:00+02:00",
+    "end_time": "2026-11-10T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/316DCF29B05A8CC93A82A7153F7FA34E/sirkuskurssi-senioreille-ryhm-2"
   },
   {
     "venue": "caisa",
@@ -5525,6 +5726,14 @@ window.SCRAPED_EVENTS = [
     "title": "no-no",
     "start_time": "2026-11-30T19:30:00+02:00",
     "url": "https://hkt.fi/esitykset/no-no-2/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Ohjatut päivätanssit Stoan aulassa",
+    "start_time": "2026-12-01T00:00:00+02:00",
+    "end_time": "2026-12-01T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/FE9CD095E270BA80C9B1D3E73340A72D/ohjatut-p-iv-tanssit-stoan-aulassa"
   },
   {
     "venue": "caisa",
@@ -7067,5 +7276,12 @@ window.SCRAPED_EVENTS = [
     "title": "Puhutaan Richardista",
     "start_time": "2027-05-20T19:00:00+03:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "MG",
+    "start_time": "2027-06-07T19:00:00+03:00",
+    "url": "https://universum.fi/events/mg-7-6/"
   }
 ];
