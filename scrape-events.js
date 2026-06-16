@@ -14,6 +14,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/1984/"
   },
   {
+    "venue": "jurkka",
+    "venue_label": "Teatteri Jurkka",
+    "title": "Väylä",
+    "start_time": "2025-10-01T19:00:00+03:00",
+    "end_time": "2027-05-20T23:59:00+03:00",
+    "url": "https://www.jurkka.fi/class/vayla/"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "1984",
@@ -26,6 +34,14 @@ window.SCRAPED_EVENTS = [
     "title": "1984",
     "start_time": "2025-12-02T19:00:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/1984/"
+  },
+  {
+    "venue": "jurkka",
+    "venue_label": "Teatteri Jurkka",
+    "title": "Myrsky",
+    "start_time": "2026-02-04T19:00:00+02:00",
+    "end_time": "2027-05-29T23:59:00+03:00",
+    "url": "https://www.jurkka.fi/class/myrsky/"
   },
   {
     "venue": "stoa",
@@ -789,11 +805,26 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0DFDCEEBC9891563D661DF26B8AED722/urbanapa-x-stoa-movement-currents-liike-ja-virtaukset"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "OLEMA",
+    "start_time": "2026-08-25T00:00:00+03:00",
+    "end_time": "2026-08-25T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/26072EA705D313E11BEDE60688B08C79/olema"
+  },
+  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Kati Raatikainen,Milla Martikainen:Sotku ja rakkaus",
     "start_time": "2026-08-25T16:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Karkelot",
+    "start_time": "2026-08-25T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
   },
   {
     "venue": "ryhmateatteri",
@@ -803,11 +834,26 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "OLEMA",
+    "start_time": "2026-08-26T00:00:00+03:00",
+    "end_time": "2026-08-26T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/9B89D02F33E2C26226604DFFA03E7F45/olema"
+  },
+  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Kati Raatikainen,Milla Martikainen:Sotku ja rakkaus",
     "start_time": "2026-08-26T16:00:19+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Karkelot",
+    "start_time": "2026-08-26T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
   },
   {
     "venue": "ryhmateatteri",
@@ -822,6 +868,13 @@ window.SCRAPED_EVENTS = [
     "title": "Ilta Mellerin kanssa",
     "start_time": "2026-08-26T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/ilta-mellerin-kanssa"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Karkelot",
+    "start_time": "2026-08-27T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
   },
   {
     "venue": "ryhmateatteri",
@@ -844,6 +897,14 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-08-28T00:00:00+03:00",
     "end_time": "2026-08-28T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/4294A0D40DA4E3E043A94DE3154BD942/jussin-niittysadut"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "OLEMA",
+    "start_time": "2026-08-28T00:00:00+03:00",
+    "end_time": "2026-08-28T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/4BE6944BD76CCB69E5CFC6EAAA6E8D64/olema"
   },
   {
     "venue": "tekstintalo",
@@ -889,6 +950,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/8B98D98603660D2FD7CEE575BB858041/stoan-suomen-luonnon-p-iv"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "OLEMA",
+    "start_time": "2026-08-29T00:00:00+03:00",
+    "end_time": "2026-08-29T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/D5DA1DC7B99277385CB6B0A672F1C310/olema"
+  },
+  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Kati Raatikainen,Milla Martikainen:Sotku ja rakkaus",
@@ -910,6 +979,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Karkelot",
+    "start_time": "2026-08-29T15:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lady T",
@@ -929,6 +1005,21 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-08-29T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "OLEMA",
+    "start_time": "2026-08-30T00:00:00+03:00",
+    "end_time": "2026-08-30T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/D5595565EA9D9BBCB1A05CAF8C3B5F6E/olema"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Karkelot",
+    "start_time": "2026-08-30T15:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
   },
   {
     "venue": "kansallisteatteri",
@@ -5858,6 +5949,14 @@ window.SCRAPED_EVENTS = [
     "title": "Kettutytön paluu",
     "start_time": "2026-12-02T19:00:00+02:00",
     "url": "https://universum.fi/events/kettutyton-paluu-2-12/"
+  },
+  {
+    "venue": "jurkka",
+    "venue_label": "Teatteri Jurkka",
+    "title": "Mitä tapahtui Oliverille?",
+    "start_time": "2026-12-02T19:00:00+02:00",
+    "end_time": "2027-03-20T23:59:00+02:00",
+    "url": "https://www.jurkka.fi/class/mita-tapahtui-oliverille/"
   },
   {
     "venue": "caisa",
