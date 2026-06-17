@@ -79,7 +79,7 @@ window.SCRAPED_EVENTS = [
     "title": "TÄYNNÄ | Stoan tekstiilisuunnittelun kesäkoulu",
     "start_time": "2026-06-08T00:00:00+03:00",
     "end_time": "2026-06-17T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/447E4B842CFEA25D63B5FB314B03A240/t-ynn-stoan-tekstiilisuunnittelun-kes-koulu"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/t-ynn-stoan-tekstiilisuunnittelun-kes-koulu"
   },
   {
     "venue": "stoa",
@@ -519,6 +519,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/6A54D926360A4D5DABA41459420267B0/marja-rautakorpi-adelante-criaturas"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Shaghayegh Ansari: Borrowed Cities",
+    "start_time": "2026-08-18T00:00:00+03:00",
+    "end_time": "2026-08-18T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/2663581462B5B053B1FD0C181C6E1F56/shaghayegh-ansari-borrowed-cities"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Missä kuljimme kerran",
@@ -554,6 +562,14 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-08-19T00:00:00+03:00",
     "end_time": "2026-08-19T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/E95F792CA0D49D07FBBE1C99994AB303/skeittipaku-stoan-aukio"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Shaghayegh Ansari: Borrowed Cities",
+    "start_time": "2026-08-19T00:00:00+03:00",
+    "end_time": "2026-08-19T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/045C75AFAFB67DD20099197AB34A40BC/shaghayegh-ansari-borrowed-cities"
   },
   {
     "venue": "ryhmateatteri",
@@ -600,6 +616,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/4DDB625525B0583E2281FBF21A7873EE/teatteri-qo-niitty"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Shaghayegh Ansari: Borrowed Cities",
+    "start_time": "2026-08-20T00:00:00+03:00",
+    "end_time": "2026-08-20T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/B3712ECCE82757F70161146612A3CE6B/shaghayegh-ansari-borrowed-cities"
+  },
+  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "NVL:n kirjoittajaryhmien tekstinäyttely",
@@ -633,6 +657,14 @@ window.SCRAPED_EVENTS = [
     "title": "Poetry Jam: YÖ",
     "start_time": "2026-08-20T19:30:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/poetry-jam-yo"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Shaghayegh Ansari: Borrowed Cities",
+    "start_time": "2026-08-21T00:00:00+03:00",
+    "end_time": "2026-08-21T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/B16406DC6B7D5CC30546D22F9151D20F/shaghayegh-ansari-borrowed-cities"
   },
   {
     "venue": "zodiak",
@@ -676,6 +708,14 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-08-22T00:00:00+03:00",
     "end_time": "2026-08-22T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/799BD7721850DA31B4804FE3419AEEDC/kontula-electronic-x-stoa-violent-magic-orchestra-nhv-beherit-111x"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Shaghayegh Ansari: Borrowed Cities",
+    "start_time": "2026-08-22T00:00:00+03:00",
+    "end_time": "2026-08-22T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/BD819B9F78213BBF8F0A1002878717BB/shaghayegh-ansari-borrowed-cities"
   },
   {
     "venue": "tekstintalo",
