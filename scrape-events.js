@@ -107,13 +107,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "universum",
     "venue_label": "Universum",
-    "title": "MG 15.6 kl 19",
-    "start_time": "2026-06-15T19:00:00+03:00",
-    "url": "https://universum.fi/events/mg-15-6-kl-19/"
-  },
-  {
-    "venue": "universum",
-    "venue_label": "Universum",
     "title": "MG 16.6 kl 19",
     "start_time": "2026-06-16T19:00:00+03:00",
     "url": "https://universum.fi/events/mg-16-6-kl-19/"
