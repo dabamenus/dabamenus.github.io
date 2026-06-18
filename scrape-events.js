@@ -76,14 +76,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
-    "title": "TÄYNNÄ | Stoan tekstiilisuunnittelun kesäkoulu",
-    "start_time": "2026-06-08T00:00:00+03:00",
-    "end_time": "2026-06-17T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/t-ynn-stoan-tekstiilisuunnittelun-kes-koulu"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
     "title": "Mila Milax: Soul of Helsinki - Study of soul from a city perspective",
     "start_time": "2026-06-12T00:00:00+03:00",
     "end_time": "2026-08-09T23:59:00+03:00",
@@ -103,13 +95,6 @@ window.SCRAPED_EVENTS = [
     "title": "Sarjakuvakeskuksen kesäleirit: Sarjakuvaleiri",
     "start_time": "2026-06-15T10:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvakeskuksen-kesaleirit-sarjakuvaleiri3"
-  },
-  {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "MG 16.6 kl 19",
-    "start_time": "2026-06-16T19:00:00+03:00",
-    "url": "https://universum.fi/events/mg-16-6-kl-19/"
   },
   {
     "venue": "stoa",
@@ -1091,7 +1076,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "Caisa",
     "title": "Taidetta taaperoille",
     "start_time": "2026-09-01T00:00:00+03:00",
-    "end_time": "2026-09-01T23:59:00+03:00",
+    "end_time": "2026-10-22T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/090BE058FE197926A7F00ACAA34B65A9/taidetta-taaperoille"
   },
   {
@@ -1225,14 +1210,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-09-03T00:00:00+03:00",
     "end_time": "2026-09-03T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F68351C5857D39C0F5434607186C6637/risa-only-bones-2-0"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-09-03T00:00:00+03:00",
-    "end_time": "2026-09-03T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/79F74D13B8D13B29EAAB5B1DAC3F5127/taidetta-taaperoille"
   },
   {
     "venue": "zodiak",
@@ -1415,14 +1392,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/20762AE6A5795D8074A7BB9187CCAF14/sirkuskurssi-senioreille-ryhm-2"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-09-08T00:00:00+03:00",
-    "end_time": "2026-09-08T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/08633655C8DCB06899076885C7278626/taidetta-taaperoille"
-  },
-  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Planetaarisen yhteisvaurauden ja hyvinvoinnin uudet jakoperusteet",
@@ -1499,14 +1468,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-09-10T00:00:00+03:00",
     "end_time": "2026-09-10T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/30B39F2FA211A5459EABBE29CE2DD2D4/the-nordic-council-h-ppy-hour"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-09-10T00:00:00+03:00",
-    "end_time": "2026-09-10T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/D775F94403C80874561F62C9DB796295/taidetta-taaperoille"
   },
   {
     "venue": "kansallisteatteri",
@@ -1750,7 +1711,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "Caisa",
     "title": "Tanssi ja leikki",
     "start_time": "2026-09-14T00:00:00+03:00",
-    "end_time": "2026-09-14T23:59:00+03:00",
+    "end_time": "2026-12-07T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/37A077C19A795C1F3A003FFE51535D21/tanssi-ja-leikki"
   },
   {
@@ -1777,19 +1738,18 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F80E4B366996649CC35DBC150AAD24CB/sirkuskurssi-senioreille-ryhm-2"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-09-15T00:00:00+03:00",
-    "end_time": "2026-09-15T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/A7962B311DAA9F3816EDCFB61FE1F218/taidetta-taaperoille"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kahvilla kirjailijan kanssa",
     "start_time": "2026-09-15T16:30:00+03:00",
     "url": ""
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Tavallisuuden aave",
+    "start_time": "2026-09-15T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/tavallisuuden-aave/"
   },
   {
     "venue": "kansallisteatteri",
@@ -1868,14 +1828,6 @@ window.SCRAPED_EVENTS = [
     "title": "Elolliset",
     "start_time": "2026-09-16T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-09-17T00:00:00+03:00",
-    "end_time": "2026-09-17T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/4002238BD38C9508850C91B7CE296669/taidetta-taaperoille"
   },
   {
     "venue": "cirko",
@@ -2118,14 +2070,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/pa-besok-hos-smakrypen/"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Tanssi ja leikki",
-    "start_time": "2026-09-21T00:00:00+03:00",
-    "end_time": "2026-09-21T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/84B9FB7D5D46396AC959DD040F7F0933/tanssi-ja-leikki"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
@@ -2169,14 +2113,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-09-22T00:00:00+03:00",
     "end_time": "2026-09-22T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/06759AD55844CDCBD2FE33542C9DDF13/sirkuskurssi-senioreille-ryhm-2"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-09-22T00:00:00+03:00",
-    "end_time": "2026-09-22T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/70EAC497BBE0954869907BD53E7BE895/taidetta-taaperoille"
   },
   {
     "venue": "hkt",
@@ -2256,14 +2192,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kiviä taskussa",
     "start_time": "2026-09-23T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/kivia-taskussa/"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-09-24T00:00:00+03:00",
-    "end_time": "2026-09-24T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/D1B254D65CA2915372954D6CFC89D0BD/taidetta-taaperoille"
   },
   {
     "venue": "kiasma",
@@ -2462,14 +2390,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://kiasma.fi/esitykset/saana-pohjonen-henia-nikkila-jumalarakkaus/"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Tanssi ja leikki",
-    "start_time": "2026-09-28T00:00:00+03:00",
-    "end_time": "2026-09-28T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/EF276101203C525676A2AED6A52F69A8/tanssi-ja-leikki"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Viidakon villit naiset",
@@ -2512,14 +2432,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-09-29T00:00:00+03:00",
     "end_time": "2026-09-29T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/FB37C530BF44E5793D55F29E23180971/sirkuskurssi-senioreille-ryhm-2"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-09-29T00:00:00+03:00",
-    "end_time": "2026-09-29T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/131EC891618583D1DDDB98D4CB18783A/taidetta-taaperoille"
   },
   {
     "venue": "kiasma",
@@ -2604,14 +2516,6 @@ window.SCRAPED_EVENTS = [
     "title": "Club act!one",
     "start_time": "2026-09-30T19:00:00+03:00",
     "url": "https://hkt.fi/esitykset/club-actone/"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-10-01T00:00:00+03:00",
-    "end_time": "2026-10-01T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F2CF3754E55F9CC3BADE758C3BEE7E30/taidetta-taaperoille"
   },
   {
     "venue": "kansallisteatteri",
@@ -2803,14 +2707,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Tanssi ja leikki",
-    "start_time": "2026-10-05T00:00:00+03:00",
-    "end_time": "2026-10-05T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/77E65C407A9C6EA2B6E198EC102E6C86/tanssi-ja-leikki"
-  },
-  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
@@ -2847,14 +2743,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-10-06T00:00:00+03:00",
     "end_time": "2026-10-06T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/5C75C823402BFDBC299BA6765D23FCFE/sirkuskurssi-senioreille-ryhm-2"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-10-06T00:00:00+03:00",
-    "end_time": "2026-10-06T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/9AC62EA1D4714817E6F1E225EEA2F391/taidetta-taaperoille"
   },
   {
     "venue": "hkt",
@@ -3536,14 +3424,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Tanssi ja leikki",
-    "start_time": "2026-10-19T00:00:00+03:00",
-    "end_time": "2026-10-19T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/A40F295BB3390197937ABCE84EC4CA0B/tanssi-ja-leikki"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kahvilla kirjailijan kanssa",
@@ -3572,14 +3452,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-10-20T00:00:00+03:00",
     "end_time": "2026-10-20T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F04868F2159C700880D63D85E968F6C7/sirkuskurssi-senioreille-ryhm-2"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-10-20T00:00:00+03:00",
-    "end_time": "2026-10-20T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/541141A6B9E637B92BC0CB7FD7A31B01/taidetta-taaperoille"
   },
   {
     "venue": "viirus",
@@ -3657,14 +3529,6 @@ window.SCRAPED_EVENTS = [
     "title": "Expeditionen",
     "start_time": "2026-10-21T19:00:00+03:00",
     "url": "https://universum.fi/events/expeditionen-21-10/"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-10-22T00:00:00+03:00",
-    "end_time": "2026-10-22T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/A4784F461A9DAB9B2CF1B6CB6A76FCEA/taidetta-taaperoille"
   },
   {
     "venue": "zodiak",
@@ -3975,14 +3839,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/andetag-25-10/"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Tanssi ja leikki",
-    "start_time": "2026-10-26T00:00:00+02:00",
-    "end_time": "2026-10-26T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/7FBAAC287C08250F2FA03A454128A085/tanssi-ja-leikki"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "jos meiltä kysytään",
@@ -4025,14 +3881,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-10-27T00:00:00+02:00",
     "end_time": "2026-10-27T23:59:00+02:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/432E0EB177ADAFF660AC9EFADE4B9E61/sirkuskurssi-senioreille-ryhm-2"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-10-27T00:00:00+02:00",
-    "end_time": "2026-10-27T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F10C164FEB66042645F625F2B103D901/taidetta-taaperoille"
   },
   {
     "venue": "zodiak",
@@ -4166,14 +4014,6 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-10-28T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-10-29T00:00:00+02:00",
-    "end_time": "2026-10-29T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/C42283115B058EC6D81D1E2087490DFC/taidetta-taaperoille"
   },
   {
     "venue": "hkt",
@@ -4441,14 +4281,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/09F955F50A40FB785A4D4170B94459F3/sirkuskurssi-senioreille-ryhm-2"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-11-03T00:00:00+02:00",
-    "end_time": "2026-11-03T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/EE318E599696EB8638A9013F83A945CD/taidetta-taaperoille"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Eliel Tammiharju:Lampi 2",
@@ -4503,14 +4335,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kiviä taskussa",
     "start_time": "2026-11-04T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/kivia-taskussa/"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-11-05T00:00:00+02:00",
-    "end_time": "2026-11-05T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/3CA3ED4570FD1DA58ED1D6DE6AC2DAFF/taidetta-taaperoille"
   },
   {
     "venue": "hkt",
@@ -4709,14 +4533,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Tanssi ja leikki",
-    "start_time": "2026-11-09T00:00:00+02:00",
-    "end_time": "2026-11-09T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/B3AFD56F3AC48A2EE826437308DE9392/tanssi-ja-leikki"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Writing of Disaster",
@@ -4759,14 +4575,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-11-10T00:00:00+02:00",
     "end_time": "2026-11-10T23:59:00+02:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/316DCF29B05A8CC93A82A7153F7FA34E/sirkuskurssi-senioreille-ryhm-2"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-11-10T00:00:00+02:00",
-    "end_time": "2026-11-10T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/201F9A5748DCCBC4FE921A64D086185E/taidetta-taaperoille"
   },
   {
     "venue": "hkt",
@@ -4865,14 +4673,6 @@ window.SCRAPED_EVENTS = [
     "title": "Änglagård",
     "start_time": "2026-11-11T19:00:00+02:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/anglagard/"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-11-12T00:00:00+02:00",
-    "end_time": "2026-11-12T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/BED9FD4174667A0BC9E5333350E1793A/taidetta-taaperoille"
   },
   {
     "venue": "hkt",
@@ -5085,14 +4885,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/andetag-15-11/"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Tanssi ja leikki",
-    "start_time": "2026-11-16T00:00:00+02:00",
-    "end_time": "2026-11-16T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/2C0D372B451C516A4F4ACC7FAD872E89/tanssi-ja-leikki"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "?",
@@ -5119,14 +4911,6 @@ window.SCRAPED_EVENTS = [
     "title": "ANDETAG",
     "start_time": "2026-11-16T19:00:00+02:00",
     "url": "https://universum.fi/events/andetag-16-11/"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-11-17T00:00:00+02:00",
-    "end_time": "2026-11-17T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/9CDF298DACB75FADA9E241DEF33574C4/taidetta-taaperoille"
   },
   {
     "venue": "viirus",
@@ -5176,14 +4960,6 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-11-18T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-11-19T00:00:00+02:00",
-    "end_time": "2026-11-19T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/7C6422CD64C4225B14A6239A3AA6C2A7/taidetta-taaperoille"
   },
   {
     "venue": "hkt",
@@ -5397,14 +5173,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/andetag-22-11/"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Tanssi ja leikki",
-    "start_time": "2026-11-23T00:00:00+02:00",
-    "end_time": "2026-11-23T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/42DBDEE1DDF3BC342C6300511CA1CAD2/tanssi-ja-leikki"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Taru hohtavasta helmestä",
@@ -5431,14 +5199,6 @@ window.SCRAPED_EVENTS = [
     "title": "ANDETAG",
     "start_time": "2026-11-23T19:00:00+02:00",
     "url": "https://universum.fi/events/andetag-23-11/"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-11-24T00:00:00+02:00",
-    "end_time": "2026-11-24T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/678F7E66FADFB972D528C39E75AB9E61/taidetta-taaperoille"
   },
   {
     "venue": "viirus",
@@ -5523,14 +5283,6 @@ window.SCRAPED_EVENTS = [
     "title": "The Escape Room",
     "start_time": "2026-11-25T19:00:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/the-escape-room/"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-11-26T00:00:00+02:00",
-    "end_time": "2026-11-26T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/849F94F1A85FD3414164107AE38AC9E3/taidetta-taaperoille"
   },
   {
     "venue": "hkt",
@@ -5807,14 +5559,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://kiasma.fi/esitykset/kauri-sorvari-forevermore/"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Tanssi ja leikki",
-    "start_time": "2026-11-30T00:00:00+02:00",
-    "end_time": "2026-11-30T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/3CF01506DCE8ABA3D8D1DEEF7AECBAEC/tanssi-ja-leikki"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Mirdja",
@@ -5849,14 +5593,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-12-01T00:00:00+02:00",
     "end_time": "2026-12-01T23:59:00+02:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/FE9CD095E270BA80C9B1D3E73340A72D/ohjatut-p-iv-tanssit-stoan-aulassa"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-12-01T00:00:00+02:00",
-    "end_time": "2026-12-01T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/2817B28E0FBBF028E2516F628F052A6B/taidetta-taaperoille"
   },
   {
     "venue": "hkt",
@@ -5984,14 +5720,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-12-02T19:00:00+02:00",
     "end_time": "2027-03-20T23:59:00+02:00",
     "url": "https://www.jurkka.fi/class/mita-tapahtui-oliverille/"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-12-03T00:00:00+02:00",
-    "end_time": "2026-12-03T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/8EC343EB8E69786A30AE4A7043E05092/taidetta-taaperoille"
   },
   {
     "venue": "hkt",
@@ -6204,14 +5932,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Tanssi ja leikki",
-    "start_time": "2026-12-07T00:00:00+02:00",
-    "end_time": "2026-12-07T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/5D6C300B2FA2CD92E3E587733DBB246D/tanssi-ja-leikki"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "?",
@@ -6238,14 +5958,6 @@ window.SCRAPED_EVENTS = [
     "title": "no-no",
     "start_time": "2026-12-07T19:30:00+02:00",
     "url": "https://hkt.fi/esitykset/no-no-2/"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-12-08T00:00:00+02:00",
-    "end_time": "2026-12-08T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/0F0674610BC895B6B288CBABA6627C47/taidetta-taaperoille"
   },
   {
     "venue": "zodiak",
@@ -6344,14 +6056,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kettutytön paluu",
     "start_time": "2026-12-09T19:00:00+02:00",
     "url": "https://universum.fi/events/kettutyton-paluu-9-12/"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-12-10T00:00:00+02:00",
-    "end_time": "2026-12-10T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F00DA8CF649A28DB1166CD573336D798/taidetta-taaperoille"
   },
   {
     "venue": "kansallisteatteri",
@@ -6543,14 +6247,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-12-15T00:00:00+02:00",
-    "end_time": "2026-12-15T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/A3D9E34C95734796AFE80E61AAB98B16/taidetta-taaperoille"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Mirdja",
@@ -6619,14 +6315,6 @@ window.SCRAPED_EVENTS = [
     "title": "no-no",
     "start_time": "2026-12-16T19:30:00+02:00",
     "url": "https://hkt.fi/esitykset/no-no-2/"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-12-17T00:00:00+02:00",
-    "end_time": "2026-12-17T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/00F919E358ECE3C2EC030E9C335D5E43/taidetta-taaperoille"
   },
   {
     "venue": "hkt",
@@ -6755,14 +6443,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-12-22T00:00:00+02:00",
-    "end_time": "2026-12-22T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/C000806AF4C024F4D067D2BCF35D49C2/taidetta-taaperoille"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
@@ -6803,13 +6483,6 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-12-30T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Onko täällä kuuma?",
-    "start_time": "2026-12-30T19:00:00+02:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/onko-taalla-kuuma/"
   },
   {
     "venue": "hkt",
@@ -6901,6 +6574,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kärpäset",
     "start_time": "2027-01-23T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/karpaset"
+  },
+  {
+    "venue": "svenska",
+    "venue_label": "Svenska Teatern",
+    "title": "Onko täällä kuuma?",
+    "start_time": "2027-01-23T19:00:00+02:00",
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/onko-taalla-kuuma/"
   },
   {
     "venue": "universum",
@@ -7398,5 +7078,12 @@ window.SCRAPED_EVENTS = [
     "title": "MG",
     "start_time": "2027-06-07T19:00:00+03:00",
     "url": "https://universum.fi/events/mg-7-6/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "MG",
+    "start_time": "2027-06-10T19:00:00+03:00",
+    "url": "https://universum.fi/events/mg-10-6/"
   }
 ];
