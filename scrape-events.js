@@ -90,13 +90,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F2E50462006DF628DE768041D5EE7228/luontosuhteita"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Sarjakuvakeskuksen kesäleirit: Sarjakuvaleiri",
-    "start_time": "2026-06-15T10:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvakeskuksen-kesaleirit-sarjakuvaleiri3"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Elonkirjon kaupunki: Vaihtoehtokaavoja elonkirjon puolesta",
@@ -544,10 +537,26 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "caisa",
     "venue_label": "Caisa",
+    "title": "Poetry in a Time of Crisis",
+    "start_time": "2026-08-19T00:00:00+03:00",
+    "end_time": "2026-08-19T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/0656E378130721289AB56FDEBB6C47BD/poetry-in-a-time-of-crisis"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
     "title": "Shaghayegh Ansari: Borrowed Cities",
     "start_time": "2026-08-19T00:00:00+03:00",
     "end_time": "2026-08-19T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/045C75AFAFB67DD20099197AB34A40BC/shaghayegh-ansari-borrowed-cities"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Caisa Poetry Night",
+    "start_time": "2026-08-19T00:00:00+03:00",
+    "end_time": "2026-08-19T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/EA25862F4C5B799639E6FA996DA4E3D6/caisa-poetry-night"
   },
   {
     "venue": "ryhmateatteri",
@@ -778,6 +787,14 @@ window.SCRAPED_EVENTS = [
     "title": "Runokuu: Festarijatkot",
     "start_time": "2026-08-22T22:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/runokuu-festarijatkot"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Poetiikkakonferenssi",
+    "start_time": "2026-08-23T00:00:00+03:00",
+    "end_time": "2026-08-23T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/4E26FF6CC440CBE39119339F8B6C45A5/poetiikkakonferenssi"
   },
   {
     "venue": "tekstintalo",
@@ -1248,6 +1265,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/691BF08803460CBE7842EF701E1CECCF/jussin-niittysadut"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Daniel Palpa: Between Two Rivers",
+    "start_time": "2026-09-04T00:00:00+03:00",
+    "end_time": "2026-09-26T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/DDCBAA0CCEB34D1A6E10CE8DB52008AB/daniel-palpa-between-two-rivers"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Orvot",
@@ -1470,6 +1495,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/30B39F2FA211A5459EABBE29CE2DD2D4/the-nordic-council-h-ppy-hour"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Sisus Sirkus: Memoirs of Mud",
+    "start_time": "2026-09-10T00:00:00+03:00",
+    "end_time": "2026-09-10T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/10CD6CDEC7EBB3B892BA375E7FCAE883/sisus-sirkus-memoirs-of-mud"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Toinen tasavalta",
@@ -1533,6 +1566,14 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-09-11T00:00:00+03:00",
     "end_time": "2026-09-11T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0AE565F8B77CB33EA192F4134FA49151/the-nordic-council-h-ppy-hour"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Sisus Sirkus: Memoirs of Mud",
+    "start_time": "2026-09-11T00:00:00+03:00",
+    "end_time": "2026-09-11T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F9C94026FF1B2DFF2E8F849674988478/sisus-sirkus-memoirs-of-mud"
   },
   {
     "venue": "kansallisteatteri",
@@ -1605,6 +1646,14 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-09-12T00:00:00+03:00",
     "end_time": "2026-09-12T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/4588EF04AF7A809AC3E716CF7A6CCBB6/blind-gut-company-maannos"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Suddenly - Helsinki Circus Festival NETTIIN",
+    "start_time": "2026-09-12T00:00:00+03:00",
+    "end_time": "2026-09-12T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/5774C7D60F0A09F92F0F969B6A130826/suddenly-helsinki-circus-festival-nettiin"
   },
   {
     "venue": "tekstintalo",
@@ -1705,6 +1754,14 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-09-13T00:00:00+03:00",
     "end_time": "2026-09-13T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/568F60C551D1D0084E57FCA04DD96FCB/blind-gut-company-maannos"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Suddenly - Helsinki Circus Festival NETTIIN",
+    "start_time": "2026-09-13T00:00:00+03:00",
+    "end_time": "2026-09-13T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/9B326E7504E806237CB7C527B80D8B35/suddenly-helsinki-circus-festival-nettiin"
   },
   {
     "venue": "caisa",
@@ -2070,6 +2127,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/pa-besok-hos-smakrypen/"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Celebrate, Connect, Belong – Kolibri Festivaali 2026!",
+    "start_time": "2026-09-20T00:00:00+03:00",
+    "end_time": "2026-09-20T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/01CE3834D0D16222CCE6B60C3C2B814E/celebrate-connect-belong-kolibri-festivaali-2026"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
@@ -2311,6 +2376,13 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-09-26T13:00:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Kissani yhdeksän elämää",
+    "start_time": "2026-09-26T14:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/kissani-yhdeksan-elamaa"
   },
   {
     "venue": "takomo",
@@ -3489,6 +3561,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Transpoli on temppurata",
+    "start_time": "2026-10-21T00:00:00+03:00",
+    "end_time": "2026-10-21T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/0F257B1DA36DE4C4D34DFFA60E259140/transpoli-on-temppurata"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
@@ -3529,6 +3609,14 @@ window.SCRAPED_EVENTS = [
     "title": "Expeditionen",
     "start_time": "2026-10-21T19:00:00+03:00",
     "url": "https://universum.fi/events/expeditionen-21-10/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Transpoli on temppurata",
+    "start_time": "2026-10-22T00:00:00+03:00",
+    "end_time": "2026-10-22T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/AE18C57C8FCBAE90C2F0F5F94F7F331E/transpoli-on-temppurata"
   },
   {
     "venue": "zodiak",
@@ -3606,6 +3694,14 @@ window.SCRAPED_EVENTS = [
     "title": "Kompani Nord: Sista paret ut",
     "start_time": "2026-10-22T19:00:00+03:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/kompani-nord-sista-paret-ut/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Transpoli on temppurata",
+    "start_time": "2026-10-23T00:00:00+03:00",
+    "end_time": "2026-10-23T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/12B0E3F07BFE2BD73B3B71E93DA085AF/transpoli-on-temppurata"
   },
   {
     "venue": "kansallisteatteri",
@@ -3697,6 +3793,14 @@ window.SCRAPED_EVENTS = [
     "title": "Club act!one",
     "start_time": "2026-10-23T19:00:00+03:00",
     "url": "https://hkt.fi/esitykset/club-actone/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Transpoli on temppurata",
+    "start_time": "2026-10-24T00:00:00+03:00",
+    "end_time": "2026-10-24T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/FE6441CE7CBDF12CB0DADB108203F360/transpoli-on-temppurata"
   },
   {
     "venue": "hkt",
@@ -3823,6 +3927,14 @@ window.SCRAPED_EVENTS = [
     "title": "Club act!one",
     "start_time": "2026-10-24T21:00:00+03:00",
     "url": "https://hkt.fi/esitykset/club-actone/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Transpoli on temppurata",
+    "start_time": "2026-10-25T00:00:00+02:00",
+    "end_time": "2026-10-25T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/61F22D72D923D0503C59A1EA5F7ACCDA/transpoli-on-temppurata"
   },
   {
     "venue": "kiasma",
