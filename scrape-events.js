@@ -100,13 +100,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "universum",
     "venue_label": "Universum",
-    "title": "MG 17.6 kl 16",
-    "start_time": "2026-06-17T19:00:00+03:00",
-    "url": "https://universum.fi/events/mg-17-6-kl-16/"
-  },
-  {
-    "venue": "universum",
-    "venue_label": "Universum",
     "title": "MG 20.6 kl 19",
     "start_time": "2026-06-20T19:00:00+03:00",
     "url": "https://universum.fi/events/mg-20-6-kl-19/"
@@ -1850,6 +1843,13 @@ window.SCRAPED_EVENTS = [
     "title": "Minä unohdin miten suuressa talossa asun",
     "start_time": "2026-09-16T18:30:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/mina-unohdin-miten-suuressa-talossa-asun-1609"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Tavallisuuden aave",
+    "start_time": "2026-09-16T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/tavallisuuden-aave/"
   },
   {
     "venue": "kansallisteatteri",
