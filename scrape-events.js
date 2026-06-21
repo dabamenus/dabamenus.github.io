@@ -105,13 +105,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/mg-20-6-kl-19/"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Haku Esseekouluun",
-    "start_time": "2026-06-21T14:45:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/haku-esseekouluun"
-  },
-  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "MG 21.6 kl 19",
@@ -2397,6 +2390,13 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-09-26T13:00:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Kissani yhdeksän elämää",
+    "start_time": "2026-09-26T14:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/kissani-yhdeksan-elamaa"
   },
   {
     "venue": "takomo",
@@ -7204,5 +7204,12 @@ window.SCRAPED_EVENTS = [
     "title": "MG",
     "start_time": "2027-06-10T19:00:00+03:00",
     "url": "https://universum.fi/events/mg-10-6/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "MG",
+    "start_time": "2027-06-13T19:00:00+03:00",
+    "url": "https://universum.fi/events/mg-13-6/"
   }
 ];
