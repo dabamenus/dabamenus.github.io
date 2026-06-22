@@ -100,13 +100,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "universum",
     "venue_label": "Universum",
-    "title": "MG 20.6 kl 19",
-    "start_time": "2026-06-20T19:00:00+03:00",
-    "url": "https://universum.fi/events/mg-20-6-kl-19/"
-  },
-  {
-    "venue": "universum",
-    "venue_label": "Universum",
     "title": "MG 21.6 kl 19",
     "start_time": "2026-06-21T19:00:00+03:00",
     "url": "https://universum.fi/events/mg-21-6-kl-19/"
@@ -604,6 +597,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/runokuu-runokimara"
   },
   {
+    "venue": "cirko",
+    "venue_label": "Cirko",
+    "title": "Circus Film Night",
+    "start_time": "2026-08-20T18:00:00+03:00",
+    "url": "https://cirko.fi/esitys/circus-film-night-2/"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Missä kuljimme kerran",
@@ -618,11 +618,25 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "cirko",
+    "venue_label": "Cirko",
+    "title": "Circus Film Night",
+    "start_time": "2026-08-20T19:00:00+03:00",
+    "url": "https://cirko.fi/esitys/circus-film-night-2/"
+  },
+  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Poetry Jam: YÖ",
     "start_time": "2026-08-20T19:30:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/poetry-jam-yo"
+  },
+  {
+    "venue": "cirko",
+    "venue_label": "Cirko",
+    "title": "Circus Film Night",
+    "start_time": "2026-08-20T20:00:00+03:00",
+    "url": "https://cirko.fi/esitys/circus-film-night-2/"
   },
   {
     "venue": "caisa",
@@ -1629,10 +1643,10 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "caisa",
     "venue_label": "Caisa",
-    "title": "Suddenly - Helsinki Circus Festival NETTIIN",
+    "title": "Kerttu Opuksen & Opus Company: Suddenly",
     "start_time": "2026-09-12T00:00:00+03:00",
     "end_time": "2026-09-12T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/5774C7D60F0A09F92F0F969B6A130826/suddenly-helsinki-circus-festival-nettiin"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/5774C7D60F0A09F92F0F969B6A130826/kerttu-opuksen-opus-company-suddenly"
   },
   {
     "venue": "tekstintalo",
@@ -1737,10 +1751,10 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "caisa",
     "venue_label": "Caisa",
-    "title": "Suddenly - Helsinki Circus Festival NETTIIN",
+    "title": "Kerttu Opuksen & Opus Company: Suddenly",
     "start_time": "2026-09-13T00:00:00+03:00",
     "end_time": "2026-09-13T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/9B326E7504E806237CB7C527B80D8B35/suddenly-helsinki-circus-festival-nettiin"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/9B326E7504E806237CB7C527B80D8B35/kerttu-opuksen-opus-company-suddenly"
   },
   {
     "venue": "caisa",
@@ -2076,6 +2090,13 @@ window.SCRAPED_EVENTS = [
     "title": "Eteläpohjalaisia",
     "start_time": "2026-09-19T14:00:00+03:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Tavallisuuden aave",
+    "start_time": "2026-09-19T14:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/tavallisuuden-aave/"
   },
   {
     "venue": "cirko",
