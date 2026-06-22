@@ -14,6 +14,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/1984/"
   },
   {
+    "venue": "jurkka",
+    "venue_label": "Teatteri Jurkka",
+    "title": "Väylä",
+    "start_time": "2025-10-01T19:00:00+03:00",
+    "end_time": "2027-05-20T23:59:00+03:00",
+    "url": "https://www.jurkka.fi/class/vayla/"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "1984",
@@ -26,6 +34,14 @@ window.SCRAPED_EVENTS = [
     "title": "1984",
     "start_time": "2025-12-02T19:00:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/1984/"
+  },
+  {
+    "venue": "jurkka",
+    "venue_label": "Teatteri Jurkka",
+    "title": "Myrsky",
+    "start_time": "2026-02-04T19:00:00+02:00",
+    "end_time": "2027-05-29T23:59:00+03:00",
+    "url": "https://www.jurkka.fi/class/myrsky/"
   },
   {
     "venue": "stoa",
@@ -818,6 +834,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Karkelot",
+    "start_time": "2026-08-25T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Missä kuljimme kerran",
@@ -840,6 +863,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Karkelot",
+    "start_time": "2026-08-26T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Missä kuljimme kerran",
@@ -852,6 +882,13 @@ window.SCRAPED_EVENTS = [
     "title": "Ilta Mellerin kanssa",
     "start_time": "2026-08-26T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/ilta-mellerin-kanssa"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Karkelot",
+    "start_time": "2026-08-27T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
   },
   {
     "venue": "ryhmateatteri",
@@ -956,6 +993,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Karkelot",
+    "start_time": "2026-08-29T15:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lady T",
@@ -983,6 +1027,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-08-30T00:00:00+03:00",
     "end_time": "2026-08-30T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/D5595565EA9D9BBCB1A05CAF8C3B5F6E/olema"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Karkelot",
+    "start_time": "2026-08-30T15:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
   },
   {
     "venue": "kansallisteatteri",
@@ -1772,6 +1823,13 @@ window.SCRAPED_EVENTS = [
     "url": ""
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Tavallisuuden aave",
+    "start_time": "2026-09-15T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/tavallisuuden-aave/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Viidakon villit naiset",
@@ -1822,6 +1880,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/mina-unohdin-miten-suuressa-talossa-asun-1609"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Tavallisuuden aave",
+    "start_time": "2026-09-16T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/tavallisuuden-aave/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Orvot",
@@ -1869,6 +1934,13 @@ window.SCRAPED_EVENTS = [
     "title": "Minä unohdin miten suuressa talossa asun",
     "start_time": "2026-09-17T18:30:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/mina-unohdin-miten-suuressa-talossa-asun-1709"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Tavallisuuden aave",
+    "start_time": "2026-09-17T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/tavallisuuden-aave/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2046,6 +2118,13 @@ window.SCRAPED_EVENTS = [
     "title": "Eteläpohjalaisia",
     "start_time": "2026-09-19T14:00:00+03:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Tavallisuuden aave",
+    "start_time": "2026-09-19T14:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/tavallisuuden-aave/"
   },
   {
     "venue": "cirko",
@@ -5809,6 +5888,14 @@ window.SCRAPED_EVENTS = [
     "title": "Kettutytön paluu",
     "start_time": "2026-12-02T19:00:00+02:00",
     "url": "https://universum.fi/events/kettutyton-paluu-2-12/"
+  },
+  {
+    "venue": "jurkka",
+    "venue_label": "Teatteri Jurkka",
+    "title": "Mitä tapahtui Oliverille?",
+    "start_time": "2026-12-02T19:00:00+02:00",
+    "end_time": "2027-03-20T23:59:00+02:00",
+    "url": "https://www.jurkka.fi/class/mita-tapahtui-oliverille/"
   },
   {
     "venue": "hkt",
