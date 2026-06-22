@@ -1540,6 +1540,13 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "cirko",
     "venue_label": "Cirko",
+    "title": "Recover Laboratory: Nonstop Paradise",
+    "start_time": "2026-09-10T20:30:00+03:00",
+    "url": "https://cirko.fi/esitys/recover-laboratory-nonstop-paradise-3/"
+  },
+  {
+    "venue": "cirko",
+    "venue_label": "Cirko",
     "title": "Helsinki Circus Festival",
     "start_time": "2026-09-11T00:00:00+03:00",
     "url": "https://cirko.fi/esitys/helsinki-circus-festival-2/"
@@ -1616,6 +1623,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kotijoukot",
     "start_time": "2026-09-11T19:00:00+03:00",
     "url": "https://hkt.fi/esitykset/kotijoukot/"
+  },
+  {
+    "venue": "cirko",
+    "venue_label": "Cirko",
+    "title": "Recover Laboratory: Nonstop Paradise",
+    "start_time": "2026-09-11T20:30:00+03:00",
+    "url": "https://cirko.fi/esitys/recover-laboratory-nonstop-paradise-3/"
   },
   {
     "venue": "cirko",
@@ -1728,6 +1742,13 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "cirko",
     "venue_label": "Cirko",
+    "title": "Heidi Miikki: HOPE",
+    "start_time": "2026-09-12T19:00:00+03:00",
+    "url": "https://cirko.fi/esitys/heidi-miikki-hope-2/"
+  },
+  {
+    "venue": "cirko",
+    "venue_label": "Cirko",
     "title": "Helsinki Circus Festival",
     "start_time": "2026-09-13T00:00:00+03:00",
     "url": "https://cirko.fi/esitys/helsinki-circus-festival-2/"
@@ -1755,6 +1776,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-09-13T00:00:00+03:00",
     "end_time": "2026-09-13T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/9B326E7504E806237CB7C527B80D8B35/kerttu-opuksen-opus-company-suddenly"
+  },
+  {
+    "venue": "cirko",
+    "venue_label": "Cirko",
+    "title": "Heidi Miikki: HOPE",
+    "start_time": "2026-09-13T15:00:00+03:00",
+    "url": "https://cirko.fi/esitys/heidi-miikki-hope-2/"
   },
   {
     "venue": "caisa",
@@ -2369,6 +2397,14 @@ window.SCRAPED_EVENTS = [
     "title": "Eteläpohjalaisia",
     "start_time": "2026-09-25T19:00:00+03:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Idän kirjamessut",
+    "start_time": "2026-09-26T00:00:00+03:00",
+    "end_time": "2026-09-26T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/43645639A404B8082258BFC423B4BA25/id-n-kirjamessut"
   },
   {
     "venue": "tekstintalo",
