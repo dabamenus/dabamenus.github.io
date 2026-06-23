@@ -105,13 +105,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvakeskuksen-kesaleirit-mangaleiri4"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Missä kuljimme kerran",
-    "start_time": "2026-06-23T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Kaupunkitanssit",
