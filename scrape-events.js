@@ -98,13 +98,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0C2A94B263D2D32105C25E071D706846/elonkirjon-kaupunki-vaihtoehtokaavoja-elonkirjon-puolesta"
   },
   {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "MG 21.6 kl 19",
-    "start_time": "2026-06-21T19:00:00+03:00",
-    "url": "https://universum.fi/events/mg-21-6-kl-19/"
-  },
-  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Sarjakuvakeskuksen kesäleirit: Mangaleiri",
@@ -1657,10 +1650,10 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "caisa",
     "venue_label": "Caisa",
-    "title": "Kerttu Opuksen & Opus Company: Suddenly",
+    "title": "Kerttu Opus & Opus Company: Suddenly – and other ways to change",
     "start_time": "2026-09-12T00:00:00+03:00",
     "end_time": "2026-09-12T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/5774C7D60F0A09F92F0F969B6A130826/kerttu-opuksen-opus-company-suddenly"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/5774C7D60F0A09F92F0F969B6A130826/kerttu-opus-opus-company-suddenly-and-other-ways-to-change"
   },
   {
     "venue": "tekstintalo",
@@ -1772,10 +1765,10 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "caisa",
     "venue_label": "Caisa",
-    "title": "Kerttu Opuksen & Opus Company: Suddenly",
+    "title": "Kerttu Opus & Opus Company: Suddenly – and other ways to change",
     "start_time": "2026-09-13T00:00:00+03:00",
     "end_time": "2026-09-13T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/9B326E7504E806237CB7C527B80D8B35/kerttu-opuksen-opus-company-suddenly"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/9B326E7504E806237CB7C527B80D8B35/kerttu-opus-opus-company-suddenly-and-other-ways-to-change"
   },
   {
     "venue": "cirko",
@@ -7268,5 +7261,12 @@ window.SCRAPED_EVENTS = [
     "title": "MG",
     "start_time": "2027-06-13T19:00:00+03:00",
     "url": "https://universum.fi/events/mg-13-6/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "MG 15.6 kl 19",
+    "start_time": "2027-06-15T19:00:00+03:00",
+    "url": "https://universum.fi/events/mg-15-6-kl-19/"
   }
 ];
