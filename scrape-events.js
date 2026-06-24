@@ -571,6 +571,13 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
+    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
+    "start_time": "2026-08-20T14:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-2008"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
     "title": "NVL:n kirjoittajaryhmien tekstinäyttely",
     "start_time": "2026-08-20T17:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/nvl-n-kirjoittajaryhmien-tekstinayttely"
@@ -1206,6 +1213,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-09-03T00:00:00+03:00",
     "end_time": "2026-09-03T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F68351C5857D39C0F5434607186C6637/risa-only-bones-2-0"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
+    "start_time": "2026-09-03T14:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-0309"
   },
   {
     "venue": "zodiak",
@@ -1908,6 +1922,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
+    "start_time": "2026-09-17T14:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-1709"
+  },
+  {
     "venue": "cirko",
     "venue_label": "Cirko",
     "title": "Company Portmanteau: PYYKKI - Lost in Laundryland",
@@ -1991,13 +2012,6 @@ window.SCRAPED_EVENTS = [
     "title": "Company Portmanteau: PYYKKI - Lost in Laundryland",
     "start_time": "2026-09-18T18:00:00+03:00",
     "url": "https://cirko.fi/esitys/company-portmanteau-pyykki-lost-in-laundryland/"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Minä unohdin miten suuressa talossa asun",
-    "start_time": "2026-09-18T18:30:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/mina-unohdin-miten-suuressa-talossa-asun-1809"
   },
   {
     "venue": "kansallisteatteri",
@@ -2393,13 +2407,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/43645639A404B8082258BFC423B4BA25/id-n-kirjamessut"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Kollaasin tekeminen",
-    "start_time": "2026-09-26T11:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/kollaasin-tekeminen"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kurtturuusut",
@@ -2433,13 +2440,6 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-09-26T13:00:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Kissani yhdeksän elämää",
-    "start_time": "2026-09-26T14:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/kissani-yhdeksan-elamaa"
   },
   {
     "venue": "takomo",
