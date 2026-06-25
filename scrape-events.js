@@ -102,14 +102,7 @@ window.SCRAPED_EVENTS = [
     "title": "Stoan nuorten Pride",
     "start_time": "2026-06-25T00:00:00+03:00",
     "end_time": "2026-06-25T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/100DB5DE412C1855B34F6922798B56F7/stoan-nuorten-pride"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Missä kuljimme kerran",
-    "start_time": "2026-06-25T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/stoan-nuorten-pride"
   },
   {
     "venue": "caisa",
