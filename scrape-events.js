@@ -14,14 +14,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/1984/"
   },
   {
-    "venue": "jurkka",
-    "venue_label": "Teatteri Jurkka",
-    "title": "Väylä",
-    "start_time": "2025-10-01T19:00:00+03:00",
-    "end_time": "2027-05-20T23:59:00+03:00",
-    "url": "https://www.jurkka.fi/class/vayla/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "1984",
@@ -34,14 +26,6 @@ window.SCRAPED_EVENTS = [
     "title": "1984",
     "start_time": "2025-12-02T19:00:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/1984/"
-  },
-  {
-    "venue": "jurkka",
-    "venue_label": "Teatteri Jurkka",
-    "title": "Myrsky",
-    "start_time": "2026-02-04T19:00:00+02:00",
-    "end_time": "2027-05-29T23:59:00+03:00",
-    "url": "https://www.jurkka.fi/class/myrsky/"
   },
   {
     "venue": "stoa",
@@ -5893,14 +5877,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/kettutyton-paluu-2-12/"
   },
   {
-    "venue": "jurkka",
-    "venue_label": "Teatteri Jurkka",
-    "title": "Mitä tapahtui Oliverille?",
-    "start_time": "2026-12-02T19:00:00+02:00",
-    "end_time": "2027-03-20T23:59:00+02:00",
-    "url": "https://www.jurkka.fi/class/mita-tapahtui-oliverille/"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "no-no",
@@ -7285,5 +7261,12 @@ window.SCRAPED_EVENTS = [
     "title": "MG 16.6 kl 19",
     "start_time": "2027-06-16T19:00:00+03:00",
     "url": "https://universum.fi/events/mg-16-6-kl-19/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "MG 17.6 kl 16",
+    "start_time": "2027-06-17T19:00:00+03:00",
+    "url": "https://universum.fi/events/mg-17-6-kl-16/"
   }
 ];
