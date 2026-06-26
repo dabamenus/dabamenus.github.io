@@ -97,14 +97,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/5FC809166894B73E4F1F367244DA072A/kaupunkitanssit"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Stoan nuorten Pride",
-    "start_time": "2026-06-25T00:00:00+03:00",
-    "end_time": "2026-06-25T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/stoan-nuorten-pride"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "The Art of Diversity (K16)",
@@ -183,11 +175,35 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
   },
   {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Soul of Helsinki: Tapaa taiteilija",
+    "start_time": "2026-07-04T00:00:00+03:00",
+    "end_time": "2026-07-04T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/93FBBA2A699487FB01ACD593379EFA7B/soul-of-helsinki-tapaa-taiteilija"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Missä kuljimme kerran",
     "start_time": "2026-07-04T14:00:00+03:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Soul of Helsinki: Tapaa taiteilija",
+    "start_time": "2026-07-15T00:00:00+03:00",
+    "end_time": "2026-07-15T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F61BD1B465B957DE5DAC4F15E2708C56/soul-of-helsinki-tapaa-taiteilija"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Soul of Helsinki: Tapaa taiteilija",
+    "start_time": "2026-07-24T00:00:00+03:00",
+    "end_time": "2026-07-24T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/B546D3D014D89C960559E778A1D63081/soul-of-helsinki-tapaa-taiteilija"
   },
   {
     "venue": "ryhmateatteri",
@@ -1330,6 +1346,14 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
+    "title": "Toisissa tiloissa -kollektiivi: Rauhanliikekannallepano",
+    "start_time": "2026-09-06T00:00:00+03:00",
+    "end_time": "2026-09-06T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/3F779FDFA45F76DD00680A4093C8C268/toisissa-tiloissa-kollektiivi-rauhanliikekannallepano"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
     "title": "RISA: Only Bones 2.0",
     "start_time": "2026-09-06T00:00:00+03:00",
     "end_time": "2026-09-06T23:59:00+03:00",
@@ -2271,6 +2295,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Medusan huone",
+    "start_time": "2026-09-23T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/medusan-huone/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Toinen tasavalta",
@@ -2375,6 +2406,14 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-09-26T00:00:00+03:00",
     "end_time": "2026-09-26T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/43645639A404B8082258BFC423B4BA25/id-n-kirjamessut"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Asa | Duo Vastaanotin",
+    "start_time": "2026-09-26T00:00:00+03:00",
+    "end_time": "2026-09-26T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/3128C0949DAADCC1E971639EEF2DB121/asa-duo-vastaanotin"
   },
   {
     "venue": "hkt",
