@@ -95,7 +95,7 @@ window.SCRAPED_EVENTS = [
     "title": "The Art of Diversity (K16) LOPPUUNMYYTY",
     "start_time": "2026-06-26T00:00:00+03:00",
     "end_time": "2026-06-26T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F234109E6D9176498878350AD1DB05B2/the-art-of-diversity-k16-loppuunmyyty"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/the-art-of-diversity-k16-loppuunmyyty"
   },
   {
     "venue": "ryhmateatteri",
