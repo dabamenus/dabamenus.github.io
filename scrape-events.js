@@ -105,13 +105,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F234109E6D9176498878350AD1DB05B2/the-art-of-diversity-k16"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Missä kuljimme kerran",
-    "start_time": "2026-06-26T14:00:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
-  },
-  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Lesbokirjoittamisen työpaja",
@@ -806,6 +799,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Käsikirjoituspiiri sarjakuvaa tekevälle, arkikurssi",
+    "start_time": "2026-08-25T18:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/kasikirjoituspiiri-sarjakuvaa-tekevalle-arkikurssi"
+  },
+  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Karkelot",
@@ -1376,9 +1376,23 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
+    "title": "Cosplay-kurssi",
+    "start_time": "2026-09-07T16:30:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/cosplay-kurssi"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
     "title": "12 filosofia – Muinaisten filosofien suuria oivalluksia",
     "start_time": "2026-09-07T18:15:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/12-filosofia-muinaisten-filosofien-suuria-oivalluksia"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Sarjakuvailmaisu",
+    "start_time": "2026-09-07T18:30:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvailmaisu"
   },
   {
     "venue": "stoa",
@@ -1395,6 +1409,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-09-08T00:00:00+03:00",
     "end_time": "2026-09-08T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/20762AE6A5795D8074A7BB9187CCAF14/sirkuskurssi-senioreille-ryhm-2"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Lasten sarjakuvakurssi",
+    "start_time": "2026-09-08T16:30:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/lasten-sarjakuvakurssi"
   },
   {
     "venue": "tekstintalo",
@@ -1432,6 +1453,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/itsenaisen-tekemisen-kuvataideryhma"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Mangakurssi",
+    "start_time": "2026-09-09T17:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/mangakurssi"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Orvot",
@@ -1451,6 +1479,13 @@ window.SCRAPED_EVENTS = [
     "title": "De obehöriga",
     "start_time": "2026-09-09T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/de-obehoriga/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Nuorten sarjakuvakurssi",
+    "start_time": "2026-09-09T18:45:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/nuorten-sarjakuvakurssi"
   },
   {
     "venue": "viirus",
@@ -1648,13 +1683,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-09-12T00:00:00+03:00",
     "end_time": "2026-09-12T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/5774C7D60F0A09F92F0F969B6A130826/kerttu-opus-opus-company-suddenly-and-other-ways-to-change"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Olen X (verkkokurssitus 12.9.-12.12. 2026)",
-    "start_time": "2026-09-12T11:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/olen-x-verkkokurssitus-12-9-12-12-2026"
   },
   {
     "venue": "hkt",
@@ -1860,13 +1888,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/EA81E543E4BD95A56054B54AB781E43F/ellin-elokuvahetki"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Minä unohdin miten suuressa talossa asun",
-    "start_time": "2026-09-16T18:30:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/mina-unohdin-miten-suuressa-talossa-asun-1609"
-  },
-  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Tavallisuuden aave",
@@ -1909,25 +1930,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
-    "start_time": "2026-09-17T14:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-1709"
-  },
-  {
     "venue": "cirko",
     "venue_label": "Cirko",
     "title": "Company Portmanteau: PYYKKI - Lost in Laundryland",
     "start_time": "2026-09-17T18:00:00+03:00",
     "url": "https://cirko.fi/esitys/company-portmanteau-pyykki-lost-in-laundryland/"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Minä unohdin miten suuressa talossa asun",
-    "start_time": "2026-09-17T18:30:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/mina-unohdin-miten-suuressa-talossa-asun-1709"
   },
   {
     "venue": "espoonteatteri",
@@ -1987,25 +1994,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/CD1E8994BEBA8BCE424542BEE651819D/lasten-sarjisfestarit"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Esseetyöpajaryhmät",
-    "start_time": "2026-09-18T16:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/esseetyopajaryhmat"
-  },
-  {
     "venue": "cirko",
     "venue_label": "Cirko",
     "title": "Company Portmanteau: PYYKKI - Lost in Laundryland",
     "start_time": "2026-09-18T18:00:00+03:00",
     "url": "https://cirko.fi/esitys/company-portmanteau-pyykki-lost-in-laundryland/"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Minä unohdin miten suuressa talossa asun",
-    "start_time": "2026-09-18T18:30:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/mina-unohdin-miten-suuressa-talossa-asun-1809"
   },
   {
     "venue": "kansallisteatteri",
@@ -2656,6 +2649,22 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Opi suomea laulaen",
+    "start_time": "2026-10-01T00:00:00+03:00",
+    "end_time": "2026-10-01T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/053AFA4B4C4F06E0C8B14798980DA5A8/opi-suomea-laulaen"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Ismo Dance Company: 5 koreografiaa rakkaudesta ensi-ilta",
+    "start_time": "2026-10-01T00:00:00+03:00",
+    "end_time": "2026-10-01T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/75784889EC9AE0FE4A84FC172C6E2F1E/ismo-dance-company-5-koreografiaa-rakkaudesta-ensi-ilta"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "?",
@@ -2689,6 +2698,14 @@ window.SCRAPED_EVENTS = [
     "title": "Kiviä taskussa",
     "start_time": "2026-10-01T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/kivia-taskussa/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Ismo Dance Company: 5 koreografiaa rakkaudesta",
+    "start_time": "2026-10-02T00:00:00+03:00",
+    "end_time": "2026-10-02T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/FBE93A6C773D9473951E89692EFC9636/ismo-dance-company-5-koreografiaa-rakkaudesta"
   },
   {
     "venue": "caisa",
@@ -2746,6 +2763,14 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-10-02T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Ismo Dance company - 5 koreografiaa rakkaudesta",
+    "start_time": "2026-10-03T00:00:00+03:00",
+    "end_time": "2026-10-03T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/32E83BF34945F7A5689F9F4D2D1F2D0E/ismo-dance-company-5-koreografiaa-rakkaudesta"
   },
   {
     "venue": "hkt",
@@ -2851,6 +2876,22 @@ window.SCRAPED_EVENTS = [
     "title": "Club act!one",
     "start_time": "2026-10-03T21:00:00+03:00",
     "url": "https://hkt.fi/esitykset/club-actone/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Ismo Dance company - 5 koreografiaa rakkaudesta",
+    "start_time": "2026-10-04T00:00:00+03:00",
+    "end_time": "2026-10-04T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/8D139241C923D8B658F6311DA63A5BFC/ismo-dance-company-5-koreografiaa-rakkaudesta"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "E1T1: Each One Teach One",
+    "start_time": "2026-10-05T00:00:00+03:00",
+    "end_time": "2026-10-06T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F5A2D3122CD23912709EE4F695E0DA9B/e1t1-each-one-teach-one"
   },
   {
     "venue": "ryhmateatteri",
@@ -4201,6 +4242,14 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-10-28T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Opi suomea laulaen",
+    "start_time": "2026-10-29T00:00:00+02:00",
+    "end_time": "2026-10-29T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/5DF636E2AA1D9E5CA32A312D8A170774/opi-suomea-laulaen"
   },
   {
     "venue": "hkt",
@@ -6243,6 +6292,14 @@ window.SCRAPED_EVENTS = [
     "title": "Kettutytön paluu",
     "start_time": "2026-12-09T19:00:00+02:00",
     "url": "https://universum.fi/events/kettutyton-paluu-9-12/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Opi suomea laulaen",
+    "start_time": "2026-12-10T00:00:00+02:00",
+    "end_time": "2026-12-10T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F5811D59BA0A785414ADD38AA3CFC012/opi-suomea-laulaen"
   },
   {
     "venue": "kansallisteatteri",
