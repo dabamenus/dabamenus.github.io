@@ -82,13 +82,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0C2A94B263D2D32105C25E071D706846/elonkirjon-kaupunki-vaihtoehtokaavoja-elonkirjon-puolesta"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Sarjakuvakeskuksen kesäleirit: Mangaleiri",
-    "start_time": "2026-06-22T10:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvakeskuksen-kesaleirit-mangaleiri4"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Kaupunkitanssit",
@@ -1516,6 +1509,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-09-10T00:00:00+03:00",
     "end_time": "2026-09-10T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/10CD6CDEC7EBB3B892BA375E7FCAE883/sisus-sirkus-memoirs-of-mud"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Kuvituskurssi 1. ryhmä",
+    "start_time": "2026-09-10T17:15:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/kuvituskurssi-1-ryhma"
   },
   {
     "venue": "kansallisteatteri",
@@ -2993,6 +2993,14 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-10-06T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "E1T1: Each One Teach One",
+    "start_time": "2026-10-07T00:00:00+03:00",
+    "end_time": "2026-10-08T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0DB403F9E6D659BFC96ED22BAA7A90A4/e1t1-each-one-teach-one"
   },
   {
     "venue": "hkt",
