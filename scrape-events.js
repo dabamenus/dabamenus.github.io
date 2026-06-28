@@ -2342,6 +2342,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://kiasma.fi/esitykset/saana-pohjonen-henia-nikkila-jumalarakkaus/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Medusan huone",
+    "start_time": "2026-09-25T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/medusan-huone/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Orvot",
@@ -7349,5 +7356,12 @@ window.SCRAPED_EVENTS = [
     "title": "MG 17.6 kl 16",
     "start_time": "2027-06-17T19:00:00+03:00",
     "url": "https://universum.fi/events/mg-17-6-kl-16/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "MG 20.6 kl 19",
+    "start_time": "2027-06-20T19:00:00+03:00",
+    "url": "https://universum.fi/events/mg-20-6-kl-19/"
   }
 ];
