@@ -89,13 +89,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/mg-27-6/"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Tuhmatukan ja Bingolutkan queerbingo-show",
-    "start_time": "2026-06-28T15:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/tuhmatukan-ja-bingolutkan-queerbingo-show"
-  },
-  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "MG",
@@ -1660,6 +1653,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-09-12T00:00:00+03:00",
     "end_time": "2026-09-12T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/5774C7D60F0A09F92F0F969B6A130826/kerttu-opus-opus-company-suddenly-and-other-ways-to-change"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Olen X (verkkokurssitus 12.9.-12.12. 2026)",
+    "start_time": "2026-09-12T11:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/olen-x-verkkokurssitus-12-9-12-12-2026"
   },
   {
     "venue": "hkt",
