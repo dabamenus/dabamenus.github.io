@@ -75,13 +75,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/5FC809166894B73E4F1F367244DA072A/kaupunkitanssit"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "TIRED OF SWIPING? D8Zero presents Zero Dating",
-    "start_time": "2026-07-02T18:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/tired-of-swiping-d8zero-presents-zero-dating"
-  },
-  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Missä kuljimme kerran",
@@ -1474,6 +1467,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-09-10T00:00:00+03:00",
     "end_time": "2026-09-10T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/10CD6CDEC7EBB3B892BA375E7FCAE883/sisus-sirkus-memoirs-of-mud"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Kuvituskurssi 1. ryhmä",
+    "start_time": "2026-09-10T17:15:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/kuvituskurssi-1-ryhma"
   },
   {
     "venue": "kansallisteatteri",
