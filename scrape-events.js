@@ -150,6 +150,13 @@ window.SCRAPED_EVENTS = [
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Missä kuljimme kerran",
+    "start_time": "2026-08-01T19:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Missä kuljimme kerran",
     "start_time": "2026-08-06T18:30:00+03:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
   },
@@ -309,6 +316,13 @@ window.SCRAPED_EVENTS = [
     "title": "Birds of Paradise",
     "start_time": "2026-08-15T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/birds-of-paradise/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Missä kuljimme kerran",
+    "start_time": "2026-08-15T19:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
   },
   {
     "venue": "madhouse",
