@@ -6175,6 +6175,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/kettutyton-paluu-2-12/"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Näyttely: Äitimyytin murtajat",
+    "start_time": "2026-12-03T00:00:00+02:00",
+    "end_time": "2026-12-03T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/C6977FB89F19DE3E748B4B548E8FAFE3/n-yttely-itimyytin-murtajat"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "no-no",
@@ -6236,6 +6244,14 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-12-03T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Out 'n loud & HQFK: Queerly Yours!",
+    "start_time": "2026-12-04T00:00:00+02:00",
+    "end_time": "2026-12-04T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/19EF86BED2C9441EEE12D8464610DF21/out-n-loud-hqfk-queerly-yours"
   },
   {
     "venue": "zodiak",
@@ -6527,6 +6543,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/06576A638B93C45E3A5E189FF6B448DC/numi-nuorten-uuden-musiikin-ilta"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Amanda & Lydia: Traces of Your Skin",
+    "start_time": "2026-12-10T00:00:00+02:00",
+    "end_time": "2026-12-10T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/FBBC6804A0D3FE560FC2AE26EB4C27F8/amanda-lydia-traces-of-your-skin"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Taru hohtavasta helmestä",
@@ -6583,6 +6607,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/all-women-story-sharing-cafe-10-12/"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Amanda & Lydia: Traces of Your Skin",
+    "start_time": "2026-12-11T00:00:00+02:00",
+    "end_time": "2026-12-11T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/63984EE53CBF6BB863CA9A5392EFA561/amanda-lydia-traces-of-your-skin"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Heavenly Father",
@@ -6631,6 +6663,14 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-12-12T00:00:00+02:00",
     "end_time": "2026-12-12T23:59:00+02:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/158E52946E4F63A037F3E6C56DD02125/it-kuskus-stand-up-klubi"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Amanda & Lydia: Traces of Your Skin",
+    "start_time": "2026-12-12T00:00:00+02:00",
+    "end_time": "2026-12-12T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/BE29BF2F4806EE00BFD29DAD6D028362/amanda-lydia-traces-of-your-skin"
   },
   {
     "venue": "kansallisteatteri",
