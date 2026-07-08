@@ -6607,6 +6607,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/all-women-story-sharing-cafe-10-12/"
   },
   {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Puistokatu 4 x Stoa: Tieteen ja toivon klubi & Olavi Uusivirta",
+    "start_time": "2026-12-11T00:00:00+02:00",
+    "end_time": "2026-12-11T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/9485E1FCBF2D441BB082A20D3597BEF5/puistokatu-4-x-stoa-tieteen-ja-toivon-klubi-olavi-uusivirta"
+  },
+  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Amanda & Lydia: Traces of Your Skin",
