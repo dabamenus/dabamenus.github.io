@@ -3348,11 +3348,32 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Medusan huone",
+    "start_time": "2026-10-10T14:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/medusan-huone/"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
     "start_time": "2026-10-10T14:00:00+03:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Legend of Harri Kala",
+    "start_time": "2026-10-10T15:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/legend-of-harri-kala/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Eräteatteri",
+    "start_time": "2026-10-10T16:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/erateatteri/"
   },
   {
     "venue": "viirus",
@@ -6305,6 +6326,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Ballet Finland: KEHÄ",
+    "start_time": "2026-12-04T00:00:00+02:00",
+    "end_time": "2026-12-04T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/81DB4E258E00FFDEF2B8BB75D138B58E/ballet-finland-keh"
+  },
+  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Out 'n loud & HQFK: Queerly Yours!",
@@ -6360,6 +6389,14 @@ window.SCRAPED_EVENTS = [
     "title": "no-no",
     "start_time": "2026-12-04T19:30:00+02:00",
     "url": "https://hkt.fi/esitykset/no-no-2/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Ballet Finland: KEHÄ",
+    "start_time": "2026-12-05T00:00:00+02:00",
+    "end_time": "2026-12-05T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/77957FF8DDAF43BDDB83CEA0B40AC983/ballet-finland-keh"
   },
   {
     "venue": "zodiak",
@@ -6488,6 +6525,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/no-no-2/"
   },
   {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Ballet Finland: KEHÄ",
+    "start_time": "2026-12-08T00:00:00+02:00",
+    "end_time": "2026-12-08T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/382CA30DEA3F894E7E2C22393E82BAC2/ballet-finland-keh"
+  },
+  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Marika Peura:Imperial Stage",
@@ -6528,6 +6573,14 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-12-08T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Ballet Finland: KEHÄ",
+    "start_time": "2026-12-09T00:00:00+02:00",
+    "end_time": "2026-12-09T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/46257DE003E25E252501D49FFFA717CD/ballet-finland-keh"
   },
   {
     "venue": "hkt",
