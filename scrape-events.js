@@ -80,7 +80,7 @@ window.SCRAPED_EVENTS = [
     "title": "Soul of Helsinki: Tapaa taiteilija",
     "start_time": "2026-07-15T00:00:00+03:00",
     "end_time": "2026-07-15T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F61BD1B465B957DE5DAC4F15E2708C56/soul-of-helsinki-tapaa-taiteilija"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/soul-of-helsinki-tapaa-taiteilija"
   },
   {
     "venue": "tekstintalo",
