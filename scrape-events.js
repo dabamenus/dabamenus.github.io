@@ -533,6 +533,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://cirko.fi/esitys/circus-film-night-2/"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Rap-lyriikka 30+",
+    "start_time": "2026-08-20T18:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/rap-lyriikka-30"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Missä kuljimme kerran",
@@ -1408,13 +1415,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kettutytön paluu",
     "start_time": "2026-09-08T19:00:00+03:00",
     "url": "https://universum.fi/events/kettutyton-paluu-8-9/"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Itsenäisen tekemisen kuvataideryhmä",
-    "start_time": "2026-09-09T13:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/itsenaisen-tekemisen-kuvataideryhma"
   },
   {
     "venue": "kansallisteatteri",
