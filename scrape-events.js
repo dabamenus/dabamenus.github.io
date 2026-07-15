@@ -85,13 +85,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
-    "title": "tÿpo GJ jäm #03",
-    "start_time": "2026-07-15T18:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/typo-gj-jam-03"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
     "title": "tÿpo jäzz #44",
     "start_time": "2026-07-22T20:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/typo-jazz-44"
@@ -1415,6 +1408,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kettutytön paluu",
     "start_time": "2026-09-08T19:00:00+03:00",
     "url": "https://universum.fi/events/kettutyton-paluu-8-9/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Itsenäisen tekemisen kuvataideryhmä",
+    "start_time": "2026-09-09T13:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/itsenaisen-tekemisen-kuvataideryhma"
   },
   {
     "venue": "kansallisteatteri",
