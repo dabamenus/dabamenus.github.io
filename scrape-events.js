@@ -75,14 +75,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/5FC809166894B73E4F1F367244DA072A/kaupunkitanssit"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Soul of Helsinki: Tapaa taiteilija",
-    "start_time": "2026-07-15T00:00:00+03:00",
-    "end_time": "2026-07-15T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/soul-of-helsinki-tapaa-taiteilija"
-  },
-  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "tÿpo jäzz #44",
