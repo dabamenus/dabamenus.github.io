@@ -6000,7 +6000,7 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
-    "title": "Tanssiteatteri Tsuumi & kulttuurikomppania Eloa: Arvo",
+    "title": "Tanssiteatteri Tsuumi & Kulttuurikomppania Eloa: Arvo",
     "start_time": "2026-11-28T00:00:00+02:00",
     "end_time": "2026-11-28T23:59:00+02:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/8E84D1850CB0E9D5D0D1E4ACE562EDF9/tanssiteatteri-tsuumi-kulttuurikomppania-eloa-arvo"
