@@ -1838,10 +1838,10 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
-    "title": "Ellin elokuvahetki",
+    "title": "Myrskyryhmä: Ellin elokuvahetki",
     "start_time": "2026-09-16T00:00:00+03:00",
     "end_time": "2026-09-16T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/EA81E543E4BD95A56054B54AB781E43F/ellin-elokuvahetki"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/EA81E543E4BD95A56054B54AB781E43F/myrskyryhm-ellin-elokuvahetki"
   },
   {
     "venue": "espoonteatteri",
@@ -6300,7 +6300,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "Caisa",
     "title": "Näyttely: Äitimyytin murtajat",
     "start_time": "2026-12-03T00:00:00+02:00",
-    "end_time": "2026-12-03T23:59:00+02:00",
+    "end_time": "2026-12-19T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/C6977FB89F19DE3E748B4B548E8FAFE3/n-yttely-itimyytin-murtajat"
   },
   {
