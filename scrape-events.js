@@ -5915,10 +5915,10 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "caisa",
     "venue_label": "Caisa",
-    "title": "We Music: EMILII – Kaisa Ollila – Milou – Vilma Talvitie Caisa 30 Club",
+    "title": "We Music: EMILII – Kaisa Ollila – Milou – Vilma Talvitie",
     "start_time": "2026-11-27T00:00:00+02:00",
     "end_time": "2026-11-27T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/A30CB5D0F313FCDE93ADD51AE9BE95FA/we-music-emilii-kaisa-ollila-milou-vilma-talvitie-caisa-30-club"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/A30CB5D0F313FCDE93ADD51AE9BE95FA/we-music-emilii-kaisa-ollila-milou-vilma-talvitie"
   },
   {
     "venue": "kiasma",
