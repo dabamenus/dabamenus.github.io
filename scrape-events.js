@@ -45,7 +45,7 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
-    "title": "Mila Milax: Soul of Helsinki - Study of soul from a city perspective",
+    "title": "Mila Milax: Soul of Helsinki – Study of soul from a city perspective",
     "start_time": "2026-06-12T00:00:00+03:00",
     "end_time": "2026-08-09T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/7266C7DE6D0537729934979626C5B164/mila-milax-soul-of-helsinki-study-of-soul-from-a-city-perspective"
