@@ -3915,6 +3915,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Legend of Harri Kala",
+    "start_time": "2026-10-21T19:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/legend-of-harri-kala/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Expeditionen",
