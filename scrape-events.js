@@ -32,7 +32,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "Stoa",
     "title": "Mainiot materiaalit - installaatio (terraarion puoleisten rappusten vieressä)",
     "start_time": "2026-05-26T00:00:00+03:00",
-    "end_time": "2026-08-31T23:59:00+03:00",
+    "end_time": "2026-09-06T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/B5CEECA15BBB114F544F7263E2517AE4/mainiot-materiaalit-installaatio-terraarion-puoleisten-rappusten-vieress"
   },
   {
@@ -1330,6 +1330,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/kettutyton-paluu-8-9/"
   },
   {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi taaperoperheille",
+    "start_time": "2026-09-09T00:00:00+03:00",
+    "end_time": "2026-09-09T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/970EE471475137777F762D09BE86E3B0/sirkuskurssi-taaperoperheille"
+  },
+  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Itsenäisen tekemisen kuvataideryhmä",
@@ -1780,6 +1788,14 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
+    "title": "Sirkuskurssi taaperoperheille",
+    "start_time": "2026-09-16T00:00:00+03:00",
+    "end_time": "2026-09-16T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/53F8EE7146949DBC52E96181C9D5E415/sirkuskurssi-taaperoperheille"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
     "title": "Alakoulukino: Ronja Ryövärintytär",
     "start_time": "2026-09-16T00:00:00+03:00",
     "end_time": "2026-09-16T23:59:00+03:00",
@@ -2187,6 +2203,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/36BBE25C67323230B23B50CF260BC51B/pulpettikino"
   },
   {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi taaperoperheille",
+    "start_time": "2026-09-23T00:00:00+03:00",
+    "end_time": "2026-09-23T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/12FDC9D62779A4AED04DC44363C3B00A/sirkuskurssi-taaperoperheille"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
@@ -2553,6 +2577,14 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-09-29T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi taaperoperheille",
+    "start_time": "2026-09-30T00:00:00+03:00",
+    "end_time": "2026-09-30T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F4A3A5615A85C24D40616F54D4DE6030/sirkuskurssi-taaperoperheille"
   },
   {
     "venue": "espoonteatteri",
@@ -3005,6 +3037,22 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-10-07T00:00:00+03:00",
     "end_time": "2026-10-08T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0DB403F9E6D659BFC96ED22BAA7A90A4/e1t1-each-one-teach-one"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi taaperoperheille",
+    "start_time": "2026-10-07T00:00:00+03:00",
+    "end_time": "2026-10-07T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/9FA0E3710D016A821DFA5055E21812D2/sirkuskurssi-taaperoperheille"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi vauvaperheille",
+    "start_time": "2026-10-07T00:00:00+03:00",
+    "end_time": "2026-10-07T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/5762D7FAD667D9282C3F9CAF7D8DA356/sirkuskurssi-vauvaperheille"
   },
   {
     "venue": "stoa",
@@ -3822,6 +3870,22 @@ window.SCRAPED_EVENTS = [
     "url": "https://espoonteatteri.fi/ohjelmisto/legend-of-harri-kala/"
   },
   {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi taaperoperheille",
+    "start_time": "2026-10-21T00:00:00+03:00",
+    "end_time": "2026-10-21T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/9BAAC7366FF3D688BE74FC81DF36184E/sirkuskurssi-taaperoperheille"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi vauvaperheille",
+    "start_time": "2026-10-21T00:00:00+03:00",
+    "end_time": "2026-10-21T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/1F22D09245D331754B3C72041643D51F/sirkuskurssi-vauvaperheille"
+  },
+  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Transpoli on temppurata",
@@ -4389,6 +4453,22 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
+    "title": "Sirkuskurssi taaperoperheille",
+    "start_time": "2026-10-28T00:00:00+02:00",
+    "end_time": "2026-10-28T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/086079A7361B76B9BA2C6966E48F7F4E/sirkuskurssi-taaperoperheille"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi vauvaperheille",
+    "start_time": "2026-10-28T00:00:00+02:00",
+    "end_time": "2026-10-28T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/62F162B9355B4371738D6BE3C72B34A3/sirkuskurssi-vauvaperheille"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
     "title": "Kauri Honkakoski Company: HIGH TIDE [nousuvesi]",
     "start_time": "2026-10-28T00:00:00+02:00",
     "end_time": "2026-10-28T23:59:00+02:00",
@@ -4785,6 +4865,22 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
+    "title": "Sirkuskurssi taaperoperheille",
+    "start_time": "2026-11-04T00:00:00+02:00",
+    "end_time": "2026-11-04T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/8D66F0FB244148F36BA4A30BCEFD1592/sirkuskurssi-taaperoperheille"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi vauvaperheille",
+    "start_time": "2026-11-04T00:00:00+02:00",
+    "end_time": "2026-11-04T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/6109AAABE572F0452A684C30F1480CAC/sirkuskurssi-vauvaperheille"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
     "title": "Taidetauko-työpajat",
     "start_time": "2026-11-04T00:00:00+02:00",
     "end_time": "2026-11-04T23:59:00+02:00",
@@ -5150,6 +5246,14 @@ window.SCRAPED_EVENTS = [
     "title": "Kiviä taskussa",
     "start_time": "2026-11-10T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/kivia-taskussa/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Sirkuskurssi taaperoperheille",
+    "start_time": "2026-11-11T00:00:00+02:00",
+    "end_time": "2026-11-11T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/816CAE9C2ED14F80AEF60B7D247C5291/sirkuskurssi-taaperoperheille"
   },
   {
     "venue": "viirus",
