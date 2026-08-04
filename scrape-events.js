@@ -3165,6 +3165,27 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
+    "venue": "svenska",
+    "venue_label": "Svenska Teatern",
+    "title": "Manu Rosales: Volver siguiendo",
+    "start_time": "2026-10-07T19:00:00+03:00",
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/manu-rosales/"
+  },
+  {
+    "venue": "svenska",
+    "venue_label": "Svenska Teatern",
+    "title": "Wishamalii (FI/JO)",
+    "start_time": "2026-10-07T19:00:00+03:00",
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/wishamalii/"
+  },
+  {
+    "venue": "svenska",
+    "venue_label": "Svenska Teatern",
+    "title": "Mehrnoosh Zolfaghari: Awakening",
+    "start_time": "2026-10-07T19:00:00+03:00",
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/mehrnoosh-zolfaghari/"
+  },
+  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Elina Pirinen:Ghosts of Rosegarden",
@@ -4749,6 +4770,27 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/kompani-nord-sista-paret-ut/"
   },
   {
+    "venue": "svenska",
+    "venue_label": "Svenska Teatern",
+    "title": "Manu Rosales: Volver siguiendo",
+    "start_time": "2026-10-30T19:00:00+02:00",
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/manu-rosales/"
+  },
+  {
+    "venue": "svenska",
+    "venue_label": "Svenska Teatern",
+    "title": "Wishamalii (FI/JO)",
+    "start_time": "2026-10-30T19:00:00+02:00",
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/wishamalii/"
+  },
+  {
+    "venue": "svenska",
+    "venue_label": "Svenska Teatern",
+    "title": "Mehrnoosh Zolfaghari: Awakening",
+    "start_time": "2026-10-30T19:00:00+02:00",
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/mehrnoosh-zolfaghari/"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kotijoukot",
@@ -5935,6 +5977,14 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-11-24T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Yläkoulukino: Orava",
+    "start_time": "2026-11-25T00:00:00+02:00",
+    "end_time": "2026-11-25T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/7DB310224CBF71C0BD6224BFB9922767/yl-koulukino-orava"
   },
   {
     "venue": "hkt",
@@ -7303,6 +7353,20 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-12-19T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "svenska",
+    "venue_label": "Svenska Teatern",
+    "title": "Manu Rosales: Volver siguiendo",
+    "start_time": "2026-12-19T19:00:00+02:00",
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/manu-rosales/"
+  },
+  {
+    "venue": "svenska",
+    "venue_label": "Svenska Teatern",
+    "title": "Mehrnoosh Zolfaghari: Awakening",
+    "start_time": "2026-12-19T19:00:00+02:00",
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/mehrnoosh-zolfaghari/"
   },
   {
     "venue": "hkt",
