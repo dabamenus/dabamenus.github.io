@@ -763,10 +763,10 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
-    "title": "Jussin niittysadut",
+    "title": "Jussin metsäsadut",
     "start_time": "2026-08-28T00:00:00+03:00",
     "end_time": "2026-08-28T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/4294A0D40DA4E3E043A94DE3154BD942/jussin-niittysadut"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/4294A0D40DA4E3E043A94DE3154BD942/jussin-mets-sadut"
   },
   {
     "venue": "caisa",
@@ -1115,10 +1115,10 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
-    "title": "Jussin niittysadut",
+    "title": "Jussin metsäsadut",
     "start_time": "2026-09-04T00:00:00+03:00",
     "end_time": "2026-09-04T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/691BF08803460CBE7842EF701E1CECCF/jussin-niittysadut"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/691BF08803460CBE7842EF701E1CECCF/jussin-mets-sadut"
   },
   {
     "venue": "caisa",
