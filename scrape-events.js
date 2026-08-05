@@ -5697,6 +5697,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Julkalas, Alfons Åberg",
+    "start_time": "2026-11-19T00:00:00+02:00",
+    "end_time": "2026-11-19T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/035074236C76D67EA2DFB91272DB88B7/julkalas-alfons-berg"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
@@ -5984,6 +5992,14 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-11-24T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Skidikino: Antonia Ringbom – Keltaisen kirahvin eläintarinoita 1",
+    "start_time": "2026-11-25T00:00:00+02:00",
+    "end_time": "2026-11-25T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/37E005A07FF34900457F9B4923156AF1/skidikino-antonia-ringbom-keltaisen-kirahvin-el-intarinoita-1"
   },
   {
     "venue": "stoa",
