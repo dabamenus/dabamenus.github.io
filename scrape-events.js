@@ -466,6 +466,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://cirko.fi/esitys/circus-film-night-2/"
   },
   {
+    "venue": "svenska",
+    "venue_label": "Svenska Teatern",
+    "title": "Taiteiden yö 20.8.2026",
+    "start_time": "2026-08-20T19:00:00+03:00",
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/taiteiden-yo-2026/"
+  },
+  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Poetry Jam: YÖ",
@@ -806,10 +813,10 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
-    "title": "Stoan Suomen luonnon päivä",
+    "title": "Stoan Suomen luonnon päivä: Pekko Käppi, Riikka Kaihovaara ja Sanja Hakala",
     "start_time": "2026-08-29T00:00:00+03:00",
     "end_time": "2026-08-29T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/8B98D98603660D2FD7CEE575BB858041/stoan-suomen-luonnon-p-iv"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/8B98D98603660D2FD7CEE575BB858041/stoan-suomen-luonnon-p-iv-pekko-k-ppi-riikka-kaihovaara-ja-sanja-hakala"
   },
   {
     "venue": "caisa",
