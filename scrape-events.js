@@ -59,14 +59,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0C2A94B263D2D32105C25E071D706846/elonkirjon-kaupunki-vaihtoehtokaavoja-elonkirjon-puolesta"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Kaupunkitanssit",
-    "start_time": "2026-06-24T00:00:00+03:00",
-    "end_time": "2026-08-05T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/kaupunkitanssit"
-  },
-  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Missä kuljimme kerran",
