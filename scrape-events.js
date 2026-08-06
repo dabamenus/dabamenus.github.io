@@ -195,6 +195,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/saako-purra-1408"
   },
   {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Emeka Ogboh - Danfo Block Party",
+    "start_time": "2026-08-15T00:00:00+03:00",
+    "end_time": "2026-08-15T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/21964F07517AEA4CCF69C9FFC7872F52/emeka-ogboh-danfo-block-party"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Birds of Paradise",
