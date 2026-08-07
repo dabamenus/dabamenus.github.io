@@ -59,27 +59,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0C2A94B263D2D32105C25E071D706846/elonkirjon-kaupunki-vaihtoehtokaavoja-elonkirjon-puolesta"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Missä kuljimme kerran",
-    "start_time": "2026-08-06T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Lady T",
-    "start_time": "2026-08-06T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Birds of Paradise",
-    "start_time": "2026-08-06T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/birds-of-paradise/"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Jussi Rinta-Hoiska: Lukosta valoon",
