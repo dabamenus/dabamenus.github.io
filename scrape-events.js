@@ -5152,6 +5152,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://cirko.fi/esitys/kallo-collective-the-story-of-pluto-who-wanted-to-be-a-planet/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Mi Madre y el Dinero",
+    "start_time": "2026-11-07T15:00:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/mi-madre-y-el-dinero/"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
