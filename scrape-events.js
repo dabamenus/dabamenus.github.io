@@ -383,6 +383,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-2008"
   },
   {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Taiteiden yö 20.8.2026",
+    "start_time": "2026-08-20T16:30:00+03:00",
+    "url": ""
+  },
+  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "NVL:n kirjoittajaryhmien tekstinäyttely",
