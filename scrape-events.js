@@ -5519,14 +5519,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/iikka-kivi-protestinauru-stand-up-show/"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Qoomikot kollektiivi: Kväärinpäin",
-    "start_time": "2026-11-14T00:00:00+02:00",
-    "end_time": "2026-11-14T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/D6DCEDC7839429EF9F1EB372AB83CBCF/qoomikot-kollektiivi-kv-rinp-in"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kurtturuusut",
@@ -5858,14 +5850,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-11-21T00:00:00+02:00",
     "end_time": "2026-11-21T23:59:00+02:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/D8876F30977ABA691E27E00AF5309F98/pienten-ja-suurten-eli-kuntalaisten-klubi"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Qoomikot kollektiivi: Kväärinpäin",
-    "start_time": "2026-11-21T00:00:00+02:00",
-    "end_time": "2026-11-21T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F28412D87481C6B969A4535F55EA89FD/qoomikot-kollektiivi-kv-rinp-in"
   },
   {
     "venue": "hkt",
@@ -6255,14 +6239,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-11-28T00:00:00+02:00",
     "end_time": "2026-11-28T23:59:00+02:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/8E84D1850CB0E9D5D0D1E4ACE562EDF9/tanssiteatteri-tsuumi-kulttuurikomppania-eloa-arvo"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Qoomikot kollektiivi: Kväärinpäin",
-    "start_time": "2026-11-28T00:00:00+02:00",
-    "end_time": "2026-11-28T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/2B83B0FDE4584FA66F413679F12DE16F/qoomikot-kollektiivi-kv-rinp-in"
   },
   {
     "venue": "zodiak",
