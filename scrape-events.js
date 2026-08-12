@@ -67,13 +67,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/8C1B1D1737BCC328A3D394F41E9C5324/jussi-rinta-hoiska-lukosta-valoon"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Birds of Paradise",
-    "start_time": "2026-08-11T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/birds-of-paradise/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Skeittipaku Stoan aukio",
@@ -2193,6 +2186,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0C61E3B3B6D30E74BD742247AB4A9DBF/sirkuskurssi-vauvaperheille"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Metsässä soi: Teatteri ILMI Ö",
+    "start_time": "2026-09-23T00:00:00+03:00",
+    "end_time": "2026-09-23T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/5A13E3F4792FF95ECD8ECC8655F5B254/mets-ss-soi-teatteri-ilmi"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
@@ -2226,6 +2227,14 @@ window.SCRAPED_EVENTS = [
     "title": "Kiviä taskussa",
     "start_time": "2026-09-23T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/kivia-taskussa/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Metsässä soi: Teatteri ILMI Ö",
+    "start_time": "2026-09-24T00:00:00+03:00",
+    "end_time": "2026-09-24T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/E685D7CF24D838985E04F18366A2C477/mets-ss-soi-teatteri-ilmi"
   },
   {
     "venue": "kiasma",
@@ -2268,6 +2277,14 @@ window.SCRAPED_EVENTS = [
     "title": "Elolliset",
     "start_time": "2026-09-24T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/elolliset/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Metsässä soi: Teatteri ILMI Ö",
+    "start_time": "2026-09-25T00:00:00+03:00",
+    "end_time": "2026-09-25T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/70ED137A588621160D776EF1B4AB8EB2/mets-ss-soi-teatteri-ilmi"
   },
   {
     "venue": "kiasma",
@@ -2333,6 +2350,14 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-09-26T00:00:00+03:00",
     "end_time": "2026-09-26T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/3128C0949DAADCC1E971639EEF2DB121/asa-duo-vastaanotin"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Metsässä soi: Teatteri ILMI Ö",
+    "start_time": "2026-09-26T00:00:00+03:00",
+    "end_time": "2026-09-26T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F2111A44796F69960136ED41245BDF32/mets-ss-soi-teatteri-ilmi"
   },
   {
     "venue": "hkt",
@@ -5089,6 +5114,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Qoomikot kollektiivi: Kväärinpäin",
+    "start_time": "2026-11-07T00:00:00+02:00",
+    "end_time": "2026-11-07T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/13FC28B9B760B4EF353E29C9AE4EE7A2/qoomikot-kollektiivi-kv-rinp-in"
+  },
+  {
     "venue": "cirko",
     "venue_label": "Cirko",
     "title": "Kallo Collective: The Story of Pluto, Who Wanted to Be a Planet",
@@ -5486,6 +5519,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/iikka-kivi-protestinauru-stand-up-show/"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Qoomikot kollektiivi: Kväärinpäin",
+    "start_time": "2026-11-14T00:00:00+02:00",
+    "end_time": "2026-11-14T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/D6DCEDC7839429EF9F1EB372AB83CBCF/qoomikot-kollektiivi-kv-rinp-in"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kurtturuusut",
@@ -5817,6 +5858,14 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-11-21T00:00:00+02:00",
     "end_time": "2026-11-21T23:59:00+02:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/D8876F30977ABA691E27E00AF5309F98/pienten-ja-suurten-eli-kuntalaisten-klubi"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Qoomikot kollektiivi: Kväärinpäin",
+    "start_time": "2026-11-21T00:00:00+02:00",
+    "end_time": "2026-11-21T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F28412D87481C6B969A4535F55EA89FD/qoomikot-kollektiivi-kv-rinp-in"
   },
   {
     "venue": "hkt",
@@ -6206,6 +6255,14 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-11-28T00:00:00+02:00",
     "end_time": "2026-11-28T23:59:00+02:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/8E84D1850CB0E9D5D0D1E4ACE562EDF9/tanssiteatteri-tsuumi-kulttuurikomppania-eloa-arvo"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Qoomikot kollektiivi: Kväärinpäin",
+    "start_time": "2026-11-28T00:00:00+02:00",
+    "end_time": "2026-11-28T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/2B83B0FDE4584FA66F413679F12DE16F/qoomikot-kollektiivi-kv-rinp-in"
   },
   {
     "venue": "zodiak",
