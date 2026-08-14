@@ -7069,10 +7069,10 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "caisa",
     "venue_label": "Caisa",
-    "title": "Amanda & Lydia: Traces of Your Skin",
+    "title": "Amanda & Lydia: Traces of Your Skin | ensi-ilta",
     "start_time": "2026-12-10T00:00:00+02:00",
     "end_time": "2026-12-10T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/FBBC6804A0D3FE560FC2AE26EB4C27F8/amanda-lydia-traces-of-your-skin"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/FBBC6804A0D3FE560FC2AE26EB4C27F8/amanda-lydia-traces-of-your-skin-ensi-ilta"
   },
   {
     "venue": "kansallisteatteri",
