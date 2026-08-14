@@ -67,28 +67,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/8C1B1D1737BCC328A3D394F41E9C5324/jussi-rinta-hoiska-lukosta-valoon"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Re-Charge",
-    "start_time": "2026-08-13T00:00:00+03:00",
-    "end_time": "2026-08-13T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/re-charge"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Lady T",
-    "start_time": "2026-08-13T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Birds of Paradise",
-    "start_time": "2026-08-13T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/birds-of-paradise/"
-  },
-  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Missä kuljimme kerran",
@@ -115,7 +93,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Birds of Paradise",
     "start_time": "2026-08-15T13:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/birds-of-paradise/"
+    "url": "https://hkt.fi/esitykset/birds-of-paradise/"
   },
   {
     "venue": "tekstintalo",
@@ -150,7 +128,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Birds of Paradise",
     "start_time": "2026-08-15T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/birds-of-paradise/"
+    "url": "https://hkt.fi/esitykset/birds-of-paradise/"
   },
   {
     "venue": "tekstintalo",
@@ -178,7 +156,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Birds of Paradise",
     "start_time": "2026-08-17T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/birds-of-paradise/"
+    "url": "https://hkt.fi/esitykset/birds-of-paradise/"
   },
   {
     "venue": "stoa",
@@ -208,14 +186,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Birds of Paradise",
     "start_time": "2026-08-18T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/birds-of-paradise/"
+    "url": "https://hkt.fi/esitykset/birds-of-paradise/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-08-18T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "stoa",
@@ -276,14 +254,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Birds of Paradise",
     "start_time": "2026-08-19T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/birds-of-paradise/"
+    "url": "https://hkt.fi/esitykset/birds-of-paradise/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-08-19T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "stoa",
@@ -335,20 +313,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Konstnatten 20.8.2026",
-    "start_time": "2026-08-20T16:30:00+03:00",
-    "url": ""
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Night of the Arts 20.8.2026",
-    "start_time": "2026-08-20T16:30:00+03:00",
-    "url": ""
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
     "title": "Taiteiden yö 20.8.2026",
     "start_time": "2026-08-20T16:30:00+03:00",
     "url": ""
@@ -393,7 +357,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-08-20T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "cirko",
@@ -501,7 +465,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-08-22T13:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "tekstintalo",
@@ -550,7 +514,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-08-22T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "tekstintalo",
@@ -724,7 +688,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-08-28T13:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "zodiak",
@@ -745,7 +709,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-08-28T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "stoa",
@@ -775,7 +739,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-08-29T13:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "ryhmateatteri",
@@ -810,7 +774,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-08-29T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "caisa",
@@ -839,7 +803,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-08-31T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "stoa",
@@ -907,14 +871,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-09-01T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-09-01T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "stoa",
@@ -965,14 +929,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-09-02T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-09-02T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "svenska",
@@ -1039,14 +1003,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-09-03T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-09-03T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "stoa",
@@ -1076,14 +1040,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-09-04T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-09-04T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "stoa",
@@ -1119,7 +1083,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-09-05T13:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "kansallisteatteri",
@@ -1140,28 +1104,28 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-09-05T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-09-05T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-09-05T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-09-05T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "stoa",
@@ -1256,7 +1220,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-09-08T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "universum",
@@ -1307,14 +1271,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-09-09T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-09-09T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "tekstintalo",
@@ -1372,21 +1336,21 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-09-10T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-09-10T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-09-10T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "svenska",
@@ -1459,14 +1423,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-09-11T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-09-11T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "viirus",
@@ -1487,7 +1451,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-09-11T19:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "cirko",
@@ -1532,7 +1496,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-09-12T12:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "kansallisteatteri",
@@ -1546,21 +1510,21 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-09-12T13:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-09-12T13:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-09-12T13:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "kansallisteatteri",
@@ -1581,14 +1545,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-09-12T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-09-12T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "viirus",
@@ -1676,20 +1640,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Kaffe med författaren",
-    "start_time": "2026-09-15T16:30:00+03:00",
-    "url": ""
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Coffee with the author",
-    "start_time": "2026-09-15T16:30:00+03:00",
-    "url": ""
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
     "title": "Kahvilla kirjailijan kanssa",
     "start_time": "2026-09-15T16:30:00+03:00",
     "url": ""
@@ -1727,7 +1677,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-09-15T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "takomo",
@@ -1801,14 +1751,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-09-16T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-09-16T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "cirko",
@@ -1843,21 +1793,21 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-09-17T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-09-17T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-09-17T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "svenska",
@@ -1914,14 +1864,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-09-18T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-09-18T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "viirus",
@@ -1965,7 +1915,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-09-19T12:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "kansallisteatteri",
@@ -1986,14 +1936,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-09-19T13:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-09-19T13:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "takomo",
@@ -2035,21 +1985,21 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-09-19T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-09-19T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-09-19T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "viirus",
@@ -2085,14 +2035,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-09-21T18:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-09-21T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
+    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2106,7 +2049,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-09-21T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "stoa",
@@ -2137,14 +2080,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-09-22T18:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-09-22T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
+    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2158,14 +2094,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-09-22T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-09-22T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "takomo",
@@ -2219,14 +2155,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-09-23T18:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-09-23T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
+    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "espoonteatteri",
@@ -2247,14 +2176,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kiviä taskussa",
     "start_time": "2026-09-23T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kivia-taskussa/"
+    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-09-23T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "stoa",
@@ -2305,14 +2234,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-09-24T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-09-24T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "caisa",
@@ -2355,14 +2284,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-09-25T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-09-25T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "takomo",
@@ -2400,7 +2329,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-09-26T12:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2421,21 +2350,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-09-26T13:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/fretti-mercury-etsii-onnea/"
+    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-09-26T13:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-09-26T14:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "takomo",
@@ -2463,7 +2385,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-09-26T17:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/fretti-mercury-etsii-onnea/"
+    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2491,35 +2413,35 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-09-26T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-09-26T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-09-26T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-09-26T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Club act!one",
     "start_time": "2026-09-26T21:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/club-actone/"
+    "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
     "venue": "kiasma",
@@ -2561,7 +2483,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-09-28T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "stoa",
@@ -2591,7 +2513,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-09-29T18:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/fretti-mercury-etsii-onnea/"
+    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "espoonteatteri",
@@ -2619,14 +2541,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-09-29T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-09-29T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "stoa",
@@ -2643,13 +2565,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-09-30T00:00:00+03:00",
     "end_time": "2026-09-30T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/211159120380EF5467A6F5B78C5D026D/sirkuskurssi-vauvaperheille"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-09-30T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "espoonteatteri",
@@ -2670,35 +2585,35 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-09-30T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-09-30T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-09-30T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-09-30T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Club act!one",
     "start_time": "2026-09-30T19:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/club-actone/"
+    "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
     "venue": "stoa",
@@ -2728,14 +2643,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-01T18:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-01T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
+    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "espoonteatteri",
@@ -2763,14 +2671,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kiviä taskussa",
     "start_time": "2026-10-01T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kivia-taskussa/"
+    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-10-01T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "stoa",
@@ -2793,14 +2701,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-02T18:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-02T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
+    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "espoonteatteri",
@@ -2842,21 +2743,21 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-10-02T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-10-02T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-10-02T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "stoa",
@@ -2871,7 +2772,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-10-03T12:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2899,21 +2800,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-03T13:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/fretti-mercury-etsii-onnea/"
+    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-10-03T13:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-03T14:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "ryhmateatteri",
@@ -2941,7 +2835,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-03T17:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/fretti-mercury-etsii-onnea/"
+    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2962,35 +2856,35 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-10-03T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-10-03T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-10-03T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-10-03T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Club act!one",
     "start_time": "2026-10-03T21:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/club-actone/"
+    "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
     "venue": "stoa",
@@ -3027,7 +2921,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-10-05T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "stoa",
@@ -3058,7 +2952,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Seniorisoppa",
     "start_time": "2026-10-06T11:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/seniorisoppa-2/"
+    "url": "https://hkt.fi/esitykset/seniorisoppa-2/"
   },
   {
     "venue": "zodiak",
@@ -3072,14 +2966,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-06T18:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-06T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
+    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "espoonteatteri",
@@ -3114,21 +3001,21 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-10-06T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-10-06T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-10-06T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "stoa",
@@ -3167,7 +3054,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Seniorisoppa",
     "start_time": "2026-10-07T11:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/seniorisoppa-2/"
+    "url": "https://hkt.fi/esitykset/seniorisoppa-2/"
   },
   {
     "venue": "kansallisteatteri",
@@ -3181,14 +3068,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-10-07T13:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-07T18:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/fretti-mercury-etsii-onnea/"
+    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "espoonteatteri",
@@ -3216,21 +3103,21 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-10-07T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-10-07T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-10-07T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "svenska",
@@ -3268,13 +3155,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-08T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Tavallisuuden aave",
@@ -3300,21 +3180,21 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-10-08T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-10-08T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-10-08T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "stoa",
@@ -3336,14 +3216,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-09T18:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-09T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
+    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "espoonteatteri",
@@ -3385,21 +3258,21 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-10-09T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-10-09T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-10-09T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "madhouse",
@@ -3420,7 +3293,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-10-09T19:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "stoa",
@@ -3442,7 +3315,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-10-10T12:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "kansallisteatteri",
@@ -3470,35 +3343,28 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-10-10T13:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-10T13:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/fretti-mercury-etsii-onnea/"
+    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-10-10T13:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-10-10T13:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-10T14:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "espoonteatteri",
@@ -3554,14 +3420,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-10-10T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-10-10T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "madhouse",
@@ -3582,7 +3448,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Club act!one",
     "start_time": "2026-10-10T19:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/club-actone/"
+    "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
     "venue": "espoonteatteri",
@@ -3610,14 +3476,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kiviä taskussa",
     "start_time": "2026-10-12T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kivia-taskussa/"
+    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-13T18:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/fretti-mercury-etsii-onnea/"
+    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "viirus",
@@ -3627,39 +3493,32 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-13T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-10-13T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kiviä taskussa",
     "start_time": "2026-10-13T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kivia-taskussa/"
+    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-10-13T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-10-13T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "stoa",
@@ -3682,14 +3541,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-14T18:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-14T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
+    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "kansallisteatteri",
@@ -3717,21 +3569,21 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-10-14T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-10-14T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-10-14T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "viirus",
@@ -3739,13 +3591,6 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-10-15T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-15T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -3773,28 +3618,28 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-10-15T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-10-15T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-10-15T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Club act!one",
     "start_time": "2026-10-15T19:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/club-actone/"
+    "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
     "venue": "stoa",
@@ -3809,7 +3654,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-16T18:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/fretti-mercury-etsii-onnea/"
+    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "viirus",
@@ -3817,13 +3662,6 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-10-16T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-16T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -3844,28 +3682,28 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-10-16T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-10-16T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-10-16T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-10-16T19:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "stoa",
@@ -3902,35 +3740,35 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-10-17T13:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-10-17T13:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-17T13:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/fretti-mercury-etsii-onnea/"
+    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-10-17T13:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-17T17:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/fretti-mercury-etsii-onnea/"
+    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "kansallisteatteri",
@@ -3958,35 +3796,21 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-10-17T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-10-17T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-10-17T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kaffe med författaren",
-    "start_time": "2026-10-19T16:30:00+03:00",
-    "url": ""
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Coffee with the author",
-    "start_time": "2026-10-19T16:30:00+03:00",
-    "url": ""
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "hkt",
@@ -4037,21 +3861,21 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-10-20T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-10-20T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-10-20T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "espoonteatteri",
@@ -4096,7 +3920,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-21T13:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/fretti-mercury-etsii-onnea/"
+    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "ryhmateatteri",
@@ -4117,14 +3941,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-10-21T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-10-21T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "espoonteatteri",
@@ -4168,7 +3992,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-22T18:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/fretti-mercury-etsii-onnea/"
+    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "viirus",
@@ -4176,13 +4000,6 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-10-22T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-22T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "ryhmateatteri",
@@ -4217,21 +4034,21 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-10-22T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-10-22T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-10-22T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "espoonteatteri",
@@ -4310,28 +4127,28 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-10-23T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kiviä taskussa",
     "start_time": "2026-10-23T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kivia-taskussa/"
+    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-10-23T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-10-23T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "madhouse",
@@ -4352,7 +4169,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Club act!one",
     "start_time": "2026-10-23T19:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/club-actone/"
+    "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
     "venue": "stoa",
@@ -4375,7 +4192,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-10-24T12:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "zodiak",
@@ -4403,21 +4220,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-10-24T13:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-24T13:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-24T14:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
+    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "ryhmateatteri",
@@ -4445,7 +4255,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-24T17:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/fretti-mercury-etsii-onnea/"
+    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "viirus",
@@ -4480,35 +4290,35 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-10-24T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kiviä taskussa",
     "start_time": "2026-10-24T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/kivia-taskussa/"
+    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-10-24T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-10-24T18:30:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Club act!one",
     "start_time": "2026-10-24T21:00:00+03:00",
-    "url": "https://hkt.fi/sv/esitykset/club-actone/"
+    "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
     "venue": "stoa",
@@ -4566,7 +4376,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-10-26T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "universum",
@@ -4611,14 +4421,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-27T18:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-27T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
+    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "ryhmateatteri",
@@ -4660,21 +4463,21 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-10-27T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kiviä taskussa",
     "start_time": "2026-10-27T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kivia-taskussa/"
+    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-10-27T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "stoa",
@@ -4719,7 +4522,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-28T18:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/fretti-mercury-etsii-onnea/"
+    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "viirus",
@@ -4727,13 +4530,6 @@ window.SCRAPED_EVENTS = [
     "title": "Writing of Disaster",
     "start_time": "2026-10-28T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-28T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "ryhmateatteri",
@@ -4775,14 +4571,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-10-28T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-10-28T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "stoa",
@@ -4813,7 +4609,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-29T13:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/fretti-mercury-etsii-onnea/"
+    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "zodiak",
@@ -4828,13 +4624,6 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-10-29T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-29T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "ryhmateatteri",
@@ -4855,7 +4644,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-10-29T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
@@ -4869,14 +4658,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-10-29T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-10-29T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "caisa",
@@ -4920,7 +4709,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-30T18:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/fretti-mercury-etsii-onnea/"
+    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "viirus",
@@ -4928,13 +4717,6 @@ window.SCRAPED_EVENTS = [
     "title": "Writing of Disaster",
     "start_time": "2026-10-30T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-30T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "ryhmateatteri",
@@ -4962,14 +4744,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-10-30T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-10-30T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "madhouse",
@@ -5011,7 +4793,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-10-30T19:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "stoa",
@@ -5153,13 +4935,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-03T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Sirkuskurssi taaperoperheille",
@@ -5230,7 +5005,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kiviä taskussa",
     "start_time": "2026-11-04T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kivia-taskussa/"
+    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
     "venue": "stoa",
@@ -5253,7 +5028,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-11-05T18:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/fretti-mercury-etsii-onnea/"
+    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "viirus",
@@ -5261,13 +5036,6 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-11-05T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-05T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "espoonteatteri",
@@ -5295,21 +5063,21 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kiviä taskussa",
     "start_time": "2026-11-05T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kivia-taskussa/"
+    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-11-05T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-11-05T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "viirus",
@@ -5317,13 +5085,6 @@ window.SCRAPED_EVENTS = [
     "title": "Writing of Disaster",
     "start_time": "2026-11-06T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-06T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "espoonteatteri",
@@ -5351,21 +5112,21 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-11-06T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-11-06T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-11-06T19:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "caisa",
@@ -5401,28 +5162,21 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-11-07T13:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-11-07T13:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/fretti-mercury-etsii-onnea/"
+    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-11-07T13:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-07T14:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "ryhmateatteri",
@@ -5450,35 +5204,35 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-11-07T17:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/fretti-mercury-etsii-onnea/"
+    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-11-07T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-11-07T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-11-07T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-11-07T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "kansallisteatteri",
@@ -5499,7 +5253,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Club act!one",
     "start_time": "2026-11-07T21:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/club-actone/"
+    "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
     "venue": "viirus",
@@ -5513,14 +5267,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kiviä taskussa",
     "start_time": "2026-11-09T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kivia-taskussa/"
+    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-11-09T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "universum",
@@ -5544,20 +5298,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-11-10T00:00:00+02:00",
     "end_time": "2026-11-10T23:59:00+02:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/316DCF29B05A8CC93A82A7153F7FA34E/sirkuskurssi-senioreille-ryhm-2"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kaffe med författaren",
-    "start_time": "2026-11-10T16:30:00+02:00",
-    "url": ""
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Coffee with the author",
-    "start_time": "2026-11-10T16:30:00+02:00",
-    "url": ""
   },
   {
     "venue": "hkt",
@@ -5592,21 +5332,21 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-11-10T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kiviä taskussa",
     "start_time": "2026-11-10T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kivia-taskussa/"
+    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-11-10T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "stoa",
@@ -5632,13 +5372,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-11T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
@@ -5657,21 +5390,21 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-11-11T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-11-11T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-11-11T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "svenska",
@@ -5693,7 +5426,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-11-12T13:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "viirus",
@@ -5701,13 +5434,6 @@ window.SCRAPED_EVENTS = [
     "title": "Writing of Disaster",
     "start_time": "2026-11-12T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-12T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "ryhmateatteri",
@@ -5728,7 +5454,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-11-12T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
@@ -5742,7 +5468,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-11-12T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "viirus",
@@ -5750,13 +5476,6 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-11-13T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-13T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "ryhmateatteri",
@@ -5798,28 +5517,28 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-11-13T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-11-13T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Iikka Kivi &#8211; Protestinauru Stand Up Show",
     "start_time": "2026-11-13T19:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/iikka-kivi-protestinauru-stand-up-show/"
+    "url": "https://hkt.fi/esitykset/iikka-kivi-protestinauru-stand-up-show/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-11-14T12:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "cirko",
@@ -5861,14 +5580,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-11-14T13:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-14T14:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "ryhmateatteri",
@@ -5903,21 +5615,21 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-11-14T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-11-14T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-11-14T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "svenska",
@@ -5938,7 +5650,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Club act!one",
     "start_time": "2026-11-14T19:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/club-actone/"
+    "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
     "venue": "universum",
@@ -5974,7 +5686,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-11-16T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "universum",
@@ -5989,13 +5701,6 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-11-17T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-17T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -6037,7 +5742,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-11-18T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "stoa",
@@ -6052,7 +5757,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-11-19T13:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "viirus",
@@ -6060,13 +5765,6 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-11-19T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-19T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "ryhmateatteri",
@@ -6080,7 +5778,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-11-19T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
@@ -6094,7 +5792,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-11-19T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "svenska",
@@ -6108,7 +5806,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "no-no",
     "start_time": "2026-11-19T19:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/no-no-2/"
+    "url": "https://hkt.fi/esitykset/no-no-2/"
   },
   {
     "venue": "caisa",
@@ -6124,13 +5822,6 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-11-20T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-20T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "ryhmateatteri",
@@ -6165,14 +5856,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-11-20T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-11-20T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "svenska",
@@ -6193,7 +5884,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-11-20T19:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "stoa",
@@ -6208,7 +5899,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-11-21T12:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "kansallisteatteri",
@@ -6229,21 +5920,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-11-21T13:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-11-21T13:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-21T14:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "ryhmateatteri",
@@ -6264,35 +5948,35 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-11-21T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-11-21T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-11-21T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Iikka Kivi &#8211; Protestinauru Stand Up Show",
     "start_time": "2026-11-21T19:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/iikka-kivi-protestinauru-stand-up-show/"
+    "url": "https://hkt.fi/esitykset/iikka-kivi-protestinauru-stand-up-show/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Club act!one",
     "start_time": "2026-11-21T21:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/club-actone/"
+    "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
     "venue": "universum",
@@ -6320,7 +6004,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-11-23T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "universum",
@@ -6369,14 +6053,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-11-24T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-11-24T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "stoa",
@@ -6406,14 +6090,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-11-25T13:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-25T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "ryhmateatteri",
@@ -6441,14 +6118,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-11-25T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-11-25T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "viirus",
@@ -6470,7 +6147,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-11-26T13:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "zodiak",
@@ -6485,13 +6162,6 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-11-26T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-26T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "ryhmateatteri",
@@ -6512,21 +6182,21 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-11-26T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-11-26T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-11-26T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "viirus",
@@ -6572,13 +6242,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-27T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
@@ -6611,7 +6274,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-11-27T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
@@ -6639,14 +6302,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-11-27T19:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "no-no",
     "start_time": "2026-11-27T19:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/no-no-2/"
+    "url": "https://hkt.fi/esitykset/no-no-2/"
   },
   {
     "venue": "stoa",
@@ -6697,28 +6360,21 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "no-no",
     "start_time": "2026-11-28T13:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/no-no-2/"
+    "url": "https://hkt.fi/esitykset/no-no-2/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-11-28T13:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-11-28T13:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-28T14:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "ryhmateatteri",
@@ -6746,28 +6402,28 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-11-28T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-11-28T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-11-28T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-11-28T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "viirus",
@@ -6781,7 +6437,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Club act!one",
     "start_time": "2026-11-28T21:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/club-actone/"
+    "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
     "venue": "stoa",
@@ -6817,14 +6473,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-11-30T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "no-no",
     "start_time": "2026-11-30T19:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/no-no-2/"
+    "url": "https://hkt.fi/esitykset/no-no-2/"
   },
   {
     "venue": "stoa",
@@ -6839,14 +6495,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Seniorisoppa joulukonsertti",
     "start_time": "2026-12-01T11:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/seniorisoppa-joulukonsertti/"
+    "url": "https://hkt.fi/esitykset/seniorisoppa-joulukonsertti/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Seniorisoppa joulukonsertti",
     "start_time": "2026-12-01T14:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/seniorisoppa-joulukonsertti/"
+    "url": "https://hkt.fi/esitykset/seniorisoppa-joulukonsertti/"
   },
   {
     "venue": "zodiak",
@@ -6868,13 +6524,6 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-12-01T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-12-01T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -6902,14 +6551,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-12-01T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-12-01T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "svenska",
@@ -6973,14 +6622,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-12-02T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-12-02T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "universum",
@@ -7002,7 +6651,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "no-no",
     "start_time": "2026-12-03T13:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/no-no-2/"
+    "url": "https://hkt.fi/esitykset/no-no-2/"
   },
   {
     "venue": "zodiak",
@@ -7044,21 +6693,21 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-12-03T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-12-03T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-12-03T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "stoa",
@@ -7091,13 +6740,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-12-04T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Viides askel",
@@ -7116,7 +6758,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-12-04T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "svenska",
@@ -7130,14 +6772,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-12-04T19:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "no-no",
     "start_time": "2026-12-04T19:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/no-no-2/"
+    "url": "https://hkt.fi/esitykset/no-no-2/"
   },
   {
     "venue": "stoa",
@@ -7180,14 +6822,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "no-no",
     "start_time": "2026-12-05T13:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/no-no-2/"
+    "url": "https://hkt.fi/esitykset/no-no-2/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-12-05T13:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
@@ -7201,14 +6843,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-12-05T13:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-12-05T14:00:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "kiasma",
@@ -7236,28 +6871,28 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-12-05T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-12-05T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-12-05T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Club act!one",
     "start_time": "2026-12-05T19:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/club-actone/"
+    "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
     "venue": "kansallisteatteri",
@@ -7271,7 +6906,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-12-07T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "universum",
@@ -7285,7 +6920,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "no-no",
     "start_time": "2026-12-07T19:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/no-no-2/"
+    "url": "https://hkt.fi/esitykset/no-no-2/"
   },
   {
     "venue": "stoa",
@@ -7301,13 +6936,6 @@ window.SCRAPED_EVENTS = [
     "title": "Marika Peura:Imperial Stage",
     "start_time": "2026-12-08T17:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-12-08T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -7342,14 +6970,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-12-08T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-12-08T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "stoa",
@@ -7364,7 +6992,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-12-09T13:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "zodiak",
@@ -7372,13 +7000,6 @@ window.SCRAPED_EVENTS = [
     "title": "Marika Peura:Imperial Stage",
     "start_time": "2026-12-09T17:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-12-09T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -7413,14 +7034,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-12-09T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-12-09T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "universum",
@@ -7465,7 +7086,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "no-no",
     "start_time": "2026-12-10T13:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/no-no-2/"
+    "url": "https://hkt.fi/esitykset/no-no-2/"
   },
   {
     "venue": "zodiak",
@@ -7473,13 +7094,6 @@ window.SCRAPED_EVENTS = [
     "title": "Marika Peura:Imperial Stage",
     "start_time": "2026-12-10T17:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-12-10T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -7493,21 +7107,21 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-12-10T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-12-10T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-12-10T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "universum",
@@ -7540,13 +7154,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/heavenly-father/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-12-11T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Viidakon villit naiset",
@@ -7565,21 +7172,21 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-12-11T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-12-11T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-12-11T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "stoa",
@@ -7617,21 +7224,21 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-12-12T13:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-12-12T13:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-12-12T13:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "kansallisteatteri",
@@ -7652,7 +7259,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-12-12T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
@@ -7666,21 +7273,21 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-12-12T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Club act!one",
     "start_time": "2026-12-12T19:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/club-actone/"
+    "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "no-no",
     "start_time": "2026-12-12T19:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/no-no-2/"
+    "url": "https://hkt.fi/esitykset/no-no-2/"
   },
   {
     "venue": "viirus",
@@ -7694,14 +7301,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-12-14T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-12-14T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "stoa",
@@ -7730,7 +7337,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-12-15T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
@@ -7744,7 +7351,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-12-15T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "svenska",
@@ -7758,7 +7365,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "no-no",
     "start_time": "2026-12-15T19:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/no-no-2/"
+    "url": "https://hkt.fi/esitykset/no-no-2/"
   },
   {
     "venue": "stoa",
@@ -7787,7 +7394,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-12-16T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
@@ -7801,7 +7408,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-12-16T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "svenska",
@@ -7815,14 +7422,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "no-no",
     "start_time": "2026-12-16T19:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/no-no-2/"
+    "url": "https://hkt.fi/esitykset/no-no-2/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-12-17T13:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "kansallisteatteri",
@@ -7843,7 +7450,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-12-17T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "universum",
@@ -7879,14 +7486,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-12-18T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-12-18T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "stoa",
@@ -7923,14 +7530,14 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-12-19T13:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-12-19T13:00:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "kansallisteatteri",
@@ -7951,21 +7558,21 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-12-19T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-12-19T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-12-19T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "svenska",
@@ -7986,49 +7593,49 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-12-28T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "no-no",
     "start_time": "2026-12-28T19:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/no-no-2/"
+    "url": "https://hkt.fi/esitykset/no-no-2/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-12-29T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "no-no",
     "start_time": "2026-12-29T19:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/no-no-2/"
+    "url": "https://hkt.fi/esitykset/no-no-2/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-12-30T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-12-30T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-12-31T18:30:00+02:00",
-    "url": "https://hkt.fi/sv/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "universum",
