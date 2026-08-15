@@ -36,13 +36,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/B5CEECA15BBB114F544F7263E2517AE4/mainiot-materiaalit-installaatio-terraarion-puoleisten-rappusten-vieress"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Sarjakuvailmaisun kevätnäyttely: Menee jo!",
-    "start_time": "2026-05-28T18:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/menee-jo-sarjakuvailmaisun-kevatnayttely"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Luontosuhteita",
@@ -65,13 +58,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-08-07T00:00:00+03:00",
     "end_time": "2026-08-29T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/8C1B1D1737BCC328A3D394F41E9C5324/jussi-rinta-hoiska-lukosta-valoon"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "SAAKO PURRA?",
-    "start_time": "2026-08-14T19:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/saako-purra-1408"
   },
   {
     "venue": "stoa",
@@ -1309,6 +1295,20 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-09-10T00:00:00+03:00",
     "end_time": "2026-09-10T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/10CD6CDEC7EBB3B892BA375E7FCAE883/sisus-sirkus-memoirs-of-mud"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Kuvituskurssi 1. ryhmä",
+    "start_time": "2026-09-10T17:15:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/kuvituskurssi-1-ryhma"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Kuvituskurssi 2. ryhmä",
+    "start_time": "2026-09-10T17:15:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/kuvituskurssi-ryhma2"
   },
   {
     "venue": "kansallisteatteri",
