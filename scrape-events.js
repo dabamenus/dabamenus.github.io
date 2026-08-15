@@ -65,7 +65,7 @@ window.SCRAPED_EVENTS = [
     "title": "Emeka Ogboh - Danfo Block Party",
     "start_time": "2026-08-15T00:00:00+03:00",
     "end_time": "2026-08-15T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/21964F07517AEA4CCF69C9FFC7872F52/emeka-ogboh-danfo-block-party"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/emeka-ogboh-danfo-block-party"
   },
   {
     "venue": "hkt",
@@ -73,13 +73,6 @@ window.SCRAPED_EVENTS = [
     "title": "Birds of Paradise",
     "start_time": "2026-08-15T13:00:00+03:00",
     "url": "https://hkt.fi/esitykset/birds-of-paradise/"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "SAAKO PURRA?",
-    "start_time": "2026-08-15T14:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/saako-purra-15081"
   },
   {
     "venue": "kansallisteatteri",
@@ -1476,6 +1469,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-09-12T00:00:00+03:00",
     "end_time": "2026-09-12T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/5774C7D60F0A09F92F0F969B6A130826/kerttu-opus-opus-company-suddenly-and-other-ways-to-change"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Olen X (verkkokurssitus 12.9.-12.12. 2026)",
+    "start_time": "2026-09-12T11:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/olen-x-verkkokurssitus-12-9-12-12-2026"
   },
   {
     "venue": "hkt",
