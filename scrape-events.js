@@ -60,49 +60,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/8C1B1D1737BCC328A3D394F41E9C5324/jussi-rinta-hoiska-lukosta-valoon"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Emeka Ogboh - Danfo Block Party",
-    "start_time": "2026-08-15T00:00:00+03:00",
-    "end_time": "2026-08-15T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/emeka-ogboh-danfo-block-party"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Birds of Paradise",
-    "start_time": "2026-08-15T13:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/birds-of-paradise/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Lady T",
-    "start_time": "2026-08-15T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
-    "start_time": "2026-08-15T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Birds of Paradise",
-    "start_time": "2026-08-15T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/birds-of-paradise/"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "SAAKO PURRA?",
-    "start_time": "2026-08-15T19:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/saako-purra-15082"
-  },
-  {
     "venue": "madhouse",
     "venue_label": "Mad House",
     "title": "MAR/MÆR – BEDROCK : : ROCKBED",
@@ -1696,6 +1653,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-09-16T00:00:00+03:00",
     "end_time": "2026-09-16T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/EA81E543E4BD95A56054B54AB781E43F/myrskyryhm-ellin-elokuvahetki"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Minä unohdin miten suuressa talossa asun",
+    "start_time": "2026-09-16T18:30:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/mina-unohdin-miten-suuressa-talossa-asun-1609"
   },
   {
     "venue": "espoonteatteri",
