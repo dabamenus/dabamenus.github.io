@@ -60,19 +60,12 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/8C1B1D1737BCC328A3D394F41E9C5324/jussi-rinta-hoiska-lukosta-valoon"
   },
   {
-    "venue": "madhouse",
-    "venue_label": "Mad House",
-    "title": "MAR/MÆR – BEDROCK : : ROCKBED",
-    "start_time": "2026-08-16T19:00:00+03:00",
-    "url": "https://www.madhousehelsinki.fi/ohjelmisto/bedrock-rockbed"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Teatteri Qo: Niitty",
     "start_time": "2026-08-19T00:00:00+03:00",
     "end_time": "2026-08-19T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/A07D5C75A1E5F8D7B6113F78D1730A4D/teatteri-qo-niitty"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/teatteri-qo-niitty"
   },
   {
     "venue": "stoa",
@@ -2915,14 +2908,6 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-10-06T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "E1T1: Each One Teach One",
-    "start_time": "2026-10-07T00:00:00+03:00",
-    "end_time": "2026-10-08T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0DB403F9E6D659BFC96ED22BAA7A90A4/e1t1-each-one-teach-one"
   },
   {
     "venue": "stoa",
