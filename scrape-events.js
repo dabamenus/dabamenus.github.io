@@ -65,7 +65,7 @@ window.SCRAPED_EVENTS = [
     "title": "Stoa Welcome Day",
     "start_time": "2026-08-20T00:00:00+03:00",
     "end_time": "2026-08-20T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/CC76439FAD1D0F175D1C9A29EF2F786E/stoa-welcome-day"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/stoa-welcome-day"
   },
   {
     "venue": "stoa",
@@ -81,7 +81,7 @@ window.SCRAPED_EVENTS = [
     "title": "Teatteri Qo: Niitty",
     "start_time": "2026-08-20T00:00:00+03:00",
     "end_time": "2026-08-20T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/4DDB625525B0583E2281FBF21A7873EE/teatteri-qo-niitty"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/teatteri-qo-niitty"
   },
   {
     "venue": "stoa",
@@ -106,13 +106,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-08-20T00:00:00+03:00",
     "end_time": "2026-08-20T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/67FF6EB1D677442235E3DE59AD3163A1/shaghayegh-ansari-borrowed-cities-esitys-on-t-ynn"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
-    "start_time": "2026-08-20T14:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-2008"
   },
   {
     "venue": "hkt",
@@ -1556,6 +1549,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-09-16T00:00:00+03:00",
     "end_time": "2026-09-16T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/EA81E543E4BD95A56054B54AB781E43F/myrskyryhm-ellin-elokuvahetki"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Minä unohdin miten suuressa talossa asun",
+    "start_time": "2026-09-16T18:30:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/mina-unohdin-miten-suuressa-talossa-asun-1609"
   },
   {
     "venue": "espoonteatteri",
