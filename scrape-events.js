@@ -102,10 +102,10 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "caisa",
     "venue_label": "Caisa",
-    "title": "Shaghayegh Ansari: Borrowed Cities",
+    "title": "Shaghayegh Ansari: Borrowed Cities | ESITYS ON TÄYNNÄ",
     "start_time": "2026-08-20T00:00:00+03:00",
     "end_time": "2026-08-20T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/67FF6EB1D677442235E3DE59AD3163A1/shaghayegh-ansari-borrowed-cities"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/67FF6EB1D677442235E3DE59AD3163A1/shaghayegh-ansari-borrowed-cities-esitys-on-t-ynn"
   },
   {
     "venue": "tekstintalo",
