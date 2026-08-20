@@ -73,7 +73,7 @@ window.SCRAPED_EVENTS = [
     "title": "Stoan Elojuhla x Middle East Jam Festival",
     "start_time": "2026-08-20T00:00:00+03:00",
     "end_time": "2026-08-20T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F13D83B4A15B5A37E9F24CCFE70BBF0C/stoan-elojuhla-x-middle-east-jam-festival"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/stoan-elojuhla-x-middle-east-jam-festival"
   },
   {
     "venue": "stoa",
@@ -97,7 +97,7 @@ window.SCRAPED_EVENTS = [
     "title": "Shaghayegh Ansari: Borrowed Cities | TILAISUUS ON TÄYNNÄ",
     "start_time": "2026-08-20T00:00:00+03:00",
     "end_time": "2026-08-20T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/B3712ECCE82757F70161146612A3CE6B/shaghayegh-ansari-borrowed-cities-tilaisuus-on-t-ynn"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/shaghayegh-ansari-borrowed-cities-tilaisuus-on-t-ynn"
   },
   {
     "venue": "caisa",
@@ -105,14 +105,7 @@ window.SCRAPED_EVENTS = [
     "title": "Shaghayegh Ansari: Borrowed Cities | ESITYS ON TÄYNNÄ",
     "start_time": "2026-08-20T00:00:00+03:00",
     "end_time": "2026-08-20T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/67FF6EB1D677442235E3DE59AD3163A1/shaghayegh-ansari-borrowed-cities-esitys-on-t-ynn"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Taiteiden yö 20.8.2026",
-    "start_time": "2026-08-20T16:30:00+03:00",
-    "url": ""
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/shaghayegh-ansari-borrowed-cities-esitys-on-t-ynn"
   },
   {
     "venue": "tekstintalo",
@@ -120,13 +113,6 @@ window.SCRAPED_EVENTS = [
     "title": "NVL:n kirjoittajaryhmien tekstinäyttely",
     "start_time": "2026-08-20T17:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/nvl-n-kirjoittajaryhmien-tekstinayttely"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Runokuu: Runokimara",
-    "start_time": "2026-08-20T17:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/runokuu-runokimara"
   },
   {
     "venue": "cirko",
@@ -141,13 +127,6 @@ window.SCRAPED_EVENTS = [
     "title": "Rap-lyriikka 30+",
     "start_time": "2026-08-20T18:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/rap-lyriikka-30"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Missä kuljimme kerran",
-    "start_time": "2026-08-20T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
   },
   {
     "venue": "hkt",
@@ -1598,6 +1577,13 @@ window.SCRAPED_EVENTS = [
     "title": "Elolliset",
     "start_time": "2026-09-16T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/elolliset/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
+    "start_time": "2026-09-17T14:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-1709"
   },
   {
     "venue": "cirko",
