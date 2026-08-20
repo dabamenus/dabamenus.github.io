@@ -62,67 +62,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
-    "title": "Teatteri Qo: Niitty",
-    "start_time": "2026-08-19T00:00:00+03:00",
-    "end_time": "2026-08-19T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/teatteri-qo-niitty"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Skeittipaku Stoan aukio",
-    "start_time": "2026-08-19T00:00:00+03:00",
-    "end_time": "2026-08-19T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/skeittipaku-stoan-aukio"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Poetry in a Time of Crisis",
-    "start_time": "2026-08-19T00:00:00+03:00",
-    "end_time": "2026-08-19T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/poetry-in-a-time-of-crisis"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Shaghayegh Ansari: Borrowed Cities",
-    "start_time": "2026-08-19T00:00:00+03:00",
-    "end_time": "2026-08-19T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/shaghayegh-ansari-borrowed-cities"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Caisa Poetry Night",
-    "start_time": "2026-08-19T00:00:00+03:00",
-    "end_time": "2026-08-19T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/caisa-poetry-night"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Ilta Mellerin kanssa",
-    "start_time": "2026-08-19T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/ilta-mellerin-kanssa"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Birds of Paradise",
-    "start_time": "2026-08-19T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/birds-of-paradise/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-08-19T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
     "title": "Stoa Welcome Day",
     "start_time": "2026-08-20T00:00:00+03:00",
     "end_time": "2026-08-20T23:59:00+03:00",
@@ -409,6 +348,13 @@ window.SCRAPED_EVENTS = [
     "title": "Runokuu: Runomarkkinat",
     "start_time": "2026-08-23T12:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/runokuu-runomarkkinat"
+  },
+  {
+    "venue": "svenska",
+    "venue_label": "Svenska Teatern",
+    "title": "Taiteiden yö 20.8.2026",
+    "start_time": "2026-08-23T19:00:00+03:00",
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/taiteiden-yo-2026/"
   },
   {
     "venue": "kansallisteatteri",
