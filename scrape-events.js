@@ -1,65 +1,5 @@
 window.SCRAPED_EVENTS = [
   {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "1984",
-    "start_time": "2025-09-11T20:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/1984/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "1984",
-    "start_time": "2025-09-17T19:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/1984/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "1984",
-    "start_time": "2025-10-08T19:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/1984/"
-  },
-  {
-    "venue": "viirus",
-    "venue_label": "Teater Viirus",
-    "title": "1984",
-    "start_time": "2025-12-02T19:00:00+02:00",
-    "url": "https://viirus.fi/fi/esitykset/1984/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Mainiot materiaalit - installaatio (terraarion puoleisten rappusten vieressä)",
-    "start_time": "2026-05-26T00:00:00+03:00",
-    "end_time": "2026-09-06T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/B5CEECA15BBB114F544F7263E2517AE4/mainiot-materiaalit-installaatio-terraarion-puoleisten-rappusten-vieress"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Luontosuhteita",
-    "start_time": "2026-06-12T00:00:00+03:00",
-    "end_time": "2026-08-30T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F2E50462006DF628DE768041D5EE7228/luontosuhteita"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Elonkirjon kaupunki: Vaihtoehtokaavoja elonkirjon puolesta",
-    "start_time": "2026-06-17T00:00:00+03:00",
-    "end_time": "2026-08-30T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0C2A94B263D2D32105C25E071D706846/elonkirjon-kaupunki-vaihtoehtokaavoja-elonkirjon-puolesta"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Jussi Rinta-Hoiska: Lukosta valoon",
-    "start_time": "2026-08-07T00:00:00+03:00",
-    "end_time": "2026-08-29T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/8C1B1D1737BCC328A3D394F41E9C5324/jussi-rinta-hoiska-lukosta-valoon"
-  },
-  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "NVL:n kirjoittajaryhmien tekstinäyttely",
@@ -79,14 +19,6 @@ window.SCRAPED_EVENTS = [
     "title": "Taiteiden yö 20.8.2026",
     "start_time": "2026-08-20T19:00:00+03:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/taiteiden-yo-2026/"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Shaghayegh Ansari: Borrowed Cities",
-    "start_time": "2026-08-21T00:00:00+03:00",
-    "end_time": "2026-08-21T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/B16406DC6B7D5CC30546D22F9151D20F/shaghayegh-ansari-borrowed-cities"
   },
   {
     "venue": "zodiak",
@@ -122,22 +54,6 @@ window.SCRAPED_EVENTS = [
     "title": "The Silence",
     "start_time": "2026-08-21T20:00:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/silence"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Kontula Electronic x Stoa: Violent Magic Orchestra | NHV Beherit | 111X",
-    "start_time": "2026-08-22T00:00:00+03:00",
-    "end_time": "2026-08-22T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/799BD7721850DA31B4804FE3419AEEDC/kontula-electronic-x-stoa-violent-magic-orchestra-nhv-beherit-111x"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Shaghayegh Ansari: Borrowed Cities",
-    "start_time": "2026-08-22T00:00:00+03:00",
-    "end_time": "2026-08-22T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/BD819B9F78213BBF8F0A1002878717BB/shaghayegh-ansari-borrowed-cities"
   },
   {
     "venue": "tekstintalo",
@@ -224,14 +140,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/runokuu-festarijatkot"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Poetiikkakonferenssi",
-    "start_time": "2026-08-23T00:00:00+03:00",
-    "end_time": "2026-08-23T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/4E26FF6CC440CBE39119339F8B6C45A5/poetiikkakonferenssi"
-  },
-  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Runokuu: Runomarkkinat",
@@ -260,22 +168,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "UrbanApa x Stoa: movement & currents / liike ja virtaukset",
-    "start_time": "2026-08-25T00:00:00+03:00",
-    "end_time": "2026-08-29T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0DFDCEEBC9891563D661DF26B8AED722/urbanapa-x-stoa-movement-currents-liike-ja-virtaukset"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "OLEMA | ENSI-ILTA",
-    "start_time": "2026-08-25T00:00:00+03:00",
-    "end_time": "2026-08-25T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/02EFFE10CFB5538AA1A760EAA14C0B6C/olema-ensi-ilta"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Kati Raatikainen,Milla Martikainen:Sotku ja rakkaus",
@@ -290,6 +182,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/kasikirjoituspiiri-sarjakuvaa-tekevalle-arkikurssi"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Karkelot",
+    "start_time": "2026-08-25T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Missä kuljimme kerran",
@@ -297,19 +196,18 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "OLEMA",
-    "start_time": "2026-08-26T00:00:00+03:00",
-    "end_time": "2026-08-26T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/9B89D02F33E2C26226604DFFA03E7F45/olema"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Kati Raatikainen,Milla Martikainen:Sotku ja rakkaus",
     "start_time": "2026-08-26T16:00:19+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Karkelot",
+    "start_time": "2026-08-26T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
   },
   {
     "venue": "ryhmateatteri",
@@ -326,6 +224,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/ilta-mellerin-kanssa"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Karkelot",
+    "start_time": "2026-08-27T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Missä kuljimme kerran",
@@ -338,22 +243,6 @@ window.SCRAPED_EVENTS = [
     "title": "Lady T",
     "start_time": "2026-08-27T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Jussin metsäsadut",
-    "start_time": "2026-08-28T00:00:00+03:00",
-    "end_time": "2026-08-28T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/4294A0D40DA4E3E043A94DE3154BD942/jussin-mets-sadut"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "OLEMA",
-    "start_time": "2026-08-28T00:00:00+03:00",
-    "end_time": "2026-08-28T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/4BE6944BD76CCB69E5CFC6EAAA6E8D64/olema"
   },
   {
     "venue": "tekstintalo",
@@ -398,22 +287,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Stoan Suomen luonnon päivä: Pekko Käppi, Riikka Kaihovaara ja Sanja Hakala",
-    "start_time": "2026-08-29T00:00:00+03:00",
-    "end_time": "2026-08-29T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/8B98D98603660D2FD7CEE575BB858041/stoan-suomen-luonnon-p-iv-pekko-k-ppi-riikka-kaihovaara-ja-sanja-hakala"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "OLEMA",
-    "start_time": "2026-08-29T00:00:00+03:00",
-    "end_time": "2026-08-29T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/D5DA1DC7B99277385CB6B0A672F1C310/olema"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Kati Raatikainen,Milla Martikainen:Sotku ja rakkaus",
@@ -433,6 +306,13 @@ window.SCRAPED_EVENTS = [
     "title": "Missä kuljimme kerran",
     "start_time": "2026-08-29T14:00:00+03:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Karkelot",
+    "start_time": "2026-08-29T15:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
   },
   {
     "venue": "kansallisteatteri",
@@ -456,12 +336,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "OLEMA",
-    "start_time": "2026-08-30T00:00:00+03:00",
-    "end_time": "2026-08-30T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/D5595565EA9D9BBCB1A05CAF8C3B5F6E/olema"
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Karkelot",
+    "start_time": "2026-08-30T15:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
   },
   {
     "venue": "kansallisteatteri",
@@ -476,46 +355,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kotijoukot",
     "start_time": "2026-08-31T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Ohjatut päivätanssit Stoan aulassa",
-    "start_time": "2026-09-01T00:00:00+03:00",
-    "end_time": "2026-09-01T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/05F99034CC9C1FDCE9EDD347207A415D/ohjatut-p-iv-tanssit-stoan-aulassa"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi senioreille, Ryhmä 1",
-    "start_time": "2026-09-01T00:00:00+03:00",
-    "end_time": "2026-09-01T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/176DEAA5C2D5ADDCBB54B5C3449D61AB/sirkuskurssi-senioreille-ryhm-1"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi senioreille, Ryhmä 2",
-    "start_time": "2026-09-01T00:00:00+03:00",
-    "end_time": "2026-09-01T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/6C4DB859FDD07715FE6E40B243BB0D2F/sirkuskurssi-senioreille-ryhm-2"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi perheille",
-    "start_time": "2026-09-01T00:00:00+03:00",
-    "end_time": "2026-09-01T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/AED2392D6C9BB3172716FB1B75401839/sirkuskurssi-perheille"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-09-01T00:00:00+03:00",
-    "end_time": "2026-10-22T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/090BE058FE197926A7F00ACAA34B65A9/taidetta-taaperoille"
   },
   {
     "venue": "zodiak",
@@ -551,22 +390,6 @@ window.SCRAPED_EVENTS = [
     "title": "Elolliset",
     "start_time": "2026-09-01T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi taaperoperheille",
-    "start_time": "2026-09-02T00:00:00+03:00",
-    "end_time": "2026-09-02T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/689869865C6F95FA8FC8822FC6F9E56F/sirkuskurssi-taaperoperheille"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi vauvaperheille",
-    "start_time": "2026-09-02T00:00:00+03:00",
-    "end_time": "2026-09-02T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/A7FFA9AE1FDF94A7431D4D864F605B0C/sirkuskurssi-vauvaperheille"
   },
   {
     "venue": "zodiak",
@@ -618,38 +441,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/pa-besok-hos-smakrypen/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Ukrainalais–suomalaisen sarjakuvaprojektin näyttely",
-    "start_time": "2026-09-03T00:00:00+03:00",
-    "end_time": "2026-09-20T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/9AAC9784DCE71EC7FA0A7C59641E12E1/ukrainalais-suomalaisen-sarjakuvaprojektin-n-yttely"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Kutiburger: suomalais-slovenialainen sarjakuvadialogi",
-    "start_time": "2026-09-03T00:00:00+03:00",
-    "end_time": "2026-09-20T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/FC1DA793193AA4A546DA0DB8AB30B2D5/kutiburger-suomalais-slovenialainen-sarjakuvadialogi"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Festivaalitaiteilija Emilia Laatikaisen näyttely",
-    "start_time": "2026-09-03T00:00:00+03:00",
-    "end_time": "2026-09-20T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/77B4BF323E2BCDCAC329960BC09C0F96/festivaalitaiteilija-emilia-laatikaisen-n-yttely"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "RISA: Only Bones 2.0",
-    "start_time": "2026-09-03T00:00:00+03:00",
-    "end_time": "2026-09-03T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F68351C5857D39C0F5434607186C6637/risa-only-bones-2-0"
-  },
-  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
@@ -685,22 +476,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Jussin metsäsadut",
-    "start_time": "2026-09-04T00:00:00+03:00",
-    "end_time": "2026-09-04T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/691BF08803460CBE7842EF701E1CECCF/jussin-mets-sadut"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Daniel Palpa: Between Two Rivers",
-    "start_time": "2026-09-04T00:00:00+03:00",
-    "end_time": "2026-09-26T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/DDCBAA0CCEB34D1A6E10CE8DB52008AB/daniel-palpa-between-two-rivers"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Orvot",
@@ -720,14 +495,6 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-09-04T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "RISA: Only Bones 2.0",
-    "start_time": "2026-09-05T00:00:00+03:00",
-    "end_time": "2026-09-05T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/47B966A42184CEB31C4A139E637D89FF/risa-only-bones-2-0"
   },
   {
     "venue": "zodiak",
@@ -800,22 +567,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Toisissa tiloissa -kollektiivi: Rauhanliikekannallepano",
-    "start_time": "2026-09-06T00:00:00+03:00",
-    "end_time": "2026-09-06T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/3F779FDFA45F76DD00680A4093C8C268/toisissa-tiloissa-kollektiivi-rauhanliikekannallepano"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "RISA: Only Bones 2.0",
-    "start_time": "2026-09-06T00:00:00+03:00",
-    "end_time": "2026-09-06T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/7017506705E07ECEF281B0B2139F1F4F/risa-only-bones-2-0"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Nina Davies & 2girls1comp:The Inexorable Non-Player Character",
@@ -851,22 +602,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvailmaisu"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi senioreille, Ryhmä 1",
-    "start_time": "2026-09-08T00:00:00+03:00",
-    "end_time": "2026-09-08T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/E6DAD2F1E3A490BE2D04FEDFBC48DD1D/sirkuskurssi-senioreille-ryhm-1"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi senioreille, Ryhmä 2",
-    "start_time": "2026-09-08T00:00:00+03:00",
-    "end_time": "2026-09-08T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/20762AE6A5795D8074A7BB9187CCAF14/sirkuskurssi-senioreille-ryhm-2"
-  },
-  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Lasten sarjakuvakurssi",
@@ -900,22 +635,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kettutytön paluu",
     "start_time": "2026-09-08T19:00:00+03:00",
     "url": "https://universum.fi/events/kettutyton-paluu-8-9/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi taaperoperheille",
-    "start_time": "2026-09-09T00:00:00+03:00",
-    "end_time": "2026-09-09T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/970EE471475137777F762D09BE86E3B0/sirkuskurssi-taaperoperheille"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi vauvaperheille",
-    "start_time": "2026-09-09T00:00:00+03:00",
-    "end_time": "2026-09-09T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/21D475F95056356D1083EA2D8086F02B/sirkuskurssi-vauvaperheille"
   },
   {
     "venue": "tekstintalo",
@@ -972,22 +691,6 @@ window.SCRAPED_EVENTS = [
     "title": "Helsinki Circus Festival",
     "start_time": "2026-09-10T00:00:00+03:00",
     "url": "https://cirko.fi/esitys/helsinki-circus-festival-2/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "The Nordic Council: Häppy Hour",
-    "start_time": "2026-09-10T00:00:00+03:00",
-    "end_time": "2026-09-10T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/30B39F2FA211A5459EABBE29CE2DD2D4/the-nordic-council-h-ppy-hour"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Sisus Sirkus: Memoirs of Mud",
-    "start_time": "2026-09-10T00:00:00+03:00",
-    "end_time": "2026-09-10T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/10CD6CDEC7EBB3B892BA375E7FCAE883/sisus-sirkus-memoirs-of-mud"
   },
   {
     "venue": "tekstintalo",
@@ -1067,30 +770,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://cirko.fi/esitys/helsinki-circus-festival-2/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkus Kolmen Kopla: AikaKONE",
-    "start_time": "2026-09-11T00:00:00+03:00",
-    "end_time": "2026-09-11T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/5D54A27F7E54AFF4B4274523C04C1525/sirkus-kolmen-kopla-aikakone"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "The Nordic Council: Häppy Hour",
-    "start_time": "2026-09-11T00:00:00+03:00",
-    "end_time": "2026-09-11T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0AE565F8B77CB33EA192F4134FA49151/the-nordic-council-h-ppy-hour"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Sisus Sirkus: Memoirs of Mud",
-    "start_time": "2026-09-11T00:00:00+03:00",
-    "end_time": "2026-09-11T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F9C94026FF1B2DFF2E8F849674988478/sisus-sirkus-memoirs-of-mud"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lady T",
@@ -1152,30 +831,6 @@ window.SCRAPED_EVENTS = [
     "title": "Helsinki Circus Festival",
     "start_time": "2026-09-12T00:00:00+03:00",
     "url": "https://cirko.fi/esitys/helsinki-circus-festival-2/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkus Kolmen Kopla: AikaKONE",
-    "start_time": "2026-09-12T00:00:00+03:00",
-    "end_time": "2026-09-12T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/B81D31263177C29E44343C07835D363C/sirkus-kolmen-kopla-aikakone"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Blind Gut Company: Maannos",
-    "start_time": "2026-09-12T00:00:00+03:00",
-    "end_time": "2026-09-12T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/4588EF04AF7A809AC3E716CF7A6CCBB6/blind-gut-company-maannos"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Kerttu Opus & Opus Company: Suddenly – and other ways to change",
-    "start_time": "2026-09-12T00:00:00+03:00",
-    "end_time": "2026-09-12T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/5774C7D60F0A09F92F0F969B6A130826/kerttu-opus-opus-company-suddenly-and-other-ways-to-change"
   },
   {
     "venue": "tekstintalo",
@@ -1269,43 +924,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://cirko.fi/esitys/helsinki-circus-festival-2/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Agit Cirk - Kajo",
-    "start_time": "2026-09-13T00:00:00+03:00",
-    "end_time": "2026-09-13T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/385D81DD6FC5F88A5D042AC3184C7A3D/agit-cirk-kajo"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Blind Gut Company: Maannos",
-    "start_time": "2026-09-13T00:00:00+03:00",
-    "end_time": "2026-09-13T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/568F60C551D1D0084E57FCA04DD96FCB/blind-gut-company-maannos"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Kerttu Opus & Opus Company: Suddenly – and other ways to change",
-    "start_time": "2026-09-13T00:00:00+03:00",
-    "end_time": "2026-09-13T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/9B326E7504E806237CB7C527B80D8B35/kerttu-opus-opus-company-suddenly-and-other-ways-to-change"
-  },
-  {
     "venue": "cirko",
     "venue_label": "Cirko",
     "title": "Heidi Miikki: HOPE",
     "start_time": "2026-09-13T15:00:00+03:00",
     "url": "https://cirko.fi/esitys/heidi-miikki-hope-2/"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Tanssi ja leikki",
-    "start_time": "2026-09-14T00:00:00+03:00",
-    "end_time": "2026-12-07T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/37A077C19A795C1F3A003FFE51535D21/tanssi-ja-leikki"
   },
   {
     "venue": "kansallisteatteri",
@@ -1315,27 +938,18 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi senioreille, Ryhmä 1",
-    "start_time": "2026-09-15T00:00:00+03:00",
-    "end_time": "2026-09-15T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/BDA8962F605840426C6487B08001BD86/sirkuskurssi-senioreille-ryhm-1"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi senioreille, Ryhmä 2",
-    "start_time": "2026-09-15T00:00:00+03:00",
-    "end_time": "2026-09-15T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F80E4B366996649CC35DBC150AAD24CB/sirkuskurssi-senioreille-ryhm-2"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kahvilla kirjailijan kanssa",
     "start_time": "2026-09-15T16:30:00+03:00",
     "url": ""
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Tavallisuuden aave",
+    "start_time": "2026-09-15T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/tavallisuuden-aave/"
   },
   {
     "venue": "kansallisteatteri",
@@ -1373,43 +987,18 @@ window.SCRAPED_EVENTS = [
     "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi taaperoperheille",
-    "start_time": "2026-09-16T00:00:00+03:00",
-    "end_time": "2026-09-16T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/53F8EE7146949DBC52E96181C9D5E415/sirkuskurssi-taaperoperheille"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Alakoulukino: Ronja Ryövärintytär",
-    "start_time": "2026-09-16T00:00:00+03:00",
-    "end_time": "2026-09-16T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/EFADCB8C085305E03A2F5B864656D90F/alakoulukino-ronja-ry-v-rintyt-r"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi vauvaperheille",
-    "start_time": "2026-09-16T00:00:00+03:00",
-    "end_time": "2026-09-16T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/9EBADCDAA78720113FEF3DCAE1CD983C/sirkuskurssi-vauvaperheille"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Myrskyryhmä: Ellin elokuvahetki",
-    "start_time": "2026-09-16T00:00:00+03:00",
-    "end_time": "2026-09-16T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/EA81E543E4BD95A56054B54AB781E43F/myrskyryhm-ellin-elokuvahetki"
-  },
-  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Minä unohdin miten suuressa talossa asun",
     "start_time": "2026-09-16T18:30:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/mina-unohdin-miten-suuressa-talossa-asun-1609"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Tavallisuuden aave",
+    "start_time": "2026-09-16T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/tavallisuuden-aave/"
   },
   {
     "venue": "kansallisteatteri",
@@ -1468,6 +1057,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/mina-unohdin-miten-suuressa-talossa-asun-1709"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Tavallisuuden aave",
+    "start_time": "2026-09-17T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/tavallisuuden-aave/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lopetus",
@@ -1515,14 +1111,6 @@ window.SCRAPED_EVENTS = [
     "title": "Balladeja ja hävyttömyyksiä",
     "start_time": "2026-09-17T19:00:00+03:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/balladeja-ja-havyttomyyksia/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Lasten sarjisfestarit",
-    "start_time": "2026-09-18T00:00:00+03:00",
-    "end_time": "2026-09-18T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/CD1E8994BEBA8BCE424542BEE651819D/lasten-sarjisfestarit"
   },
   {
     "venue": "cirko",
@@ -1581,22 +1169,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Helsingin sarjakuvafestivaalit",
-    "start_time": "2026-09-19T00:00:00+03:00",
-    "end_time": "2026-09-20T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/8B3A99510EE5067F529C53D4BED6E973/helsingin-sarjakuvafestivaalit"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Qoomikot kollektiivi: Kväärinpäin X Caisa",
-    "start_time": "2026-09-19T00:00:00+03:00",
-    "end_time": "2026-09-19T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/D2CF96A60422179FBDD4C377D1B2763F/qoomikot-kollektiivi-kv-rinp-in-x-caisa"
-  },
-  {
     "venue": "cirko",
     "venue_label": "Cirko",
     "title": "Company Portmanteau: PYYKKI - Lost in Laundryland",
@@ -1644,6 +1216,13 @@ window.SCRAPED_EVENTS = [
     "title": "Eteläpohjalaisia",
     "start_time": "2026-09-19T14:00:00+03:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Tavallisuuden aave",
+    "start_time": "2026-09-19T14:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/tavallisuuden-aave/"
   },
   {
     "venue": "cirko",
@@ -1709,14 +1288,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/pa-besok-hos-smakrypen/"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Celebrate, Connect, Belong – Kolibri Festivaali 2026!",
-    "start_time": "2026-09-20T00:00:00+03:00",
-    "end_time": "2026-09-20T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/01CE3834D0D16222CCE6B60C3C2B814E/celebrate-connect-belong-kolibri-festivaali-2026"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
@@ -1736,30 +1307,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kotijoukot",
     "start_time": "2026-09-21T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Opi suomea laulaen",
-    "start_time": "2026-09-22T00:00:00+03:00",
-    "end_time": "2026-09-22T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/83D6E20221ABD26DE81714BA01241ABF/opi-suomea-laulaen"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi senioreille, Ryhmä 1",
-    "start_time": "2026-09-22T00:00:00+03:00",
-    "end_time": "2026-09-22T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/15AB6834BA033B6081C7CE094BE56ECC/sirkuskurssi-senioreille-ryhm-1"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi senioreille, Ryhmä 2",
-    "start_time": "2026-09-22T00:00:00+03:00",
-    "end_time": "2026-09-22T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/06759AD55844CDCBD2FE33542C9DDF13/sirkuskurssi-senioreille-ryhm-2"
   },
   {
     "venue": "hkt",
@@ -1797,51 +1344,18 @@ window.SCRAPED_EVENTS = [
     "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Jäljellä on kuva",
-    "start_time": "2026-09-23T00:00:00+03:00",
-    "end_time": "2026-10-11T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/D88C1822202FDD5517A20FB653A6FB51/j-ljell-on-kuva"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Pulpettikino",
-    "start_time": "2026-09-23T00:00:00+03:00",
-    "end_time": "2026-09-23T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/36BBE25C67323230B23B50CF260BC51B/pulpettikino"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi taaperoperheille",
-    "start_time": "2026-09-23T00:00:00+03:00",
-    "end_time": "2026-09-23T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/12FDC9D62779A4AED04DC44363C3B00A/sirkuskurssi-taaperoperheille"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi vauvaperheille",
-    "start_time": "2026-09-23T00:00:00+03:00",
-    "end_time": "2026-09-23T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0C61E3B3B6D30E74BD742247AB4A9DBF/sirkuskurssi-vauvaperheille"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Metsässä soi: Teatteri ILMI Ö",
-    "start_time": "2026-09-23T00:00:00+03:00",
-    "end_time": "2026-09-23T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/5A13E3F4792FF95ECD8ECC8655F5B254/mets-ss-soi-teatteri-ilmi"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-09-23T18:00:00+03:00",
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Medusan huone",
+    "start_time": "2026-09-23T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/medusan-huone/"
   },
   {
     "venue": "kansallisteatteri",
@@ -1865,27 +1379,18 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Tapaa tekijä Stoan aulassa",
-    "start_time": "2026-09-24T00:00:00+03:00",
-    "end_time": "2026-09-24T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/6004C392043CB44F9C04323398C2E06F/tapaa-tekij-stoan-aulassa"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Metsässä soi: Teatteri ILMI Ö",
-    "start_time": "2026-09-24T00:00:00+03:00",
-    "end_time": "2026-09-24T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/E685D7CF24D838985E04F18366A2C477/mets-ss-soi-teatteri-ilmi"
-  },
-  {
     "venue": "kiasma",
     "venue_label": "Kiasma",
     "title": "JUMALA=RAKKAUS",
     "start_time": "2026-09-24T18:00:00+03:00",
     "url": "https://kiasma.fi/esitykset/saana-pohjonen-henia-nikkila-jumalarakkaus/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Medusan huone",
+    "start_time": "2026-09-24T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/medusan-huone/"
   },
   {
     "venue": "kansallisteatteri",
@@ -1916,19 +1421,18 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Metsässä soi: Teatteri ILMI Ö",
-    "start_time": "2026-09-25T00:00:00+03:00",
-    "end_time": "2026-09-25T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/70ED137A588621160D776EF1B4AB8EB2/mets-ss-soi-teatteri-ilmi"
-  },
-  {
     "venue": "kiasma",
     "venue_label": "Kiasma",
     "title": "JUMALA=RAKKAUS",
     "start_time": "2026-09-25T18:00:00+03:00",
     "url": "https://kiasma.fi/esitykset/saana-pohjonen-henia-nikkila-jumalarakkaus/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Medusan huone",
+    "start_time": "2026-09-25T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/medusan-huone/"
   },
   {
     "venue": "kansallisteatteri",
@@ -1964,30 +1468,6 @@ window.SCRAPED_EVENTS = [
     "title": "Eteläpohjalaisia",
     "start_time": "2026-09-25T19:00:00+03:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Idän kirjamessut",
-    "start_time": "2026-09-26T00:00:00+03:00",
-    "end_time": "2026-09-26T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/43645639A404B8082258BFC423B4BA25/id-n-kirjamessut"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Asa | Duo Vastaanotin",
-    "start_time": "2026-09-26T00:00:00+03:00",
-    "end_time": "2026-09-26T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/3128C0949DAADCC1E971639EEF2DB121/asa-duo-vastaanotin"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Metsässä soi: Teatteri ILMI Ö",
-    "start_time": "2026-09-26T00:00:00+03:00",
-    "end_time": "2026-09-26T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F2111A44796F69960136ED41245BDF32/mets-ss-soi-teatteri-ilmi"
   },
   {
     "venue": "hkt",
@@ -2030,6 +1510,20 @@ window.SCRAPED_EVENTS = [
     "title": "Eteläpohjalaisia",
     "start_time": "2026-09-26T14:00:00+03:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Medusan huone",
+    "start_time": "2026-09-26T14:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/medusan-huone/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Karkelot",
+    "start_time": "2026-09-26T15:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
   },
   {
     "venue": "hkt",
@@ -2102,6 +1596,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://kiasma.fi/esitykset/saana-pohjonen-henia-nikkila-jumalarakkaus/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Karkelot",
+    "start_time": "2026-09-27T15:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lopetus",
@@ -2130,22 +1631,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi senioreille, Ryhmä 1",
-    "start_time": "2026-09-29T00:00:00+03:00",
-    "end_time": "2026-09-29T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/7E3D5095E1D79ECCDDF669C89538BC48/sirkuskurssi-senioreille-ryhm-1"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi senioreille, Ryhmä 2",
-    "start_time": "2026-09-29T00:00:00+03:00",
-    "end_time": "2026-09-29T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/FB37C530BF44E5793D55F29E23180971/sirkuskurssi-senioreille-ryhm-2"
-  },
-  {
     "venue": "kiasma",
     "venue_label": "Kiasma",
     "title": "JUMALA=RAKKAUS",
@@ -2158,6 +1643,13 @@ window.SCRAPED_EVENTS = [
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-09-29T18:00:00+03:00",
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Tavallisuuden aave",
+    "start_time": "2026-09-29T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/tavallisuuden-aave/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2188,20 +1680,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi taaperoperheille",
-    "start_time": "2026-09-30T00:00:00+03:00",
-    "end_time": "2026-09-30T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F4A3A5615A85C24D40616F54D4DE6030/sirkuskurssi-taaperoperheille"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi vauvaperheille",
-    "start_time": "2026-09-30T00:00:00+03:00",
-    "end_time": "2026-09-30T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/211159120380EF5467A6F5B78C5D026D/sirkuskurssi-vauvaperheille"
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Medusan huone",
+    "start_time": "2026-09-30T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/medusan-huone/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2246,22 +1729,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Opi suomea laulaen",
-    "start_time": "2026-10-01T00:00:00+03:00",
-    "end_time": "2026-10-01T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/053AFA4B4C4F06E0C8B14798980DA5A8/opi-suomea-laulaen"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Ismo Dance Company: 5 koreografiaa rakkaudesta ensi-ilta",
-    "start_time": "2026-10-01T00:00:00+03:00",
-    "end_time": "2026-10-01T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/75784889EC9AE0FE4A84FC172C6E2F1E/ismo-dance-company-5-koreografiaa-rakkaudesta-ensi-ilta"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "?",
@@ -2274,6 +1741,20 @@ window.SCRAPED_EVENTS = [
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-01T18:00:00+03:00",
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Järjen hedelmät",
+    "start_time": "2026-10-01T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/jarjen-hedelmat/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Karkelot",
+    "start_time": "2026-10-01T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2297,27 +1778,25 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Ismo Dance Company: 5 koreografiaa rakkaudesta",
-    "start_time": "2026-10-02T00:00:00+03:00",
-    "end_time": "2026-10-02T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/FBE93A6C773D9473951E89692EFC9636/ismo-dance-company-5-koreografiaa-rakkaudesta"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Mirjam Yeboah: Emellan",
-    "start_time": "2026-10-02T00:00:00+03:00",
-    "end_time": "2026-10-24T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/2419EF4BAE3AA1102F82CFBA79F490A0/mirjam-yeboah-emellan"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-02T18:00:00+03:00",
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Järjen hedelmät",
+    "start_time": "2026-10-02T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/jarjen-hedelmat/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Karkelot",
+    "start_time": "2026-10-02T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2360,14 +1839,6 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-10-02T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Ismo Dance company - 5 koreografiaa rakkaudesta",
-    "start_time": "2026-10-03T00:00:00+03:00",
-    "end_time": "2026-10-03T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/32E83BF34945F7A5689F9F4D2D1F2D0E/ismo-dance-company-5-koreografiaa-rakkaudesta"
   },
   {
     "venue": "hkt",
@@ -2417,6 +1888,20 @@ window.SCRAPED_EVENTS = [
     "title": "Äitisi, Klytaimestra",
     "start_time": "2026-10-03T14:00:00+03:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Karkelot",
+    "start_time": "2026-10-03T15:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Tavallisuuden aave",
+    "start_time": "2026-10-03T16:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/tavallisuuden-aave/"
   },
   {
     "venue": "hkt",
@@ -2475,27 +1960,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Ismo Dance company - 5 koreografiaa rakkaudesta",
-    "start_time": "2026-10-04T00:00:00+03:00",
-    "end_time": "2026-10-04T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/8D139241C923D8B658F6311DA63A5BFC/ismo-dance-company-5-koreografiaa-rakkaudesta"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Eskon runot ja pari matkakumppania",
     "start_time": "2026-10-04T18:00:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/eskon-runot-ja-pari-matkakumppania"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "E1T1: Each One Teach One",
-    "start_time": "2026-10-05T00:00:00+03:00",
-    "end_time": "2026-10-06T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F5A2D3122CD23912709EE4F695E0DA9B/e1t1-each-one-teach-one"
   },
   {
     "venue": "ryhmateatteri",
@@ -2510,30 +1979,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kurtturuusut",
     "start_time": "2026-10-05T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Ohjatut päivätanssit Stoan aulassa",
-    "start_time": "2026-10-06T00:00:00+03:00",
-    "end_time": "2026-10-06T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/E88FD69E2D363CF0EB403E7F641A2B2D/ohjatut-p-iv-tanssit-stoan-aulassa"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi senioreille, Ryhmä 1",
-    "start_time": "2026-10-06T00:00:00+03:00",
-    "end_time": "2026-10-06T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/5350FEF475E8C47716309543288DA2E7/sirkuskurssi-senioreille-ryhm-1"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi senioreille, Ryhmä 2",
-    "start_time": "2026-10-06T00:00:00+03:00",
-    "end_time": "2026-10-06T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/5C75C823402BFDBC299BA6765D23FCFE/sirkuskurssi-senioreille-ryhm-2"
   },
   {
     "venue": "hkt",
@@ -2555,6 +2000,13 @@ window.SCRAPED_EVENTS = [
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-06T18:00:00+03:00",
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Tavallisuuden aave",
+    "start_time": "2026-10-06T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/tavallisuuden-aave/"
   },
   {
     "venue": "ryhmateatteri",
@@ -2599,30 +2051,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi taaperoperheille",
-    "start_time": "2026-10-07T00:00:00+03:00",
-    "end_time": "2026-10-07T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/9FA0E3710D016A821DFA5055E21812D2/sirkuskurssi-taaperoperheille"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi vauvaperheille",
-    "start_time": "2026-10-07T00:00:00+03:00",
-    "end_time": "2026-10-07T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/5762D7FAD667D9282C3F9CAF7D8DA356/sirkuskurssi-vauvaperheille"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Taidetauko-työpajat",
-    "start_time": "2026-10-07T00:00:00+03:00",
-    "end_time": "2026-10-07T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/862D7D91FAF9270E0DE4E4C1B8D1A9B8/taidetauko-ty-pajat"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Seniorisoppa",
@@ -2649,6 +2077,13 @@ window.SCRAPED_EVENTS = [
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-07T18:00:00+03:00",
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Järjen hedelmät",
+    "start_time": "2026-10-07T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/jarjen-hedelmat/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2721,6 +2156,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Tavallisuuden aave",
+    "start_time": "2026-10-08T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/tavallisuuden-aave/"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
@@ -2756,14 +2198,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Helsinki Experimental Series",
-    "start_time": "2026-10-09T00:00:00+03:00",
-    "end_time": "2026-10-09T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/4C3CFF87DF61C31077332CD73C58A526/helsinki-experimental-series"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Elina Pirinen:Ghosts of Rosegarden",
@@ -2776,6 +2210,13 @@ window.SCRAPED_EVENTS = [
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-09T18:00:00+03:00",
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Järjen hedelmät",
+    "start_time": "2026-10-09T18:30:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/jarjen-hedelmat/"
   },
   {
     "venue": "ryhmateatteri",
@@ -2834,19 +2275,18 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.madhousehelsinki.fi/ohjelmisto/valokuvista"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Legend of Harri Kala",
+    "start_time": "2026-10-09T19:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/legend-of-harri-kala/"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-10-09T19:00:00+03:00",
     "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Hildá Länsman & Tuomas Norvio | Aizhan Sultan | DJ Bunuel",
-    "start_time": "2026-10-10T00:00:00+03:00",
-    "end_time": "2026-10-10T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/AB8162EDA65DD5D93730C2F95FD05E36/hild-l-nsman-tuomas-norvio-aizhan-sultan-dj-bunuel"
   },
   {
     "venue": "zodiak",
@@ -2912,11 +2352,32 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Medusan huone",
+    "start_time": "2026-10-10T14:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/medusan-huone/"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
     "start_time": "2026-10-10T14:00:00+03:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Legend of Harri Kala",
+    "start_time": "2026-10-10T15:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/legend-of-harri-kala/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Eräteatteri",
+    "start_time": "2026-10-10T16:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/erateatteri/"
   },
   {
     "venue": "viirus",
@@ -2973,6 +2434,13 @@ window.SCRAPED_EVENTS = [
     "title": "Club act!one",
     "start_time": "2026-10-10T19:00:00+03:00",
     "url": "https://hkt.fi/esitykset/club-actone/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Eräteatteri",
+    "start_time": "2026-10-11T16:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/erateatteri/"
   },
   {
     "venue": "kansallisteatteri",
@@ -3036,22 +2504,6 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-10-13T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "NUMI: Nuorten Uuden Musiikin Ilta",
-    "start_time": "2026-10-14T00:00:00+03:00",
-    "end_time": "2026-10-14T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/7656CF06FDC67D66E16462FD412AF746/numi-nuorten-uuden-musiikin-ilta"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Cinemaissí: Latin American Film Festival",
-    "start_time": "2026-10-14T00:00:00+03:00",
-    "end_time": "2026-10-18T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/238F475B3752DFAECA30F60A6B8E3630/cinemaiss-latin-american-film-festival"
   },
   {
     "venue": "hkt",
@@ -3159,14 +2611,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Itäkuskus stand-up -klubi",
-    "start_time": "2026-10-16T00:00:00+03:00",
-    "end_time": "2026-10-16T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/39EADBC88FD4016B83D2AD2201C75A1C/it-kuskus-stand-up-klubi"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
@@ -3221,22 +2665,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kotijoukot",
     "start_time": "2026-10-16T19:00:00+03:00",
     "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Häiriköt-päämaja & Eläinoikeusakatemia: Todellisuus sellaisena, kuin se ei meille näyttäydy",
-    "start_time": "2026-10-17T00:00:00+03:00",
-    "end_time": "2026-11-22T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/6D30EC71F3AC39F303908DDBDC1112FD/h-irik-t-p-maja-el-inoikeusakatemia-todellisuus-sellaisena-kuin-se-ei-meille-n-ytt-ydy"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Ylistys eläimille -festivaali",
-    "start_time": "2026-10-17T00:00:00+03:00",
-    "end_time": "2026-10-18T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/FDD50886256F155EF81D30AE6518ADF6/ylistys-el-imille-festivaali"
   },
   {
     "venue": "kansallisteatteri",
@@ -3344,22 +2772,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/orvot"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi senioreille, Ryhmä 1",
-    "start_time": "2026-10-20T00:00:00+03:00",
-    "end_time": "2026-10-20T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/B7105B7CC54E9137DCB921377CC83DBD/sirkuskurssi-senioreille-ryhm-1"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi senioreille, Ryhmä 2",
-    "start_time": "2026-10-20T00:00:00+03:00",
-    "end_time": "2026-10-20T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F04868F2159C700880D63D85E968F6C7/sirkuskurssi-senioreille-ryhm-2"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
@@ -3395,35 +2807,18 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Legend of Harri Kala",
+    "start_time": "2026-10-20T19:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/legend-of-harri-kala/"
+  },
+  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Blaue Frau palkkaa",
     "start_time": "2026-10-20T19:00:00+03:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/blaue-frau-palkkaa/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi taaperoperheille",
-    "start_time": "2026-10-21T00:00:00+03:00",
-    "end_time": "2026-10-21T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/9BAAC7366FF3D688BE74FC81DF36184E/sirkuskurssi-taaperoperheille"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi vauvaperheille",
-    "start_time": "2026-10-21T00:00:00+03:00",
-    "end_time": "2026-10-21T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/1F22D09245D331754B3C72041643D51F/sirkuskurssi-vauvaperheille"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Transpoli on temppurata",
-    "start_time": "2026-10-21T00:00:00+03:00",
-    "end_time": "2026-10-21T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/0F257B1DA36DE4C4D34DFFA60E259140/transpoli-on-temppurata"
   },
   {
     "venue": "hkt",
@@ -3461,27 +2856,18 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Legend of Harri Kala",
+    "start_time": "2026-10-21T19:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/legend-of-harri-kala/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Expeditionen",
     "start_time": "2026-10-21T19:00:00+03:00",
     "url": "https://universum.fi/events/expeditionen-21-10/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Kauri Honkakoski Company: HIGH TIDE [nousuvesi]",
-    "start_time": "2026-10-22T00:00:00+03:00",
-    "end_time": "2026-10-22T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/8374D4FEC408F97DC5D6503DCB2B4602/kauri-honkakoski-company-high-tide-nousuvesi"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Transpoli on temppurata",
-    "start_time": "2026-10-22T00:00:00+03:00",
-    "end_time": "2026-10-22T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/AE18C57C8FCBAE90C2F0F5F94F7F331E/transpoli-on-temppurata"
   },
   {
     "venue": "zodiak",
@@ -3554,27 +2940,18 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Legend of Harri Kala",
+    "start_time": "2026-10-22T19:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/legend-of-harri-kala/"
+  },
+  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Kompani Nord: Sista paret ut",
     "start_time": "2026-10-22T19:00:00+03:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/kompani-nord-sista-paret-ut/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Kauri Honkakoski Company: HIGH TIDE [nousuvesi]",
-    "start_time": "2026-10-23T00:00:00+03:00",
-    "end_time": "2026-10-23T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/4ABEFD10A0D651975855C4A168E381A7/kauri-honkakoski-company-high-tide-nousuvesi"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Transpoli on temppurata",
-    "start_time": "2026-10-23T00:00:00+03:00",
-    "end_time": "2026-10-23T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/12B0E3F07BFE2BD73B3B71E93DA085AF/transpoli-on-temppurata"
   },
   {
     "venue": "kansallisteatteri",
@@ -3668,22 +3045,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Kauri Honkakoski Company: HIGH TIDE [nousuvesi]",
-    "start_time": "2026-10-24T00:00:00+03:00",
-    "end_time": "2026-10-24T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/BE00E5D0E59F7E656B51BEF07F9DB037/kauri-honkakoski-company-high-tide-nousuvesi"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Transpoli on temppurata",
-    "start_time": "2026-10-24T00:00:00+03:00",
-    "end_time": "2026-10-24T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/FE6441CE7CBDF12CB0DADB108203F360/transpoli-on-temppurata"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Elolliset",
@@ -3738,6 +3099,13 @@ window.SCRAPED_EVENTS = [
     "title": "Entanglement: I am a tree, I am a mouth",
     "start_time": "2026-10-24T15:00:00+03:00",
     "url": "https://kiasma.fi/esitykset/entanglement-i-am-a-tree-i-am-a-mouth/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Eräteatteri",
+    "start_time": "2026-10-24T16:00:00+03:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/erateatteri/"
   },
   {
     "venue": "hkt",
@@ -3810,27 +3178,18 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Kauri Honkakoski Company: HIGH TIDE [nousuvesi]",
-    "start_time": "2026-10-25T00:00:00+02:00",
-    "end_time": "2026-10-25T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0AD2180DA79B5F81F1603A8A80FA4BB0/kauri-honkakoski-company-high-tide-nousuvesi"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Transpoli on temppurata",
-    "start_time": "2026-10-25T00:00:00+02:00",
-    "end_time": "2026-10-25T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/61F22D72D923D0503C59A1EA5F7ACCDA/transpoli-on-temppurata"
-  },
-  {
     "venue": "kiasma",
     "venue_label": "Kiasma",
     "title": "Entanglement: I am a tree, I am a mouth",
     "start_time": "2026-10-25T15:00:00+02:00",
     "url": "https://kiasma.fi/esitykset/entanglement-i-am-a-tree-i-am-a-mouth/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Eräteatteri",
+    "start_time": "2026-10-25T16:00:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/erateatteri/"
   },
   {
     "venue": "universum",
@@ -3866,30 +3225,6 @@ window.SCRAPED_EVENTS = [
     "title": "ANDETAG",
     "start_time": "2026-10-26T19:00:00+02:00",
     "url": "https://universum.fi/events/andetag-26-10/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi senioreille, Ryhmä 1",
-    "start_time": "2026-10-27T00:00:00+02:00",
-    "end_time": "2026-10-27T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0E78AFFC7FD570D4AC46F200A0790C91/sirkuskurssi-senioreille-ryhm-1"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi senioreille, Ryhmä 2",
-    "start_time": "2026-10-27T00:00:00+02:00",
-    "end_time": "2026-10-27T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/432E0EB177ADAFF660AC9EFADE4B9E61/sirkuskurssi-senioreille-ryhm-2"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Kauri Honkakoski Company: HIGH TIDE [nousuvesi]",
-    "start_time": "2026-10-27T00:00:00+02:00",
-    "end_time": "2026-10-27T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/2AD930EE0CD95D5D7FB93DDEA95A69CA/kauri-honkakoski-company-high-tide-nousuvesi"
   },
   {
     "venue": "zodiak",
@@ -3960,30 +3295,6 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-10-27T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi taaperoperheille",
-    "start_time": "2026-10-28T00:00:00+02:00",
-    "end_time": "2026-10-28T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/086079A7361B76B9BA2C6966E48F7F4E/sirkuskurssi-taaperoperheille"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi vauvaperheille",
-    "start_time": "2026-10-28T00:00:00+02:00",
-    "end_time": "2026-10-28T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/62F162B9355B4371738D6BE3C72B34A3/sirkuskurssi-vauvaperheille"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Kauri Honkakoski Company: HIGH TIDE [nousuvesi]",
-    "start_time": "2026-10-28T00:00:00+02:00",
-    "end_time": "2026-10-28T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/121369993AA39DDCB2FA8EF40435A3C4/kauri-honkakoski-company-high-tide-nousuvesi"
   },
   {
     "venue": "zodiak",
@@ -4063,30 +3374,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Opi suomea laulaen",
-    "start_time": "2026-10-29T00:00:00+02:00",
-    "end_time": "2026-10-29T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/5DF636E2AA1D9E5CA32A312D8A170774/opi-suomea-laulaen"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Tapaa tekijä Stoan aulassa",
-    "start_time": "2026-10-29T00:00:00+02:00",
-    "end_time": "2026-10-29T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F282C158BF0ABD9AD66B4D9B1645CDD2/tapaa-tekij-stoan-aulassa"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Kauri Honkakoski Company: HIGH TIDE [nousuvesi]",
-    "start_time": "2026-10-29T00:00:00+02:00",
-    "end_time": "2026-10-29T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/72C4E5C00668D9AD754A1E380612ED34/kauri-honkakoski-company-high-tide-nousuvesi"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
@@ -4148,22 +3435,6 @@ window.SCRAPED_EVENTS = [
     "title": "Elolliset",
     "start_time": "2026-10-29T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Kirsi M. Paltto & Jouni S. Laiti: Litnát, lahka – Lempeästi, lujasti",
-    "start_time": "2026-10-30T00:00:00+02:00",
-    "end_time": "2026-11-28T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/959928B54FE1C289730A30BEB8260D52/kirsi-m-paltto-jouni-s-laiti-litn-t-lahka-lempe-sti-lujasti"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Luciana García Ensemble",
-    "start_time": "2026-10-30T00:00:00+02:00",
-    "end_time": "2026-10-30T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/AF8043AFA23C9A82F0871693042F7CA3/luciana-garc-a-ensemble"
   },
   {
     "venue": "zodiak",
@@ -4278,22 +3549,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Kauhua kakaroille",
-    "start_time": "2026-10-31T00:00:00+02:00",
-    "end_time": "2026-10-31T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/DF766375E6E5EF507AB94A6F19F3F09A/kauhua-kakaroille"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Old Forest Echoes – Ikimetsän kaiku: immersiivinen luontokonsertti",
-    "start_time": "2026-10-31T00:00:00+02:00",
-    "end_time": "2026-10-31T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/4315416BF35517CB764A83C690F786FD/old-forest-echoes-ikimets-n-kaiku-immersiivinen-luontokonsertti"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Eliel Tammiharju:Lampi 2",
@@ -4313,6 +3568,13 @@ window.SCRAPED_EVENTS = [
     "title": "Lopetus",
     "start_time": "2026-10-31T13:00:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/lopetus"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Eräteatteri",
+    "start_time": "2026-10-31T16:00:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/erateatteri/"
   },
   {
     "venue": "viirus",
@@ -4343,14 +3605,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/andetag-31-10/"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Old Forest Echoes – Ikimetsän kaiku: immersiivinen luontokonsertti",
-    "start_time": "2026-11-01T00:00:00+02:00",
-    "end_time": "2026-11-01T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/8376C1D627E9F010009A7F12E757C791/old-forest-echoes-ikimets-n-kaiku-immersiivinen-luontokonsertti"
-  },
-  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "ANDETAG",
@@ -4372,30 +3626,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/jos-meilta-kysytaan"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Ohjatut päivätanssit Stoan aulassa",
-    "start_time": "2026-11-03T00:00:00+02:00",
-    "end_time": "2026-11-03T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/097FA14A8BBCB3EFD131073BF3287651/ohjatut-p-iv-tanssit-stoan-aulassa"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi senioreille, Ryhmä 1",
-    "start_time": "2026-11-03T00:00:00+02:00",
-    "end_time": "2026-11-03T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/AC500E50B5954CD964D1987AB05F11B0/sirkuskurssi-senioreille-ryhm-1"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi senioreille, Ryhmä 2",
-    "start_time": "2026-11-03T00:00:00+02:00",
-    "end_time": "2026-11-03T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/09F955F50A40FB785A4D4170B94459F3/sirkuskurssi-senioreille-ryhm-2"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Eliel Tammiharju:Lampi 2",
@@ -4408,30 +3638,6 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-11-03T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi taaperoperheille",
-    "start_time": "2026-11-04T00:00:00+02:00",
-    "end_time": "2026-11-04T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/8D66F0FB244148F36BA4A30BCEFD1592/sirkuskurssi-taaperoperheille"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi vauvaperheille",
-    "start_time": "2026-11-04T00:00:00+02:00",
-    "end_time": "2026-11-04T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/6109AAABE572F0452A684C30F1480CAC/sirkuskurssi-vauvaperheille"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Taidetauko-työpajat",
-    "start_time": "2026-11-04T00:00:00+02:00",
-    "end_time": "2026-11-04T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0F706758633CD3E700335A7FBA6A3E15/taidetauko-ty-pajat"
   },
   {
     "venue": "zodiak",
@@ -4483,22 +3689,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Liikkeellä marraskuussa",
-    "start_time": "2026-11-05T00:00:00+02:00",
-    "end_time": "2026-11-15T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/7264FD7423DE0DC70896B44DE70BFA62/liikkeell-marraskuussa"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Liikkeellä marraskuussa",
-    "start_time": "2026-11-05T00:00:00+02:00",
-    "end_time": "2026-11-15T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/AB3F02D13860C7DFB53334DC4B81197A/liikkeell-marraskuussa"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kaksitoista lahjaa Joulupukille",
@@ -4518,6 +3708,13 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-11-05T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Mi Madre y el Dinero",
+    "start_time": "2026-11-05T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/mi-madre-y-el-dinero/"
   },
   {
     "venue": "ryhmateatteri",
@@ -4562,6 +3759,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Mi Madre y el Dinero",
+    "start_time": "2026-11-06T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/mi-madre-y-el-dinero/"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
@@ -4602,14 +3806,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kotijoukot",
     "start_time": "2026-11-06T19:00:00+02:00",
     "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Qoomikot kollektiivi: Kväärinpäin",
-    "start_time": "2026-11-07T00:00:00+02:00",
-    "end_time": "2026-11-07T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/13FC28B9B760B4EF353E29C9AE4EE7A2/qoomikot-kollektiivi-kv-rinp-in"
   },
   {
     "venue": "cirko",
@@ -4666,6 +3862,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kallo Collective: The Story of Pluto, Who Wanted to Be a Planet",
     "start_time": "2026-11-07T15:00:00+02:00",
     "url": "https://cirko.fi/esitys/kallo-collective-the-story-of-pluto-who-wanted-to-be-a-planet/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Mi Madre y el Dinero",
+    "start_time": "2026-11-07T15:00:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/mi-madre-y-el-dinero/"
   },
   {
     "venue": "hkt",
@@ -4759,22 +3962,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/andetag-9-11/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi senioreille, Ryhmä 1",
-    "start_time": "2026-11-10T00:00:00+02:00",
-    "end_time": "2026-11-10T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/2BD18F58043330B53F60CE9AB38BEBF9/sirkuskurssi-senioreille-ryhm-1"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi senioreille, Ryhmä 2",
-    "start_time": "2026-11-10T00:00:00+02:00",
-    "end_time": "2026-11-10T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/316DCF29B05A8CC93A82A7153F7FA34E/sirkuskurssi-senioreille-ryhm-2"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kaksitoista lahjaa Joulupukille",
@@ -4829,22 +4016,6 @@ window.SCRAPED_EVENTS = [
     "title": "De obehöriga",
     "start_time": "2026-11-10T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi taaperoperheille",
-    "start_time": "2026-11-11T00:00:00+02:00",
-    "end_time": "2026-11-11T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/816CAE9C2ED14F80AEF60B7D247C5291/sirkuskurssi-taaperoperheille"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi vauvaperheille",
-    "start_time": "2026-11-11T00:00:00+02:00",
-    "end_time": "2026-11-11T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/93C4974C33791DC9E5DAF450FB804F08/sirkuskurssi-vauvaperheille"
   },
   {
     "venue": "hkt",
@@ -4908,14 +4079,6 @@ window.SCRAPED_EVENTS = [
     "title": "Änglagård",
     "start_time": "2026-11-11T19:00:00+02:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/anglagard/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "PodiKlubi",
-    "start_time": "2026-11-12T00:00:00+02:00",
-    "end_time": "2026-11-12T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/7DB2C596877CFF2B639D7AC14ADDC843/podiklubi"
   },
   {
     "venue": "hkt",
@@ -5100,6 +4263,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://cirko.fi/esitys/kallo-collective-the-story-of-pluto-who-wanted-to-be-a-planet/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Rakastavaisten kuoro",
+    "start_time": "2026-11-14T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lopetus",
@@ -5163,19 +4333,18 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/andetag-15-11/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sylimetsässä – metsän sylissä",
-    "start_time": "2026-11-16T00:00:00+02:00",
-    "end_time": "2026-11-22T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/60F82D63F89FC23AE34D0694DB5C2E50/sylimets-ss-mets-n-syliss"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "?",
     "start_time": "2026-11-16T17:30:00+02:00",
     "url": ""
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Rakastavaisten kuoro",
+    "start_time": "2026-11-16T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
   },
   {
     "venue": "kansallisteatteri",
@@ -5227,6 +4396,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Rakastavaisten kuoro",
+    "start_time": "2026-11-18T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
@@ -5260,14 +4436,6 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-11-18T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Julkalas, Alfons Åberg",
-    "start_time": "2026-11-19T00:00:00+02:00",
-    "end_time": "2026-11-19T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/035074236C76D67EA2DFB91272DB88B7/julkalas-alfons-berg"
   },
   {
     "venue": "hkt",
@@ -5324,14 +4492,6 @@ window.SCRAPED_EVENTS = [
     "title": "no-no",
     "start_time": "2026-11-19T19:30:00+02:00",
     "url": "https://hkt.fi/esitykset/no-no-2/"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Resonance Festival Vol. 2: Threshold States",
-    "start_time": "2026-11-20T00:00:00+02:00",
-    "end_time": "2026-11-22T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/85ADA8784DE99B8177BBCBA878648A85/resonance-festival-vol-2-threshold-states"
   },
   {
     "venue": "viirus",
@@ -5402,14 +4562,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kotijoukot",
     "start_time": "2026-11-20T19:00:00+02:00",
     "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Pienten ja suurten eliökuntalaisten klubi",
-    "start_time": "2026-11-21T00:00:00+02:00",
-    "end_time": "2026-11-21T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/D8876F30977ABA691E27E00AF5309F98/pienten-ja-suurten-eli-kuntalaisten-klubi"
   },
   {
     "venue": "hkt",
@@ -5594,22 +4746,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Skidikino: Antonia Ringbom – Keltaisen kirahvin eläintarinoita 1",
-    "start_time": "2026-11-25T00:00:00+02:00",
-    "end_time": "2026-11-25T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/37E005A07FF34900457F9B4923156AF1/skidikino-antonia-ringbom-keltaisen-kirahvin-el-intarinoita-1"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Yläkoulukino: Orava",
-    "start_time": "2026-11-25T00:00:00+02:00",
-    "end_time": "2026-11-25T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/7DB310224CBF71C0BD6224BFB9922767/yl-koulukino-orava"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "När Baba faller i poolen är kl. 23.47",
@@ -5664,14 +4800,6 @@ window.SCRAPED_EVENTS = [
     "title": "The Escape Room",
     "start_time": "2026-11-25T19:00:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/the-escape-room/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Tapaa tekijä Stoan aulassa",
-    "start_time": "2026-11-26T00:00:00+02:00",
-    "end_time": "2026-11-26T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/BB00DA6A88166EE8379B64778A5FB83E/tapaa-tekij-stoan-aulassa"
   },
   {
     "venue": "hkt",
@@ -5758,14 +4886,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/balladeja-ja-havyttomyyksia/"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "We Music: EMILII – Kaisa Ollila – Milou – Vilma Talvitie",
-    "start_time": "2026-11-27T00:00:00+02:00",
-    "end_time": "2026-11-27T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/A30CB5D0F313FCDE93ADD51AE9BE95FA/we-music-emilii-kaisa-ollila-milou-vilma-talvitie"
-  },
-  {
     "venue": "kiasma",
     "venue_label": "Kiasma",
     "title": "Kauri Sorvari: Forevermore",
@@ -5848,22 +4968,6 @@ window.SCRAPED_EVENTS = [
     "title": "no-no",
     "start_time": "2026-11-27T19:30:00+02:00",
     "url": "https://hkt.fi/esitykset/no-no-2/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Tanssiteatteri Tsuumi & Kulttuurikomppania Eloa: Arvo",
-    "start_time": "2026-11-28T00:00:00+02:00",
-    "end_time": "2026-11-28T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/8E84D1850CB0E9D5D0D1E4ACE562EDF9/tanssiteatteri-tsuumi-kulttuurikomppania-eloa-arvo"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Qoomikot kollektiivi: Kväärinpäin X Caisa – Tuoretta verta",
-    "start_time": "2026-11-28T00:00:00+02:00",
-    "end_time": "2026-11-28T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/53ED8FE4FA23EFB486B3BB4E80680B18/qoomikot-kollektiivi-kv-rinp-in-x-caisa-tuoretta-verta"
   },
   {
     "venue": "zodiak",
@@ -5985,14 +5089,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Tanssiteatteri Tsuumi & kulttuurikomppania Eloa: Arvo",
-    "start_time": "2026-11-29T00:00:00+02:00",
-    "end_time": "2026-11-29T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/D26B4F71FD4217FF8CE2C09831D0A25A/tanssiteatteri-tsuumi-kulttuurikomppania-eloa-arvo"
-  },
-  {
     "venue": "kiasma",
     "venue_label": "Kiasma",
     "title": "Kauri Sorvari: Forevermore",
@@ -6026,14 +5122,6 @@ window.SCRAPED_EVENTS = [
     "title": "no-no",
     "start_time": "2026-11-30T19:30:00+02:00",
     "url": "https://hkt.fi/esitykset/no-no-2/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Ohjatut päivätanssit Stoan aulassa",
-    "start_time": "2026-12-01T00:00:00+02:00",
-    "end_time": "2026-12-01T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/FE9CD095E270BA80C9B1D3E73340A72D/ohjatut-p-iv-tanssit-stoan-aulassa"
   },
   {
     "venue": "hkt",
@@ -6127,14 +5215,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/topelius-och-teatern/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Taidetauko-työpajat",
-    "start_time": "2026-12-02T00:00:00+02:00",
-    "end_time": "2026-12-02T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/41E4F53E864DB287848D8BB492E873F7/taidetauko-ty-pajat"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kaksitoista lahjaa Joulupukille",
@@ -6212,14 +5292,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/kettutyton-paluu-2-12/"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Näyttely: Äitimyytin murtajat",
-    "start_time": "2026-12-03T00:00:00+02:00",
-    "end_time": "2026-12-19T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/C6977FB89F19DE3E748B4B548E8FAFE3/n-yttely-itimyytin-murtajat"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kaksitoista lahjaa Joulupukille",
@@ -6290,22 +5362,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Ballet Finland: KEHÄ",
-    "start_time": "2026-12-04T00:00:00+02:00",
-    "end_time": "2026-12-04T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/81DB4E258E00FFDEF2B8BB75D138B58E/ballet-finland-keh"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Out 'n loud & HQFK: Queerly Yours!",
-    "start_time": "2026-12-04T00:00:00+02:00",
-    "end_time": "2026-12-04T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/19EF86BED2C9441EEE12D8464610DF21/out-n-loud-hqfk-queerly-yours"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Zodiak Laboratory:Tuulia Soininen",
@@ -6374,14 +5430,6 @@ window.SCRAPED_EVENTS = [
     "title": "no-no",
     "start_time": "2026-12-04T19:30:00+02:00",
     "url": "https://hkt.fi/esitykset/no-no-2/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Ballet Finland: KEHÄ",
-    "start_time": "2026-12-05T00:00:00+02:00",
-    "end_time": "2026-12-05T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/77957FF8DDAF43BDDB83CEA0B40AC983/ballet-finland-keh"
   },
   {
     "venue": "hkt",
@@ -6524,14 +5572,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/no-no-2/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Ballet Finland: KEHÄ",
-    "start_time": "2026-12-08T00:00:00+02:00",
-    "end_time": "2026-12-08T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/382CA30DEA3F894E7E2C22393E82BAC2/ballet-finland-keh"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kaksitoista lahjaa Joulupukille",
@@ -6593,14 +5633,6 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-12-08T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Ballet Finland: KEHÄ",
-    "start_time": "2026-12-09T00:00:00+02:00",
-    "end_time": "2026-12-09T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/46257DE003E25E252501D49FFFA717CD/ballet-finland-keh"
   },
   {
     "venue": "hkt",
@@ -6680,30 +5712,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/kettutyton-paluu-9-12/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Opi suomea laulaen",
-    "start_time": "2026-12-10T00:00:00+02:00",
-    "end_time": "2026-12-10T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F5811D59BA0A785414ADD38AA3CFC012/opi-suomea-laulaen"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "NUMI: Nuorten Uuden Musiikin Ilta",
-    "start_time": "2026-12-10T00:00:00+02:00",
-    "end_time": "2026-12-10T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/06576A638B93C45E3A5E189FF6B448DC/numi-nuorten-uuden-musiikin-ilta"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Amanda & Lydia: Traces of Your Skin | ensi-ilta",
-    "start_time": "2026-12-10T00:00:00+02:00",
-    "end_time": "2026-12-10T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/FBBC6804A0D3FE560FC2AE26EB4C27F8/amanda-lydia-traces-of-your-skin-ensi-ilta"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kaksitoista lahjaa Joulupukille",
@@ -6774,22 +5782,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/all-women-story-sharing-cafe-10-12/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Puistokatu 4 x Stoa: Tieteen ja toivon klubi & Olavi Uusivirta",
-    "start_time": "2026-12-11T00:00:00+02:00",
-    "end_time": "2026-12-11T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/9485E1FCBF2D441BB082A20D3597BEF5/puistokatu-4-x-stoa-tieteen-ja-toivon-klubi-olavi-uusivirta"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Amanda & Lydia: Traces of Your Skin",
-    "start_time": "2026-12-11T00:00:00+02:00",
-    "end_time": "2026-12-11T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/63984EE53CBF6BB863CA9A5392EFA561/amanda-lydia-traces-of-your-skin"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Heavenly Father",
@@ -6837,30 +5829,6 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-12-11T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Valon ja ilon tanssi: Tanssikeitaan joulunäytös",
-    "start_time": "2026-12-12T00:00:00+02:00",
-    "end_time": "2026-12-12T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/7073961D46BB4A6EE44E39799DBC70AE/valon-ja-ilon-tanssi-tanssikeitaan-joulun-yt-s"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Itäkuskus stand-up -klubi",
-    "start_time": "2026-12-12T00:00:00+02:00",
-    "end_time": "2026-12-12T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/158E52946E4F63A037F3E6C56DD02125/it-kuskus-stand-up-klubi"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Amanda & Lydia: Traces of Your Skin",
-    "start_time": "2026-12-12T00:00:00+02:00",
-    "end_time": "2026-12-12T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/BE29BF2F4806EE00BFD29DAD6D028362/amanda-lydia-traces-of-your-skin"
   },
   {
     "venue": "hkt",
@@ -6982,14 +5950,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Kekäläinen & Company: Hysteria Mundi – Improvisations on Global Politics",
-    "start_time": "2026-12-15T00:00:00+02:00",
-    "end_time": "2026-12-15T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/2D1D9C820DC0FCC2EEAB5AE812EE2231/kek-l-inen-company-hysteria-mundi-improvisations-on-global-politics"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kaksitoista lahjaa Joulupukille",
@@ -7051,14 +6011,6 @@ window.SCRAPED_EVENTS = [
     "title": "no-no",
     "start_time": "2026-12-15T19:30:00+02:00",
     "url": "https://hkt.fi/esitykset/no-no-2/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Kekäläinen & Company: Hysteria Mundi – Improvisations on Global Politics",
-    "start_time": "2026-12-16T00:00:00+02:00",
-    "end_time": "2026-12-16T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/2CE11A22DAB8BF5AF3E52A2675622F63/kek-l-inen-company-hysteria-mundi-improvisations-on-global-politics"
   },
   {
     "venue": "hkt",
@@ -7173,14 +6125,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/kettutyton-paluu-17-12/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Kekäläinen & Company: Hysteria Mundi – Improvisations on Global Politics",
-    "start_time": "2026-12-18T00:00:00+02:00",
-    "end_time": "2026-12-18T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/26D7337A6DC7C7FC7BCD650F19CC4921/kek-l-inen-company-hysteria-mundi-improvisations-on-global-politics"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Taru hohtavasta helmestä",
@@ -7207,22 +6151,6 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-12-18T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Kekäläinen & Company: Hysteria Mundi – Improvisations on Global Politics",
-    "start_time": "2026-12-19T00:00:00+02:00",
-    "end_time": "2026-12-19T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/4CB240BFE7649370DEBCB4504F45EEC8/kek-l-inen-company-hysteria-mundi-improvisations-on-global-politics"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Tanssiklubi Master: Joulun tanssikonsertti",
-    "start_time": "2026-12-19T00:00:00+02:00",
-    "end_time": "2026-12-19T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/678E25DCFBC47EB0EB11008DB9EFECE2/tanssiklubi-master-joulun-tanssikonsertti"
   },
   {
     "venue": "hkt",
@@ -7848,6 +6776,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/livets-summa-18-3/"
   },
   {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Diptyk",
+    "start_time": "2027-03-19T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
@@ -7897,6 +6832,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Diptyk",
+    "start_time": "2027-03-22T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "LIVETS SUMMA",
@@ -7918,6 +6860,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/livets-summa-23-3/"
   },
   {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Diptyk",
+    "start_time": "2027-03-24T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
     "venue": "takomo",
     "venue_label": "Teatteri Takomo",
     "title": "Puhutaan Richardista",
@@ -7932,11 +6881,39 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/livets-summa-24-3/"
   },
   {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Diptyk",
+    "start_time": "2027-03-25T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "LIVETS SUMMA 26.3. PERUTTU",
     "start_time": "2027-03-26T19:00:00+02:00",
     "url": "https://universum.fi/events/livets-summa-26-3/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Diptyk",
+    "start_time": "2027-03-30T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Diptyk",
+    "start_time": "2027-04-01T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Diptyk",
+    "start_time": "2027-04-02T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/diptyk/"
   },
   {
     "venue": "universum",
@@ -7953,11 +6930,32 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/vinterkvallar-5-4/"
   },
   {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Diptyk",
+    "start_time": "2027-04-06T13:00:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Vinterkvällar",
     "start_time": "2027-04-06T19:00:00+03:00",
     "url": "https://universum.fi/events/vinterkvallar-6-4/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Diptyk",
+    "start_time": "2027-04-08T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Diptyk",
+    "start_time": "2027-04-09T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/diptyk/"
   },
   {
     "venue": "universum",
@@ -7967,11 +6965,46 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/vinterkvallar-9-4/"
   },
   {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Diptyk",
+    "start_time": "2027-04-10T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "VINTERKVÄLLAR",
     "start_time": "2027-04-10T19:00:00+03:00",
     "url": "https://universum.fi/events/vinterkvallar-10-4/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Diptyk",
+    "start_time": "2027-04-12T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Diptyk",
+    "start_time": "2027-04-14T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Diptyk",
+    "start_time": "2027-04-15T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Diptyk",
+    "start_time": "2027-04-16T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/diptyk/"
   },
   {
     "venue": "universum",
@@ -8016,6 +7049,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/vinterkvallar-19-4/"
   },
   {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Diptyk",
+    "start_time": "2027-04-20T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Vinterkvällar",
@@ -8030,11 +7070,32 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/laulujoutsen-20-4/"
   },
   {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Diptyk",
+    "start_time": "2027-04-21T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Diptyk",
+    "start_time": "2027-04-23T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Laulujoutsen",
     "start_time": "2027-04-23T19:00:00+03:00",
     "url": "https://universum.fi/events/laulujoutsen-23-4/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Diptyk",
+    "start_time": "2027-04-24T14:00:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/diptyk/"
   },
   {
     "venue": "universum",
@@ -8044,11 +7105,25 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/vinterkvallar-25-4/"
   },
   {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Diptyk",
+    "start_time": "2027-04-26T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Vinterkvällar",
     "start_time": "2027-04-26T19:00:00+03:00",
     "url": "https://universum.fi/events/vinterkvallar-26-4/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Diptyk",
+    "start_time": "2027-04-27T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/diptyk/"
   },
   {
     "venue": "universum",
@@ -8063,6 +7138,13 @@ window.SCRAPED_EVENTS = [
     "title": "Laulujoutsen",
     "start_time": "2027-04-27T19:00:00+03:00",
     "url": "https://universum.fi/events/laulujoutsen-27-4/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Diptyk",
+    "start_time": "2027-04-28T18:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/diptyk/"
   },
   {
     "venue": "universum",
