@@ -60,66 +60,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/8C1B1D1737BCC328A3D394F41E9C5324/jussi-rinta-hoiska-lukosta-valoon"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Stoa Welcome Day",
-    "start_time": "2026-08-20T00:00:00+03:00",
-    "end_time": "2026-08-20T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/stoa-welcome-day"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Stoan Elojuhla x Middle East Jam Festival",
-    "start_time": "2026-08-20T00:00:00+03:00",
-    "end_time": "2026-08-20T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/stoan-elojuhla-x-middle-east-jam-festival"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Teatteri Qo: Niitty",
-    "start_time": "2026-08-20T00:00:00+03:00",
-    "end_time": "2026-08-20T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/teatteri-qo-niitty"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Saeid & Naghib Shanbehzadeh (IRN/FRA)",
-    "start_time": "2026-08-20T00:00:00+03:00",
-    "end_time": "2026-08-20T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/DF444C606F6CF1D1E3F59221301662F3/saeid-naghib-shanbehzadeh-irn-fra"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Shaghayegh Ansari: Borrowed Cities | TILAISUUS ON TÄYNNÄ",
-    "start_time": "2026-08-20T00:00:00+03:00",
-    "end_time": "2026-08-20T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/shaghayegh-ansari-borrowed-cities-tilaisuus-on-t-ynn"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Shaghayegh Ansari: Borrowed Cities | ESITYS ON TÄYNNÄ",
-    "start_time": "2026-08-20T00:00:00+03:00",
-    "end_time": "2026-08-20T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/shaghayegh-ansari-borrowed-cities-esitys-on-t-ynn"
-  },
-  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "NVL:n kirjoittajaryhmien tekstinäyttely",
     "start_time": "2026-08-20T17:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/nvl-n-kirjoittajaryhmien-tekstinayttely"
-  },
-  {
-    "venue": "cirko",
-    "venue_label": "Cirko",
-    "title": "Circus Film Night",
-    "start_time": "2026-08-20T18:00:00+03:00",
-    "url": "https://cirko.fi/esitys/circus-film-night-2/"
   },
   {
     "venue": "tekstintalo",
@@ -129,39 +74,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/rap-lyriikka-30"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-08-20T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "cirko",
-    "venue_label": "Cirko",
-    "title": "Circus Film Night",
-    "start_time": "2026-08-20T19:00:00+03:00",
-    "url": "https://cirko.fi/esitys/circus-film-night-2/"
-  },
-  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Taiteiden yö 20.8.2026",
     "start_time": "2026-08-20T19:00:00+03:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/taiteiden-yo-2026/"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Poetry Jam: YÖ",
-    "start_time": "2026-08-20T19:30:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/poetry-jam-yo"
-  },
-  {
-    "venue": "cirko",
-    "venue_label": "Cirko",
-    "title": "Circus Film Night",
-    "start_time": "2026-08-20T20:00:00+03:00",
-    "url": "https://cirko.fi/esitys/circus-film-night-2/"
   },
   {
     "venue": "caisa",
@@ -1591,6 +1508,13 @@ window.SCRAPED_EVENTS = [
     "title": "Company Portmanteau: PYYKKI - Lost in Laundryland",
     "start_time": "2026-09-17T18:00:00+03:00",
     "url": "https://cirko.fi/esitys/company-portmanteau-pyykki-lost-in-laundryland/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Minä unohdin miten suuressa talossa asun",
+    "start_time": "2026-09-17T18:30:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/mina-unohdin-miten-suuressa-talossa-asun-1709"
   },
   {
     "venue": "espoonteatteri",
@@ -5602,6 +5526,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kaksitoista lahjaa Joulupukille",
     "start_time": "2026-11-18T10:00:00+02:00",
     "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Rakastavaisten kuoro",
+    "start_time": "2026-11-18T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
   },
   {
     "venue": "ryhmateatteri",
