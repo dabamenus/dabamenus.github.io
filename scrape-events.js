@@ -46,40 +46,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/rap-lyriikka-30"
   },
   {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Taiteiden yö 20.8.2026",
-    "start_time": "2026-08-20T19:00:00+03:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/taiteiden-yo-2026/"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Shaghayegh Ansari: Borrowed Cities",
-    "start_time": "2026-08-21T00:00:00+03:00",
-    "end_time": "2026-08-21T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/shaghayegh-ansari-borrowed-cities"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Kati Raatikainen,Milla Martikainen:Sotku ja rakkaus",
     "start_time": "2026-08-21T16:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Runokuu: Kokeellisen runouden iltama",
-    "start_time": "2026-08-21T19:30:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/runokuu-kokeellisen-runouden-iltama"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "The Silence",
-    "start_time": "2026-08-21T20:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/silence"
   },
   {
     "venue": "stoa",
@@ -173,13 +144,6 @@ window.SCRAPED_EVENTS = [
     "title": "Runokuu: Poetry Mixtape",
     "start_time": "2026-08-22T19:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/runokuu-poetry-mixtape"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Runokuu: Festarijatkot",
-    "start_time": "2026-08-22T22:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/runokuu-festarijatkot"
   },
   {
     "venue": "caisa",
@@ -1553,6 +1517,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://cirko.fi/esitys/company-portmanteau-pyykki-lost-in-laundryland/"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Minä unohdin miten suuressa talossa asun",
+    "start_time": "2026-09-18T18:30:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/mina-unohdin-miten-suuressa-talossa-asun-1809"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Orvot",
@@ -2037,6 +2008,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-09-26T00:00:00+03:00",
     "end_time": "2026-09-26T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F2111A44796F69960136ED41245BDF32/mets-ss-soi-teatteri-ilmi"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Kollaasin tekeminen",
+    "start_time": "2026-09-26T11:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/kollaasin-tekeminen"
   },
   {
     "venue": "hkt",
