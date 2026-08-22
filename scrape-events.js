@@ -66,7 +66,7 @@ window.SCRAPED_EVENTS = [
     "title": "Shaghayegh Ansari: Borrowed Cities | LOPPUUNMYYTY",
     "start_time": "2026-08-22T00:00:00+03:00",
     "end_time": "2026-08-22T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/BD819B9F78213BBF8F0A1002878717BB/shaghayegh-ansari-borrowed-cities-loppuunmyyty"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/shaghayegh-ansari-borrowed-cities-loppuunmyyty"
   },
   {
     "venue": "tekstintalo",
