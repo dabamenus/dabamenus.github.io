@@ -53,69 +53,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Kontula Electronic x Stoa: Violent Magic Orchestra | NHV Beherit | 111X",
-    "start_time": "2026-08-22T00:00:00+03:00",
-    "end_time": "2026-08-22T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/799BD7721850DA31B4804FE3419AEEDC/kontula-electronic-x-stoa-violent-magic-orchestra-nhv-beherit-111x"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Shaghayegh Ansari: Borrowed Cities | LOPPUUNMYYTY",
-    "start_time": "2026-08-22T00:00:00+03:00",
-    "end_time": "2026-08-22T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/shaghayegh-ansari-borrowed-cities-loppuunmyyty"
-  },
-  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Naiskirjoittamisen kurssi",
     "start_time": "2026-08-22T10:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/naiskirjoittamisen-kurssi-2"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-08-22T13:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "The Silence",
-    "start_time": "2026-08-22T15:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/silence"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Lady T",
-    "start_time": "2026-08-22T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Timo Tuominen: Brel – Trubaduuri",
-    "start_time": "2026-08-22T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/timo-tuominen-brel-trubaduuri"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-08-22T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Runokuu: Poetry Mixtape",
-    "start_time": "2026-08-22T19:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/runokuu-poetry-mixtape"
   },
   {
     "venue": "caisa",
@@ -3261,6 +3203,13 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-10-14T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
+    "start_time": "2026-10-15T14:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-1510"
   },
   {
     "venue": "viirus",
