@@ -51,7 +51,7 @@ window.SCRAPED_EVENTS = [
     "title": "Poetiikkakonferenssi",
     "start_time": "2026-08-23T00:00:00+03:00",
     "end_time": "2026-08-23T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/4E26FF6CC440CBE39119339F8B6C45A5/poetiikkakonferenssi"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/poetiikkakonferenssi"
   },
   {
     "venue": "svenska",
