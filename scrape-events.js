@@ -46,13 +46,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
   },
   {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Taiteiden yö 20.8.2026",
-    "start_time": "2026-08-23T19:00:00+03:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/taiteiden-yo-2026/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Muistopäivä",
@@ -1744,16 +1737,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Kiviä taskussa",
+    "title": "De obehöriga",
     "start_time": "2026-09-23T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "De obehöriga",
+    "title": "Kiviä taskussa",
     "start_time": "2026-09-23T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
     "venue": "stoa",
@@ -2123,16 +2116,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
+    "title": "Kotijoukot",
     "start_time": "2026-09-29T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Kotijoukot",
+    "title": "Nauravan kulkurin tarina",
     "start_time": "2026-09-29T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "stoa",
@@ -2167,13 +2160,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-09-30T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-09-30T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/kotijoukot/"
@@ -2191,6 +2177,13 @@ window.SCRAPED_EVENTS = [
     "title": "De obehöriga",
     "start_time": "2026-09-30T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/de-obehoriga/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Nauravan kulkurin tarina",
+    "start_time": "2026-09-30T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
@@ -2260,16 +2253,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Kiviä taskussa",
+    "title": "Elolliset",
     "start_time": "2026-10-01T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Elolliset",
+    "title": "Kiviä taskussa",
     "start_time": "2026-10-01T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
     "venue": "stoa",
@@ -2332,16 +2325,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Kurtturuusut",
+    "title": "De obehöriga",
     "start_time": "2026-10-02T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "De obehöriga",
+    "title": "Kurtturuusut",
     "start_time": "2026-10-02T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "hkt",
@@ -2445,13 +2438,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-10-03T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-10-03T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/kotijoukot/"
@@ -2469,6 +2455,13 @@ window.SCRAPED_EVENTS = [
     "title": "De obehöriga",
     "start_time": "2026-10-03T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/de-obehoriga/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Nauravan kulkurin tarina",
+    "start_time": "2026-10-03T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
@@ -2590,16 +2583,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Kurtturuusut",
+    "title": "De obehöriga",
     "start_time": "2026-10-06T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "De obehöriga",
+    "title": "Kurtturuusut",
     "start_time": "2026-10-06T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "hkt",
@@ -2684,13 +2677,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-10-07T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-10-07T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/kotijoukot/"
@@ -2701,6 +2687,13 @@ window.SCRAPED_EVENTS = [
     "title": "De obehöriga",
     "start_time": "2026-10-07T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/de-obehoriga/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Nauravan kulkurin tarina",
+    "start_time": "2026-10-07T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "svenska",
@@ -2761,13 +2754,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-10-08T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-10-08T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/kotijoukot/"
@@ -2778,6 +2764,13 @@ window.SCRAPED_EVENTS = [
     "title": "Elolliset",
     "start_time": "2026-10-08T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/elolliset/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Nauravan kulkurin tarina",
+    "start_time": "2026-10-08T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "stoa",
@@ -3085,20 +3078,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-10-13T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kiviä taskussa",
-    "start_time": "2026-10-13T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-10-13T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/de-obehoriga/"
@@ -3106,9 +3085,23 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
+    "title": "Kurtturuusut",
+    "start_time": "2026-10-13T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-10-13T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Kiviä taskussa",
+    "start_time": "2026-10-13T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
     "venue": "stoa",
@@ -3157,16 +3150,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Kurtturuusut",
+    "title": "De obehöriga",
     "start_time": "2026-10-14T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "De obehöriga",
+    "title": "Kurtturuusut",
     "start_time": "2026-10-14T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "hkt",
@@ -3277,13 +3270,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-10-16T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-10-16T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/elolliset/"
@@ -3294,6 +3280,13 @@ window.SCRAPED_EVENTS = [
     "title": "De obehöriga",
     "start_time": "2026-10-16T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/de-obehoriga/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Nauravan kulkurin tarina",
+    "start_time": "2026-10-16T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
@@ -3335,13 +3328,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-10-17T13:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-10-17T13:00:00+03:00",
     "url": "https://hkt.fi/esitykset/kotijoukot/"
@@ -3359,6 +3345,13 @@ window.SCRAPED_EVENTS = [
     "title": "De obehöriga",
     "start_time": "2026-10-17T13:00:00+03:00",
     "url": "https://hkt.fi/esitykset/de-obehoriga/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Nauravan kulkurin tarina",
+    "start_time": "2026-10-17T13:00:00+03:00",
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
@@ -3408,6 +3401,13 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-10-17T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "André Wickström – 30 år på scen och inget slut i sikte!",
+    "start_time": "2026-10-17T19:00:00+03:00",
+    "url": "https://hkt.fi/esitykset/andre-wickstrom-30-ar-pa-scen-och-inget-slut-i-sikte/"
   },
   {
     "venue": "hkt",
@@ -3729,20 +3729,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-10-23T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kiviä taskussa",
-    "start_time": "2026-10-23T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-10-23T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/elolliset/"
@@ -3753,6 +3739,20 @@ window.SCRAPED_EVENTS = [
     "title": "De obehöriga",
     "start_time": "2026-10-23T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/de-obehoriga/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Nauravan kulkurin tarina",
+    "start_time": "2026-10-23T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Kiviä taskussa",
+    "start_time": "2026-10-23T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
     "venue": "madhouse",
@@ -3822,16 +3822,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
+    "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-10-24T13:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
+    "title": "Nauravan kulkurin tarina",
     "start_time": "2026-10-24T13:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "ryhmateatteri",
@@ -3892,20 +3892,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-10-24T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kiviä taskussa",
-    "start_time": "2026-10-24T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
     "title": "De obehöriga",
     "start_time": "2026-10-24T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/de-obehoriga/"
@@ -3913,9 +3899,23 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
+    "title": "Kurtturuusut",
+    "start_time": "2026-10-24T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2026-10-24T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Kiviä taskussa",
+    "start_time": "2026-10-24T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
     "venue": "hkt",
@@ -4072,16 +4072,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Kiviä taskussa",
+    "title": "&amp; Julia",
     "start_time": "2026-10-27T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "&amp; Julia",
+    "title": "Kiviä taskussa",
     "start_time": "2026-10-27T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
     "venue": "stoa",
@@ -4253,13 +4253,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-10-29T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
     "title": "När Baba faller i poolen är kl. 23.47",
     "start_time": "2026-10-29T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
@@ -4277,6 +4270,13 @@ window.SCRAPED_EVENTS = [
     "title": "Elolliset",
     "start_time": "2026-10-29T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/elolliset/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Nauravan kulkurin tarina",
+    "start_time": "2026-10-29T18:30:00+02:00",
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "caisa",
@@ -4353,16 +4353,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
+    "title": "Elolliset",
     "start_time": "2026-10-30T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Elolliset",
+    "title": "Nauravan kulkurin tarina",
     "start_time": "2026-10-30T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "madhouse",
@@ -4686,13 +4686,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Kiviä taskussa",
-    "start_time": "2026-11-05T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
     "title": "Elolliset",
     "start_time": "2026-11-05T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/elolliset/"
@@ -4703,6 +4696,13 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-11-05T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Kiviä taskussa",
+    "start_time": "2026-11-05T18:30:00+02:00",
+    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
     "venue": "viirus",
@@ -4904,16 +4904,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Kiviä taskussa",
+    "title": "&amp; Julia",
     "start_time": "2026-11-09T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "&amp; Julia",
+    "title": "Kiviä taskussa",
     "start_time": "2026-11-09T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
+    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
     "venue": "universum",
@@ -4976,6 +4976,13 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
+    "title": "De obehöriga",
+    "start_time": "2026-11-10T18:30:00+02:00",
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-11-10T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
@@ -4986,13 +4993,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kiviä taskussa",
     "start_time": "2026-11-10T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/kivia-taskussa/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-11-10T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "stoa",
@@ -5048,13 +5048,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-11-11T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-11-11T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/kotijoukot/"
@@ -5065,6 +5058,13 @@ window.SCRAPED_EVENTS = [
     "title": "De obehöriga",
     "start_time": "2026-11-11T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/de-obehoriga/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Nauravan kulkurin tarina",
+    "start_time": "2026-11-11T18:30:00+02:00",
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "svenska",
@@ -5112,13 +5112,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-11-12T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
     "title": "När Baba faller i poolen är kl. 23.47",
     "start_time": "2026-11-12T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
@@ -5129,6 +5122,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kotijoukot",
     "start_time": "2026-11-12T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/kotijoukot/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Nauravan kulkurin tarina",
+    "start_time": "2026-11-12T18:30:00+02:00",
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "viirus",
@@ -5478,13 +5478,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-11-19T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
     "title": "När Baba faller i poolen är kl. 23.47",
     "start_time": "2026-11-19T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
@@ -5495,6 +5488,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kotijoukot",
     "start_time": "2026-11-19T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/kotijoukot/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Nauravan kulkurin tarina",
+    "start_time": "2026-11-19T18:30:00+02:00",
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "svenska",
@@ -5662,16 +5662,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Kurtturuusut",
+    "title": "De obehöriga",
     "start_time": "2026-11-21T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
+    "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "De obehöriga",
+    "title": "Kurtturuusut",
     "start_time": "2026-11-21T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "hkt",
@@ -6002,16 +6002,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
+    "title": "När Baba faller i poolen är kl. 23.47",
     "start_time": "2026-11-27T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "När Baba faller i poolen är kl. 23.47",
+    "title": "Nauravan kulkurin tarina",
     "start_time": "2026-11-27T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "viirus",
@@ -6095,16 +6095,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
+    "title": "Kotijoukot",
     "start_time": "2026-11-28T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Kotijoukot",
+    "title": "Nauravan kulkurin tarina",
     "start_time": "2026-11-28T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "ryhmateatteri",
@@ -6137,13 +6137,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-11-28T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-11-28T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/kotijoukot/"
@@ -6161,6 +6154,13 @@ window.SCRAPED_EVENTS = [
     "title": "De obehöriga",
     "start_time": "2026-11-28T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/de-obehoriga/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Nauravan kulkurin tarina",
+    "start_time": "2026-11-28T18:30:00+02:00",
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "viirus",
@@ -6613,20 +6613,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "no-no",
-    "start_time": "2026-12-05T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/no-no-2/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-12-05T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
     "title": "När Baba faller i poolen är kl. 23.47",
     "start_time": "2026-12-05T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
@@ -6634,9 +6620,23 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
+    "title": "no-no",
+    "start_time": "2026-12-05T13:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/no-no-2/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-12-05T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/kotijoukot/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Nauravan kulkurin tarina",
+    "start_time": "2026-12-05T13:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "kiasma",
@@ -6662,13 +6662,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-12-05T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-12-05T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/kotijoukot/"
@@ -6679,6 +6672,13 @@ window.SCRAPED_EVENTS = [
     "title": "Elolliset",
     "start_time": "2026-12-05T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/elolliset/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Nauravan kulkurin tarina",
+    "start_time": "2026-12-05T18:30:00+02:00",
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
@@ -6979,7 +6979,7 @@ window.SCRAPED_EVENTS = [
     "title": "Amanda & Lydia: Traces of Your Skin",
     "start_time": "2026-12-11T00:00:00+02:00",
     "end_time": "2026-12-11T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/63984EE53CBF6BB863CA9A5392EFA561/amanda-lydia-traces-of-your-skin"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/1B6B327DCA7AE32A28B4398CA341ADA6/amanda-lydia-traces-of-your-skin"
   },
   {
     "venue": "viirus",
@@ -7078,13 +7078,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-12-12T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
     "title": "Kotijoukot",
     "start_time": "2026-12-12T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/kotijoukot/"
@@ -7095,6 +7088,13 @@ window.SCRAPED_EVENTS = [
     "title": "Elolliset",
     "start_time": "2026-12-12T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/elolliset/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Nauravan kulkurin tarina",
+    "start_time": "2026-12-12T13:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "kansallisteatteri",
@@ -7113,13 +7113,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-12-12T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
     "title": "När Baba faller i poolen är kl. 23.47",
     "start_time": "2026-12-12T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
@@ -7130,6 +7123,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kotijoukot",
     "start_time": "2026-12-12T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/kotijoukot/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Nauravan kulkurin tarina",
+    "start_time": "2026-12-12T18:30:00+02:00",
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "hkt",
@@ -7212,13 +7212,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-12-15T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
     "title": "När Baba faller i poolen är kl. 23.47",
     "start_time": "2026-12-15T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
@@ -7229,6 +7222,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kotijoukot",
     "start_time": "2026-12-15T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/kotijoukot/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Nauravan kulkurin tarina",
+    "start_time": "2026-12-15T18:30:00+02:00",
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "svenska",
@@ -7290,13 +7290,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-12-16T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
     "title": "När Baba faller i poolen är kl. 23.47",
     "start_time": "2026-12-16T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
@@ -7307,6 +7300,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kotijoukot",
     "start_time": "2026-12-16T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/kotijoukot/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Nauravan kulkurin tarina",
+    "start_time": "2026-12-16T18:30:00+02:00",
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "svenska",
