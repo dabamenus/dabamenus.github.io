@@ -247,7 +247,7 @@
     /* Brand / Title */
     /* Brand: revert to original clean styling (keep clickable) */
     .brand {
-      font-family: var(--font-mono);
+      font-family: var(--font-sans);
       font-size: clamp(18px, 1.9vw, 26px);
       font-weight: 600;
       letter-spacing: 0.24em;
@@ -365,6 +365,19 @@
       background: #000;
       border-color: #000;
       text-decoration: none;
+    }
+    /* Banner/hero: black & white (local preview) */
+    .entry-hero img,
+    .entry-hero video,
+    .landing-hero-tail img,
+    .landing-hero-tail video,
+    .landing-hero-tail2 img,
+    .landing-hero-tail2 video,
+    .landing-hero-tail-m1 img,
+    .landing-hero-tail-m1 video,
+    .landing-hero-tail-m2 img,
+    .landing-hero-tail-m2 video {
+      filter: grayscale(100%);
     }
     /* Entry hero */
     .entry-hero {
@@ -1233,6 +1246,7 @@
       mix-blend-mode: multiply;
       pointer-events: none;
       z-index: 1;
+      display: none; /* disabled while testing B&W banner locally */
     }
     /* PREVIEW: slight purple tint on text */
     :root { --text: #5c5860; --muted: #5c5860; }
