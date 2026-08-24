@@ -561,14 +561,14 @@
     /* keep first entry consistent with others */
     .upcoming a {
       color: #111;
-      text-decoration: none;
+      text-decoration: none !important;
       transition: color 120ms ease, background 120ms ease, border-color 120ms ease;
     }
     .upcoming a:hover,
     .upcoming a:focus-visible {
       color: #fff;
       background: #000;
-      text-decoration: none;
+      text-decoration: none !important;
       outline: none;
     }
     .upcoming .past { text-decoration: line-through; color: var(--muted); }
@@ -624,11 +624,12 @@
     }
     section h3.subsection-title {
       margin: 18px 0 10px;
-      font-size: 1rem;
-      letter-spacing: 0.02em;
-      text-transform: none;
-      font-weight: 400;
-      font-style: italic;
+      font-size: 0.75rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      font-weight: 600;
+      font-family: var(--font-sans);
+      color: rgba(22, 16, 26, 0.8);
     }
     /* About: smaller language headers with a bit more top spacing */
     #about h3.subsection-title[lang] {
@@ -749,13 +750,7 @@
     /* Once a video has been clicked/played, keep its hover caption hidden */
     .work-card .media.played .hover-caption { opacity: 0 !important; pointer-events: none; }
     .work-year {
-      font-family: var(--font-mono);
-      font-size: 0.72rem;
-      letter-spacing: 0.12em;
-      text-transform: uppercase;
-      color: var(--muted);
-      text-align: right;
-      padding-top: 2px;
+      display: none;
     }
     .work-meta { padding: 0; display: flex; flex-direction: column; gap: 8px; flex: 1 1 auto; grid-column: 2; }
     .work-year { grid-column: 3; }
@@ -1323,7 +1318,7 @@
       </nav>
       <div class="bio">
         <p>
-          Sound designer in Helsinki, Finland. Working mostly in performing arts. <br /> Also music, short films, commercial work, installations, live mixing and other sound projects.<br />
+          Sound designer in Helsinki, Finland. Working in performing arts and other sound-related projects.
         </p>
       </div>
 
@@ -1350,13 +1345,13 @@
       <section id="about" aria-labelledby="about-title">
         <h2 id="about-title">Info</h2>
         <div class="upcoming" aria-label="Updates list">
-          <p class="update-first"><a href="https://theater-oberhausen.de/production/marian-blessing-makes-her-escape/" target="_blank" rel="noopener">Marian Blessing Makes Her Escape premiere @ Theater Oberhausen October 2026</a></p>
+          <p class="update-first"><a href="https://maillon.eu/spectacle/1084.steal-this-performance--pauli-patinen" target="_blank" rel="noopener">Steal This Performance at Le Maillon, Strasbourg in November</a></p>
+          <p><a href="https://www.viirus.fi/en/shows/diptyk" target="_blank" rel="noopener">Diptyk returns to Viirus spring 2027</a></p>
+          <p><a href="https://www.lust.fi/2026/08/elevator-intergenerationell-utvaxling-av-konstnarlig-praktik-ansokan-oppen-till-31-8-2026/" target="_blank" rel="noopener">Open call for LUST’s intergenerational artist practice sharing project open until 31.8.2026</a></p>
+          <p><a href="https://theater-oberhausen.de/production/marian-blessing-makes-her-escape/" target="_blank" rel="noopener">Marian Blessing Makes Her Escape premiere @ Theater Oberhausen October 2026</a></p>
+          <p>Residency grant from SFV, Kimitoön, 15.7-15.9.2026</p>
           <p><a href="https://www.lust.fi/lust-briefly-in-english/" target="_blank" rel="noopener">Member of the board of LUST association 2026</a></p>
           <p><a href="https://nachtkritik.de/index.php?option=com_content&view=article&id=26161:fast-forward-festival-staatsschauspiel-dresden-der-vorerst-letzte-jahrgang-des-festivals-fuer-junge-europaeische-regie-laesst-hoffen-dass-es-doch-weitergeht&catid=179" target="_blank" rel="noopener">Steal This Performance wins Fast Forward 2025 Jury Award (nachtkritik.de)</a></p>
-          <p>Pamela Blod, independent short film — post-production spring 2026</p>
-          <p>Medeltiden @ Åbo Svenska Teater — premiere 4.11.2025</p>
-          <p>Kotimaisen näytelmän festivaali KNF — 18.9.2025</p>
-          <p>Kärnminne installation @ ParKino Festival — 28-30.8.2025</p>
         </div>
         <p class="info-bread">Axel Ridberg is a sound designer based in Helsinki, Finland. Working primarily within performing arts. Also short films, commercial work, installations, live mixing, creative coding, and other sound-related projects.</p>
         <p class="info-bread">He has a master’s and bachelor’s degree in sound design from the Theatre Academy at the University of the Arts Helsinki, a bachelor’s degree in social sciences from Åbo Akademi University, and has also studied film and television sound at Arcada University of Applied Sciences. His work has been presented at e.g. Helsinki City Theatre, Teater Viirus, Q-teatteri, Reality Research Center, and at the Fast Forward Festival.</p>
@@ -1523,15 +1518,15 @@
       <!-- CV -->
       <section id="cv" aria-labelledby="cv-title" hidden>
         <div class="cv-header">
-          <h2 id="cv-title">CV</h2>
+          <h2 id="cv-title">Selected CV</h2>
         </div>
 
         <h3 class="subsection-title">Education</h3>
         <ul class="cv-list">
-          <li class="cv-item"><span class="cv-year">2022–2025</span><span><em>Master's degree, Sound Design</em> — Theatre Academy, Uniarts Helsinki</span></li>
-          <li class="cv-item"><span class="cv-year">2019–2022</span><span><em>Bachelor degree, Sound Design</em> — Theatre Academy, Uniarts Helsinki</span></li>
-          <li class="cv-item"><span class="cv-year">2018–2019</span><span><em>Sound Design for Film &amp; TV</em> — Arcada University of Applied Sciences</span></li>
-          <li class="cv-item"><span class="cv-year">2014–2018</span><span><em>Bachelor's degree</em> — Åbo Akademi University, Faculty of Social Sciences</span></li>
+          <li class="cv-item"><span class="cv-year">2025</span><span><em>Master's degree, Sound Design</em> — Theatre Academy, Uniarts Helsinki</span></li>
+          <li class="cv-item"><span class="cv-year">2022</span><span><em>Bachelor's degree, Sound Design</em> — Theatre Academy, Uniarts Helsinki</span></li>
+          <li class="cv-item"><span class="cv-year">2019</span><span><em>Studies in Sound design for Film &amp; TV</em> — Arcada University of Applied Sciences</span></li>
+          <li class="cv-item"><span class="cv-year">2018</span><span><em>Bachelor's degree</em> — Åbo Akademi University, Faculty of Social Sciences</span></li>
         </ul>
 
         <h3 class="subsection-title">Works</h3>
@@ -1543,10 +1538,10 @@
           <li class="cv-item"><span class="cv-year">2025</span><span><em>Diptyk</em> — Sound Design, Teater Viirus</span></li>
           <li class="cv-item"><span class="cv-year">2024</span><span><em>Katveisto</em> — Sound Design, audio walk; Todellisuuden tutkimuskeskus</span></li>
           <li class="cv-item"><span class="cv-year">2024</span><span><em>Release</em> — Sound Design (on‑set &amp; post), short film; premiere Bio Rex Lasipalatsi spring 2024</span></li>
-          <li class="cv-item"><span class="cv-year">2024</span><span><em>Varasta tämä esitys</em> — Sound Design, Theatre Academy / Winner Jury Prize Fast Forward Festival 2025, Dresden, Germany</span></li>
+          <li class="cv-item"><span class="cv-year">2024</span><span><em>Varasta tämä esitys</em> — Sound Design, Theatre Academy / Winner Jury Prize Fast Forward Festival 2025, Staatsschauspiel Dresden</span></li>
           <li class="cv-item"><span class="cv-year">2023</span><span><em>Deep Fantasea</em> — Sound Design, Hangö Teaterträff</span></li>
           <li class="cv-item"><span class="cv-year">2023</span><span><em>Äckel</em> — Sound Design, Teater Mestola / Viirus Guest</span></li>
-          <li class="cv-item"><span class="cv-year">2023</span><span><em>Message from Tyler, Memento mori, Kirsikkatarha</em> — Sound Design, Q‑teatteri / Teatterikorkeakoulu / Selected for Fast Forward Festival 2023, Dresden, Germany</span></li>
+          <li class="cv-item"><span class="cv-year">2023</span><span><em>Message from Tyler, Memento mori, Kirsikkatarha</em> — Sound Design, Q‑teatteri / Teatterikorkeakoulu / Selected for Fast Forward Festival 2023, Staatsschauspiel Dresden</span></li>
           <li class="cv-item"><span class="cv-year">2022</span><span><em>Virtaus</em> — Sound Design, Theatre Academy (BA thesis)</span></li>
           <li class="cv-item"><span class="cv-year">2022</span><span><em>Den kreativa klådan</em> — Sound Design, Teater Mestola / Universum</span></li>
           <li class="cv-item"><span class="cv-year">2022</span><span><em>Sellout</em> — Voice actor, short film</span></li>
@@ -1554,11 +1549,8 @@
           <li class="cv-item"><span class="cv-year">2021</span><span><em>Ett Drömspel</em> — Assistant Sound Designer; Carl Knif Company / Svenska Teatern / Riksteatern</span></li>
           <li class="cv-item"><span class="cv-year">2017</span><span><em>Kosketettavissa</em> — Sound Design; Turku University of Applied Sciences</span></li>
           <li class="cv-item"><span class="cv-year">2016</span><span><em>Kehotettu</em> — Sound Design; Turku University of Applied Sciences</span></li>
-          <li class="cv-item"><span class="cv-year">2015</span><span><em>Ursäkta, talar du svenska?</em> — Prompter (kuiskaaja); Åbo Svenska Teater</span></li>
           <li class="cv-item"><span class="cv-year">2014–2015</span><span><em>Ronja Rövardotter</em> — Musician / Performer; Åbo Svenska Teater</span></li>
           <li class="cv-item"><span class="cv-year">2012–2013</span><span><em>Hair</em> — Live video / Performer; Åbo Svenska Teater</span></li>
-          <li class="cv-item"><span class="cv-year">2012</span><span><em>Pähkinänsärkijä</em> — Stage hand; Åbo Svenska Teater / Aurinkobaletti</span></li>
-          <li class="cv-item"><span class="cv-year">2011</span><span><em>Skarvholma gästhamn</em> — Stage hand; Åbo Svenska Teater</span></li>
         </ul>
         <h3 class="subsection-title">Other</h3>
         <ul class="cv-list">
