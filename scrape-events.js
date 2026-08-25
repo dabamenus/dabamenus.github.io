@@ -69,25 +69,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Käsikirjoituspiiri sarjakuvaa tekevälle, arkikurssi",
-    "start_time": "2026-08-25T18:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/kasikirjoituspiiri-sarjakuvaa-tekevalle-arkikurssi"
-  },
-  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Karkelot",
     "start_time": "2026-08-25T18:30:00+03:00",
     "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Missä kuljimme kerran",
-    "start_time": "2026-08-25T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
   },
   {
     "venue": "caisa",
@@ -1709,6 +1695,13 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
+    "title": "Keskiviikon kulissikierros",
+    "start_time": "2026-09-23T16:30:00+03:00",
+    "url": ""
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2026-09-23T18:00:00+03:00",
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
@@ -2529,6 +2522,13 @@ window.SCRAPED_EVENTS = [
     "title": "Elina Pirinen:Ghosts of Rosegarden",
     "start_time": "2026-10-06T16:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Esteetön kulissikierros",
+    "start_time": "2026-10-06T16:30:00+03:00",
+    "url": ""
   },
   {
     "venue": "hkt",
@@ -4415,6 +4415,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/4315416BF35517CB764A83C690F786FD/old-forest-echoes-ikimets-n-kaiku-immersiivinen-luontokonsertti"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Asiantuntijan neuvottelutaidot",
+    "start_time": "2026-10-31T10:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/asiantuntijan-neuvottelutaidot"
+  },
+  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Eliel Tammiharju:Lampi 2",
@@ -4567,6 +4574,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-11-04T00:00:00+02:00",
     "end_time": "2026-11-04T23:59:00+02:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0F706758633CD3E700335A7FBA6A3E15/taidetauko-ty-pajat"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Keskiviikon kulissikierros",
+    "start_time": "2026-11-04T16:30:00+02:00",
+    "url": ""
   },
   {
     "venue": "zodiak",
@@ -5808,6 +5822,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Keskiviikon kulissikierros",
+    "start_time": "2026-11-25T16:30:00+02:00",
+    "url": ""
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
@@ -6345,6 +6366,13 @@ window.SCRAPED_EVENTS = [
     "title": "Toinen tasavalta",
     "start_time": "2026-12-02T12:00:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Esteetön kulissikierros",
+    "start_time": "2026-12-02T16:30:00+02:00",
+    "url": ""
   },
   {
     "venue": "zodiak",
@@ -7264,6 +7292,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kaksitoista lahjaa Joulupukille",
     "start_time": "2026-12-16T10:00:00+02:00",
     "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Keskiviikon kulissikierros",
+    "start_time": "2026-12-16T16:30:00+02:00",
+    "url": ""
   },
   {
     "venue": "viirus",
@@ -8445,25 +8480,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/bravotoga-30-4/"
   },
   {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Puhutaan Richardista",
-    "start_time": "2027-05-03T14:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
-  },
-  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Laulujoutsen",
     "start_time": "2027-05-03T19:00:00+03:00",
     "url": "https://universum.fi/events/laulujoutsen-3-5/"
-  },
-  {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Puhutaan Richardista",
-    "start_time": "2027-05-04T19:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
   },
   {
     "venue": "universum",
@@ -8473,39 +8494,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/laulujoutsen-6-5/"
   },
   {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Puhutaan Richardista",
-    "start_time": "2027-05-08T19:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
-  },
-  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Laulujoutsen",
     "start_time": "2027-05-08T19:00:00+03:00",
     "url": "https://universum.fi/events/laulujoutsen-8-5/"
-  },
-  {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Puhutaan Richardista",
-    "start_time": "2027-05-09T14:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
-  },
-  {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Puhutaan Richardista",
-    "start_time": "2027-05-11T19:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
-  },
-  {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Puhutaan Richardista",
-    "start_time": "2027-05-12T19:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
   },
   {
     "venue": "svenska",
@@ -8520,20 +8513,6 @@ window.SCRAPED_EVENTS = [
     "title": "Balladeja ja hävyttömyyksiä",
     "start_time": "2027-05-13T19:00:00+03:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/balladeja-ja-havyttomyyksia/"
-  },
-  {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Puhutaan Richardista",
-    "start_time": "2027-05-14T19:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
-  },
-  {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Puhutaan Richardista",
-    "start_time": "2027-05-16T19:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
   },
   {
     "venue": "universum",
@@ -8557,25 +8536,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/soili-18-5-kl-19/"
   },
   {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Puhutaan Richardista",
-    "start_time": "2027-05-19T19:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
-  },
-  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Soili 19.5 kl 19",
     "start_time": "2027-05-19T19:00:00+03:00",
     "url": "https://universum.fi/events/soili-19-5-kl-19/"
-  },
-  {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Puhutaan Richardista",
-    "start_time": "2027-05-20T19:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
   },
   {
     "venue": "universum",
