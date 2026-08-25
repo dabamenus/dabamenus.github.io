@@ -3390,6 +3390,13 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
+    "title": "André Wickström 30 vuotta lavalla &#8211; eikä loppua näy!",
+    "start_time": "2026-10-17T19:00:00+03:00",
+    "url": "https://hkt.fi/esitykset/andre-wickstrom-30-vuotta-lavalla-eika-loppua-nay/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
     "title": "André Wickström – 30 år på scen och inget slut i sikte!",
     "start_time": "2026-10-17T19:00:00+03:00",
     "url": "https://hkt.fi/esitykset/andre-wickstrom-30-ar-pa-scen-och-inget-slut-i-sikte/"
@@ -4462,6 +4469,13 @@ window.SCRAPED_EVENTS = [
     "title": "ANDETAG",
     "start_time": "2026-10-31T19:00:00+02:00",
     "url": "https://universum.fi/events/andetag-31-10/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Monsterit Stand Up Show",
+    "start_time": "2026-10-31T19:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/monsterit-stand-up-show/"
   },
   {
     "venue": "caisa",
@@ -5834,6 +5848,20 @@ window.SCRAPED_EVENTS = [
     "title": "The Escape Room",
     "start_time": "2026-11-25T19:00:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/the-escape-room/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "André Wickström 30 vuotta lavalla &#8211; eikä loppua näy!",
+    "start_time": "2026-11-25T19:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/andre-wickstrom-30-vuotta-lavalla-eika-loppua-nay/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "André Wickström – 30 år på scen och inget slut i sikte!",
+    "start_time": "2026-11-25T19:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/andre-wickstrom-30-ar-pa-scen-och-inget-slut-i-sikte/"
   },
   {
     "venue": "stoa",
