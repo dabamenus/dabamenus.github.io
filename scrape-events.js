@@ -1,5 +1,33 @@
 window.SCRAPED_EVENTS = [
   {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "1984",
+    "start_time": "2025-09-11T20:00:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/1984/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "1984",
+    "start_time": "2025-09-17T19:00:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/1984/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "1984",
+    "start_time": "2025-10-08T19:00:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/1984/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "1984",
+    "start_time": "2025-12-02T19:00:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/1984/"
+  },
+  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Mainiot materiaalit - installaatio (terraarion puoleisten rappusten vieressä)",
@@ -59,7 +87,7 @@ window.SCRAPED_EVENTS = [
     "title": "OLEMA | Ensi-ilta",
     "start_time": "2026-08-25T00:00:00+03:00",
     "end_time": "2026-08-25T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/02EFFE10CFB5538AA1A760EAA14C0B6C/olema-ensi-ilta"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/olema-ensi-ilta"
   },
   {
     "venue": "zodiak",
