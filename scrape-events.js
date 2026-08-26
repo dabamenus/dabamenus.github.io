@@ -82,26 +82,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0DFDCEEBC9891563D661DF26B8AED722/urbanapa-x-stoa-movement-currents-liike-ja-virtaukset"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "OLEMA | Ensi-ilta",
-    "start_time": "2026-08-25T00:00:00+03:00",
-    "end_time": "2026-08-25T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/olema-ensi-ilta"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Kati Raatikainen,Milla Martikainen:Sotku ja rakkaus",
     "start_time": "2026-08-25T16:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Karkelot",
-    "start_time": "2026-08-25T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
   },
   {
     "venue": "caisa",
