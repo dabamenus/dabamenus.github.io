@@ -111,13 +111,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Missä kuljimme kerran",
-    "start_time": "2026-08-26T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Ilta Mellerin kanssa",
