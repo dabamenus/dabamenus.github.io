@@ -94,7 +94,7 @@ window.SCRAPED_EVENTS = [
     "title": "OLEMA",
     "start_time": "2026-08-26T00:00:00+03:00",
     "end_time": "2026-08-26T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/9B89D02F33E2C26226604DFFA03E7F45/olema"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/olema"
   },
   {
     "venue": "zodiak",
