@@ -96,13 +96,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
   },
   {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Karkelot",
-    "start_time": "2026-08-27T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lady T",
