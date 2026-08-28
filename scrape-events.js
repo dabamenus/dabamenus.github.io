@@ -101,7 +101,7 @@ window.SCRAPED_EVENTS = [
     "title": "Jussin metsäsadut",
     "start_time": "2026-08-28T00:00:00+03:00",
     "end_time": "2026-08-28T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/4294A0D40DA4E3E043A94DE3154BD942/jussin-mets-sadut"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/jussin-mets-sadut"
   },
   {
     "venue": "caisa",
@@ -109,7 +109,7 @@ window.SCRAPED_EVENTS = [
     "title": "OLEMA",
     "start_time": "2026-08-28T00:00:00+03:00",
     "end_time": "2026-08-28T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/4BE6944BD76CCB69E5CFC6EAAA6E8D64/olema"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/olema"
   },
   {
     "venue": "tekstintalo",
@@ -131,20 +131,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kati Raatikainen,Milla Martikainen:Sotku ja rakkaus",
     "start_time": "2026-08-28T16:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Feministinen kiroiluiltama",
-    "start_time": "2026-08-28T18:30:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/feministinen-kiroiluiltama-280826"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Missä kuljimme kerran",
-    "start_time": "2026-08-28T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/missa-kuljimme-kerran/"
   },
   {
     "venue": "hkt",
@@ -4439,6 +4425,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-10-31T00:00:00+02:00",
     "end_time": "2026-10-31T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/4315416BF35517CB764A83C690F786FD/old-forest-echoes-ikimets-n-kaiku-immersiivinen-luontokonsertti"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Asiantuntijan neuvottelutaidot",
+    "start_time": "2026-10-31T10:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/asiantuntijan-neuvottelutaidot"
   },
   {
     "venue": "zodiak",
