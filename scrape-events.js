@@ -874,6 +874,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/sandyrella/"
   },
   {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Eteläpohjalaisia",
+    "start_time": "2026-09-11T19:00:00+03:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kotijoukot",
@@ -1122,6 +1129,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Eteläpohjalaisia",
+    "start_time": "2026-09-15T19:00:00+03:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+  },
+  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Sirkuskurssi taaperoperheille",
@@ -1358,6 +1372,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/sandyrella/"
   },
   {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Eteläpohjalaisia",
+    "start_time": "2026-09-18T19:00:00+03:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+  },
+  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Helsingin sarjakuvafestivaalit",
@@ -1414,6 +1435,13 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-09-19T13:00:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Eteläpohjalaisia",
+    "start_time": "2026-09-19T14:00:00+03:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
   },
   {
     "venue": "espoonteatteri",
@@ -1573,6 +1601,13 @@ window.SCRAPED_EVENTS = [
     "title": "Elolliset",
     "start_time": "2026-09-22T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/elolliset/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Eteläpohjalaisia",
+    "start_time": "2026-09-22T19:00:00+03:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
   },
   {
     "venue": "stoa",
@@ -1765,6 +1800,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Eteläpohjalaisia",
+    "start_time": "2026-09-25T19:00:00+03:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+  },
+  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Idän kirjamessut",
@@ -1836,6 +1878,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kissani yhdeksän elämää",
     "start_time": "2026-09-26T14:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/kissani-yhdeksan-elamaa"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Eteläpohjalaisia",
+    "start_time": "2026-09-26T14:00:00+03:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
   },
   {
     "venue": "espoonteatteri",
@@ -7966,6 +8015,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Puhutaan Richardista",
+    "start_time": "2027-03-05T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Vinterkvällar",
@@ -7978,6 +8034,13 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2027-03-06T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Puhutaan Richardista",
+    "start_time": "2027-03-06T14:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
   },
   {
     "venue": "hkt",
@@ -8001,11 +8064,25 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/vinterkvallar-8-3/"
   },
   {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Puhutaan Richardista",
+    "start_time": "2027-03-09T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Vinterkvällar",
     "start_time": "2027-03-09T19:00:00+02:00",
     "url": "https://universum.fi/events/vinterkvallar-9-3/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Puhutaan Richardista",
+    "start_time": "2027-03-10T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
   },
   {
     "venue": "svenska",
@@ -8036,11 +8113,25 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Puhutaan Richardista",
+    "start_time": "2027-03-12T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2027-03-13T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Puhutaan Richardista",
+    "start_time": "2027-03-13T14:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
   },
   {
     "venue": "hkt",
@@ -8050,11 +8141,25 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Puhutaan Richardista",
+    "start_time": "2027-03-15T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "&amp; Julia",
     "start_time": "2027-03-18T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Puhutaan Richardista",
+    "start_time": "2027-03-18T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
   },
   {
     "venue": "universum",
@@ -8078,6 +8183,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Puhutaan Richardista",
+    "start_time": "2027-03-19T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "CB",
@@ -8097,6 +8209,13 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2027-03-20T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Puhutaan Richardista",
+    "start_time": "2027-03-20T14:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
   },
   {
     "venue": "hkt",
@@ -8120,6 +8239,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/livets-summa-22-3/"
   },
   {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Puhutaan Richardista",
+    "start_time": "2027-03-23T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "LIVETS SUMMA",
@@ -8132,6 +8258,13 @@ window.SCRAPED_EVENTS = [
     "title": "Diptyk",
     "start_time": "2027-03-24T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Puhutaan Richardista",
+    "start_time": "2027-03-24T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
   },
   {
     "venue": "universum",
