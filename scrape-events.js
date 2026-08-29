@@ -103,25 +103,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/kuvataidekoulu"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-08-28T13:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Kati Raatikainen,Milla Martikainen:Sotku ja rakkaus",
     "start_time": "2026-08-28T16:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-08-28T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "stoa",
@@ -5975,6 +5961,13 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-11-26T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Rakastavaisten kuoro",
+    "start_time": "2026-11-26T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
   },
   {
     "venue": "ryhmateatteri",
