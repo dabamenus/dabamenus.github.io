@@ -41,7 +41,7 @@ window.SCRAPED_EVENTS = [
     "title": "Luontosuhteita",
     "start_time": "2026-06-12T00:00:00+03:00",
     "end_time": "2026-08-30T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F2E50462006DF628DE768041D5EE7228/luontosuhteita"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/luontosuhteita"
   },
   {
     "venue": "stoa",
