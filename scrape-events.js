@@ -49,7 +49,7 @@ window.SCRAPED_EVENTS = [
     "title": "Elonkirjon kaupunki: Vaihtoehtokaavoja elonkirjon puolesta",
     "start_time": "2026-06-17T00:00:00+03:00",
     "end_time": "2026-08-30T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0C2A94B263D2D32105C25E071D706846/elonkirjon-kaupunki-vaihtoehtokaavoja-elonkirjon-puolesta"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/elonkirjon-kaupunki-vaihtoehtokaavoja-elonkirjon-puolesta"
   },
   {
     "venue": "tekstintalo",
