@@ -36,22 +36,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/B5CEECA15BBB114F544F7263E2517AE4/mainiot-materiaalit-installaatio-terraarion-puoleisten-rappusten-vieress"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Luontosuhteita",
-    "start_time": "2026-06-12T00:00:00+03:00",
-    "end_time": "2026-08-30T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/luontosuhteita"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Elonkirjon kaupunki: Vaihtoehtokaavoja elonkirjon puolesta",
-    "start_time": "2026-06-17T00:00:00+03:00",
-    "end_time": "2026-08-30T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/elonkirjon-kaupunki-vaihtoehtokaavoja-elonkirjon-puolesta"
-  },
-  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Rap-lyriikka 30+",
@@ -99,21 +83,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kati Raatikainen,Milla Martikainen:Sotku ja rakkaus",
     "start_time": "2026-08-29T12:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "OLEMA",
-    "start_time": "2026-08-30T00:00:00+03:00",
-    "end_time": "2026-08-30T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/olema"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Karkelot",
-    "start_time": "2026-08-30T15:00:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2249,6 +2218,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Äitisi, Klytaimestra",
+    "start_time": "2026-10-03T14:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
+  },
+  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Karkelot",
@@ -2342,6 +2318,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F5A2D3122CD23912709EE4F695E0DA9B/e1t1-each-one-teach-one"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Äitisi, Klytaimestra",
+    "start_time": "2026-10-05T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kurtturuusut",
@@ -2414,6 +2397,13 @@ window.SCRAPED_EVENTS = [
     "title": "Tavallisuuden aave",
     "start_time": "2026-10-06T18:30:00+03:00",
     "url": "https://espoonteatteri.fi/ohjelmisto/tavallisuuden-aave/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Äitisi, Klytaimestra",
+    "start_time": "2026-10-06T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2594,6 +2584,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://espoonteatteri.fi/ohjelmisto/tavallisuuden-aave/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Äitisi, Klytaimestra",
+    "start_time": "2026-10-08T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Toinen tasavalta",
@@ -2649,6 +2646,13 @@ window.SCRAPED_EVENTS = [
     "title": "Järjen hedelmät",
     "start_time": "2026-10-09T18:30:00+03:00",
     "url": "https://espoonteatteri.fi/ohjelmisto/jarjen-hedelmat/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Äitisi, Klytaimestra",
+    "start_time": "2026-10-09T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2797,6 +2801,13 @@ window.SCRAPED_EVENTS = [
     "title": "Medusan huone",
     "start_time": "2026-10-10T14:00:00+03:00",
     "url": "https://espoonteatteri.fi/ohjelmisto/medusan-huone/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Äitisi, Klytaimestra",
+    "start_time": "2026-10-10T14:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "espoonteatteri",
@@ -3370,6 +3381,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Äitisi, Klytaimestra",
+    "start_time": "2026-10-21T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Toinen tasavalta",
@@ -3456,6 +3474,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Äitisi, Klytaimestra",
+    "start_time": "2026-10-22T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Sivuraide",
@@ -3540,6 +3565,13 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-10-23T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Äitisi, Klytaimestra",
+    "start_time": "2026-10-23T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "kansallisteatteri",
@@ -3668,6 +3700,13 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-10-24T13:00:00+03:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Äitisi, Klytaimestra",
+    "start_time": "2026-10-24T14:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "kiasma",
@@ -3865,6 +3904,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Äitisi, Klytaimestra",
+    "start_time": "2026-10-27T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Viidakon villit naiset",
@@ -3966,6 +4012,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Äitisi, Klytaimestra",
+    "start_time": "2026-10-28T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Viidakon villit naiset",
@@ -4060,6 +4113,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Äitisi, Klytaimestra",
+    "start_time": "2026-10-29T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Sivuraide",
@@ -4144,6 +4204,13 @@ window.SCRAPED_EVENTS = [
     "title": "Writing of Disaster",
     "start_time": "2026-10-30T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Äitisi, Klytaimestra",
+    "start_time": "2026-10-30T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "kansallisteatteri",
@@ -4422,6 +4489,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Äitisi, Klytaimestra",
+    "start_time": "2026-11-04T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Viidakon villit naiset",
@@ -4494,6 +4568,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://espoonteatteri.fi/ohjelmisto/mi-madre-y-el-dinero/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Äitisi, Klytaimestra",
+    "start_time": "2026-11-05T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "När Baba faller i poolen är kl. 23.47",
@@ -4534,6 +4615,13 @@ window.SCRAPED_EVENTS = [
     "title": "Mi Madre y el Dinero",
     "start_time": "2026-11-06T18:30:00+02:00",
     "url": "https://espoonteatteri.fi/ohjelmisto/mi-madre-y-el-dinero/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Äitisi, Klytaimestra",
+    "start_time": "2026-11-06T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "kansallisteatteri",
@@ -4619,6 +4707,13 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-11-07T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Äitisi, Klytaimestra",
+    "start_time": "2026-11-07T14:00:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "cirko",
@@ -4836,6 +4931,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Äitisi, Klytaimestra",
+    "start_time": "2026-11-11T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Toinen tasavalta",
@@ -4900,6 +5002,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Äitisi, Klytaimestra",
+    "start_time": "2026-11-12T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Viides askel",
@@ -4933,6 +5042,13 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-11-13T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Äitisi, Klytaimestra",
+    "start_time": "2026-11-13T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "kansallisteatteri",
@@ -5038,6 +5154,13 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-11-14T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Äitisi, Klytaimestra",
+    "start_time": "2026-11-14T14:00:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "cirko",
@@ -5203,6 +5326,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Äitisi, Klytaimestra",
+    "start_time": "2026-11-18T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Viides askel",
@@ -5260,6 +5390,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Äitisi, Klytaimestra",
+    "start_time": "2026-11-19T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "När Baba faller i poolen är kl. 23.47",
@@ -5308,6 +5445,13 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-11-20T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Äitisi, Klytaimestra",
+    "start_time": "2026-11-20T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "kansallisteatteri",
@@ -5414,6 +5558,13 @@ window.SCRAPED_EVENTS = [
     "title": "Rakastavaisten kuoro",
     "start_time": "2026-11-21T14:00:00+02:00",
     "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Äitisi, Klytaimestra",
+    "start_time": "2026-11-21T14:00:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "kansallisteatteri",
@@ -5615,6 +5766,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Äitisi, Klytaimestra",
+    "start_time": "2026-11-25T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Mirdja",
@@ -5707,6 +5865,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Äitisi, Klytaimestra",
+    "start_time": "2026-11-26T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Haapajärven Elvis",
@@ -5776,6 +5941,13 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-11-27T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Äitisi, Klytaimestra",
+    "start_time": "2026-11-27T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "kansallisteatteri",
@@ -5904,6 +6076,20 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-11-28T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Rakastavaisten kuoro",
+    "start_time": "2026-11-28T14:00:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "Äitisi, Klytaimestra",
+    "start_time": "2026-11-28T14:00:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "kiasma",
