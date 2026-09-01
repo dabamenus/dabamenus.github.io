@@ -85,13 +85,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-08-31T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Ohjatut päivätanssit Stoan aulassa",
@@ -3254,6 +3247,34 @@ window.SCRAPED_EVENTS = [
     "title": "André Wickström – 30 år på scen och inget slut i sikte!",
     "start_time": "2026-10-17T19:00:00+03:00",
     "url": "https://hkt.fi/esitykset/andre-wickstrom-30-ar-pa-scen-och-inget-slut-i-sikte/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "KADONNUTTA AIKAA ETSIMÄSSÄ 2017-2027, OSA 9",
+    "start_time": "2026-10-18T12:00:00+03:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/kadonnutta-aikaa-etsimassa-2017-2027-osa-9/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "KADONNUTTA AIKAA ETSIMÄSSÄ 2017-2027, OSA 9",
+    "start_time": "2026-10-18T12:00:00+03:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/kadonnutta-aikaa-etsimassa-2017-2027-osa-9/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "KADONNUTTA AIKAA ETSIMÄSSÄ 2017-2027, OSA 9",
+    "start_time": "2026-10-18T15:00:00+03:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/kadonnutta-aikaa-etsimassa-2017-2027-osa-9/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "KADONNUTTA AIKAA ETSIMÄSSÄ 2017-2027, OSA 9",
+    "start_time": "2026-10-18T18:00:00+03:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/kadonnutta-aikaa-etsimassa-2017-2027-osa-9/"
   },
   {
     "venue": "hkt",
