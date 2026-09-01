@@ -106,7 +106,7 @@ window.SCRAPED_EVENTS = [
     "title": "Sirkuskurssi senioreille, Ryhmä 2",
     "start_time": "2026-09-01T00:00:00+03:00",
     "end_time": "2026-09-01T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/6C4DB859FDD07715FE6E40B243BB0D2F/sirkuskurssi-senioreille-ryhm-2"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkuskurssi-senioreille-ryhm-2"
   },
   {
     "venue": "stoa",
@@ -114,7 +114,7 @@ window.SCRAPED_EVENTS = [
     "title": "Sirkuskurssi perheille",
     "start_time": "2026-09-01T00:00:00+03:00",
     "end_time": "2026-09-01T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/AED2392D6C9BB3172716FB1B75401839/sirkuskurssi-perheille"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkuskurssi-perheille"
   },
   {
     "venue": "caisa",
