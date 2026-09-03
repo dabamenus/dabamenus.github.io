@@ -161,13 +161,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/taidetta-taaperoille"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
-    "start_time": "2026-09-03T14:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-0309"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Kati Raatikainen,Milla Martikainen:Sotku ja rakkaus",
@@ -1309,6 +1302,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/01CE3834D0D16222CCE6B60C3C2B814E/celebrate-connect-belong-kolibri-festivaali-2026"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Tanssi ja leikki",
+    "start_time": "2026-09-21T00:00:00+03:00",
+    "end_time": "2026-09-21T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/84B9FB7D5D46396AC959DD040F7F0933/tanssi-ja-leikki"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
@@ -1771,6 +1772,14 @@ window.SCRAPED_EVENTS = [
     "title": "Karkelot",
     "start_time": "2026-09-27T15:00:00+03:00",
     "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Tanssi ja leikki",
+    "start_time": "2026-09-28T00:00:00+03:00",
+    "end_time": "2026-09-28T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/EF276101203C525676A2AED6A52F69A8/tanssi-ja-leikki"
   },
   {
     "venue": "kansallisteatteri",
@@ -2238,6 +2247,14 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-10-05T00:00:00+03:00",
     "end_time": "2026-10-06T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F5A2D3122CD23912709EE4F695E0DA9B/e1t1-each-one-teach-one-t-ynn"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Tanssi ja leikki",
+    "start_time": "2026-10-05T00:00:00+03:00",
+    "end_time": "2026-10-05T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/77E65C407A9C6EA2B6E198EC102E6C86/tanssi-ja-leikki"
   },
   {
     "venue": "ryhmateatteri",
@@ -3220,6 +3237,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://teatteritakomo.fi/ohjelmisto/kadonnutta-aikaa-etsimassa-2017-2027-osa-9/"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Tanssi ja leikki",
+    "start_time": "2026-10-19T00:00:00+03:00",
+    "end_time": "2026-10-19T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/A40F295BB3390197937ABCE84EC4CA0B/tanssi-ja-leikki"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kahvilla kirjailijan kanssa",
@@ -3793,6 +3818,14 @@ window.SCRAPED_EVENTS = [
     "title": "ANDETAG",
     "start_time": "2026-10-25T19:00:00+02:00",
     "url": "https://universum.fi/events/andetag-25-10/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Tanssi ja leikki",
+    "start_time": "2026-10-26T00:00:00+02:00",
+    "end_time": "2026-10-26T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/7FBAAC287C08250F2FA03A454128A085/tanssi-ja-leikki"
   },
   {
     "venue": "kansallisteatteri",
@@ -4774,6 +4807,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Tanssi ja leikki",
+    "start_time": "2026-11-09T00:00:00+02:00",
+    "end_time": "2026-11-09T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/B3AFD56F3AC48A2EE826437308DE9392/tanssi-ja-leikki"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Writing of Disaster",
@@ -4982,6 +5023,13 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-11-12T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
+    "start_time": "2026-11-12T14:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-1211"
   },
   {
     "venue": "viirus",
@@ -5242,6 +5290,14 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-11-16T00:00:00+02:00",
     "end_time": "2026-11-22T23:59:00+02:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/60F82D63F89FC23AE34D0694DB5C2E50/sylimets-ss-mets-n-syliss"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Tanssi ja leikki",
+    "start_time": "2026-11-16T00:00:00+02:00",
+    "end_time": "2026-11-16T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/2C0D372B451C516A4F4ACC7FAD872E89/tanssi-ja-leikki"
   },
   {
     "venue": "kansallisteatteri",
@@ -5625,6 +5681,14 @@ window.SCRAPED_EVENTS = [
     "title": "ANDETAG",
     "start_time": "2026-11-22T19:00:00+02:00",
     "url": "https://universum.fi/events/andetag-22-11/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Tanssi ja leikki",
+    "start_time": "2026-11-23T00:00:00+02:00",
+    "end_time": "2026-11-23T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/42DBDEE1DDF3BC342C6300511CA1CAD2/tanssi-ja-leikki"
   },
   {
     "venue": "kansallisteatteri",
@@ -6182,6 +6246,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://kiasma.fi/esitykset/kauri-sorvari-forevermore/"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Tanssi ja leikki",
+    "start_time": "2026-11-30T00:00:00+02:00",
+    "end_time": "2026-11-30T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/3CF01506DCE8ABA3D8D1DEEF7AECBAEC/tanssi-ja-leikki"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Mirdja",
@@ -6706,6 +6778,14 @@ window.SCRAPED_EVENTS = [
     "title": "Club act!one",
     "start_time": "2026-12-05T19:00:00+02:00",
     "url": "https://hkt.fi/esitykset/club-actone/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Tanssi ja leikki",
+    "start_time": "2026-12-07T00:00:00+02:00",
+    "end_time": "2026-12-07T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/5D6C300B2FA2CD92E3E587733DBB246D/tanssi-ja-leikki"
   },
   {
     "venue": "kansallisteatteri",
