@@ -114,13 +114,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/kirjallisuuspiiri"
   },
   {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "På besök hos småkrypen– Vierailulla ötököiden maailmassa",
-    "start_time": "2026-09-02T19:00:00+03:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/pa-besok-hos-smakrypen/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Ukrainalais–suomalaisen sarjakuvaprojektin näyttely",
@@ -145,22 +138,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/77B4BF323E2BCDCAC329960BC09C0F96/festivaalitaiteilija-emilia-laatikaisen-n-yttely"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "RISA: Only Bones 2.0 | Ensi-ilta",
-    "start_time": "2026-09-03T00:00:00+03:00",
-    "end_time": "2026-09-03T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/risa-only-bones-2-0-ensi-ilta"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-09-03T00:00:00+03:00",
-    "end_time": "2026-09-03T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/taidetta-taaperoille"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Kati Raatikainen,Milla Martikainen:Sotku ja rakkaus",
@@ -168,33 +145,12 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
   },
   {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Eino Leinon Eksät – enemmän ja vähemmän muusina",
-    "start_time": "2026-09-03T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/eino-leinon-eksat-enemman-ja-vahemman-muusina"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-09-03T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-09-03T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Jussin metsäsadut",
     "start_time": "2026-09-04T00:00:00+03:00",
     "end_time": "2026-09-04T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/691BF08803460CBE7842EF701E1CECCF/jussin-mets-sadut"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/jussin-mets-sadut"
   },
   {
     "venue": "caisa",
@@ -2101,7 +2057,7 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
-    "title": "Ismo Dance company - 5 koreografiaa rakkaudesta",
+    "title": "Ismo Dance Company - 5 koreografiaa rakkaudesta",
     "start_time": "2026-10-03T00:00:00+03:00",
     "end_time": "2026-10-03T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/32E83BF34945F7A5689F9F4D2D1F2D0E/ismo-dance-company-5-koreografiaa-rakkaudesta"
@@ -2228,7 +2184,7 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
-    "title": "Ismo Dance company - 5 koreografiaa rakkaudesta",
+    "title": "Ismo Dance Company - 5 koreografiaa rakkaudesta",
     "start_time": "2026-10-04T00:00:00+03:00",
     "end_time": "2026-10-04T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/8D139241C923D8B658F6311DA63A5BFC/ismo-dance-company-5-koreografiaa-rakkaudesta"
@@ -6290,6 +6246,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/FE9CD095E270BA80C9B1D3E73340A72D/ohjatut-p-iv-tanssit-stoan-aulassa"
   },
   {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Tanssiteatteri Tsuumi & kulttuurikomppania Eloa: Arvo",
+    "start_time": "2026-12-01T00:00:00+02:00",
+    "end_time": "2026-12-01T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/474C4F106B0FC0516C457121C75CC736/tanssiteatteri-tsuumi-kulttuurikomppania-eloa-arvo"
+  },
+  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Taidetta taaperoille",
@@ -6398,6 +6362,14 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
+    "title": "Tanssiteatteri Tsuumi & kulttuurikomppania Eloa: Arvo",
+    "start_time": "2026-12-02T00:00:00+02:00",
+    "end_time": "2026-12-02T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/65C2D42B125837BBF160A6DDEC0DC0DE/tanssiteatteri-tsuumi-kulttuurikomppania-eloa-arvo"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
     "title": "Taidetauko-työpajat",
     "start_time": "2026-12-02T00:00:00+02:00",
     "end_time": "2026-12-02T23:59:00+02:00",
@@ -6446,6 +6418,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Rakastavaisten kuoro",
+    "start_time": "2026-12-02T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Viides askel",
@@ -6486,6 +6465,14 @@ window.SCRAPED_EVENTS = [
     "title": "Kettutytön paluu",
     "start_time": "2026-12-02T19:00:00+02:00",
     "url": "https://universum.fi/events/kettutyton-paluu-2-12/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Tanssiteatteri Tsuumi & kulttuurikomppania Eloa: Arvo",
+    "start_time": "2026-12-03T00:00:00+02:00",
+    "end_time": "2026-12-03T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/1A2095C73AA939F35243464F7B094945/tanssiteatteri-tsuumi-kulttuurikomppania-eloa-arvo"
   },
   {
     "venue": "caisa",
@@ -6582,6 +6569,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/81DB4E258E00FFDEF2B8BB75D138B58E/ballet-finland-keh-ensi-ilta"
   },
   {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Tanssiteatteri Tsuumi & kulttuurikomppania Eloa: Arvo",
+    "start_time": "2026-12-04T00:00:00+02:00",
+    "end_time": "2026-12-04T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/D1E3026FFB4374C2C20D0F1F4D9B44C7/tanssiteatteri-tsuumi-kulttuurikomppania-eloa-arvo"
+  },
+  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Out 'n loud & HQFK: Queerly Yours!",
@@ -6666,6 +6661,14 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-12-05T00:00:00+02:00",
     "end_time": "2026-12-05T23:59:00+02:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/77957FF8DDAF43BDDB83CEA0B40AC983/ballet-finland-keh"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Tanssiteatteri Tsuumi & kulttuurikomppania Eloa: Arvo",
+    "start_time": "2026-12-05T00:00:00+02:00",
+    "end_time": "2026-12-05T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/1FB4A0F24E2B543A7E832C7C7FD1FD81/tanssiteatteri-tsuumi-kulttuurikomppania-eloa-arvo"
   },
   {
     "venue": "hkt",
