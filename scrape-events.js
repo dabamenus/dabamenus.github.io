@@ -292,6 +292,13 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
+    "title": "CONCERT: SON JAROCHO MUSIC FROM TLACOTALPAN",
+    "start_time": "2026-09-06T16:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/concert-son-jarocho-music-from-tlacotalpan"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
     "title": "Cosplay-kurssi",
     "start_time": "2026-09-07T16:30:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/cosplay-kurssi"
@@ -340,6 +347,13 @@ window.SCRAPED_EVENTS = [
     "title": "Lasten sarjakuvakurssi",
     "start_time": "2026-09-08T16:30:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/lasten-sarjakuvakurssi"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Karhupuisto Film Festival – Lyhytelokuvanäytös: Marseille-Bagdad-Pariisi-Fos-sur-Mer",
+    "start_time": "2026-09-08T17:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/karhupuisto-film-festival-lyhytelokuvanaytos-marseille-bagdad-pariisi-fos-sur-mer"
   },
   {
     "venue": "tekstintalo",
@@ -886,6 +900,14 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-09-16T00:00:00+03:00",
     "end_time": "2026-09-16T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/9EBADCDAA78720113FEF3DCAE1CD983C/sirkuskurssi-vauvaperheille"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Ali Al-Saffun lyhytelokuva:",
+    "start_time": "2026-09-16T00:00:00+03:00",
+    "end_time": "2026-09-16T23:59:00+03:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/297FC59BEE862BD2C360B7EA1E6064EB/ali-al-saffun-lyhytelokuva"
   },
   {
     "venue": "stoa",
@@ -1853,6 +1875,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-09-30T00:00:00+03:00",
     "end_time": "2026-09-30T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/211159120380EF5467A6F5B78C5D026D/sirkuskurssi-vauvaperheille"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Tieteen ja toivon klubi Antti Aution kanssa",
+    "start_time": "2026-09-30T18:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/tieteen-ja-toivon-klubi-300916"
   },
   {
     "venue": "espoonteatteri",
@@ -4054,13 +4083,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
-    "start_time": "2026-10-29T14:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-2910"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Zodiak Laboratory:Lintu Lover & Edet Cane",
@@ -4259,13 +4281,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-10-31T00:00:00+02:00",
     "end_time": "2026-10-31T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/4315416BF35517CB764A83C690F786FD/old-forest-echoes-ikimets-n-kaiku-immersiivinen-luontokonsertti"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Asiantuntijan neuvottelutaidot",
-    "start_time": "2026-10-31T10:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/asiantuntijan-neuvottelutaidot"
   },
   {
     "venue": "zodiak",
@@ -4979,13 +4994,6 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-11-12T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
-    "start_time": "2026-11-12T14:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-1211"
   },
   {
     "venue": "viirus",
