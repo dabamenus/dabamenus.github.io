@@ -36,13 +36,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/B5CEECA15BBB114F544F7263E2517AE4/mainiot-materiaalit-installaatio-terraarion-puoleisten-rappusten-vieress"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Rap-lyriikka 30+",
-    "start_time": "2026-08-20T18:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/rap-lyriikka-30"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Kati Raatikainen,Milla Martikainen:Sotku ja rakkaus",
@@ -62,13 +55,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kati Raatikainen,Milla Martikainen:Sotku ja rakkaus",
     "start_time": "2026-08-26T16:00:19+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Kuvataidekoulu",
-    "start_time": "2026-08-28T11:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/kuvataidekoulu"
   },
   {
     "venue": "zodiak",
@@ -105,13 +91,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kati Raatikainen,Milla Martikainen:Sotku ja rakkaus",
     "start_time": "2026-09-02T16:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Kirjallisuuspiiri",
-    "start_time": "2026-09-02T18:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/kirjallisuuspiiri"
   },
   {
     "venue": "stoa",
@@ -1040,13 +1019,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
-    "title": "Änglagård",
-    "start_time": "2026-09-17T19:00:00+03:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/anglagard/"
-  },
-  {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
     "title": "Balladeja ja hävyttömyyksiä",
     "start_time": "2026-09-17T19:00:00+03:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/balladeja-ja-havyttomyyksia/"
@@ -1879,7 +1851,7 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
-    "title": "Tieteen ja toivon klubi Antti Aution kanssa",
+    "title": "Tieteen ja toivon klubi",
     "start_time": "2026-09-30T18:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/tieteen-ja-toivon-klubi-300916"
   },
@@ -2471,13 +2443,6 @@ window.SCRAPED_EVENTS = [
     "title": "Vierailu: Viimeinen kirje rintamalta",
     "start_time": "2026-10-07T19:00:00+03:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/viimeinen-kirje-rintamalta/"
-  },
-  {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Wishamalii (FI/JO)",
-    "start_time": "2026-10-07T19:00:00+03:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/wishamalii/"
   },
   {
     "venue": "svenska",
@@ -4083,6 +4048,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
+    "start_time": "2026-10-29T14:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-2910"
+  },
+  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Zodiak Laboratory:Lintu Lover & Edet Cane",
@@ -4248,13 +4220,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
-    "title": "Wishamalii (FI/JO)",
-    "start_time": "2026-10-30T19:00:00+02:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/wishamalii/"
-  },
-  {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
     "title": "Mehrnoosh Zolfaghari: Awakening",
     "start_time": "2026-10-30T19:00:00+02:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/mehrnoosh-zolfaghari/"
@@ -4281,6 +4246,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-10-31T00:00:00+02:00",
     "end_time": "2026-10-31T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/4315416BF35517CB764A83C690F786FD/old-forest-echoes-ikimets-n-kaiku-immersiivinen-luontokonsertti"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Asiantuntijan neuvottelutaidot",
+    "start_time": "2026-10-31T10:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/asiantuntijan-neuvottelutaidot"
   },
   {
     "venue": "zodiak",
@@ -4966,13 +4938,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Änglagård",
-    "start_time": "2026-11-11T19:00:00+02:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/anglagard/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "PodiKlubi",
@@ -4994,6 +4959,13 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-11-12T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
+    "start_time": "2026-11-12T14:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-1211"
   },
   {
     "venue": "viirus",
@@ -8707,13 +8679,6 @@ window.SCRAPED_EVENTS = [
     "title": "Laulujoutsen",
     "start_time": "2027-05-08T19:00:00+03:00",
     "url": "https://universum.fi/events/laulujoutsen-8-5/"
-  },
-  {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Änglagård",
-    "start_time": "2027-05-13T19:00:00+03:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/anglagard/"
   },
   {
     "venue": "svenska",
