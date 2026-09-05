@@ -240,6 +240,34 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/nina-davies-2girls1comp-inexorable-non-player-character"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "CONCERT: SON JAROCHO MUSIC FROM TLACOTALPAN",
+    "start_time": "2026-09-06T16:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/concert-son-jarocho-music-from-tlacotalpan"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Cosplay-kurssi",
+    "start_time": "2026-09-07T16:30:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/cosplay-kurssi"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "12 filosofia – Muinaisten filosofien suuria oivalluksia",
+    "start_time": "2026-09-07T18:15:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/12-filosofia-muinaisten-filosofien-suuria-oivalluksia"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Sarjakuvailmaisu",
+    "start_time": "2026-09-07T18:30:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvailmaisu"
+  },
+  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Sirkuskurssi senioreille, Ryhmä 1",
@@ -262,6 +290,27 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-09-08T00:00:00+03:00",
     "end_time": "2026-09-08T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/08633655C8DCB06899076885C7278626/taidetta-taaperoille"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Lasten sarjakuvakurssi",
+    "start_time": "2026-09-08T16:30:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/lasten-sarjakuvakurssi"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Karhupuisto Film Festival – Lyhytelokuvanäytös: Marseille-Bagdad-Pariisi-Fos-sur-Mer",
+    "start_time": "2026-09-08T17:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/karhupuisto-film-festival-lyhytelokuvanaytos-marseille-bagdad-pariisi-fos-sur-mer"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Planetaarisen yhteisvaurauden ja hyvinvoinnin uudet jakoperusteet",
+    "start_time": "2026-09-08T18:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/planetaarisen-yhteisvaurauden-jakoperusteet"
   },
   {
     "venue": "kansallisteatteri",
@@ -301,6 +350,20 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/21D475F95056356D1083EA2D8086F02B/sirkuskurssi-vauvaperheille"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Itsenäisen tekemisen kuvataideryhmä",
+    "start_time": "2026-09-09T13:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/itsenaisen-tekemisen-kuvataideryhma"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Mangakurssi",
+    "start_time": "2026-09-09T17:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/mangakurssi"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Orvot",
@@ -320,6 +383,13 @@ window.SCRAPED_EVENTS = [
     "title": "De obehöriga",
     "start_time": "2026-09-09T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/de-obehoriga/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Nuorten sarjakuvakurssi",
+    "start_time": "2026-09-09T18:45:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/nuorten-sarjakuvakurssi"
   },
   {
     "venue": "viirus",
@@ -358,6 +428,20 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-09-10T00:00:00+03:00",
     "end_time": "2026-09-10T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/10CD6CDEC7EBB3B892BA375E7FCAE883/sisus-sirkus-memoirs-of-mud"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Kuvituskurssi 1. ryhmä",
+    "start_time": "2026-09-10T17:15:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/kuvituskurssi-1-ryhma"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Kuvituskurssi 2. ryhmä",
+    "start_time": "2026-09-10T17:15:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/kuvituskurssi-ryhma2"
   },
   {
     "venue": "kansallisteatteri",
@@ -532,6 +616,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-09-12T00:00:00+03:00",
     "end_time": "2026-09-12T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/5774C7D60F0A09F92F0F969B6A130826/kerttu-opus-opus-company-suddenly-and-other-ways-to-change"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Olen X (verkkokurssitus 12.9.-12.12. 2026)",
+    "start_time": "2026-09-12T11:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/olen-x-verkkokurssitus-12-9-12-12-2026"
   },
   {
     "venue": "hkt",
@@ -777,6 +868,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/EA81E543E4BD95A56054B54AB781E43F/myrskyryhm-ellin-elokuvahetki"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Minä unohdin miten suuressa talossa asun",
+    "start_time": "2026-09-16T18:30:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/mina-unohdin-miten-suuressa-talossa-asun-1609"
+  },
+  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Tavallisuuden aave",
@@ -827,11 +925,25 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/4002238BD38C9508850C91B7CE296669/taidetta-taaperoille"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
+    "start_time": "2026-09-17T14:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-1709"
+  },
+  {
     "venue": "cirko",
     "venue_label": "Cirko",
     "title": "Company Portmanteau: PYYKKI - Lost in Laundryland",
     "start_time": "2026-09-17T18:00:00+03:00",
     "url": "https://cirko.fi/esitys/company-portmanteau-pyykki-lost-in-laundryland/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Minä unohdin miten suuressa talossa asun",
+    "start_time": "2026-09-17T18:30:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/mina-unohdin-miten-suuressa-talossa-asun-1709"
   },
   {
     "venue": "espoonteatteri",
@@ -898,11 +1010,32 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/CD1E8994BEBA8BCE424542BEE651819D/lasten-sarjisfestarit"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Esseetyöpajaryhmät",
+    "start_time": "2026-09-18T16:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/esseetyopajaryhmat"
+  },
+  {
     "venue": "cirko",
     "venue_label": "Cirko",
     "title": "Company Portmanteau: PYYKKI - Lost in Laundryland",
     "start_time": "2026-09-18T18:00:00+03:00",
     "url": "https://cirko.fi/esitys/company-portmanteau-pyykki-lost-in-laundryland/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Helsingin sarjakuvafestivaalien avajaiset",
+    "start_time": "2026-09-18T18:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/helsingin-sarjakuvafestivaalien-avajaiset"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Minä unohdin miten suuressa talossa asun",
+    "start_time": "2026-09-18T18:30:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/mina-unohdin-miten-suuressa-talossa-asun-1809"
   },
   {
     "venue": "kansallisteatteri",
@@ -1422,6 +1555,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F2111A44796F69960136ED41245BDF32/mets-ss-soi-teatteri-ilmi"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Kollaasin tekeminen",
+    "start_time": "2026-09-26T11:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/kollaasin-tekeminen"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kurtturuusut",
@@ -1455,6 +1595,13 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-09-26T13:00:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Kissani yhdeksän elämää",
+    "start_time": "2026-09-26T14:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/kissani-yhdeksan-elamaa"
   },
   {
     "venue": "takomo",
@@ -1680,6 +1827,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/211159120380EF5467A6F5B78C5D026D/sirkuskurssi-vauvaperheille"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Tieteen ja toivon klubi",
+    "start_time": "2026-09-30T18:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/tieteen-ja-toivon-klubi-300916"
+  },
+  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Medusan huone",
@@ -1743,6 +1897,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-10-01T00:00:00+03:00",
     "end_time": "2026-10-01T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F2CF3754E55F9CC3BADE758C3BEE7E30/taidetta-taaperoille"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
+    "start_time": "2026-10-01T14:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-0110"
   },
   {
     "venue": "kansallisteatteri",
@@ -2283,6 +2444,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Kriittisen Korkeakoulun syysiltamat",
+    "start_time": "2026-10-08T17:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/kriittisen-korkeakoulun-syysiltamat"
+  },
+  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Tavallisuuden aave",
@@ -2430,6 +2598,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-10-10T00:00:00+03:00",
     "end_time": "2026-10-10T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/AB8162EDA65DD5D93730C2F95FD05E36/hild-l-nsman-tuomas-norvio-aizhan-sultan-dj-bunuel"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Olen X (verkkokurssitus 12.9.-12.12. 2026)",
+    "start_time": "2026-10-10T11:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/olen-x-verkkokurssitus-12-9-12-12-2026-copy"
   },
   {
     "venue": "zodiak",
@@ -2719,6 +2894,13 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-10-14T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
+    "start_time": "2026-10-15T14:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-1510"
   },
   {
     "venue": "viirus",
@@ -3194,6 +3376,13 @@ window.SCRAPED_EVENTS = [
     "title": "Eliel Tammiharju:Lampi 2",
     "start_time": "2026-10-22T16:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/lampi-2"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Dialoginen vuorovaikutus ihmissuhteissa ja yhteisöissä",
+    "start_time": "2026-10-22T17:30:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/dialoginen-vuorovaikutus-ihmissuhteissa-ja-yhteisoissa"
   },
   {
     "venue": "hkt",
@@ -3844,6 +4033,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
+    "start_time": "2026-10-29T14:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-2910"
+  },
+  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Zodiak Laboratory:Lintu Lover & Edet Cane",
@@ -4042,6 +4238,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-10-31T00:00:00+02:00",
     "end_time": "2026-10-31T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/4315416BF35517CB764A83C690F786FD/old-forest-echoes-ikimets-n-kaiku-immersiivinen-luontokonsertti"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Asiantuntijan neuvottelutaidot",
+    "start_time": "2026-10-31T10:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/asiantuntijan-neuvottelutaidot"
   },
   {
     "venue": "zodiak",
@@ -4755,6 +4958,13 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-11-12T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
+    "start_time": "2026-11-12T14:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-1211"
   },
   {
     "venue": "viirus",
