@@ -124,41 +124,12 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Jussin metsäsadut",
-    "start_time": "2026-09-04T00:00:00+03:00",
-    "end_time": "2026-09-04T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/jussin-mets-sadut"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Daniel Palpa: Between Two Rivers",
     "start_time": "2026-09-04T00:00:00+03:00",
     "end_time": "2026-09-26T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/DDCBAA0CCEB34D1A6E10CE8DB52008AB/daniel-palpa-between-two-rivers"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Orvot",
-    "start_time": "2026-09-04T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/orvot"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-09-04T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-09-04T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "stoa",
