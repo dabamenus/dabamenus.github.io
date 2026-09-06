@@ -912,6 +912,13 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
+    "title": "Änglagård",
+    "start_time": "2026-09-17T19:00:00+03:00",
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/anglagard/"
+  },
+  {
+    "venue": "svenska",
+    "venue_label": "Svenska Teatern",
     "title": "Balladeja ja hävyttömyyksiä",
     "start_time": "2026-09-17T19:00:00+03:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/balladeja-ja-havyttomyyksia/"
@@ -2336,6 +2343,13 @@ window.SCRAPED_EVENTS = [
     "title": "Vierailu: Viimeinen kirje rintamalta",
     "start_time": "2026-10-07T19:00:00+03:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/viimeinen-kirje-rintamalta/"
+  },
+  {
+    "venue": "svenska",
+    "venue_label": "Svenska Teatern",
+    "title": "Wishamalii (FI/JO)",
+    "start_time": "2026-10-07T19:00:00+03:00",
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/wishamalii/"
   },
   {
     "venue": "svenska",
@@ -4113,6 +4127,13 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
+    "title": "Wishamalii (FI/JO)",
+    "start_time": "2026-10-30T19:00:00+02:00",
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/wishamalii/"
+  },
+  {
+    "venue": "svenska",
+    "venue_label": "Svenska Teatern",
     "title": "Mehrnoosh Zolfaghari: Awakening",
     "start_time": "2026-10-30T19:00:00+02:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/mehrnoosh-zolfaghari/"
@@ -4829,6 +4850,13 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-11-11T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
+  },
+  {
+    "venue": "svenska",
+    "venue_label": "Svenska Teatern",
+    "title": "Änglagård",
+    "start_time": "2026-11-11T19:00:00+02:00",
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/anglagard/"
   },
   {
     "venue": "stoa",
@@ -8586,6 +8614,13 @@ window.SCRAPED_EVENTS = [
     "title": "Laulujoutsen",
     "start_time": "2027-05-08T19:00:00+03:00",
     "url": "https://universum.fi/events/laulujoutsen-8-5/"
+  },
+  {
+    "venue": "svenska",
+    "venue_label": "Svenska Teatern",
+    "title": "Änglagård",
+    "start_time": "2027-05-13T19:00:00+03:00",
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/anglagard/"
   },
   {
     "venue": "svenska",
