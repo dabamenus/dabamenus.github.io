@@ -171,13 +171,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
-    "title": "CONCERT: SON JAROCHO MUSIC FROM TLACOTALPAN",
-    "start_time": "2026-09-06T16:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/concert-son-jarocho-music-from-tlacotalpan"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
     "title": "Cosplay-kurssi",
     "start_time": "2026-09-07T16:30:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/cosplay-kurssi"
@@ -915,13 +908,6 @@ window.SCRAPED_EVENTS = [
     "title": "De obehöriga",
     "start_time": "2026-09-17T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Änglagård",
-    "start_time": "2026-09-17T19:00:00+03:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/anglagard/"
   },
   {
     "venue": "svenska",
@@ -2350,13 +2336,6 @@ window.SCRAPED_EVENTS = [
     "title": "Vierailu: Viimeinen kirje rintamalta",
     "start_time": "2026-10-07T19:00:00+03:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/viimeinen-kirje-rintamalta/"
-  },
-  {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Wishamalii (FI/JO)",
-    "start_time": "2026-10-07T19:00:00+03:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/wishamalii/"
   },
   {
     "venue": "svenska",
@@ -4134,13 +4113,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
-    "title": "Wishamalii (FI/JO)",
-    "start_time": "2026-10-30T19:00:00+02:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/wishamalii/"
-  },
-  {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
     "title": "Mehrnoosh Zolfaghari: Awakening",
     "start_time": "2026-10-30T19:00:00+02:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/mehrnoosh-zolfaghari/"
@@ -4859,13 +4831,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Änglagård",
-    "start_time": "2026-11-11T19:00:00+02:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/anglagard/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "PodiKlubi",
@@ -5006,6 +4971,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kaksitoista lahjaa Joulupukille",
     "start_time": "2026-11-14T10:00:00+02:00",
     "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Olen X (verkkokurssitus 12.9.-12.12. 2026)",
+    "start_time": "2026-11-14T11:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/olen-x-verkkokurssitus-12-9-12-12-2026-copy3"
   },
   {
     "venue": "hkt",
@@ -8614,13 +8586,6 @@ window.SCRAPED_EVENTS = [
     "title": "Laulujoutsen",
     "start_time": "2027-05-08T19:00:00+03:00",
     "url": "https://universum.fi/events/laulujoutsen-8-5/"
-  },
-  {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Änglagård",
-    "start_time": "2027-05-13T19:00:00+03:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/anglagard/"
   },
   {
     "venue": "svenska",
