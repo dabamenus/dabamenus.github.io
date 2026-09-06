@@ -33,7 +33,7 @@ window.SCRAPED_EVENTS = [
     "title": "Mainiot materiaalit - installaatio (terraarion puoleisten rappusten vieressä)",
     "start_time": "2026-05-26T00:00:00+03:00",
     "end_time": "2026-09-06T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/B5CEECA15BBB114F544F7263E2517AE4/mainiot-materiaalit-installaatio-terraarion-puoleisten-rappusten-vieress"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/mainiot-materiaalit-installaatio-terraarion-puoleisten-rappusten-vieress"
   },
   {
     "venue": "zodiak",
@@ -152,7 +152,7 @@ window.SCRAPED_EVENTS = [
     "title": "RISA: Only Bones 2.0",
     "start_time": "2026-09-06T00:00:00+03:00",
     "end_time": "2026-09-06T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/7017506705E07ECEF281B0B2139F1F4F/risa-only-bones-2-0"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/risa-only-bones-2-0"
   },
   {
     "venue": "zodiak",
