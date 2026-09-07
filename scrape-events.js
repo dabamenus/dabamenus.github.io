@@ -28,14 +28,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/1984/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Mainiot materiaalit - installaatio (terraarion puoleisten rappusten vieressä)",
-    "start_time": "2026-05-26T00:00:00+03:00",
-    "end_time": "2026-09-06T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/mainiot-materiaalit-installaatio-terraarion-puoleisten-rappusten-vieress"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Kati Raatikainen,Milla Martikainen:Sotku ja rakkaus",
@@ -137,22 +129,6 @@ window.SCRAPED_EVENTS = [
     "title": "Nina Davies & 2girls1comp:The Inexorable Non-Player Character",
     "start_time": "2026-09-05T13:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/nina-davies-2girls1comp-inexorable-non-player-character"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Toisissa tiloissa -kollektiivi: Rauhanliikekannallepano",
-    "start_time": "2026-09-06T00:00:00+03:00",
-    "end_time": "2026-09-06T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/toisissa-tiloissa-kollektiivi-rauhanliikekannallepano"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "RISA: Only Bones 2.0",
-    "start_time": "2026-09-06T00:00:00+03:00",
-    "end_time": "2026-09-06T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/risa-only-bones-2-0"
   },
   {
     "venue": "zodiak",
@@ -6647,6 +6623,13 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-12-05T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Rakastavaisten kuoro",
+    "start_time": "2026-12-05T14:00:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
   },
   {
     "venue": "kiasma",
