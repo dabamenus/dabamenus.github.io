@@ -152,13 +152,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/12-filosofia-muinaisten-filosofien-suuria-oivalluksia"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Sarjakuvailmaisu",
-    "start_time": "2026-09-07T18:30:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvailmaisu"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Sirkuskurssi senioreille, Ryhmä 1",
@@ -6939,6 +6932,13 @@ window.SCRAPED_EVENTS = [
     "title": "no-no",
     "start_time": "2026-12-10T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/no-no-2/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
+    "start_time": "2026-12-10T14:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-1012"
   },
   {
     "venue": "zodiak",
