@@ -147,13 +147,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
-    "title": "Cosplay-kurssi",
-    "start_time": "2026-09-07T16:30:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/cosplay-kurssi"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
     "title": "12 filosofia – Muinaisten filosofien suuria oivalluksia",
     "start_time": "2026-09-07T18:15:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/12-filosofia-muinaisten-filosofien-suuria-oivalluksia"
@@ -5760,6 +5753,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
+    "start_time": "2026-11-26T14:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-2611"
+  },
+  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Marika Peura:Imperial Stage",
@@ -6981,6 +6981,14 @@ window.SCRAPED_EVENTS = [
     "title": "ALL WOMEN STORY SHARING CAFE",
     "start_time": "2026-12-10T19:00:00+02:00",
     "url": "https://universum.fi/events/all-women-story-sharing-cafe-10-12/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Common grounds – Jaettu maaperä",
+    "start_time": "2026-12-11T00:00:00+02:00",
+    "end_time": "2027-01-31T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/A65C82518EB8259E2B2B1B2578CE9010/common-grounds-jaettu-maaper"
   },
   {
     "venue": "stoa",
