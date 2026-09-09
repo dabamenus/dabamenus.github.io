@@ -189,13 +189,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/itsenaisen-tekemisen-kuvataideryhma"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Karhupuisto Film Festival – Lyhytelokuvanäytös: Arkkitehtuuri muovaa todellisuutta",
-    "start_time": "2026-09-09T17:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/karhupuisto-film-festival-lyhytelokuvanaytos-arkkitehtuuri-muovaa-todellisuutta"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Orvot",
@@ -222,13 +215,6 @@ window.SCRAPED_EVENTS = [
     "title": "Sandyrella",
     "start_time": "2026-09-09T19:00:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/sandyrella/"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Karhupuisto Film Festival – Lyhytelokuvanäytös: Kilvoittelua ja kapinaa",
-    "start_time": "2026-09-09T19:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/karhupuisto-film-festival-lyhytelokuvanaytos-kilvoittelua-ja-kapinaa"
   },
   {
     "venue": "cirko",
@@ -3921,11 +3907,25 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
+    "start_time": "2026-10-29T14:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-2910"
+  },
+  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Zodiak Laboratory:Lintu Lover & Edet Cane",
     "start_time": "2026-10-29T15:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/zodiak-laboratory-lintu-lover-edet-cane"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "d8zero presents: ZeroDating",
+    "start_time": "2026-10-29T18:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/d8zero-presents-zerodating-2910"
   },
   {
     "venue": "viirus",
