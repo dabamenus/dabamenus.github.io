@@ -152,49 +152,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/12-filosofia-muinaisten-filosofien-suuria-oivalluksia"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi senioreille, Ryhmä 1",
-    "start_time": "2026-09-08T00:00:00+03:00",
-    "end_time": "2026-09-08T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkuskurssi-senioreille-ryhm-1"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi senioreille, Ryhmä 2",
-    "start_time": "2026-09-08T00:00:00+03:00",
-    "end_time": "2026-09-08T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkuskurssi-senioreille-ryhm-2"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-09-08T00:00:00+03:00",
-    "end_time": "2026-09-08T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/taidetta-taaperoille"
-  },
-  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Planetaarisen yhteisvaurauden ja hyvinvoinnin uudet jakoperusteet",
     "start_time": "2026-09-08T18:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/planetaarisen-yhteisvaurauden-jakoperusteet"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Orvot",
-    "start_time": "2026-09-08T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/orvot"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-09-08T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "universum",
@@ -209,7 +171,7 @@ window.SCRAPED_EVENTS = [
     "title": "Sirkuskurssi taaperoperheille",
     "start_time": "2026-09-09T00:00:00+03:00",
     "end_time": "2026-09-09T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/970EE471475137777F762D09BE86E3B0/sirkuskurssi-taaperoperheille"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkuskurssi-taaperoperheille"
   },
   {
     "venue": "stoa",
@@ -217,7 +179,7 @@ window.SCRAPED_EVENTS = [
     "title": "Sirkuskurssi vauvaperheille",
     "start_time": "2026-09-09T00:00:00+03:00",
     "end_time": "2026-09-09T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/21D475F95056356D1083EA2D8086F02B/sirkuskurssi-vauvaperheille"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkuskurssi-vauvaperheille"
   },
   {
     "venue": "tekstintalo",
