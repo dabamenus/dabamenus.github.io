@@ -191,23 +191,9 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
-    "title": "Karhupuisto Film Festival – Leffavisa",
-    "start_time": "2026-09-09T17:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/karhupuisto-film-festival-leffavisa"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
     "title": "Karhupuisto Film Festival – Lyhytelokuvanäytös: Arkkitehtuuri muovaa todellisuutta",
     "start_time": "2026-09-09T17:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/karhupuisto-film-festival-lyhytelokuvanaytos-arkkitehtuuri-muovaa-todellisuutta"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Mangakurssi",
-    "start_time": "2026-09-09T17:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/mangakurssi"
   },
   {
     "venue": "kansallisteatteri",
@@ -229,13 +215,6 @@ window.SCRAPED_EVENTS = [
     "title": "De obehöriga",
     "start_time": "2026-09-09T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Nuorten sarjakuvakurssi",
-    "start_time": "2026-09-09T18:45:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/nuorten-sarjakuvakurssi"
   },
   {
     "venue": "viirus",
@@ -2798,6 +2777,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-1510"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "d8zero presents: ZeroDating",
+    "start_time": "2026-10-15T18:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/d8zero-presents-zerodating-1510"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
@@ -3271,6 +3257,20 @@ window.SCRAPED_EVENTS = [
     "title": "Eliel Tammiharju:Lampi 2",
     "start_time": "2026-10-22T16:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/lampi-2"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Dialoginen vuorovaikutus ihmissuhteissa ja yhteisöissä",
+    "start_time": "2026-10-22T17:30:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/dialoginen-vuorovaikutus-ihmissuhteissa-ja-yhteisoissa"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "d8zero presents: ZeroDating",
+    "start_time": "2026-10-22T18:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/d8zero-presents-zerodating-2210"
   },
   {
     "venue": "hkt",
