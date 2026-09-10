@@ -183,13 +183,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Karhupuisto Film Festival – Lyhytelokuvanäytös: Valheita ja varkauksia",
-    "start_time": "2026-09-10T19:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/karhupuisto-film-festival-lyhytelokuvanaytos-valheita-ja-varkauksia"
-  },
-  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Nattland",
@@ -4797,6 +4790,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Olen X (verkkokurssitus 12.9.-12.12. 2026)",
+    "start_time": "2026-11-14T11:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/olen-x-verkkokurssitus-12-9-12-12-2026-copy3"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kurtturuusut",
@@ -4858,6 +4858,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kallo Collective: The Story of Pluto, Who Wanted to Be a Planet",
     "start_time": "2026-11-14T15:00:00+02:00",
     "url": "https://cirko.fi/esitys/kallo-collective-the-story-of-pluto-who-wanted-to-be-a-planet/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Rakastavaisten kuoro",
+    "start_time": "2026-11-14T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
   },
   {
     "venue": "kansallisteatteri",
@@ -4953,6 +4960,13 @@ window.SCRAPED_EVENTS = [
     "url": ""
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Rakastavaisten kuoro",
+    "start_time": "2026-11-16T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lapin Faarao",
@@ -5008,6 +5022,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kaksitoista lahjaa Joulupukille",
     "start_time": "2026-11-18T10:00:00+02:00",
     "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Rakastavaisten kuoro",
+    "start_time": "2026-11-18T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
   },
   {
     "venue": "ryhmateatteri",
@@ -5245,6 +5266,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Rakastavaisten kuoro",
+    "start_time": "2026-11-21T14:00:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
@@ -5366,6 +5394,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Rakastavaisten kuoro",
+    "start_time": "2026-11-24T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Viides askel",
@@ -5443,6 +5478,13 @@ window.SCRAPED_EVENTS = [
     "title": "Keskiviikon kulissikierros",
     "start_time": "2026-11-25T16:30:00+02:00",
     "url": ""
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Rakastavaisten kuoro",
+    "start_time": "2026-11-25T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
   },
   {
     "venue": "ryhmateatteri",
@@ -5536,6 +5578,13 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-11-26T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Rakastavaisten kuoro",
+    "start_time": "2026-11-26T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
   },
   {
     "venue": "ryhmateatteri",
@@ -5744,6 +5793,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Rakastavaisten kuoro",
+    "start_time": "2026-11-28T14:00:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
@@ -5924,6 +5980,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Rakastavaisten kuoro",
+    "start_time": "2026-12-01T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Mirdja",
@@ -6022,6 +6085,13 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-12-02T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Rakastavaisten kuoro",
+    "start_time": "2026-12-02T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
   },
   {
     "venue": "kansallisteatteri",
@@ -6191,6 +6261,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Rakastavaisten kuoro",
+    "start_time": "2026-12-04T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Viides askel",
@@ -6319,6 +6396,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Rakastavaisten kuoro",
+    "start_time": "2026-12-05T14:00:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
+  },
+  {
     "venue": "kiasma",
     "venue_label": "Kiasma",
     "title": "Kauri Sorvari: Forevermore",
@@ -6425,6 +6509,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kaksitoista lahjaa Joulupukille",
     "start_time": "2026-12-08T10:00:00+02:00",
     "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Rakastavaisten kuoro",
+    "start_time": "2026-12-08T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
   },
   {
     "venue": "kansallisteatteri",
