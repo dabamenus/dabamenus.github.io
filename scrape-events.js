@@ -129,7 +129,7 @@ window.SCRAPED_EVENTS = [
     "title": "The Nordic Council: Häppy Hour",
     "start_time": "2026-09-10T00:00:00+03:00",
     "end_time": "2026-09-10T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/30B39F2FA211A5459EABBE29CE2DD2D4/the-nordic-council-h-ppy-hour"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/the-nordic-council-h-ppy-hour"
   },
   {
     "venue": "caisa",
@@ -146,20 +146,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-09-10T00:00:00+03:00",
     "end_time": "2026-09-10T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/10CD6CDEC7EBB3B892BA375E7FCAE883/sisus-sirkus-memoirs-of-mud"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Kuvituskurssi 1. ryhmä",
-    "start_time": "2026-09-10T17:15:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/kuvituskurssi-1-ryhma"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Kuvituskurssi 2. ryhmä",
-    "start_time": "2026-09-10T17:15:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/kuvituskurssi-ryhma2"
   },
   {
     "venue": "kansallisteatteri",
@@ -3993,6 +3979,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/4315416BF35517CB764A83C690F786FD/old-forest-echoes-ikimets-n-kaiku-immersiivinen-luontokonsertti"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Asiantuntijan neuvottelutaidot",
+    "start_time": "2026-10-31T10:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/asiantuntijan-neuvottelutaidot"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Viidakon villit naiset",
@@ -4683,6 +4676,13 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-11-12T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
+    "start_time": "2026-11-12T14:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-1211"
   },
   {
     "venue": "viirus",
