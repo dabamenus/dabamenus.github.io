@@ -1573,6 +1573,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/211159120380EF5467A6F5B78C5D026D/sirkuskurssi-vauvaperheille"
   },
   {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Paneelikeskustelu tanssitaiteen tulevaisuudesta",
+    "start_time": "2026-09-30T13:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/paneelikeskustelu-tanssitaiteen-tulevaisuudesta"
+  },
+  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Tieteen ja toivon klubi",
