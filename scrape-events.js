@@ -68,6 +68,27 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/DDCBAA0CCEB34D1A6E10CE8DB52008AB/daniel-palpa-between-two-rivers"
   },
   {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Nina Davies & 2girls1comp:The Inexorable Non-Player Character",
+    "start_time": "2026-09-05T13:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/nina-davies-2girls1comp-inexorable-non-player-character"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Nina Davies & 2girls1comp:The Inexorable Non-Player Character",
+    "start_time": "2026-09-06T10:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/nina-davies-2girls1comp-inexorable-non-player-character"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Nina Davies & 2girls1comp:The Inexorable Non-Player Character",
+    "start_time": "2026-09-06T12:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/nina-davies-2girls1comp-inexorable-non-player-character"
+  },
+  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "12 filosofia – Muinaisten filosofien suuria oivalluksia",
@@ -152,7 +173,7 @@ window.SCRAPED_EVENTS = [
     "title": "Sisus Sirkus: Memoirs of Mud",
     "start_time": "2026-09-11T00:00:00+03:00",
     "end_time": "2026-09-11T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F9C94026FF1B2DFF2E8F849674988478/sisus-sirkus-memoirs-of-mud"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sisus-sirkus-memoirs-of-mud"
   },
   {
     "venue": "kansallisteatteri",
