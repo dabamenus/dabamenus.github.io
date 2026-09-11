@@ -140,13 +140,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "cirko",
     "venue_label": "Cirko",
-    "title": "Recover Laboratory: Nonstop Paradise",
-    "start_time": "2026-09-10T20:30:00+03:00",
-    "url": "https://cirko.fi/esitys/recover-laboratory-nonstop-paradise-3/"
-  },
-  {
-    "venue": "cirko",
-    "venue_label": "Cirko",
     "title": "Helsinki Circus Festival",
     "start_time": "2026-09-11T00:00:00+03:00",
     "url": "https://cirko.fi/esitys/helsinki-circus-festival-2/"
@@ -223,13 +216,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kotijoukot",
     "start_time": "2026-09-11T19:00:00+03:00",
     "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "cirko",
-    "venue_label": "Cirko",
-    "title": "Recover Laboratory: Nonstop Paradise",
-    "start_time": "2026-09-11T20:30:00+03:00",
-    "url": "https://cirko.fi/esitys/recover-laboratory-nonstop-paradise-3/"
   },
   {
     "venue": "cirko",
@@ -897,25 +883,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/84B9FB7D5D46396AC959DD040F7F0933/tanssi-ja-leikki"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-09-21T18:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Orvot",
     "start_time": "2026-09-21T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/orvot"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-09-21T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "stoa",
@@ -950,32 +922,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/70EAC497BBE0954869907BD53E7BE895/taidetta-taaperoille"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-09-22T18:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Viidakon villit naiset",
     "start_time": "2026-09-22T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-09-22T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-09-22T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "takomo",
@@ -1025,20 +976,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/5A13E3F4792FF95ECD8ECC8655F5B254/mets-ss-soi-teatteri-ilmi"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Keskiviikon kulissikierros",
-    "start_time": "2026-09-23T16:30:00+03:00",
-    "url": ""
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-09-23T18:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Medusan huone",
@@ -1051,20 +988,6 @@ window.SCRAPED_EVENTS = [
     "title": "Toinen tasavalta",
     "start_time": "2026-09-23T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-09-23T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kiviä taskussa",
-    "start_time": "2026-09-23T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
     "venue": "stoa",
@@ -1126,20 +1049,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/sivuraide"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-09-24T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-09-24T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Metsässä soi: Teatteri ILMI Ö",
@@ -1174,20 +1083,6 @@ window.SCRAPED_EVENTS = [
     "title": "Orvot",
     "start_time": "2026-09-25T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/orvot"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-09-25T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-09-25T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "takomo",
@@ -1228,13 +1123,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/kollaasin-tekeminen"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-09-26T12:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lady T",
@@ -1247,20 +1135,6 @@ window.SCRAPED_EVENTS = [
     "title": "Hajuvesi",
     "start_time": "2026-09-26T13:00:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/hajuvesi"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-09-26T13:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-09-26T13:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "tekstintalo",
@@ -1291,13 +1165,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-09-26T17:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Orvot",
@@ -1317,41 +1184,6 @@ window.SCRAPED_EVENTS = [
     "title": "Viidakon villit naiset",
     "start_time": "2026-09-26T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-09-26T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-09-26T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-09-26T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-09-26T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Club act!one",
-    "start_time": "2026-09-26T21:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
     "venue": "kiasma",
@@ -1397,13 +1229,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-09-28T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Sirkuskurssi senioreille, Ryhmä 1",
@@ -1435,13 +1260,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://kiasma.fi/esitykset/saana-pohjonen-henia-nikkila-jumalarakkaus/"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-09-29T18:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Tavallisuuden aave",
@@ -1461,20 +1279,6 @@ window.SCRAPED_EVENTS = [
     "title": "Orvot",
     "start_time": "2026-09-29T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/orvot"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-09-29T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-09-29T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "stoa",
@@ -1514,41 +1318,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-09-30T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-09-30T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-09-30T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-09-30T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Club act!one",
-    "start_time": "2026-09-30T19:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/club-actone/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Ismo Dance Company: 5 koreografiaa rakkaudesta | Ensi-ilta",
@@ -1586,13 +1355,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/kirjajulkkarit-heikki-romppainen-joutoseutu"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-10-01T18:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Järjen hedelmät",
@@ -1614,20 +1376,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-10-01T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kiviä taskussa",
-    "start_time": "2026-10-01T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Ismo Dance Company: 5 koreografiaa rakkaudesta",
@@ -1642,13 +1390,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-10-02T00:00:00+03:00",
     "end_time": "2026-10-24T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/2419EF4BAE3AA1102F82CFBA79F490A0/mirjam-yeboah-emellan"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-10-02T18:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "espoonteatteri",
@@ -1686,40 +1427,12 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/orvot"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-10-02T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-10-02T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-10-02T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Ismo Dance Company - 5 koreografiaa rakkaudesta",
     "start_time": "2026-10-03T00:00:00+03:00",
     "end_time": "2026-10-03T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/32E83BF34945F7A5689F9F4D2D1F2D0E/ismo-dance-company-5-koreografiaa-rakkaudesta"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-10-03T12:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "kansallisteatteri",
@@ -1743,20 +1456,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/orvot"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-10-03T13:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-10-03T13:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
@@ -1778,13 +1477,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://espoonteatteri.fi/ohjelmisto/tavallisuuden-aave/"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-10-03T17:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Toinen tasavalta",
@@ -1797,41 +1489,6 @@ window.SCRAPED_EVENTS = [
     "title": "Lady T",
     "start_time": "2026-10-03T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-10-03T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-10-03T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-10-03T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-10-03T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Club act!one",
-    "start_time": "2026-10-03T21:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
     "venue": "stoa",
@@ -1872,13 +1529,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-10-05T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Ohjatut päivätanssit Stoan aulassa",
@@ -1911,27 +1561,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/9AC62EA1D4714817E6F1E225EEA2F391/taidetta-taaperoille"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Seniorisoppa",
-    "start_time": "2026-10-06T11:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/seniorisoppa-2/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Esteetön kulissikierros",
-    "start_time": "2026-10-06T16:30:00+03:00",
-    "url": ""
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-10-06T18:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Tavallisuuden aave",
@@ -1960,27 +1589,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/orvot"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-10-06T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-10-06T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-10-06T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Sirkuskurssi taaperoperheille",
@@ -2005,32 +1613,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/862D7D91FAF9270E0DE4E4C1B8D1A9B8/taidetauko-ty-pajat"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Seniorisoppa",
-    "start_time": "2026-10-07T11:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/seniorisoppa-2/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Toinen tasavalta",
     "start_time": "2026-10-07T12:00:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-10-07T13:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-10-07T18:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "espoonteatteri",
@@ -2052,27 +1639,6 @@ window.SCRAPED_EVENTS = [
     "title": "Eino Leinon Eksät – enemmän ja vähemmän muusina",
     "start_time": "2026-10-07T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/eino-leinon-eksat-enemman-ja-vahemman-muusina"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-10-07T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-10-07T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-10-07T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "svenska",
@@ -2138,40 +1704,12 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-10-08T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-10-08T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-10-08T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Helsinki Experimental Series",
     "start_time": "2026-10-09T00:00:00+03:00",
     "end_time": "2026-10-09T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/4C3CFF87DF61C31077332CD73C58A526/helsinki-experimental-series"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-10-09T18:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "espoonteatteri",
@@ -2209,27 +1747,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/orvot"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-10-09T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-10-09T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-10-09T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "madhouse",
     "venue_label": "Mad House",
     "title": "Emil Santtu Uuttu Et al –  Valokuvista",
@@ -2242,13 +1759,6 @@ window.SCRAPED_EVENTS = [
     "title": "Legend of Harri Kala",
     "start_time": "2026-10-09T19:00:00+03:00",
     "url": "https://espoonteatteri.fi/ohjelmisto/legend-of-harri-kala/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-10-09T19:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "stoa",
@@ -2264,13 +1774,6 @@ window.SCRAPED_EVENTS = [
     "title": "Olen X (verkkokurssitus 12.9.-12.12. 2026)",
     "start_time": "2026-10-10T11:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/olen-x-verkkokurssitus-12-9-12-12-2026-copy"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-10-10T12:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2292,34 +1795,6 @@ window.SCRAPED_EVENTS = [
     "title": "Viidakon villit naiset",
     "start_time": "2026-10-10T13:00:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-10-10T13:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-10-10T13:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-10-10T13:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-10-10T13:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "espoonteatteri",
@@ -2378,20 +1853,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-10-10T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-10-10T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "madhouse",
     "venue_label": "Mad House",
     "title": "Emil Santtu Uuttu Et al –  Valokuvista",
@@ -2404,13 +1865,6 @@ window.SCRAPED_EVENTS = [
     "title": "Vierailu: Viimeinen kirje rintamalta",
     "start_time": "2026-10-10T19:00:00+03:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/viimeinen-kirje-rintamalta/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Club act!one",
-    "start_time": "2026-10-10T19:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
     "venue": "espoonteatteri",
@@ -2434,53 +1888,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/eino-leinon-eksat-enemman-ja-vahemman-muusina"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kiviä taskussa",
-    "start_time": "2026-10-12T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-10-13T18:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
     "start_time": "2026-10-13T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-10-13T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-10-13T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-10-13T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kiviä taskussa",
-    "start_time": "2026-10-13T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
     "venue": "stoa",
@@ -2497,13 +1909,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-10-14T00:00:00+03:00",
     "end_time": "2026-10-18T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/238F475B3752DFAECA30F60A6B8E3630/cinemaiss-latin-american-film-festival"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-10-14T18:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2525,27 +1930,6 @@ window.SCRAPED_EVENTS = [
     "title": "Laulustudio Kaj Chydenius",
     "start_time": "2026-10-14T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/laulustudio-kaj-chydenius"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-10-14T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-10-14T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-10-14T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "tekstintalo",
@@ -2590,47 +1974,12 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/orvot"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-10-15T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-10-15T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-10-15T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Club act!one",
-    "start_time": "2026-10-15T19:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/club-actone/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Itäkuskus stand-up -klubi",
     "start_time": "2026-10-16T00:00:00+03:00",
     "end_time": "2026-10-16T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/39EADBC88FD4016B83D2AD2201C75A1C/it-kuskus-stand-up-klubi"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-10-16T18:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "viirus",
@@ -2652,34 +2001,6 @@ window.SCRAPED_EVENTS = [
     "title": "Toinen tasavalta",
     "start_time": "2026-10-16T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-10-16T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-10-16T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-10-16T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-10-16T19:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "stoa",
@@ -2712,41 +2033,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/sivuraide"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-10-17T13:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-10-17T13:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-10-17T13:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-10-17T13:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-10-17T17:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Orvot",
@@ -2766,41 +2052,6 @@ window.SCRAPED_EVENTS = [
     "title": "Lady T",
     "start_time": "2026-10-17T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-10-17T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-10-17T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-10-17T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "André Wickström 30 vuotta lavalla &#8211; eikä loppua näy!",
-    "start_time": "2026-10-17T19:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/andre-wickstrom-30-vuotta-lavalla-eika-loppua-nay/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "André Wickström – 30 år på scen och inget slut i sikte!",
-    "start_time": "2026-10-17T19:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/andre-wickstrom-30-ar-pa-scen-och-inget-slut-i-sikte/"
   },
   {
     "venue": "takomo",
@@ -2837,13 +2088,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-10-19T00:00:00+03:00",
     "end_time": "2026-10-19T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/A40F295BB3390197937ABCE84EC4CA0B/tanssi-ja-leikki"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kahvilla kirjailijan kanssa",
-    "start_time": "2026-10-19T16:30:00+03:00",
-    "url": ""
   },
   {
     "venue": "kansallisteatteri",
@@ -2891,27 +2135,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-10-20T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-10-20T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-10-20T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Legend of Harri Kala",
@@ -2950,13 +2173,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/0F257B1DA36DE4C4D34DFFA60E259140/transpoli-on-temppurata-ensi-ilta"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-10-21T13:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
@@ -2969,20 +2185,6 @@ window.SCRAPED_EVENTS = [
     "title": "Toinen tasavalta",
     "start_time": "2026-10-21T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-10-21T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-10-21T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "viirus",
@@ -3044,13 +2246,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/d8zero-presents-zerodating-2210"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-10-22T18:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
@@ -3084,27 +2279,6 @@ window.SCRAPED_EVENTS = [
     "title": "Orvot",
     "start_time": "2026-10-22T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/orvot"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-10-22T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-10-22T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-10-22T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "espoonteatteri",
@@ -3179,34 +2353,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/sivuraide"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-10-23T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-10-23T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-10-23T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kiviä taskussa",
-    "start_time": "2026-10-23T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
-  },
-  {
     "venue": "madhouse",
     "venue_label": "Mad House",
     "title": "Luonnos-ilta",
@@ -3219,13 +2365,6 @@ window.SCRAPED_EVENTS = [
     "title": "ANDETAG",
     "start_time": "2026-10-23T19:00:00+03:00",
     "url": "https://universum.fi/events/andetag-23-10/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Club act!one",
-    "start_time": "2026-10-23T19:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
     "venue": "stoa",
@@ -3244,13 +2383,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/FE6441CE7CBDF12CB0DADB108203F360/transpoli-on-temppurata"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-10-24T12:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Toinen tasavalta",
@@ -3263,20 +2395,6 @@ window.SCRAPED_EVENTS = [
     "title": "jos meiltä kysytään",
     "start_time": "2026-10-24T13:00:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/jos-meilta-kysytaan"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-10-24T13:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-10-24T13:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "ryhmateatteri",
@@ -3298,13 +2416,6 @@ window.SCRAPED_EVENTS = [
     "title": "Eräteatteri",
     "start_time": "2026-10-24T16:00:00+03:00",
     "url": "https://espoonteatteri.fi/ohjelmisto/erateatteri/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-10-24T17:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "viirus",
@@ -3333,41 +2444,6 @@ window.SCRAPED_EVENTS = [
     "title": "Orvot",
     "start_time": "2026-10-24T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/orvot"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-10-24T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-10-24T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-10-24T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kiviä taskussa",
-    "start_time": "2026-10-24T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Club act!one",
-    "start_time": "2026-10-24T21:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
     "venue": "stoa",
@@ -3429,13 +2505,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/orvot"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-10-26T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "ANDETAG",
@@ -3475,13 +2544,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F10C164FEB66042645F625F2B103D901/taidetta-taaperoille"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-10-27T18:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
@@ -3508,34 +2570,6 @@ window.SCRAPED_EVENTS = [
     "title": "Orvot",
     "start_time": "2026-10-27T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/orvot"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "När Baba faller i poolen är kl. 23.47",
-    "start_time": "2026-10-27T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-10-27T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-10-27T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kiviä taskussa",
-    "start_time": "2026-10-27T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
     "venue": "stoa",
@@ -3567,13 +2601,6 @@ window.SCRAPED_EVENTS = [
     "title": "Entanglement: I am a tree, I am a mouth",
     "start_time": "2026-10-28T18:00:00+02:00",
     "url": "https://kiasma.fi/esitykset/entanglement-i-am-a-tree-i-am-a-mouth/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-10-28T18:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "viirus",
@@ -3611,27 +2638,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/orvot"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "När Baba faller i poolen är kl. 23.47",
-    "start_time": "2026-10-28T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-10-28T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-10-28T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Opi suomea laulaen",
@@ -3662,13 +2668,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-10-29T00:00:00+02:00",
     "end_time": "2026-10-29T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/C42283115B058EC6D81D1E2087490DFC/taidetta-taaperoille"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-10-29T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "tekstintalo",
@@ -3706,34 +2705,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/sivuraide"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "När Baba faller i poolen är kl. 23.47",
-    "start_time": "2026-10-29T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-10-29T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-10-29T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-10-29T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Kirsi M. Paltto & Jouni S. Laiti: Litnát, lahka – Lempeästi, lujasti",
@@ -3755,13 +2726,6 @@ window.SCRAPED_EVENTS = [
     "title": "Entanglement: I am a tree, I am a mouth",
     "start_time": "2026-10-30T18:00:00+02:00",
     "url": "https://kiasma.fi/esitykset/entanglement-i-am-a-tree-i-am-a-mouth/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-10-30T18:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
     "venue": "viirus",
@@ -3790,20 +2754,6 @@ window.SCRAPED_EVENTS = [
     "title": "Toinen tasavalta",
     "start_time": "2026-10-30T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-10-30T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-10-30T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "madhouse",
@@ -3839,13 +2789,6 @@ window.SCRAPED_EVENTS = [
     "title": "Mehrnoosh Zolfaghari: Awakening",
     "start_time": "2026-10-30T19:00:00+02:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/mehrnoosh-zolfaghari/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-10-30T19:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "stoa",
@@ -3918,13 +2861,6 @@ window.SCRAPED_EVENTS = [
     "title": "ANDETAG",
     "start_time": "2026-10-31T19:00:00+02:00",
     "url": "https://universum.fi/events/andetag-31-10/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Monsterit Stand Up Show",
-    "start_time": "2026-10-31T19:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/monsterit-stand-up-show/"
   },
   {
     "venue": "caisa",
@@ -4019,13 +2955,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0F706758633CD3E700335A7FBA6A3E15/taidetauko-ty-pajat"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Keskiviikon kulissikierros",
-    "start_time": "2026-11-04T16:30:00+02:00",
-    "url": ""
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
@@ -4054,20 +2983,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/lopetus"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "När Baba faller i poolen är kl. 23.47",
-    "start_time": "2026-11-04T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kiviä taskussa",
-    "start_time": "2026-11-04T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Liikkeellä marraskuussa",
@@ -4092,20 +3007,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/3CA3ED4570FD1DA58ED1D6DE6AC2DAFF/taidetta-taaperoille"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kaksitoista lahjaa Joulupukille",
-    "start_time": "2026-11-05T10:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-11-05T18:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
@@ -4125,34 +3026,6 @@ window.SCRAPED_EVENTS = [
     "title": "Äitisi, Klytaimestra",
     "start_time": "2026-11-05T18:30:00+02:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "När Baba faller i poolen är kl. 23.47",
-    "start_time": "2026-11-05T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-11-05T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-11-05T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kiviä taskussa",
-    "start_time": "2026-11-05T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
     "venue": "viirus",
@@ -4190,27 +3063,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-11-06T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-11-06T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-11-06T19:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Qoomikot kollektiivi: Kväärinpäin",
@@ -4240,27 +3092,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/lopetus"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-11-07T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-11-07T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-11-07T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
@@ -4282,46 +3113,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://espoonteatteri.fi/ohjelmisto/mi-madre-y-el-dinero/"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-11-07T17:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lady T",
     "start_time": "2026-11-07T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-11-07T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-11-07T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-11-07T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-11-07T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "kansallisteatteri",
@@ -4338,13 +3134,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/andetag-7-11/"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Club act!one",
-    "start_time": "2026-11-07T21:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/club-actone/"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Tanssi ja leikki",
@@ -4358,20 +3147,6 @@ window.SCRAPED_EVENTS = [
     "title": "Writing of Disaster",
     "start_time": "2026-11-09T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-11-09T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kiviä taskussa",
-    "start_time": "2026-11-09T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
     "venue": "universum",
@@ -4405,20 +3180,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/201F9A5748DCCBC4FE921A64D086185E/taidetta-taaperoille"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kaksitoista lahjaa Joulupukille",
-    "start_time": "2026-11-10T10:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kahvilla kirjailijan kanssa",
-    "start_time": "2026-11-10T16:30:00+02:00",
-    "url": ""
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
@@ -4440,27 +3201,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/viides-askel"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-11-10T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-11-10T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kiviä taskussa",
-    "start_time": "2026-11-10T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Sirkuskurssi taaperoperheille",
@@ -4475,13 +3215,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-11-11T00:00:00+02:00",
     "end_time": "2026-11-11T23:59:00+02:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/93C4974C33791DC9E5DAF450FB804F08/sirkuskurssi-vauvaperheille"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kaksitoista lahjaa Joulupukille",
-    "start_time": "2026-11-11T10:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
   },
   {
     "venue": "viirus",
@@ -4512,27 +3245,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-11-11T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-11-11T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-11-11T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Änglagård",
@@ -4554,13 +3266,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-11-12T00:00:00+02:00",
     "end_time": "2026-11-12T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/BED9FD4174667A0BC9E5333350E1793A/taidetta-taaperoille"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-11-12T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "tekstintalo",
@@ -4589,27 +3294,6 @@ window.SCRAPED_EVENTS = [
     "title": "Viides askel",
     "start_time": "2026-11-12T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/viides-askel"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "När Baba faller i poolen är kl. 23.47",
-    "start_time": "2026-11-12T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-11-12T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-11-12T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "viirus",
@@ -4647,53 +3331,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "När Baba faller i poolen är kl. 23.47",
-    "start_time": "2026-11-13T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-11-13T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-11-13T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Iikka Kivi &#8211; Protestinauru Stand Up Show",
-    "start_time": "2026-11-13T19:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/iikka-kivi-protestinauru-stand-up-show/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kaksitoista lahjaa Joulupukille",
-    "start_time": "2026-11-14T10:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
-  },
-  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Olen X (verkkokurssitus 12.9.-12.12. 2026)",
     "start_time": "2026-11-14T11:00:00+02:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/olen-x-verkkokurssitus-12-9-12-12-2026-copy3"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-11-14T12:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "cirko",
@@ -4722,20 +3364,6 @@ window.SCRAPED_EVENTS = [
     "title": "Taru hohtavasta helmestä",
     "start_time": "2026-11-14T13:00:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "När Baba faller i poolen är kl. 23.47",
-    "start_time": "2026-11-14T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-11-14T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "ryhmateatteri",
@@ -4773,27 +3401,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-11-14T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-11-14T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-11-14T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Nattland",
@@ -4806,20 +3413,6 @@ window.SCRAPED_EVENTS = [
     "title": "Balladeja ja hävyttömyyksiä",
     "start_time": "2026-11-14T19:00:00+02:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/balladeja-ja-havyttomyyksia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Alfred Backa – Svenskfinlands sista satiriker",
-    "start_time": "2026-11-14T19:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/alfred-backa-svenskfinlands-sista-satiriker/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Club act!one",
-    "start_time": "2026-11-14T19:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
     "venue": "universum",
@@ -4866,13 +3459,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/lapin-faarao"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-11-16T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "ANDETAG",
@@ -4888,13 +3474,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/9CDF298DACB75FADA9E241DEF33574C4/taidetta-taaperoille"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kaksitoista lahjaa Joulupukille",
-    "start_time": "2026-11-17T10:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
@@ -4907,13 +3486,6 @@ window.SCRAPED_EVENTS = [
     "title": "Taru hohtavasta helmestä",
     "start_time": "2026-11-17T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kaksitoista lahjaa Joulupukille",
-    "start_time": "2026-11-18T10:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
   },
   {
     "venue": "espoonteatteri",
@@ -4951,13 +3523,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/lopetus"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-11-18T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "1984",
@@ -4981,13 +3546,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/7C6422CD64C4225B14A6239A3AA6C2A7/taidetta-taaperoille"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-11-19T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
@@ -5002,39 +3560,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "När Baba faller i poolen är kl. 23.47",
-    "start_time": "2026-11-19T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-11-19T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-11-19T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Onko täällä kuuma?",
     "start_time": "2026-11-19T19:00:00+02:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/onko-taalla-kuuma/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "no-no",
-    "start_time": "2026-11-19T19:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/no-no-2/"
   },
   {
     "venue": "caisa",
@@ -5080,20 +3610,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/viides-askel"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-11-20T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-11-20T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Blaue Frau palkkaa",
@@ -5108,26 +3624,12 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/andetag-20-11/"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-11-20T19:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Pienten ja suurten eliökuntalaisten klubi",
     "start_time": "2026-11-21T00:00:00+02:00",
     "end_time": "2026-11-21T23:59:00+02:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/D8876F30977ABA691E27E00AF5309F98/pienten-ja-suurten-eli-kuntalaisten-klubi"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-11-21T12:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "kansallisteatteri",
@@ -5142,20 +3644,6 @@ window.SCRAPED_EVENTS = [
     "title": "Viides askel",
     "start_time": "2026-11-21T13:00:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/viides-askel"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-11-21T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-11-21T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "espoonteatteri",
@@ -5184,41 +3672,6 @@ window.SCRAPED_EVENTS = [
     "title": "Lady T",
     "start_time": "2026-11-21T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-11-21T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-11-21T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-11-21T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Iikka Kivi &#8211; Protestinauru Stand Up Show",
-    "start_time": "2026-11-21T19:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/iikka-kivi-protestinauru-stand-up-show/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Club act!one",
-    "start_time": "2026-11-21T21:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
     "venue": "universum",
@@ -5250,13 +3703,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-11-23T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "ANDETAG",
@@ -5270,13 +3716,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-11-24T00:00:00+02:00",
     "end_time": "2026-11-24T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/678F7E66FADFB972D528C39E75AB9E61/taidetta-taaperoille"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kaksitoista lahjaa Joulupukille",
-    "start_time": "2026-11-24T10:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
   },
   {
     "venue": "viirus",
@@ -5314,27 +3753,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/starman"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "När Baba faller i poolen är kl. 23.47",
-    "start_time": "2026-11-24T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-11-24T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-11-24T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Skidikino: Antonia Ringbom – Keltaisen kirahvin eläintarinoita 1",
@@ -5349,27 +3767,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-11-25T00:00:00+02:00",
     "end_time": "2026-11-25T23:59:00+02:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/7DB310224CBF71C0BD6224BFB9922767/yl-koulukino-orava"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "När Baba faller i poolen är kl. 23.47",
-    "start_time": "2026-11-25T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-11-25T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Keskiviikon kulissikierros",
-    "start_time": "2026-11-25T16:30:00+02:00",
-    "url": ""
   },
   {
     "venue": "espoonteatteri",
@@ -5400,39 +3797,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/laulustudio-kaj-chydenius"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-11-25T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-11-25T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "The Escape Room",
     "start_time": "2026-11-25T19:00:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/the-escape-room/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "André Wickström 30 vuotta lavalla &#8211; eikä loppua näy!",
-    "start_time": "2026-11-25T19:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/andre-wickstrom-30-vuotta-lavalla-eika-loppua-nay/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "André Wickström – 30 år på scen och inget slut i sikte!",
-    "start_time": "2026-11-25T19:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/andre-wickstrom-30-ar-pa-scen-och-inget-slut-i-sikte/"
   },
   {
     "venue": "stoa",
@@ -5449,20 +3818,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-11-26T00:00:00+02:00",
     "end_time": "2026-11-26T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/849F94F1A85FD3414164107AE38AC9E3/taidetta-taaperoille"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kaksitoista lahjaa Joulupukille",
-    "start_time": "2026-11-26T10:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-11-26T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "viirus",
@@ -5491,27 +3846,6 @@ window.SCRAPED_EVENTS = [
     "title": "Haapajärven Elvis",
     "start_time": "2026-11-26T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/haapajarven-elvis"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-11-26T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-11-26T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-11-26T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "viirus",
@@ -5585,20 +3919,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/viides-askel"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "När Baba faller i poolen är kl. 23.47",
-    "start_time": "2026-11-27T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-11-27T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "The Escape Room",
@@ -5611,20 +3931,6 @@ window.SCRAPED_EVENTS = [
     "title": "ANDETAG",
     "start_time": "2026-11-27T19:00:00+02:00",
     "url": "https://universum.fi/events/andetag-27-11/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-11-27T19:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "no-no",
-    "start_time": "2026-11-27T19:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/no-no-2/"
   },
   {
     "venue": "stoa",
@@ -5664,27 +3970,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "no-no",
-    "start_time": "2026-11-28T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/no-no-2/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-11-28T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-11-28T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Rakastavaisten kuoro",
@@ -5720,46 +4005,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-11-28T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-11-28T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-11-28T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-11-28T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "The Escape Room",
     "start_time": "2026-11-28T19:00:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/the-escape-room/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Club act!one",
-    "start_time": "2026-11-28T21:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
     "venue": "stoa",
@@ -5799,20 +4049,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-11-30T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "no-no",
-    "start_time": "2026-11-30T19:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/no-no-2/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Ohjatut päivätanssit Stoan aulassa",
@@ -5835,27 +4071,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-12-01T00:00:00+02:00",
     "end_time": "2026-12-01T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/2817B28E0FBBF028E2516F628F052A6B/taidetta-taaperoille"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kaksitoista lahjaa Joulupukille",
-    "start_time": "2026-12-01T10:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Seniorisoppa joulukonsertti",
-    "start_time": "2026-12-01T11:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/seniorisoppa-joulukonsertti/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Seniorisoppa joulukonsertti",
-    "start_time": "2026-12-01T14:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/seniorisoppa-joulukonsertti/"
   },
   {
     "venue": "kiasma",
@@ -5893,34 +4108,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/starman"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Liisa pelimaassa",
-    "start_time": "2026-12-01T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/liisa-pelimaassa/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "När Baba faller i poolen är kl. 23.47",
-    "start_time": "2026-12-01T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-12-01T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-12-01T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Topelius och teatern",
@@ -5944,25 +4131,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/41E4F53E864DB287848D8BB492E873F7/taidetauko-ty-pajat"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kaksitoista lahjaa Joulupukille",
-    "start_time": "2026-12-02T10:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Toinen tasavalta",
     "start_time": "2026-12-02T12:00:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Esteetön kulissikierros",
-    "start_time": "2026-12-02T16:30:00+02:00",
-    "url": ""
   },
   {
     "venue": "kiasma",
@@ -5991,34 +4164,6 @@ window.SCRAPED_EVENTS = [
     "title": "Viides askel",
     "start_time": "2026-12-02T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/viides-askel"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Liisa pelimaassa",
-    "start_time": "2026-12-02T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/liisa-pelimaassa/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "När Baba faller i poolen är kl. 23.47",
-    "start_time": "2026-12-02T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-12-02T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-12-02T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "universum",
@@ -6052,20 +4197,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/8EC343EB8E69786A30AE4A7043E05092/taidetta-taaperoille"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kaksitoista lahjaa Joulupukille",
-    "start_time": "2026-12-03T10:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "no-no",
-    "start_time": "2026-12-03T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/no-no-2/"
-  },
-  {
     "venue": "kiasma",
     "venue_label": "Kiasma",
     "title": "Kauri Sorvari: Forevermore",
@@ -6085,27 +4216,6 @@ window.SCRAPED_EVENTS = [
     "title": "Taru hohtavasta helmestä",
     "start_time": "2026-12-03T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-12-03T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-12-03T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-12-03T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "stoa",
@@ -6167,39 +4277,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Liisa pelimaassa",
-    "start_time": "2026-12-04T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/liisa-pelimaassa/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-12-04T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Balladeja ja hävyttömyyksiä",
     "start_time": "2026-12-04T19:00:00+02:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/balladeja-ja-havyttomyyksia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-12-04T19:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "no-no",
-    "start_time": "2026-12-04T19:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/no-no-2/"
   },
   {
     "venue": "stoa",
@@ -6216,13 +4298,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-12-05T00:00:00+02:00",
     "end_time": "2026-12-05T23:59:00+02:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/1FB4A0F24E2B543A7E832C7C7FD1FD81/tanssiteatteri-tsuumi-kulttuurikomppania-eloa-arvo"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Liisa pelimaassa",
-    "start_time": "2026-12-05T12:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/liisa-pelimaassa/"
   },
   {
     "venue": "kansallisteatteri",
@@ -6244,34 +4319,6 @@ window.SCRAPED_EVENTS = [
     "title": "Viides askel",
     "start_time": "2026-12-05T13:00:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/viides-askel"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "När Baba faller i poolen är kl. 23.47",
-    "start_time": "2026-12-05T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "no-no",
-    "start_time": "2026-12-05T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/no-no-2/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-12-05T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-12-05T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "espoonteatteri",
@@ -6302,34 +4349,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-12-05T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-12-05T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-12-05T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Club act!one",
-    "start_time": "2026-12-05T19:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/club-actone/"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Tanssi ja leikki",
@@ -6345,25 +4364,11 @@ window.SCRAPED_EVENTS = [
     "url": ""
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-12-07T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Kettutytön paluu",
     "start_time": "2026-12-07T19:00:00+02:00",
     "url": "https://universum.fi/events/kettutyton-paluu-7-12/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "no-no",
-    "start_time": "2026-12-07T19:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/no-no-2/"
   },
   {
     "venue": "stoa",
@@ -6380,13 +4385,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-12-08T00:00:00+02:00",
     "end_time": "2026-12-08T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/0F0674610BC895B6B288CBABA6627C47/taidetta-taaperoille"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kaksitoista lahjaa Joulupukille",
-    "start_time": "2026-12-08T10:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
   },
   {
     "venue": "espoonteatteri",
@@ -6417,54 +4415,12 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Liisa pelimaassa",
-    "start_time": "2026-12-08T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/liisa-pelimaassa/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "När Baba faller i poolen är kl. 23.47",
-    "start_time": "2026-12-08T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-12-08T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-12-08T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Ballet Finland: KEHÄ",
     "start_time": "2026-12-09T00:00:00+02:00",
     "end_time": "2026-12-09T23:59:00+02:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/46257DE003E25E252501D49FFFA717CD/ballet-finland-keh"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kaksitoista lahjaa Joulupukille",
-    "start_time": "2026-12-09T10:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-12-09T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "espoonteatteri",
@@ -6493,34 +4449,6 @@ window.SCRAPED_EVENTS = [
     "title": "Viidakon villit naiset",
     "start_time": "2026-12-09T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Liisa pelimaassa",
-    "start_time": "2026-12-09T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/liisa-pelimaassa/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "När Baba faller i poolen är kl. 23.47",
-    "start_time": "2026-12-09T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-12-09T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-12-09T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "universum",
@@ -6562,13 +4490,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/FBBC6804A0D3FE560FC2AE26EB4C27F8/amanda-lydia-traces-of-your-skin-ensi-ilta"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kaksitoista lahjaa Joulupukille",
-    "start_time": "2026-12-10T10:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Taru hohtavasta helmestä",
@@ -6576,46 +4497,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Liisa pelimaassa",
-    "start_time": "2026-12-10T12:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/liisa-pelimaassa/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "no-no",
-    "start_time": "2026-12-10T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/no-no-2/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lapin Faarao",
     "start_time": "2026-12-10T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/lapin-faarao"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-12-10T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-12-10T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-12-10T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "universum",
@@ -6670,34 +4556,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/lopetus"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Liisa pelimaassa",
-    "start_time": "2026-12-11T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/liisa-pelimaassa/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-12-11T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-12-11T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-12-11T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Valon ja ilon tanssi: Tanssikeitaan joulunäytös",
@@ -6722,13 +4580,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/BE29BF2F4806EE00BFD29DAD6D028362/amanda-lydia-traces-of-your-skin"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Liisa pelimaassa",
-    "start_time": "2026-12-12T12:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/liisa-pelimaassa/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Toinen tasavalta",
@@ -6741,27 +4592,6 @@ window.SCRAPED_EVENTS = [
     "title": "Lady T",
     "start_time": "2026-12-12T13:00:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-12-12T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-12-12T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-12-12T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "kansallisteatteri",
@@ -6778,67 +4608,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "När Baba faller i poolen är kl. 23.47",
-    "start_time": "2026-12-12T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-12-12T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-12-12T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Club act!one",
-    "start_time": "2026-12-12T19:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/club-actone/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "no-no",
-    "start_time": "2026-12-12T19:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/no-no-2/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Heavenly Father",
     "start_time": "2026-12-14T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/heavenly-father/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Liisa pelimaassa",
-    "start_time": "2026-12-14T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/liisa-pelimaassa/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-12-14T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-12-14T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "stoa",
@@ -6857,13 +4631,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/A3D9E34C95734796AFE80E61AAB98B16/taidetta-taaperoille"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kaksitoista lahjaa Joulupukille",
-    "start_time": "2026-12-15T10:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Mirdja",
@@ -6878,46 +4645,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Liisa pelimaassa",
-    "start_time": "2026-12-15T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/liisa-pelimaassa/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "När Baba faller i poolen är kl. 23.47",
-    "start_time": "2026-12-15T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-12-15T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-12-15T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Topelius och teatern",
     "start_time": "2026-12-15T19:00:00+02:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/topelius-och-teatern/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "no-no",
-    "start_time": "2026-12-15T19:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/no-no-2/"
   },
   {
     "venue": "stoa",
@@ -6926,20 +4658,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-12-16T00:00:00+02:00",
     "end_time": "2026-12-16T23:59:00+02:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/2CE11A22DAB8BF5AF3E52A2675622F63/kek-l-inen-company-hysteria-mundi-improvisations-on-global-politics"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kaksitoista lahjaa Joulupukille",
-    "start_time": "2026-12-16T10:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Keskiviikon kulissikierros",
-    "start_time": "2026-12-16T16:30:00+02:00",
-    "url": ""
   },
   {
     "venue": "viirus",
@@ -6963,46 +4681,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Liisa pelimaassa",
-    "start_time": "2026-12-16T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/liisa-pelimaassa/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "När Baba faller i poolen är kl. 23.47",
-    "start_time": "2026-12-16T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-12-16T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-12-16T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Blaue Frau palkkaa",
     "start_time": "2026-12-16T19:00:00+02:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/blaue-frau-palkkaa/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "no-no",
-    "start_time": "2026-12-16T19:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/no-no-2/"
   },
   {
     "venue": "caisa",
@@ -7011,20 +4694,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-12-17T00:00:00+02:00",
     "end_time": "2026-12-17T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/00F919E358ECE3C2EC030E9C335D5E43/taidetta-taaperoille"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kaksitoista lahjaa Joulupukille",
-    "start_time": "2026-12-17T10:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-12-17T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "kansallisteatteri",
@@ -7039,13 +4708,6 @@ window.SCRAPED_EVENTS = [
     "title": "Viidakon villit naiset",
     "start_time": "2026-12-17T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-12-17T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "universum",
@@ -7077,20 +4739,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-12-18T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-12-18T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Kekäläinen & Company: Hysteria Mundi – Improvisations on Global Politics",
@@ -7107,13 +4755,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/678E25DCFBC47EB0EB11008DB9EFECE2/tanssiklubi-master-joulun-tanssikonsertti"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kaksitoista lahjaa Joulupukille",
-    "start_time": "2026-12-19T10:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Taru hohtavasta helmestä",
@@ -7128,20 +4769,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-12-19T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-12-19T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Viidakon villit naiset",
@@ -7154,27 +4781,6 @@ window.SCRAPED_EVENTS = [
     "title": "Lopetus",
     "start_time": "2026-12-19T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/lopetus"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-12-19T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-12-19T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-12-19T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "svenska",
@@ -7197,76 +4803,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-12-22T00:00:00+02:00",
     "end_time": "2026-12-22T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/C000806AF4C024F4D067D2BCF35D49C2/taidetta-taaperoille"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-12-28T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "no-no",
-    "start_time": "2026-12-28T19:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/no-no-2/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-12-29T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "no-no",
-    "start_time": "2026-12-29T19:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/no-no-2/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-12-30T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-12-30T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-12-31T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-01-04T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-01-07T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-01-08T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "universum",
@@ -7297,13 +4833,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/heavenly-father/"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-01-13T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Heavenly Father",
@@ -7318,32 +4847,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/karpaset"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-01-15T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-01-16T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Heavenly Father",
     "start_time": "2027-01-16T14:00:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/heavenly-father/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-01-16T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "universum",
@@ -7374,32 +4882,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/karpaset"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-01-22T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-01-23T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Kärpäset",
     "start_time": "2027-01-23T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/karpaset"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-01-23T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "svenska",
@@ -7416,25 +4903,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/pelle-svanslos/"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-01-26T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Kettutytön paluu",
     "start_time": "2027-01-26T19:00:00+02:00",
     "url": "https://universum.fi/events/kettutyton-paluu-26-1/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-01-27T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "universum",
@@ -7444,53 +4917,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/kettutyton-paluu-27-1/"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-01-28T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-01-29T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-01-30T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Kettutytön paluu",
     "start_time": "2027-01-31T19:00:00+02:00",
     "url": "https://universum.fi/events/kettutyton-paluu-31-1/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-02-02T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-02-03T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-02-06T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "universum",
@@ -7507,144 +4938,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/kettutyton-paluu-9-2/"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-02-10T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-02-11T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-02-13T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-02-13T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2027-02-16T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2027-02-18T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-02-19T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-02-20T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2027-02-20T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2027-02-22T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-02-22T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-02-24T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Pelle Svanslös",
     "start_time": "2027-02-24T19:00:00+02:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/pelle-svanslos/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-02-25T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2027-02-26T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-02-27T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2027-03-01T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2027-03-02T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-03-04T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-03-05T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "takomo",
@@ -7661,25 +4959,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/vinterkvallar-5-3/"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-03-06T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "takomo",
     "venue_label": "Teatteri Takomo",
     "title": "Puhutaan Richardista",
     "start_time": "2027-03-06T14:00:00+02:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-03-06T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "svenska",
@@ -7738,25 +5022,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/balladeja-ja-havyttomyyksia/"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2027-03-11T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Vinterkvällar",
     "start_time": "2027-03-11T19:00:00+02:00",
     "url": "https://universum.fi/events/vinterkvallar-11-3/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-03-12T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "takomo",
@@ -7766,13 +5036,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-03-13T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "takomo",
     "venue_label": "Teatteri Takomo",
     "title": "Puhutaan Richardista",
@@ -7780,39 +5043,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-03-13T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "takomo",
     "venue_label": "Teatteri Takomo",
     "title": "Puhutaan Richardista",
     "start_time": "2027-03-15T19:00:00+02:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2027-03-16T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2027-03-17T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-03-18T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "takomo",
@@ -7836,13 +5071,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-03-19T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "takomo",
     "venue_label": "Teatteri Takomo",
     "title": "Puhutaan Richardista",
@@ -7864,25 +5092,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/livets-summa-19-3/"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-03-20T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "takomo",
     "venue_label": "Teatteri Takomo",
     "title": "Puhutaan Richardista",
     "start_time": "2027-03-20T14:00:00+02:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2027-03-20T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "viirus",
