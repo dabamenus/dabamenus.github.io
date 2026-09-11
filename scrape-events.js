@@ -136,7 +136,7 @@ window.SCRAPED_EVENTS = [
     "title": "Sirkus Kolmen Kopla: AikaKONE",
     "start_time": "2026-09-11T00:00:00+03:00",
     "end_time": "2026-09-11T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/5D54A27F7E54AFF4B4274523C04C1525/sirkus-kolmen-kopla-aikakone"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkus-kolmen-kopla-aikakone"
   },
   {
     "venue": "stoa",
@@ -144,7 +144,7 @@ window.SCRAPED_EVENTS = [
     "title": "The Nordic Council: Häppy Hour",
     "start_time": "2026-09-11T00:00:00+03:00",
     "end_time": "2026-09-11T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0AE565F8B77CB33EA192F4134FA49151/the-nordic-council-h-ppy-hour"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/the-nordic-council-h-ppy-hour"
   },
   {
     "venue": "caisa",
