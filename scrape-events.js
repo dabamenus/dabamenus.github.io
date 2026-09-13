@@ -199,7 +199,7 @@ window.SCRAPED_EVENTS = [
     "title": "Agit Cirk - Kajo",
     "start_time": "2026-09-13T00:00:00+03:00",
     "end_time": "2026-09-13T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/385D81DD6FC5F88A5D042AC3184C7A3D/agit-cirk-kajo"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/agit-cirk-kajo"
   },
   {
     "venue": "stoa",
@@ -215,7 +215,7 @@ window.SCRAPED_EVENTS = [
     "title": "Kerttu Opus & Opus Company: Suddenly – and other ways to change",
     "start_time": "2026-09-13T00:00:00+03:00",
     "end_time": "2026-09-13T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/9B326E7504E806237CB7C527B80D8B35/kerttu-opus-opus-company-suddenly-and-other-ways-to-change"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/kerttu-opus-opus-company-suddenly-and-other-ways-to-change"
   },
   {
     "venue": "cirko",
