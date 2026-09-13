@@ -187,13 +187,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/sandyrella/"
   },
   {
-    "venue": "cirko",
-    "venue_label": "Cirko",
-    "title": "Heidi Miikki: HOPE",
-    "start_time": "2026-09-12T19:00:00+03:00",
-    "url": "https://cirko.fi/esitys/heidi-miikki-hope-2/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Agit Cirk - Kajo",
@@ -207,7 +200,7 @@ window.SCRAPED_EVENTS = [
     "title": "Blind Gut Company: Maannos",
     "start_time": "2026-09-13T00:00:00+03:00",
     "end_time": "2026-09-13T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/568F60C551D1D0084E57FCA04DD96FCB/blind-gut-company-maannos"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/blind-gut-company-maannos"
   },
   {
     "venue": "caisa",
@@ -216,13 +209,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-09-13T00:00:00+03:00",
     "end_time": "2026-09-13T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/kerttu-opus-opus-company-suddenly-and-other-ways-to-change"
-  },
-  {
-    "venue": "cirko",
-    "venue_label": "Cirko",
-    "title": "Heidi Miikki: HOPE",
-    "start_time": "2026-09-13T15:00:00+03:00",
-    "url": "https://cirko.fi/esitys/heidi-miikki-hope-2/"
   },
   {
     "venue": "caisa",
