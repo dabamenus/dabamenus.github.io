@@ -449,6 +449,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/de-obehoriga/"
   },
   {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Ville Ahonen: Viimeaikaisia lauluja -levynkuuntelutilaisuus",
+    "start_time": "2026-09-17T19:00:00+03:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/ville-ahonen-viimeaikaisia-lauluja-levynkuuntelutilaisuus/"
+  },
+  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Änglagård",
