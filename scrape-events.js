@@ -187,30 +187,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/sandyrella/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Agit Cirk - Kajo",
-    "start_time": "2026-09-13T00:00:00+03:00",
-    "end_time": "2026-09-13T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/agit-cirk-kajo"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Blind Gut Company: Maannos",
-    "start_time": "2026-09-13T00:00:00+03:00",
-    "end_time": "2026-09-13T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/blind-gut-company-maannos"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Kerttu Opus & Opus Company: Suddenly – and other ways to change",
-    "start_time": "2026-09-13T00:00:00+03:00",
-    "end_time": "2026-09-13T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/kerttu-opus-opus-company-suddenly-and-other-ways-to-change"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Tanssi ja leikki",
@@ -1601,6 +1577,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.madhousehelsinki.fi/ohjelmisto/valokuvista"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Emil Santtu Uuttu Et al. Valokuvista",
+    "start_time": "2026-10-09T19:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/emilsanttuuuttuetal-valokuvista"
+  },
+  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Legend of Harri Kala",
@@ -1656,6 +1639,13 @@ window.SCRAPED_EVENTS = [
     "title": "Äitisi, Klytaimestra",
     "start_time": "2026-10-10T14:00:00+03:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Emil Santtu Uuttu Et al. Valokuvista",
+    "start_time": "2026-10-10T15:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/emilsanttuuuttuetal-valokuvista2"
   },
   {
     "venue": "espoonteatteri",
@@ -2666,6 +2656,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.madhousehelsinki.fi/ohjelmisto/bugbathpathmaking"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Atte Kantonen – bugbath: pathmaking",
+    "start_time": "2026-10-30T19:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/atte-kantonen-budbath-pathmaking"
+  },
+  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Kompani Nord: Sista paret ut",
@@ -3192,13 +3189,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/BED9FD4174667A0BC9E5333350E1793A/taidetta-taaperoille"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
-    "start_time": "2026-11-12T14:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-1211"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Writing of Disaster",
@@ -3253,13 +3243,6 @@ window.SCRAPED_EVENTS = [
     "title": "Viidakon villit naiset",
     "start_time": "2026-11-13T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Olen X (verkkokurssitus 12.9.-12.12. 2026)",
-    "start_time": "2026-11-14T11:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/olen-x-verkkokurssitus-12-9-12-12-2026-copy3"
   },
   {
     "venue": "cirko",
@@ -3742,13 +3725,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-11-26T00:00:00+02:00",
     "end_time": "2026-11-26T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/849F94F1A85FD3414164107AE38AC9E3/taidetta-taaperoille"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
-    "start_time": "2026-11-26T14:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-2611"
   },
   {
     "venue": "zodiak",
@@ -4607,6 +4583,13 @@ window.SCRAPED_EVENTS = [
     "title": "Lady T",
     "start_time": "2026-12-12T13:00:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Rakastavaisten kuoro",
+    "start_time": "2026-12-12T14:00:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
   },
   {
     "venue": "kansallisteatteri",
