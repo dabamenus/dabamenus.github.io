@@ -219,13 +219,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/taidetta-taaperoille"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kahvilla kirjailijan kanssa",
-    "start_time": "2026-09-15T16:30:00+03:00",
-    "url": ""
-  },
-  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Tavallisuuden aave",
