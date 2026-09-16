@@ -195,65 +195,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/37A077C19A795C1F3A003FFE51535D21/tanssi-ja-leikki"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi senioreille, Ryhmä 1",
-    "start_time": "2026-09-15T00:00:00+03:00",
-    "end_time": "2026-09-15T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkuskurssi-senioreille-ryhm-1"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi senioreille, Ryhmä 2",
-    "start_time": "2026-09-15T00:00:00+03:00",
-    "end_time": "2026-09-15T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkuskurssi-senioreille-ryhm-2"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-09-15T00:00:00+03:00",
-    "end_time": "2026-09-15T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/taidetta-taaperoille"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Tavallisuuden aave",
-    "start_time": "2026-09-15T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/tavallisuuden-aave/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Lopetus",
-    "start_time": "2026-09-15T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lopetus"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Orvot",
-    "start_time": "2026-09-15T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/orvot"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Viidakon villit naiset",
-    "start_time": "2026-09-15T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-09-15T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
     "venue": "takomo",
     "venue_label": "Teatteri Takomo",
     "title": "Eteläpohjalaisia",
@@ -266,7 +207,7 @@ window.SCRAPED_EVENTS = [
     "title": "Sirkuskurssi taaperoperheille",
     "start_time": "2026-09-16T00:00:00+03:00",
     "end_time": "2026-09-16T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/53F8EE7146949DBC52E96181C9D5E415/sirkuskurssi-taaperoperheille"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkuskurssi-taaperoperheille"
   },
   {
     "venue": "stoa",
@@ -274,7 +215,7 @@ window.SCRAPED_EVENTS = [
     "title": "Alakoulukino: Ronja Ryövärintytär",
     "start_time": "2026-09-16T00:00:00+03:00",
     "end_time": "2026-09-16T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/EFADCB8C085305E03A2F5B864656D90F/alakoulukino-ronja-ry-v-rintyt-r"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/alakoulukino-ronja-ry-v-rintyt-r"
   },
   {
     "venue": "stoa",
@@ -282,7 +223,7 @@ window.SCRAPED_EVENTS = [
     "title": "Sirkuskurssi vauvaperheille",
     "start_time": "2026-09-16T00:00:00+03:00",
     "end_time": "2026-09-16T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/9EBADCDAA78720113FEF3DCAE1CD983C/sirkuskurssi-vauvaperheille"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkuskurssi-vauvaperheille"
   },
   {
     "venue": "stoa",
@@ -2899,10 +2840,18 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
-    "title": "Liikkeellä marraskuussa",
+    "title": "Liikkeellä marraskuussa – Anna Kozonina: Audience Club",
     "start_time": "2026-11-05T00:00:00+02:00",
     "end_time": "2026-11-15T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/7264FD7423DE0DC70896B44DE70BFA62/liikkeell-marraskuussa"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/3126DC35E53EDD5165E3E3ADF38F3672/liikkeell-marraskuussa-anna-kozonina-audience-club"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Liikkeellä marraskuussa – Mélanie Demers: Confession Publique",
+    "start_time": "2026-11-05T00:00:00+02:00",
+    "end_time": "2026-11-15T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/7264FD7423DE0DC70896B44DE70BFA62/liikkeell-marraskuussa-m-lanie-demers-confession-publique"
   },
   {
     "venue": "caisa",
@@ -2919,6 +2868,14 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-11-05T00:00:00+02:00",
     "end_time": "2026-11-05T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/3CA3ED4570FD1DA58ED1D6DE6AC2DAFF/taidetta-taaperoille"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Liikkeellä marraskuussa – Anna Kozonina: Audience Club",
+    "start_time": "2026-11-05T00:00:00+02:00",
+    "end_time": "2026-11-15T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/B3E7ED8923502C2D166A883ED2930092/liikkeell-marraskuussa-anna-kozonina-audience-club"
   },
   {
     "venue": "viirus",
@@ -2940,6 +2897,30 @@ window.SCRAPED_EVENTS = [
     "title": "Äitisi, Klytaimestra",
     "start_time": "2026-11-05T18:30:00+02:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Liikkeellä marraskuussa – Mélanie Demers: Inner Mythology -työpaja",
+    "start_time": "2026-11-06T00:00:00+02:00",
+    "end_time": "2026-11-06T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/653E4CE586F4394BD62427C46FE66DDC/liikkeell-marraskuussa-m-lanie-demers-inner-mythology-ty-paja"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Liikkeellä marraskuussa – Mélanie Demers: Confession Publique",
+    "start_time": "2026-11-06T00:00:00+02:00",
+    "end_time": "2026-11-06T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/720438C05AF450B65E7AF54781467116/liikkeell-marraskuussa-m-lanie-demers-confession-publique"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Liikkeellä marraskuussa: Soup Talks",
+    "start_time": "2026-11-06T00:00:00+02:00",
+    "end_time": "2026-11-15T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/77567317565189EDD30AE88815D2C7A7/liikkeell-marraskuussa-soup-talks"
   },
   {
     "venue": "viirus",
@@ -2977,12 +2958,28 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Liikkeellä marraskuussa – Jenni-Elina von Bagh: The Body as an Event -työpaja",
+    "start_time": "2026-11-07T00:00:00+02:00",
+    "end_time": "2026-11-07T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/87C06ABB3943C440181FE8AACCC293E7/liikkeell-marraskuussa-jenni-elina-von-bagh-the-body-as-an-event-ty-paja"
+  },
+  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Qoomikot kollektiivi: Kväärinpäin",
     "start_time": "2026-11-07T00:00:00+02:00",
     "end_time": "2026-11-07T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/13FC28B9B760B4EF353E29C9AE4EE7A2/qoomikot-kollektiivi-kv-rinp-in"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Liikkeellä marraskuussa – Katerina Andreou & Mélissa Guex: SHOUT TWICE",
+    "start_time": "2026-11-07T00:00:00+02:00",
+    "end_time": "2026-11-07T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/984F080EFA006831A8AB1531301004F0/liikkeell-marraskuussa-katerina-andreou-m-lissa-guex-shout-twice"
   },
   {
     "venue": "cirko",
@@ -3050,10 +3047,26 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "caisa",
     "venue_label": "Caisa",
+    "title": "Liikkeellä marraskuussa – Katerina Andreou & Mélissa Guex: SHOUT TWICE",
+    "start_time": "2026-11-08T00:00:00+02:00",
+    "end_time": "2026-11-08T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/1E7980F0F8638B8E8444ADBBBBC56E14/liikkeell-marraskuussa-katerina-andreou-m-lissa-guex-shout-twice"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
     "title": "Tanssi ja leikki",
     "start_time": "2026-11-09T00:00:00+02:00",
     "end_time": "2026-11-09T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/B3AFD56F3AC48A2EE826437308DE9392/tanssi-ja-leikki"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Liikkeellä marraskuussa – Dana Michel: YOU CANNOT CAN",
+    "start_time": "2026-11-09T00:00:00+02:00",
+    "end_time": "2026-11-10T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F7B31BED4A62DF7B9764E25E13EA9F25/liikkeell-marraskuussa-dana-michel-you-cannot-can"
   },
   {
     "venue": "viirus",
@@ -3086,12 +3099,28 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/316DCF29B05A8CC93A82A7153F7FA34E/sirkuskurssi-senioreille-ryhm-2"
   },
   {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Liikkeellä marraskuussa – Betty Tchomanga: Decolonial (Hi)stories #Parallel Portraits",
+    "start_time": "2026-11-10T00:00:00+02:00",
+    "end_time": "2026-11-10T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/950714282875605790564288E7CC3146/liikkeell-marraskuussa-betty-tchomanga-decolonial-hi-stories-parallel-portraits"
+  },
+  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Taidetta taaperoille",
     "start_time": "2026-11-10T00:00:00+02:00",
     "end_time": "2026-11-10T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/201F9A5748DCCBC4FE921A64D086185E/taidetta-taaperoille"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Liikkeellä marraskuussa – Dana Michel: YOU CANNOT CAN",
+    "start_time": "2026-11-10T00:00:00+02:00",
+    "end_time": "2026-11-11T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/89A20D283D8B748BCA5E4A94F829335E/liikkeell-marraskuussa-dana-michel-you-cannot-can"
   },
   {
     "venue": "viirus",
@@ -3129,6 +3158,22 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-11-11T00:00:00+02:00",
     "end_time": "2026-11-11T23:59:00+02:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/93C4974C33791DC9E5DAF450FB804F08/sirkuskurssi-vauvaperheille"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Liikkeellä marraskuussa – Betty Tchomanga: Decolonial (Hi)stories #Parallel Portraits",
+    "start_time": "2026-11-11T00:00:00+02:00",
+    "end_time": "2026-11-11T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/BE0E20D107D0D008946C9F2487AB1CE9/liikkeell-marraskuussa-betty-tchomanga-decolonial-hi-stories-parallel-portraits"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Liikkeellä marraskuussa – Dana Michel: YOU CANNOT CAN",
+    "start_time": "2026-11-11T00:00:00+02:00",
+    "end_time": "2026-11-12T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/8D336EB3EB3137693B035BFA3B4750E7/liikkeell-marraskuussa-dana-michel-you-cannot-can"
   },
   {
     "venue": "viirus",
@@ -3182,6 +3227,22 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/BED9FD4174667A0BC9E5333350E1793A/taidetta-taaperoille"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Liikkeellä marraskuussa – Gaby Saranouffi, deufert&plischke, Moeketsi Koena & Thabiso Heccius Pule: RONA",
+    "start_time": "2026-11-12T00:00:00+02:00",
+    "end_time": "2026-11-12T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/717017B5B7A1D0D91B5F79CF65DED3CE/liikkeell-marraskuussa-gaby-saranouffi-deufert-plischke-moeketsi-koena-thabiso-heccius-pule-rona"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Liikkeellä marraskuussa – Dana Michel: YOU CANNOT CAN",
+    "start_time": "2026-11-12T00:00:00+02:00",
+    "end_time": "2026-11-13T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/E1EE3BF3BE08ED3053752211F1A7E210/liikkeell-marraskuussa-dana-michel-you-cannot-can"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Writing of Disaster",
@@ -3201,6 +3262,22 @@ window.SCRAPED_EVENTS = [
     "title": "Viides askel",
     "start_time": "2026-11-12T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/viides-askel"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Liikkeellä marraskuussa – Sara Grotenfelt: Last Hurrah",
+    "start_time": "2026-11-13T00:00:00+02:00",
+    "end_time": "2026-11-13T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/93F22A07F34DA8BAFE20AA2FEC6749AB/liikkeell-marraskuussa-sara-grotenfelt-last-hurrah"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Liikkeellä marraskuussa – Dana Michel: YOU CANNOT CAN",
+    "start_time": "2026-11-13T00:00:00+02:00",
+    "end_time": "2026-11-14T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/65ECDF69FDD18FD68CFC555120DA47D0/liikkeell-marraskuussa-dana-michel-you-cannot-can"
   },
   {
     "venue": "viirus",
@@ -3236,6 +3313,22 @@ window.SCRAPED_EVENTS = [
     "title": "Viidakon villit naiset",
     "start_time": "2026-11-13T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Liikkeellä marraskuussa – Michael Turinsky: Precarious Moves",
+    "start_time": "2026-11-14T00:00:00+02:00",
+    "end_time": "2026-11-14T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/CFEDD5565C6395ADFB3BA90E8C4D55C1/liikkeell-marraskuussa-michael-turinsky-precarious-moves"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Liikkeellä marraskuussa – Johanna Karlberg, Antonia Atarah & Alen Nsambu: Swedish Asshole feat. Akademiska Sångföreningen",
+    "start_time": "2026-11-14T00:00:00+02:00",
+    "end_time": "2026-11-14T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/3A5A15DFA4B087740BBD673E22BAE09E/liikkeell-marraskuussa-johanna-karlberg-antonia-atarah-alen-nsambu-swedish-asshole-feat-akademiska-s-ngf-reningen"
   },
   {
     "venue": "cirko",
@@ -3313,6 +3406,22 @@ window.SCRAPED_EVENTS = [
     "title": "Balladeja ja hävyttömyyksiä",
     "start_time": "2026-11-14T19:00:00+02:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/balladeja-ja-havyttomyyksia/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Liikkeellä marraskuussa – Michael Turinsky: Precarious Moves",
+    "start_time": "2026-11-15T00:00:00+02:00",
+    "end_time": "2026-11-15T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/05BA4BA11EECCF63F005B0EFEC9B0C8F/liikkeell-marraskuussa-michael-turinsky-precarious-moves"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Liikkeellä marraskuussa – Johanna Karlberg, Antonia Atarah & Alen Nsambu: Swedish Asshole feat. Akademiska Sångföreningen",
+    "start_time": "2026-11-15T00:00:00+02:00",
+    "end_time": "2026-11-15T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/622816DF5B32EB560440314D16CB01FB/liikkeell-marraskuussa-johanna-karlberg-antonia-atarah-alen-nsambu-swedish-asshole-feat-akademiska-s-ngf-reningen"
   },
   {
     "venue": "universum",
@@ -5564,5 +5673,12 @@ window.SCRAPED_EVENTS = [
     "title": "MG",
     "start_time": "2027-06-29T19:00:00+03:00",
     "url": "https://universum.fi/events/mg-29-6/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "Kettutytön paluu",
+    "start_time": "2027-09-08T19:00:00+03:00",
+    "url": "https://universum.fi/events/kettutyton-paluu-8-9/"
   }
 ];
