@@ -195,14 +195,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/37A077C19A795C1F3A003FFE51535D21/tanssi-ja-leikki"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-09-17T00:00:00+03:00",
-    "end_time": "2026-09-17T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/taidetta-taaperoille"
-  },
-  {
     "venue": "cirko",
     "venue_label": "Cirko",
     "title": "Company Portmanteau: PYYKKI - Lost in Laundryland",
@@ -250,13 +242,6 @@ window.SCRAPED_EVENTS = [
     "title": "De obehöriga",
     "start_time": "2026-09-17T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Ville Ahonen: Viimeaikaisia lauluja -levynkuuntelutilaisuus",
-    "start_time": "2026-09-17T19:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/ville-ahonen-viimeaikaisia-lauluja-levynkuuntelutilaisuus/"
   },
   {
     "venue": "svenska",
