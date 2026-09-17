@@ -210,20 +210,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://cirko.fi/esitys/company-portmanteau-pyykki-lost-in-laundryland/"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "d8zero presents: ZeroDating",
-    "start_time": "2026-09-17T18:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/d8zero-presents-zerodating-1709"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Minä unohdin miten suuressa talossa asun",
-    "start_time": "2026-09-17T18:30:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/mina-unohdin-miten-suuressa-talossa-asun-1709"
-  },
-  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Tavallisuuden aave",
@@ -3214,6 +3200,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/3A5A15DFA4B087740BBD673E22BAE09E/liikkeell-marraskuussa-johanna-karlberg-antonia-atarah-alen-nsambu-swedish-asshole-feat-akademiska-s-ngf-reningen"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Olen X (verkkokurssitus 12.9.-12.12. 2026)",
+    "start_time": "2026-11-14T11:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/olen-x-verkkokurssitus-12-9-12-12-2026-copy3"
+  },
+  {
     "venue": "cirko",
     "venue_label": "Cirko",
     "title": "Kallo Collective: The Story of Pluto, Who Wanted to Be a Planet",
@@ -3710,6 +3703,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-11-26T00:00:00+02:00",
     "end_time": "2026-11-26T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/849F94F1A85FD3414164107AE38AC9E3/taidetta-taaperoille"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
+    "start_time": "2026-11-26T14:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-2611"
   },
   {
     "venue": "zodiak",
