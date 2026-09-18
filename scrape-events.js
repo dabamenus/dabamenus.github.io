@@ -221,7 +221,7 @@ window.SCRAPED_EVENTS = [
     "title": "Lasten sarjisfestarit",
     "start_time": "2026-09-18T00:00:00+03:00",
     "end_time": "2026-09-18T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/CD1E8994BEBA8BCE424542BEE651819D/lasten-sarjisfestarit"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/lasten-sarjisfestarit"
   },
   {
     "venue": "tekstintalo",
