@@ -202,48 +202,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://cirko.fi/esitys/company-portmanteau-pyykki-lost-in-laundryland/"
   },
   {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Tavallisuuden aave",
-    "start_time": "2026-09-17T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/tavallisuuden-aave/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Lopetus",
-    "start_time": "2026-09-17T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lopetus"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Hajuvesi",
-    "start_time": "2026-09-17T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/hajuvesi"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-09-17T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-09-17T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-09-17T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Änglagård",
@@ -278,13 +236,6 @@ window.SCRAPED_EVENTS = [
     "title": "Company Portmanteau: PYYKKI - Lost in Laundryland",
     "start_time": "2026-09-18T18:00:00+03:00",
     "url": "https://cirko.fi/esitys/company-portmanteau-pyykki-lost-in-laundryland/"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Helsingin sarjakuvafestivaalien avajaiset",
-    "start_time": "2026-09-18T18:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/helsingin-sarjakuvafestivaalien-avajaiset"
   },
   {
     "venue": "tekstintalo",
@@ -840,6 +791,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
   },
   {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Eteläpohjalaisia",
+    "start_time": "2026-09-28T19:00:00+03:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+  },
+  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Sirkuskurssi senioreille, Ryhmä 1",
@@ -890,6 +848,13 @@ window.SCRAPED_EVENTS = [
     "title": "Orvot",
     "start_time": "2026-09-29T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/orvot"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Eteläpohjalaisia",
+    "start_time": "2026-09-29T19:00:00+03:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
   },
   {
     "venue": "stoa",
@@ -3971,6 +3936,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Vihreä kasvu ja irtikytkentä",
+    "start_time": "2026-12-01T17:30:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/vihrea-kasvu-ja-irtikytkenta"
+  },
+  {
     "venue": "kiasma",
     "venue_label": "Kiasma",
     "title": "Kauri Sorvari: Forevermore",
@@ -4640,6 +4612,13 @@ window.SCRAPED_EVENTS = [
     "title": "Heavenly Father",
     "start_time": "2026-12-16T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/heavenly-father/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Rakastavaisten kuoro",
+    "start_time": "2026-12-16T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
   },
   {
     "venue": "kansallisteatteri",
