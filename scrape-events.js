@@ -229,7 +229,7 @@ window.SCRAPED_EVENTS = [
     "title": "Qoomikot kollektiivi: Kväärinpäin X Caisa – Origin storyt",
     "start_time": "2026-09-19T00:00:00+03:00",
     "end_time": "2026-09-19T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/D2CF96A60422179FBDD4C377D1B2763F/qoomikot-kollektiivi-kv-rinp-in-x-caisa-origin-storyt"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/qoomikot-kollektiivi-kv-rinp-in-x-caisa-origin-storyt"
   },
   {
     "venue": "hkt",
