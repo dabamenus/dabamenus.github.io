@@ -195,25 +195,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/37A077C19A795C1F3A003FFE51535D21/tanssi-ja-leikki"
   },
   {
-    "venue": "cirko",
-    "venue_label": "Cirko",
-    "title": "Company Portmanteau: PYYKKI - Lost in Laundryland",
-    "start_time": "2026-09-17T18:00:00+03:00",
-    "url": "https://cirko.fi/esitys/company-portmanteau-pyykki-lost-in-laundryland/"
-  },
-  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Esseetyöpajaryhmät",
     "start_time": "2026-09-18T16:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/esseetyopajaryhmat"
-  },
-  {
-    "venue": "cirko",
-    "venue_label": "Cirko",
-    "title": "Company Portmanteau: PYYKKI - Lost in Laundryland",
-    "start_time": "2026-09-18T18:00:00+03:00",
-    "url": "https://cirko.fi/esitys/company-portmanteau-pyykki-lost-in-laundryland/"
   },
   {
     "venue": "viirus",
@@ -251,13 +237,6 @@ window.SCRAPED_EVENTS = [
     "title": "Edellä. Vihreän aatteen foorumi",
     "start_time": "2026-09-19T10:30:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/edella-vihrean-aatteen-foorumi"
-  },
-  {
-    "venue": "cirko",
-    "venue_label": "Cirko",
-    "title": "Company Portmanteau: PYYKKI - Lost in Laundryland",
-    "start_time": "2026-09-19T12:00:00+03:00",
-    "url": "https://cirko.fi/esitys/company-portmanteau-pyykki-lost-in-laundryland/"
   },
   {
     "venue": "hkt",
@@ -307,13 +286,6 @@ window.SCRAPED_EVENTS = [
     "title": "Tavallisuuden aave",
     "start_time": "2026-09-19T14:00:00+03:00",
     "url": "https://espoonteatteri.fi/ohjelmisto/tavallisuuden-aave/"
-  },
-  {
-    "venue": "cirko",
-    "venue_label": "Cirko",
-    "title": "Company Portmanteau: PYYKKI - Lost in Laundryland",
-    "start_time": "2026-09-19T15:00:00+03:00",
-    "url": "https://cirko.fi/esitys/company-portmanteau-pyykki-lost-in-laundryland/"
   },
   {
     "venue": "kansallisteatteri",
