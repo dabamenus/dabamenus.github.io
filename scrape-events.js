@@ -202,28 +202,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://cirko.fi/esitys/company-portmanteau-pyykki-lost-in-laundryland/"
   },
   {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Änglagård",
-    "start_time": "2026-09-17T19:00:00+03:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/anglagard/"
-  },
-  {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Balladeja ja hävyttömyyksiä",
-    "start_time": "2026-09-17T19:00:00+03:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/balladeja-ja-havyttomyyksia/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Lasten sarjisfestarit",
-    "start_time": "2026-09-18T00:00:00+03:00",
-    "end_time": "2026-09-18T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/lasten-sarjisfestarit"
-  },
-  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Esseetyöpajaryhmät",
@@ -236,41 +214,6 @@ window.SCRAPED_EVENTS = [
     "title": "Company Portmanteau: PYYKKI - Lost in Laundryland",
     "start_time": "2026-09-18T18:00:00+03:00",
     "url": "https://cirko.fi/esitys/company-portmanteau-pyykki-lost-in-laundryland/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Orvot",
-    "start_time": "2026-09-18T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/orvot"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Viidakon villit naiset",
-    "start_time": "2026-09-18T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Kepeä elämäni",
-    "start_time": "2026-09-18T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/kepea-elamani"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-09-18T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-09-18T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "viirus",
@@ -4648,6 +4591,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-12-17T00:00:00+02:00",
     "end_time": "2026-12-17T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/00F919E358ECE3C2EC030E9C335D5E43/taidetta-taaperoille"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Rakastavaisten kuoro",
+    "start_time": "2026-12-17T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
   },
   {
     "venue": "kansallisteatteri",
