@@ -209,13 +209,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/sandyrella/"
   },
   {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Eteläpohjalaisia",
-    "start_time": "2026-09-18T19:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Helsingin sarjakuvafestivaalit",
@@ -224,96 +217,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/8B3A99510EE5067F529C53D4BED6E973/helsingin-sarjakuvafestivaalit"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Qoomikot kollektiivi: Kväärinpäin X Caisa – Origin storyt",
-    "start_time": "2026-09-19T00:00:00+03:00",
-    "end_time": "2026-09-19T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/qoomikot-kollektiivi-kv-rinp-in-x-caisa-origin-storyt"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-09-19T12:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Orvot",
-    "start_time": "2026-09-19T13:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/orvot"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Lopetus",
-    "start_time": "2026-09-19T13:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lopetus"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-09-19T13:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-09-19T13:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "takomo",
     "venue_label": "Teatteri Takomo",
     "title": "Eteläpohjalaisia",
     "start_time": "2026-09-19T14:00:00+03:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Tavallisuuden aave",
-    "start_time": "2026-09-19T14:00:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/tavallisuuden-aave/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Lady T",
-    "start_time": "2026-09-19T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Starman",
-    "start_time": "2026-09-19T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/starman"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-09-19T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-09-19T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-09-19T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "viirus",
@@ -1045,6 +953,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/9AC62EA1D4714817E6F1E225EEA2F391/taidetta-taaperoille"
   },
   {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Elina Pirinen:Ghosts of Rosegarden",
+    "start_time": "2026-10-06T16:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
+  },
+  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Tavallisuuden aave",
@@ -1153,6 +1068,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/mehrnoosh-zolfaghari/"
   },
   {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Elina Pirinen:Ghosts of Rosegarden",
+    "start_time": "2026-10-08T16:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
+  },
+  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Kriittisen Korkeakoulun syysiltamat",
@@ -1194,6 +1116,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-10-09T00:00:00+03:00",
     "end_time": "2026-10-09T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/4C3CFF87DF61C31077332CD73C58A526/helsinki-experimental-series"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Elina Pirinen:Ghosts of Rosegarden",
+    "start_time": "2026-10-09T16:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
   },
   {
     "venue": "espoonteatteri",
@@ -1258,6 +1187,13 @@ window.SCRAPED_EVENTS = [
     "title": "Olen X (verkkokurssitus 12.9.-12.12. 2026)",
     "start_time": "2026-10-10T11:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/olen-x-verkkokurssitus-12-9-12-12-2026-copy"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Elina Pirinen:Ghosts of Rosegarden",
+    "start_time": "2026-10-10T12:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
   },
   {
     "venue": "kansallisteatteri",
