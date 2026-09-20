@@ -243,7 +243,7 @@ window.SCRAPED_EVENTS = [
     "title": "Celebrate, Connect, Belong – Kolibri Festivaali 2026!",
     "start_time": "2026-09-20T00:00:00+03:00",
     "end_time": "2026-09-20T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/01CE3834D0D16222CCE6B60C3C2B814E/celebrate-connect-belong-kolibri-festivaali-2026"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/celebrate-connect-belong-kolibri-festivaali-2026"
   },
   {
     "venue": "caisa",
