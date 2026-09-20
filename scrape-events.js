@@ -90,7 +90,7 @@ window.SCRAPED_EVENTS = [
     "title": "Ukrainalais–suomalaisen sarjakuvaprojektin näyttely",
     "start_time": "2026-09-03T00:00:00+03:00",
     "end_time": "2026-09-20T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/9AAC9784DCE71EC7FA0A7C59641E12E1/ukrainalais-suomalaisen-sarjakuvaprojektin-n-yttely"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/ukrainalais-suomalaisen-sarjakuvaprojektin-n-yttely"
   },
   {
     "venue": "stoa",
@@ -98,7 +98,7 @@ window.SCRAPED_EVENTS = [
     "title": "Kutiburger: suomalais-slovenialainen sarjakuvadialogi",
     "start_time": "2026-09-03T00:00:00+03:00",
     "end_time": "2026-09-20T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/FC1DA793193AA4A546DA0DB8AB30B2D5/kutiburger-suomalais-slovenialainen-sarjakuvadialogi"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/kutiburger-suomalais-slovenialainen-sarjakuvadialogi"
   },
   {
     "venue": "stoa",
@@ -106,7 +106,7 @@ window.SCRAPED_EVENTS = [
     "title": "Festivaalitaiteilija Emilia Laatikaisen näyttely",
     "start_time": "2026-09-03T00:00:00+03:00",
     "end_time": "2026-09-20T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/77B4BF323E2BCDCAC329960BC09C0F96/festivaalitaiteilija-emilia-laatikaisen-n-yttely"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/festivaalitaiteilija-emilia-laatikaisen-n-yttely"
   },
   {
     "venue": "zodiak",
@@ -214,7 +214,7 @@ window.SCRAPED_EVENTS = [
     "title": "Helsingin sarjakuvafestivaalit",
     "start_time": "2026-09-19T00:00:00+03:00",
     "end_time": "2026-09-20T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/8B3A99510EE5067F529C53D4BED6E973/helsingin-sarjakuvafestivaalit"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/helsingin-sarjakuvafestivaalit"
   },
   {
     "venue": "takomo",
@@ -229,13 +229,6 @@ window.SCRAPED_EVENTS = [
     "title": "Sandyrella",
     "start_time": "2026-09-19T19:00:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/sandyrella/"
-  },
-  {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "På besök hos småkrypen– Vierailulla ötököiden maailmassa",
-    "start_time": "2026-09-19T19:00:00+03:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/pa-besok-hos-smakrypen/"
   },
   {
     "venue": "caisa",
@@ -2241,16 +2234,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
-    "title": "Kompani Nord: Sista paret ut",
+    "title": "Manu Rosales: Volver siguiendo",
     "start_time": "2026-10-30T19:00:00+02:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/kompani-nord-sista-paret-ut/"
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/manu-rosales/"
   },
   {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
-    "title": "Manu Rosales: Volver siguiendo",
+    "title": "Kompani Nord: Sista paret ut",
     "start_time": "2026-10-30T19:00:00+02:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/manu-rosales/"
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/kompani-nord-sista-paret-ut/"
   },
   {
     "venue": "svenska",
