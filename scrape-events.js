@@ -85,30 +85,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Ukrainalais–suomalaisen sarjakuvaprojektin näyttely",
-    "start_time": "2026-09-03T00:00:00+03:00",
-    "end_time": "2026-09-20T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/ukrainalais-suomalaisen-sarjakuvaprojektin-n-yttely"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Kutiburger: suomalais-slovenialainen sarjakuvadialogi",
-    "start_time": "2026-09-03T00:00:00+03:00",
-    "end_time": "2026-09-20T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/kutiburger-suomalais-slovenialainen-sarjakuvadialogi"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Festivaalitaiteilija Emilia Laatikaisen näyttely",
-    "start_time": "2026-09-03T00:00:00+03:00",
-    "end_time": "2026-09-20T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/festivaalitaiteilija-emilia-laatikaisen-n-yttely"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Kati Raatikainen,Milla Martikainen:Sotku ja rakkaus",
@@ -209,21 +185,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/sandyrella/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Helsingin sarjakuvafestivaalit",
-    "start_time": "2026-09-19T00:00:00+03:00",
-    "end_time": "2026-09-20T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/helsingin-sarjakuvafestivaalit"
-  },
-  {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Eteläpohjalaisia",
-    "start_time": "2026-09-19T14:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Sandyrella",
@@ -233,18 +194,10 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "caisa",
     "venue_label": "Caisa",
-    "title": "Celebrate, Connect, Belong – Kolibri Festivaali 2026!",
-    "start_time": "2026-09-20T00:00:00+03:00",
-    "end_time": "2026-09-20T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/celebrate-connect-belong-kolibri-festivaali-2026"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
     "title": "Tanssi ja leikki",
     "start_time": "2026-09-21T00:00:00+03:00",
     "end_time": "2026-09-21T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/84B9FB7D5D46396AC959DD040F7F0933/tanssi-ja-leikki"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/tanssi-ja-leikki"
   },
   {
     "venue": "kansallisteatteri",
@@ -3373,6 +3326,14 @@ window.SCRAPED_EVENTS = [
     "title": "ANDETAG",
     "start_time": "2026-11-23T19:00:00+02:00",
     "url": "https://universum.fi/events/andetag-23-11/"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Hautakaupungin ääniä",
+    "start_time": "2026-11-24T00:00:00+02:00",
+    "end_time": "2026-12-07T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/36C4948E59116CAB90B36C78F91A3A1D/hautakaupungin-ni"
   },
   {
     "venue": "caisa",
