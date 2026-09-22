@@ -120,7 +120,7 @@ window.SCRAPED_EVENTS = [
     "title": "Opi suomea laulaen",
     "start_time": "2026-09-22T00:00:00+03:00",
     "end_time": "2026-09-22T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/83D6E20221ABD26DE81714BA01241ABF/opi-suomea-laulaen"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/opi-suomea-laulaen"
   },
   {
     "venue": "stoa",
@@ -1988,6 +1988,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://kiasma.fi/esitykset/entanglement-i-am-a-tree-i-am-a-mouth/"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Atte Kantonen – bugbath: pathmaking",
+    "start_time": "2026-10-30T18:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/atte-kantonen-budbath-pathmaking"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Writing of Disaster",
@@ -2021,13 +2028,6 @@ window.SCRAPED_EVENTS = [
     "title": "Atte Kantonen – bugbath: pathmaking",
     "start_time": "2026-10-30T19:00:00+02:00",
     "url": "https://www.madhousehelsinki.fi/ohjelmisto/bugbathpathmaking"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Atte Kantonen – bugbath: pathmaking",
-    "start_time": "2026-10-30T19:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/atte-kantonen-budbath-pathmaking"
   },
   {
     "venue": "svenska",
