@@ -128,7 +128,7 @@ window.SCRAPED_EVENTS = [
     "title": "Sirkuskurssi senioreille, Ryhmä 1",
     "start_time": "2026-09-22T00:00:00+03:00",
     "end_time": "2026-09-22T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/15AB6834BA033B6081C7CE094BE56ECC/sirkuskurssi-senioreille-ryhm-1"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkuskurssi-senioreille-ryhm-1"
   },
   {
     "venue": "stoa",
@@ -144,7 +144,7 @@ window.SCRAPED_EVENTS = [
     "title": "Taidetta taaperoille",
     "start_time": "2026-09-22T00:00:00+03:00",
     "end_time": "2026-09-22T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/70EAC497BBE0954869907BD53E7BE895/taidetta-taaperoille"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/taidetta-taaperoille"
   },
   {
     "venue": "kansallisteatteri",
@@ -280,6 +280,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-09-25T00:00:00+03:00",
     "end_time": "2026-09-25T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/70ED137A588621160D776EF1B4AB8EB2/mets-ss-soi-teatteri-ilmi"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Re-Activating Youth’s Faith in the Future",
+    "start_time": "2026-09-25T17:30:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/re-activating-youth-s-faith-in-the-future"
   },
   {
     "venue": "kiasma",
@@ -1613,13 +1620,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/sivuraide"
   },
   {
-    "venue": "madhouse",
-    "venue_label": "Mad House",
-    "title": "Luonnos-ilta",
-    "start_time": "2026-10-23T19:00:00+03:00",
-    "url": "https://www.madhousehelsinki.fi/ohjelmisto/luonnos-ilta"
-  },
-  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "ANDETAG",
@@ -2021,13 +2021,6 @@ window.SCRAPED_EVENTS = [
     "title": "Toinen tasavalta",
     "start_time": "2026-10-30T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
-    "venue": "madhouse",
-    "venue_label": "Mad House",
-    "title": "Atte Kantonen – bugbath: pathmaking",
-    "start_time": "2026-10-30T19:00:00+02:00",
-    "url": "https://www.madhousehelsinki.fi/ohjelmisto/bugbathpathmaking"
   },
   {
     "venue": "svenska",
@@ -4056,13 +4049,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-12-12T00:00:00+02:00",
     "end_time": "2026-12-12T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/BE29BF2F4806EE00BFD29DAD6D028362/amanda-lydia-traces-of-your-skin"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Olen X (verkkokurssitus 12.9.-12.12. 2026)",
-    "start_time": "2026-12-12T11:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/olen-x-verkkokurssitus-12-9-12-12-2026-copy4"
   },
   {
     "venue": "kansallisteatteri",
