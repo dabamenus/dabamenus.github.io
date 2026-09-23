@@ -162,13 +162,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/mets-ss-soi-teatteri-ilmi"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Keskiviikon kulissikierros",
-    "start_time": "2026-09-23T16:30:00+03:00",
-    "url": ""
-  },
-  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Medusan huone",
