@@ -775,13 +775,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/9AC62EA1D4714817E6F1E225EEA2F391/taidetta-taaperoille"
   },
   {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Elina Pirinen:Ghosts of Rosegarden",
-    "start_time": "2026-10-06T16:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
-  },
-  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Tavallisuuden aave",
@@ -890,13 +883,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/mehrnoosh-zolfaghari/"
   },
   {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Elina Pirinen:Ghosts of Rosegarden",
-    "start_time": "2026-10-08T16:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
-  },
-  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Kriittisen Korkeakoulun syysiltamat",
@@ -938,13 +924,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-10-09T00:00:00+03:00",
     "end_time": "2026-10-09T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/4C3CFF87DF61C31077332CD73C58A526/helsinki-experimental-series"
-  },
-  {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Elina Pirinen:Ghosts of Rosegarden",
-    "start_time": "2026-10-09T16:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
   },
   {
     "venue": "espoonteatteri",
@@ -1009,13 +988,6 @@ window.SCRAPED_EVENTS = [
     "title": "Olen X (verkkokurssitus 12.9.-12.12. 2026)",
     "start_time": "2026-10-10T11:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/olen-x-verkkokurssitus-12-9-12-12-2026-copy"
-  },
-  {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Elina Pirinen:Ghosts of Rosegarden",
-    "start_time": "2026-10-10T12:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
   },
   {
     "venue": "kansallisteatteri",
