@@ -115,13 +115,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/sandyrella/"
   },
   {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Viidakon villit naiset",
-    "start_time": "2026-09-22T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
-  },
-  {
     "venue": "takomo",
     "venue_label": "Teatteri Takomo",
     "title": "Eteläpohjalaisia",
@@ -142,7 +135,7 @@ window.SCRAPED_EVENTS = [
     "title": "Pulpettikino",
     "start_time": "2026-09-23T00:00:00+03:00",
     "end_time": "2026-09-23T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/36BBE25C67323230B23B50CF260BC51B/pulpettikino"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/pulpettikino"
   },
   {
     "venue": "stoa",
@@ -150,7 +143,7 @@ window.SCRAPED_EVENTS = [
     "title": "Sirkuskurssi taaperoperheille",
     "start_time": "2026-09-23T00:00:00+03:00",
     "end_time": "2026-09-23T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/12FDC9D62779A4AED04DC44363C3B00A/sirkuskurssi-taaperoperheille"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkuskurssi-taaperoperheille"
   },
   {
     "venue": "stoa",
@@ -158,7 +151,7 @@ window.SCRAPED_EVENTS = [
     "title": "Sirkuskurssi vauvaperheille",
     "start_time": "2026-09-23T00:00:00+03:00",
     "end_time": "2026-09-23T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0C61E3B3B6D30E74BD742247AB4A9DBF/sirkuskurssi-vauvaperheille"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkuskurssi-vauvaperheille"
   },
   {
     "venue": "caisa",
@@ -166,7 +159,14 @@ window.SCRAPED_EVENTS = [
     "title": "Metsässä soi: Teatteri ILMI Ö",
     "start_time": "2026-09-23T00:00:00+03:00",
     "end_time": "2026-09-23T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/5A13E3F4792FF95ECD8ECC8655F5B254/mets-ss-soi-teatteri-ilmi"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/mets-ss-soi-teatteri-ilmi"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Keskiviikon kulissikierros",
+    "start_time": "2026-09-23T16:30:00+03:00",
+    "url": ""
   },
   {
     "venue": "espoonteatteri",
