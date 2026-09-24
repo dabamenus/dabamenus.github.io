@@ -28,6 +28,41 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/1984/"
   },
   {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Kati Raatikainen,Milla Martikainen:Sotku ja rakkaus",
+    "start_time": "2026-08-21T16:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Kati Raatikainen,Milla Martikainen:Sotku ja rakkaus",
+    "start_time": "2026-08-25T16:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Kati Raatikainen,Milla Martikainen:Sotku ja rakkaus",
+    "start_time": "2026-08-26T16:00:19+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Kati Raatikainen,Milla Martikainen:Sotku ja rakkaus",
+    "start_time": "2026-08-28T16:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Kati Raatikainen,Milla Martikainen:Sotku ja rakkaus",
+    "start_time": "2026-08-29T12:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
+  },
+  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Taidetta taaperoille",
@@ -36,12 +71,54 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/090BE058FE197926A7F00ACAA34B65A9/taidetta-taaperoille"
   },
   {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Kati Raatikainen,Milla Martikainen:Sotku ja rakkaus",
+    "start_time": "2026-09-01T16:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Kati Raatikainen,Milla Martikainen:Sotku ja rakkaus",
+    "start_time": "2026-09-02T16:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Kati Raatikainen,Milla Martikainen:Sotku ja rakkaus",
+    "start_time": "2026-09-03T16:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
+  },
+  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Daniel Palpa: Between Two Rivers",
     "start_time": "2026-09-04T00:00:00+03:00",
     "end_time": "2026-09-26T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/DDCBAA0CCEB34D1A6E10CE8DB52008AB/daniel-palpa-between-two-rivers"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Nina Davies & 2girls1comp:The Inexorable Non-Player Character",
+    "start_time": "2026-09-05T13:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/nina-davies-2girls1comp-inexorable-non-player-character"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Nina Davies & 2girls1comp:The Inexorable Non-Player Character",
+    "start_time": "2026-09-06T10:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/nina-davies-2girls1comp-inexorable-non-player-character"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Nina Davies & 2girls1comp:The Inexorable Non-Player Character",
+    "start_time": "2026-09-06T12:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/nina-davies-2girls1comp-inexorable-non-player-character"
   },
   {
     "venue": "tekstintalo",
@@ -115,11 +192,18 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/sandyrella/"
   },
   {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Eteläpohjalaisia",
-    "start_time": "2026-09-22T19:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-09-21T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-09-22T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "stoa",
@@ -130,18 +214,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/D88C1822202FDD5517A20FB653A6FB51/j-ljell-on-kuva"
   },
   {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Medusan huone",
-    "start_time": "2026-09-23T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/medusan-huone/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
-    "start_time": "2026-09-23T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-09-23T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "stoa",
@@ -157,7 +234,7 @@ window.SCRAPED_EVENTS = [
     "title": "Metsässä soi: Teatteri ILMI Ö",
     "start_time": "2026-09-24T00:00:00+03:00",
     "end_time": "2026-09-24T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/E685D7CF24D838985E04F18366A2C477/mets-ss-soi-teatteri-ilmi"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/mets-ss-soi-teatteri-ilmi"
   },
   {
     "venue": "caisa",
@@ -165,7 +242,7 @@ window.SCRAPED_EVENTS = [
     "title": "Taidetta taaperoille",
     "start_time": "2026-09-24T00:00:00+03:00",
     "end_time": "2026-09-24T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/D1B254D65CA2915372954D6CFC89D0BD/taidetta-taaperoille"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/taidetta-taaperoille"
   },
   {
     "venue": "kiasma",
@@ -201,6 +278,20 @@ window.SCRAPED_EVENTS = [
     "title": "Sivuraide",
     "start_time": "2026-09-24T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/sivuraide"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Kotijoukot",
+    "start_time": "2026-09-24T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Elolliset",
+    "start_time": "2026-09-24T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "caisa",
@@ -246,6 +337,20 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/orvot"
   },
   {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Kurtturuusut",
+    "start_time": "2026-09-25T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "&amp; Julia",
+    "start_time": "2026-09-25T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
     "venue": "takomo",
     "venue_label": "Teatteri Takomo",
     "title": "Eteläpohjalaisia",
@@ -282,6 +387,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kollaasin tekeminen",
     "start_time": "2026-09-26T11:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/kollaasin-tekeminen"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Kurtturuusut",
+    "start_time": "2026-09-26T12:00:00+03:00",
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "kansallisteatteri",
@@ -324,6 +436,13 @@ window.SCRAPED_EVENTS = [
     "title": "Karkelot",
     "start_time": "2026-09-26T15:00:00+03:00",
     "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-09-26T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -472,11 +591,25 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/211159120380EF5467A6F5B78C5D026D/sirkuskurssi-vauvaperheille"
   },
   {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Paneelikeskustelu tanssitaiteen tulevaisuudesta",
+    "start_time": "2026-09-30T13:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/paneelikeskustelu-tanssitaiteen-tulevaisuudesta"
+  },
+  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Tieteen ja toivon klubi",
     "start_time": "2026-09-30T18:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/tieteen-ja-toivon-klubi-300916"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-09-30T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "espoonteatteri",
@@ -530,6 +663,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/kirjajulkkarit-heikki-romppainen-joutoseutu"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-01T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Järjen hedelmät",
@@ -565,6 +705,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-10-02T00:00:00+03:00",
     "end_time": "2026-10-24T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/2419EF4BAE3AA1102F82CFBA79F490A0/mirjam-yeboah-emellan"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-02T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "espoonteatteri",
@@ -652,6 +799,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://espoonteatteri.fi/ohjelmisto/tavallisuuden-aave/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-03T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Toinen tasavalta",
@@ -734,6 +888,20 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-10-06T00:00:00+03:00",
     "end_time": "2026-10-06T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/9AC62EA1D4714817E6F1E225EEA2F391/taidetta-taaperoille"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Elina Pirinen:Ghosts of Rosegarden",
+    "start_time": "2026-10-06T16:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-06T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "espoonteatteri",
@@ -844,6 +1012,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/mehrnoosh-zolfaghari/"
   },
   {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Elina Pirinen:Ghosts of Rosegarden",
+    "start_time": "2026-10-08T16:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
+  },
+  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Kriittisen Korkeakoulun syysiltamat",
@@ -856,6 +1031,13 @@ window.SCRAPED_EVENTS = [
     "title": "d8zero presents: ZeroDating",
     "start_time": "2026-10-08T18:00:00+03:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/d8zero-presents-zerodating-0810"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-08T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "espoonteatteri",
@@ -885,6 +1067,27 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-10-09T00:00:00+03:00",
     "end_time": "2026-10-09T23:59:00+03:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/4C3CFF87DF61C31077332CD73C58A526/helsinki-experimental-series"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Paneelikeskustelu:tanssin esitystalojen ja vapaan kentän yhteistyö",
+    "start_time": "2026-10-09T12:30:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/paneelikeskustelu-tanssin-esitystalojen-ja-vapaan-kentan-yhteistyo"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Elina Pirinen:Ghosts of Rosegarden",
+    "start_time": "2026-10-09T16:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-09T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "espoonteatteri",
@@ -951,6 +1154,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/olen-x-verkkokurssitus-12-9-12-12-2026-copy"
   },
   {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Elina Pirinen:Ghosts of Rosegarden",
+    "start_time": "2026-10-10T12:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lopetus",
@@ -1014,6 +1224,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-10T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lady T",
@@ -1063,6 +1280,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-13T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "NUMI: Nuorten Uuden Musiikin Ilta",
@@ -1077,6 +1301,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-10-14T00:00:00+03:00",
     "end_time": "2026-10-18T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/238F475B3752DFAECA30F60A6B8E3630/cinemaiss-latin-american-film-festival"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-14T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -1121,6 +1352,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-15T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lopetus",
@@ -1155,6 +1393,13 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-10-16T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-16T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -1400,6 +1645,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/AE18C57C8FCBAE90C2F0F5F94F7F331E/transpoli-on-temppurata"
   },
   {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Eliel Tammiharju:Lampi 2",
+    "start_time": "2026-10-22T16:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/lampi-2"
+  },
+  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Dialoginen vuorovaikutus ihmissuhteissa ja yhteisöissä",
@@ -1419,6 +1671,13 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-10-22T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-22T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "ryhmateatteri",
@@ -1544,6 +1803,20 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/FE6441CE7CBDF12CB0DADB108203F360/transpoli-on-temppurata"
   },
   {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Tanssimista vai näyttelemistä?",
+    "start_time": "2026-10-24T07:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/tanssimista-vai-nayttelemista"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Eliel Tammiharju:Lampi 2",
+    "start_time": "2026-10-24T12:00:17+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/lampi-2"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Toinen tasavalta",
@@ -1584,6 +1857,13 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-10-24T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-24T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -1652,6 +1932,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/7FBAAC287C08250F2FA03A454128A085/tanssi-ja-leikki"
   },
   {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Keskustelua viestinnästä ja taiteesta",
+    "start_time": "2026-10-26T10:45:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/keskustelua-viestinnasta-ja-taiteesta"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "jos meiltä kysytään",
@@ -1703,6 +1990,20 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-10-27T00:00:00+02:00",
     "end_time": "2026-10-27T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F10C164FEB66042645F625F2B103D901/taidetta-taaperoille"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Eliel Tammiharju:Lampi 2",
+    "start_time": "2026-10-27T17:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/lampi-2"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-27T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "ryhmateatteri",
@@ -1757,6 +2058,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/121369993AA39DDCB2FA8EF40435A3C4/kauri-honkakoski-company-high-tide-nousuvesi"
   },
   {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Eliel Tammiharju:Lampi 2",
+    "start_time": "2026-10-28T17:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/lampi-2"
+  },
+  {
     "venue": "kiasma",
     "venue_label": "Kiasma",
     "title": "Entanglement: I am a tree, I am a mouth",
@@ -1769,6 +2077,13 @@ window.SCRAPED_EVENTS = [
     "title": "Writing of Disaster",
     "start_time": "2026-10-28T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-28T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "ryhmateatteri",
@@ -1838,6 +2153,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-2910"
   },
   {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Zodiak Laboratory:Lintu Lover & Edet Cane",
+    "start_time": "2026-10-29T15:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/zodiak-laboratory-lintu-lover-edet-cane"
+  },
+  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "d8zero presents: ZeroDating",
@@ -1850,6 +2172,13 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-10-29T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-29T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "ryhmateatteri",
@@ -1882,6 +2211,20 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/AF8043AFA23C9A82F0871693042F7CA3/luciana-garc-a-ensemble"
   },
   {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Zodiak Laboratory:Lintu Lover & Edet Cane",
+    "start_time": "2026-10-30T15:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/zodiak-laboratory-lintu-lover-edet-cane"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Eliel Tammiharju:Lampi 2",
+    "start_time": "2026-10-30T17:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/lampi-2"
+  },
+  {
     "venue": "kiasma",
     "venue_label": "Kiasma",
     "title": "Entanglement: I am a tree, I am a mouth",
@@ -1901,6 +2244,13 @@ window.SCRAPED_EVENTS = [
     "title": "Writing of Disaster",
     "start_time": "2026-10-30T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-30T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "ryhmateatteri",
@@ -1973,6 +2323,13 @@ window.SCRAPED_EVENTS = [
     "title": "Asiantuntijan neuvottelutaidot",
     "start_time": "2026-10-31T10:00:00+02:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/asiantuntijan-neuvottelutaidot"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Eliel Tammiharju:Lampi 2",
+    "start_time": "2026-10-31T13:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/lampi-2"
   },
   {
     "venue": "kansallisteatteri",
@@ -2085,11 +2442,25 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/EE318E599696EB8638A9013F83A945CD/taidetta-taaperoille"
   },
   {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Eliel Tammiharju:Lampi 2",
+    "start_time": "2026-11-03T17:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/lampi-2"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
     "start_time": "2026-11-03T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-03T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "stoa",
@@ -2114,6 +2485,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-11-04T00:00:00+02:00",
     "end_time": "2026-11-04T23:59:00+02:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0F706758633CD3E700335A7FBA6A3E15/taidetauko-ty-pajat"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Eliel Tammiharju:Lampi 2",
+    "start_time": "2026-11-04T17:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/lampi-2"
   },
   {
     "venue": "tekstintalo",
@@ -2198,6 +2576,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-05T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Mi Madre y el Dinero",
@@ -2241,6 +2626,13 @@ window.SCRAPED_EVENTS = [
     "title": "Writing of Disaster",
     "start_time": "2026-11-06T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-06T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "espoonteatteri",
@@ -2335,6 +2727,13 @@ window.SCRAPED_EVENTS = [
     "title": "Mi Madre y el Dinero",
     "start_time": "2026-11-07T15:00:00+02:00",
     "url": "https://espoonteatteri.fi/ohjelmisto/mi-madre-y-el-dinero/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-07T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -2496,6 +2895,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-11T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
@@ -2570,6 +2976,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-12T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
@@ -2605,6 +3018,13 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-11-13T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-13T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "ryhmateatteri",
@@ -2698,6 +3118,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kallo Collective: The Story of Pluto, Who Wanted to Be a Planet",
     "start_time": "2026-11-14T15:00:00+02:00",
     "url": "https://cirko.fi/esitys/kallo-collective-the-story-of-pluto-who-wanted-to-be-a-planet/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-14T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "espoonteatteri",
@@ -2817,6 +3244,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-17T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Taru hohtavasta helmestä",
@@ -2889,6 +3323,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-19T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
@@ -2916,6 +3357,13 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-11-20T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-20T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "ryhmateatteri",
@@ -2994,6 +3442,13 @@ window.SCRAPED_EVENTS = [
     "title": "Äitisi, Klytaimestra",
     "start_time": "2026-11-21T14:00:00+02:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-21T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -3113,6 +3568,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/7DB310224CBF71C0BD6224BFB9922767/yl-koulukino-orava"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-25T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Rakastavaisten kuoro",
@@ -3171,11 +3633,25 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-2611"
   },
   {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Marika Peura:Imperial Stage",
+    "start_time": "2026-11-26T17:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
     "start_time": "2026-11-26T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-26T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "espoonteatteri",
@@ -3242,6 +3718,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-27T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
@@ -3300,6 +3783,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/53ED8FE4FA23EFB486B3BB4E80680B18/qoomikot-kollektiivi-kv-rinp-in-x-caisa-tuoretta-verta"
   },
   {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Marika Peura:Imperial Stage",
+    "start_time": "2026-11-28T13:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Mirdja",
@@ -3340,6 +3830,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kauri Sorvari: Forevermore",
     "start_time": "2026-11-28T15:00:00+02:00",
     "url": "https://kiasma.fi/esitykset/kauri-sorvari-forevermore/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-28T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -3424,6 +3921,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/2817B28E0FBBF028E2516F628F052A6B/taidetta-taaperoille"
   },
   {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Marika Peura:Imperial Stage",
+    "start_time": "2026-12-01T17:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
+  },
+  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Vihreä kasvu ja irtikytkentä",
@@ -3443,6 +3947,13 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-12-01T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-12-01T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "espoonteatteri",
@@ -3494,6 +4005,13 @@ window.SCRAPED_EVENTS = [
     "title": "Toinen tasavalta",
     "start_time": "2026-12-02T12:00:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Marika Peura:Imperial Stage",
+    "start_time": "2026-12-02T17:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
   },
   {
     "venue": "kiasma",
@@ -3555,6 +4073,20 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/8EC343EB8E69786A30AE4A7043E05092/taidetta-taaperoille"
   },
   {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Zodiak Laboratory:Tuulia Soininen",
+    "start_time": "2026-12-03T15:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/zodiak-laboratory-tuulia-soininen"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Marika Peura:Imperial Stage",
+    "start_time": "2026-12-03T17:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
+  },
+  {
     "venue": "kiasma",
     "venue_label": "Kiasma",
     "title": "Kauri Sorvari: Forevermore",
@@ -3600,11 +4132,25 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/19EF86BED2C9441EEE12D8464610DF21/out-n-loud-hqfk-queerly-yours"
   },
   {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Zodiak Laboratory:Tuulia Soininen",
+    "start_time": "2026-12-04T15:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/zodiak-laboratory-tuulia-soininen"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
     "start_time": "2026-12-04T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-12-04T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "espoonteatteri",
@@ -3658,6 +4204,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/1FB4A0F24E2B543A7E832C7C7FD1FD81/tanssiteatteri-tsuumi-kulttuurikomppania-eloa-arvo"
   },
   {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Marika Peura:Imperial Stage",
+    "start_time": "2026-12-05T13:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lopetus",
@@ -3691,6 +4244,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kauri Sorvari: Forevermore",
     "start_time": "2026-12-05T15:00:00+02:00",
     "url": "https://kiasma.fi/esitykset/kauri-sorvari-forevermore/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-12-05T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -3745,6 +4305,20 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/0F0674610BC895B6B288CBABA6627C47/taidetta-taaperoille"
   },
   {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Marika Peura:Imperial Stage",
+    "start_time": "2026-12-08T17:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-12-08T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Rakastavaisten kuoro",
@@ -3779,6 +4353,20 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-12-09T00:00:00+02:00",
     "end_time": "2026-12-09T23:59:00+02:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/46257DE003E25E252501D49FFFA717CD/ballet-finland-keh"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Marika Peura:Imperial Stage",
+    "start_time": "2026-12-09T17:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-12-09T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "espoonteatteri",
@@ -3862,6 +4450,20 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-1012"
   },
   {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Marika Peura:Imperial Stage",
+    "start_time": "2026-12-10T17:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-12-10T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Rakastavaisten kuoro",
@@ -3912,6 +4514,13 @@ window.SCRAPED_EVENTS = [
     "title": "Heavenly Father",
     "start_time": "2026-12-11T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/heavenly-father/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-12-11T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
