@@ -205,7 +205,7 @@ window.SCRAPED_EVENTS = [
     "title": "Tapaa tekijä Stoan aulassa",
     "start_time": "2026-09-24T00:00:00+03:00",
     "end_time": "2026-09-24T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/6004C392043CB44F9C04323398C2E06F/tapaa-tekij-stoan-aulassa"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/tapaa-tekij-stoan-aulassa"
   },
   {
     "venue": "caisa",
@@ -222,13 +222,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-09-24T00:00:00+03:00",
     "end_time": "2026-09-24T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/taidetta-taaperoille"
-  },
-  {
-    "venue": "kiasma",
-    "venue_label": "Kiasma",
-    "title": "JUMALA=RAKKAUS",
-    "start_time": "2026-09-24T18:00:00+03:00",
-    "url": "https://kiasma.fi/esitykset/saana-pohjonen-henia-nikkila-jumalarakkaus/"
   },
   {
     "venue": "tekstintalo",
