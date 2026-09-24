@@ -200,30 +200,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/D88C1822202FDD5517A20FB653A6FB51/j-ljell-on-kuva"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Tapaa tekijä Stoan aulassa",
-    "start_time": "2026-09-24T00:00:00+03:00",
-    "end_time": "2026-09-24T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/tapaa-tekij-stoan-aulassa"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Metsässä soi: Teatteri ILMI Ö",
-    "start_time": "2026-09-24T00:00:00+03:00",
-    "end_time": "2026-09-24T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/mets-ss-soi-teatteri-ilmi"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-09-24T00:00:00+03:00",
-    "end_time": "2026-09-24T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/taidetta-taaperoille"
-  },
-  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Medusan huone",
