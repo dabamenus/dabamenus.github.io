@@ -224,13 +224,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/taidetta-taaperoille"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Kirjajulkkarit: Rakennenautintoja-työkirja",
-    "start_time": "2026-09-24T18:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/kirjajulkkarit-rakennenautintoja-tyokirja"
-  },
-  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Medusan huone",
@@ -4237,6 +4230,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-12-12T00:00:00+02:00",
     "end_time": "2026-12-12T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/BE29BF2F4806EE00BFD29DAD6D028362/amanda-lydia-traces-of-your-skin"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Olen X (verkkokurssitus 12.9.-12.12. 2026)",
+    "start_time": "2026-12-12T11:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/olen-x-verkkokurssitus-12-9-12-12-2026-copy4"
   },
   {
     "venue": "kansallisteatteri",
