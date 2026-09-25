@@ -200,21 +200,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/D88C1822202FDD5517A20FB653A6FB51/j-ljell-on-kuva"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Metsässä soi: Teatteri ILMI Ö",
-    "start_time": "2026-09-25T00:00:00+03:00",
-    "end_time": "2026-09-25T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/mets-ss-soi-teatteri-ilmi"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Re-Activating Youth’s Faith in the Future",
-    "start_time": "2026-09-25T17:30:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/re-activating-youth-s-faith-in-the-future"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lopetus",
