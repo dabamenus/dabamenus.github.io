@@ -200,47 +200,12 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/D88C1822202FDD5517A20FB653A6FB51/j-ljell-on-kuva"
   },
   {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Medusan huone",
-    "start_time": "2026-09-24T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/medusan-huone/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Viidakon villit naiset",
-    "start_time": "2026-09-24T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Sivuraide",
-    "start_time": "2026-09-24T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/sivuraide"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-09-24T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-09-24T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Metsässä soi: Teatteri ILMI Ö",
     "start_time": "2026-09-25T00:00:00+03:00",
     "end_time": "2026-09-25T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/70ED137A588621160D776EF1B4AB8EB2/mets-ss-soi-teatteri-ilmi"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/mets-ss-soi-teatteri-ilmi"
   },
   {
     "venue": "tekstintalo",
@@ -1017,6 +982,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/emilsanttuuuttuetal-valokuvista"
   },
   {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Eteläpohjalaisia",
+    "start_time": "2026-10-09T19:00:00+03:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+  },
+  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Legend of Harri Kala",
@@ -1065,6 +1037,13 @@ window.SCRAPED_EVENTS = [
     "title": "Viidakon villit naiset",
     "start_time": "2026-10-10T13:00:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Eteläpohjalaisia",
+    "start_time": "2026-10-10T14:00:00+03:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
   },
   {
     "venue": "espoonteatteri",
