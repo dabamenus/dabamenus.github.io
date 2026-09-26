@@ -228,7 +228,7 @@ window.SCRAPED_EVENTS = [
     "title": "Metsässä soi: Teatteri ILMI Ö",
     "start_time": "2026-09-26T00:00:00+03:00",
     "end_time": "2026-09-26T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F2111A44796F69960136ED41245BDF32/mets-ss-soi-teatteri-ilmi"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/mets-ss-soi-teatteri-ilmi"
   },
   {
     "venue": "tekstintalo",
@@ -257,13 +257,6 @@ window.SCRAPED_EVENTS = [
     "title": "Hajuvesi",
     "start_time": "2026-09-26T13:00:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/hajuvesi"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Kissani yhdeksän elämää",
-    "start_time": "2026-09-26T14:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/kissani-yhdeksan-elamaa"
   },
   {
     "venue": "takomo",
