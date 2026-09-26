@@ -97,7 +97,7 @@ window.SCRAPED_EVENTS = [
     "title": "Daniel Palpa: Between Two Rivers",
     "start_time": "2026-09-04T00:00:00+03:00",
     "end_time": "2026-09-26T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/DDCBAA0CCEB34D1A6E10CE8DB52008AB/daniel-palpa-between-two-rivers"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/daniel-palpa-between-two-rivers"
   },
   {
     "venue": "zodiak",
@@ -212,7 +212,7 @@ window.SCRAPED_EVENTS = [
     "title": "Idän kirjamessut",
     "start_time": "2026-09-26T00:00:00+03:00",
     "end_time": "2026-09-26T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/43645639A404B8082258BFC423B4BA25/id-n-kirjamessut"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/id-n-kirjamessut"
   },
   {
     "venue": "stoa",
@@ -220,7 +220,7 @@ window.SCRAPED_EVENTS = [
     "title": "Asa | Duo Vastaanotin",
     "start_time": "2026-09-26T00:00:00+03:00",
     "end_time": "2026-09-26T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/3128C0949DAADCC1E971639EEF2DB121/asa-duo-vastaanotin"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/asa-duo-vastaanotin"
   },
   {
     "venue": "caisa",
