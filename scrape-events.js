@@ -92,14 +92,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Daniel Palpa: Between Two Rivers",
-    "start_time": "2026-09-04T00:00:00+03:00",
-    "end_time": "2026-09-26T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/daniel-palpa-between-two-rivers"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Nina Davies & 2girls1comp:The Inexorable Non-Player Character",
@@ -200,37 +192,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/D88C1822202FDD5517A20FB653A6FB51/j-ljell-on-kuva"
   },
   {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Eteläpohjalaisia",
-    "start_time": "2026-09-25T19:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Idän kirjamessut",
-    "start_time": "2026-09-26T00:00:00+03:00",
-    "end_time": "2026-09-26T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/id-n-kirjamessut"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Asa | Duo Vastaanotin",
-    "start_time": "2026-09-26T00:00:00+03:00",
-    "end_time": "2026-09-26T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/asa-duo-vastaanotin"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Metsässä soi: Teatteri ILMI Ö",
-    "start_time": "2026-09-26T00:00:00+03:00",
-    "end_time": "2026-09-26T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/mets-ss-soi-teatteri-ilmi"
-  },
-  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Kollaasin tekeminen",
@@ -238,67 +199,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/kollaasin-tekeminen"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-09-26T12:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Lady T",
-    "start_time": "2026-09-26T13:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Hajuvesi",
-    "start_time": "2026-09-26T13:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/hajuvesi"
-  },
-  {
     "venue": "takomo",
     "venue_label": "Teatteri Takomo",
     "title": "Eteläpohjalaisia",
     "start_time": "2026-09-26T14:00:00+03:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Medusan huone",
-    "start_time": "2026-09-26T14:00:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/medusan-huone/"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Karkelot",
-    "start_time": "2026-09-26T15:00:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Orvot",
-    "start_time": "2026-09-26T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/orvot"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Kepeä elämäni",
-    "start_time": "2026-09-26T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/kepea-elamani"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Viidakon villit naiset",
-    "start_time": "2026-09-26T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
   },
   {
     "venue": "kiasma",
@@ -342,6 +247,13 @@ window.SCRAPED_EVENTS = [
     "title": "Viidakon villit naiset",
     "start_time": "2026-09-28T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Nauravan kulkurin tarina",
+    "start_time": "2026-09-28T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "takomo",
