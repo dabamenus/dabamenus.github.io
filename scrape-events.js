@@ -1588,13 +1588,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/7FBAAC287C08250F2FA03A454128A085/tanssi-ja-leikki"
   },
   {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Keskustelua viestinnästä ja taiteesta",
-    "start_time": "2026-10-26T10:45:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/keskustelua-viestinnasta-ja-taiteesta"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "jos meiltä kysytään",
@@ -3170,13 +3163,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-2611"
   },
   {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Marika Peura:Imperial Stage",
-    "start_time": "2026-11-26T17:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
@@ -3306,13 +3292,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/53ED8FE4FA23EFB486B3BB4E80680B18/qoomikot-kollektiivi-kv-rinp-in-x-caisa-tuoretta-verta"
   },
   {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Marika Peura:Imperial Stage",
-    "start_time": "2026-11-28T13:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Mirdja",
@@ -3437,13 +3416,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/2817B28E0FBBF028E2516F628F052A6B/taidetta-taaperoille"
   },
   {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Marika Peura:Imperial Stage",
-    "start_time": "2026-12-01T17:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
-  },
-  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Vihreä kasvu ja irtikytkentä",
@@ -3516,13 +3488,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Marika Peura:Imperial Stage",
-    "start_time": "2026-12-02T17:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
-  },
-  {
     "venue": "kiasma",
     "venue_label": "Kiasma",
     "title": "Kauri Sorvari: Forevermore",
@@ -3582,20 +3547,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/8EC343EB8E69786A30AE4A7043E05092/taidetta-taaperoille"
   },
   {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Zodiak Laboratory:Tuulia Soininen",
-    "start_time": "2026-12-03T15:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/zodiak-laboratory-tuulia-soininen"
-  },
-  {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Marika Peura:Imperial Stage",
-    "start_time": "2026-12-03T17:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
-  },
-  {
     "venue": "kiasma",
     "venue_label": "Kiasma",
     "title": "Kauri Sorvari: Forevermore",
@@ -3639,13 +3590,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-12-04T00:00:00+02:00",
     "end_time": "2026-12-04T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/19EF86BED2C9441EEE12D8464610DF21/out-n-loud-hqfk-queerly-yours"
-  },
-  {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Zodiak Laboratory:Tuulia Soininen",
-    "start_time": "2026-12-04T15:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/zodiak-laboratory-tuulia-soininen"
   },
   {
     "venue": "viirus",
@@ -3704,13 +3648,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-12-05T00:00:00+02:00",
     "end_time": "2026-12-05T23:59:00+02:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/1FB4A0F24E2B543A7E832C7C7FD1FD81/tanssiteatteri-tsuumi-kulttuurikomppania-eloa-arvo"
-  },
-  {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Marika Peura:Imperial Stage",
-    "start_time": "2026-12-05T13:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
   },
   {
     "venue": "kansallisteatteri",
@@ -3800,13 +3737,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/0F0674610BC895B6B288CBABA6627C47/taidetta-taaperoille"
   },
   {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Marika Peura:Imperial Stage",
-    "start_time": "2026-12-08T17:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
-  },
-  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Rakastavaisten kuoro",
@@ -3841,13 +3771,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-12-09T00:00:00+02:00",
     "end_time": "2026-12-09T23:59:00+02:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/46257DE003E25E252501D49FFFA717CD/ballet-finland-keh"
-  },
-  {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Marika Peura:Imperial Stage",
-    "start_time": "2026-12-09T17:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
   },
   {
     "venue": "espoonteatteri",
@@ -3929,13 +3852,6 @@ window.SCRAPED_EVENTS = [
     "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
     "start_time": "2026-12-10T14:00:00+02:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-1012"
-  },
-  {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Marika Peura:Imperial Stage",
-    "start_time": "2026-12-10T17:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
   },
   {
     "venue": "espoonteatteri",
