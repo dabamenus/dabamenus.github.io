@@ -206,13 +206,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
   },
   {
-    "venue": "kiasma",
-    "venue_label": "Kiasma",
-    "title": "JUMALA=RAKKAUS",
-    "start_time": "2026-09-27T14:00:00+03:00",
-    "url": "https://kiasma.fi/esitykset/saana-pohjonen-henia-nikkila-jumalarakkaus/"
-  },
-  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Karkelot",
