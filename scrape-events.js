@@ -195,13 +195,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/taidetta-taaperoille"
   },
   {
-    "venue": "kiasma",
-    "venue_label": "Kiasma",
-    "title": "JUMALA=RAKKAUS",
-    "start_time": "2026-09-29T18:00:00+03:00",
-    "url": "https://kiasma.fi/esitykset/saana-pohjonen-henia-nikkila-jumalarakkaus/"
-  },
-  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Tavallisuuden aave",
