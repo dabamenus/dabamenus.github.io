@@ -194,13 +194,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/paneelikeskustelu-tanssitaiteen-tulevaisuudesta"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Tieteen ja toivon klubi",
-    "start_time": "2026-09-30T18:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/tieteen-ja-toivon-klubi-300916"
-  },
-  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Medusan huone",
