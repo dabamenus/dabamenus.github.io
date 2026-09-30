@@ -171,41 +171,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi taaperoperheille",
-    "start_time": "2026-09-30T00:00:00+03:00",
-    "end_time": "2026-09-30T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkuskurssi-taaperoperheille"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi vauvaperheille",
-    "start_time": "2026-09-30T00:00:00+03:00",
-    "end_time": "2026-09-30T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkuskurssi-vauvaperheille"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Paneelikeskustelu tanssitaiteen tulevaisuudesta",
     "start_time": "2026-09-30T13:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/paneelikeskustelu-tanssitaiteen-tulevaisuudesta"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Medusan huone",
-    "start_time": "2026-09-30T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/medusan-huone/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Lady T",
-    "start_time": "2026-09-30T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
   },
   {
     "venue": "hkt",
