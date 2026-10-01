@@ -164,53 +164,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/D88C1822202FDD5517A20FB653A6FB51/j-ljell-on-kuva"
   },
   {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Eteläpohjalaisia",
-    "start_time": "2026-09-29T19:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Paneelikeskustelu tanssitaiteen tulevaisuudesta",
     "start_time": "2026-09-30T13:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/paneelikeskustelu-tanssitaiteen-tulevaisuudesta"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-09-30T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-09-30T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-09-30T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-09-30T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Club act!one",
-    "start_time": "2026-09-30T19:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
     "venue": "stoa",
@@ -226,7 +184,7 @@ window.SCRAPED_EVENTS = [
     "title": "Taidetta taaperoille",
     "start_time": "2026-10-01T00:00:00+03:00",
     "end_time": "2026-10-01T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F2CF3754E55F9CC3BADE758C3BEE7E30/taidetta-taaperoille"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/taidetta-taaperoille"
   },
   {
     "venue": "tekstintalo",
@@ -4168,6 +4126,13 @@ window.SCRAPED_EVENTS = [
     "venue_label": "& Espoon Teatteri",
     "title": "Rakastavaisten kuoro",
     "start_time": "2026-12-28T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Rakastavaisten kuoro",
+    "start_time": "2026-12-29T18:30:00+02:00",
     "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
   },
   {
