@@ -194,13 +194,6 @@ window.SCRAPED_EVENTS = [
     "url": ""
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Kirjajulkkarit: Heikki Romppainen - Joutoseutu",
-    "start_time": "2026-10-01T18:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/kirjajulkkarit-heikki-romppainen-joutoseutu"
-  },
-  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Järjen hedelmät",
