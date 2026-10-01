@@ -176,7 +176,7 @@ window.SCRAPED_EVENTS = [
     "title": "Ismo Dance Company: 5 koreografiaa rakkaudesta | Ensi-ilta",
     "start_time": "2026-10-01T00:00:00+03:00",
     "end_time": "2026-10-01T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/75784889EC9AE0FE4A84FC172C6E2F1E/ismo-dance-company-5-koreografiaa-rakkaudesta-ensi-ilta"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/ismo-dance-company-5-koreografiaa-rakkaudesta-ensi-ilta"
   },
   {
     "venue": "caisa",
