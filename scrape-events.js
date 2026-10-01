@@ -173,50 +173,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
-    "title": "Ismo Dance Company: 5 koreografiaa rakkaudesta | Ensi-ilta",
-    "start_time": "2026-10-01T00:00:00+03:00",
-    "end_time": "2026-10-01T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/ismo-dance-company-5-koreografiaa-rakkaudesta-ensi-ilta"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-10-01T00:00:00+03:00",
-    "end_time": "2026-10-01T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/taidetta-taaperoille"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "?",
-    "start_time": "2026-10-01T17:30:00+03:00",
-    "url": ""
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Järjen hedelmät",
-    "start_time": "2026-10-01T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/jarjen-hedelmat/"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Karkelot",
-    "start_time": "2026-10-01T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
-    "start_time": "2026-10-01T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
     "title": "Ismo Dance Company: 5 koreografiaa rakkaudesta",
     "start_time": "2026-10-02T00:00:00+03:00",
     "end_time": "2026-10-02T23:59:00+03:00",
