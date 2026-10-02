@@ -187,13 +187,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/2419EF4BAE3AA1102F82CFBA79F490A0/mirjam-yeboah-emellan"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Nihil Interitin valtakunnallisten runopalkintojen julkistaminen Turun kirjamessuilla 2026",
-    "start_time": "2026-10-02T17:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/nihil-interitin-valtakunnallisten-runopalkintojen-julkistaminen-turun-kirjamessuilla"
-  },
-  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Järjen hedelmät",
@@ -1164,9 +1157,9 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "?",
+    "title": "Kirjailijat lavalla",
     "start_time": "2026-10-23T17:30:00+03:00",
-    "url": ""
+    "url": "https://www.kansallisteatteri.fi/esitys/kirjailijat-lavalla"
   },
   {
     "venue": "viirus",
@@ -2543,9 +2536,9 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "?",
+    "title": "Kirjailijat lavalla",
     "start_time": "2026-11-16T17:30:00+02:00",
-    "url": ""
+    "url": "https://www.kansallisteatteri.fi/esitys/kirjailijat-lavalla"
   },
   {
     "venue": "espoonteatteri",
@@ -3548,9 +3541,9 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "?",
+    "title": "Kirjailijat lavalla",
     "start_time": "2026-12-07T17:30:00+02:00",
-    "url": ""
+    "url": "https://www.kansallisteatteri.fi/esitys/kirjailijat-lavalla"
   },
   {
     "venue": "universum",
@@ -4216,6 +4209,55 @@ window.SCRAPED_EVENTS = [
     "title": "Kettutytön paluu",
     "start_time": "2027-02-09T19:00:00+02:00",
     "url": "https://universum.fi/events/kettutyton-paluu-9-2/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Eteläpohjalaisia",
+    "start_time": "2027-02-13T14:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Eteläpohjalaisia",
+    "start_time": "2027-02-13T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Eteläpohjalaisia",
+    "start_time": "2027-02-14T14:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Eteläpohjalaisia",
+    "start_time": "2027-02-16T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Eteläpohjalaisia",
+    "start_time": "2027-02-18T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Eteläpohjalaisia",
+    "start_time": "2027-02-19T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Eteläpohjalaisia",
+    "start_time": "2027-02-20T14:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
   },
   {
     "venue": "svenska",
