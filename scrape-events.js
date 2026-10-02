@@ -176,7 +176,7 @@ window.SCRAPED_EVENTS = [
     "title": "Ismo Dance Company: 5 koreografiaa rakkaudesta",
     "start_time": "2026-10-02T00:00:00+03:00",
     "end_time": "2026-10-02T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/FBE93A6C773D9473951E89692EFC9636/ismo-dance-company-5-koreografiaa-rakkaudesta"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/ismo-dance-company-5-koreografiaa-rakkaudesta"
   },
   {
     "venue": "caisa",
