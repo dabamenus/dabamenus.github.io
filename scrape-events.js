@@ -171,55 +171,12 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/paneelikeskustelu-tanssitaiteen-tulevaisuudesta"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Ismo Dance Company: 5 koreografiaa rakkaudesta",
-    "start_time": "2026-10-02T00:00:00+03:00",
-    "end_time": "2026-10-02T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/ismo-dance-company-5-koreografiaa-rakkaudesta"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Mirjam Yeboah: Emellan",
     "start_time": "2026-10-02T00:00:00+03:00",
     "end_time": "2026-10-24T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/2419EF4BAE3AA1102F82CFBA79F490A0/mirjam-yeboah-emellan"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Järjen hedelmät",
-    "start_time": "2026-10-02T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/jarjen-hedelmat/"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Karkelot",
-    "start_time": "2026-10-02T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/karkelot/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Viidakon villit naiset",
-    "start_time": "2026-10-02T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Sivuraide",
-    "start_time": "2026-10-02T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/sivuraide"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Orvot",
-    "start_time": "2026-10-02T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/orvot"
   },
   {
     "venue": "stoa",
