@@ -163,14 +163,7 @@ window.SCRAPED_EVENTS = [
     "title": "E1T1: Each One Teach One TÄYNNÄ",
     "start_time": "2026-10-05T00:00:00+03:00",
     "end_time": "2026-10-06T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F5A2D3122CD23912709EE4F695E0DA9B/e1t1-each-one-teach-one-t-ynn"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-10-05T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/e1t1-each-one-teach-one-t-ynn"
   },
   {
     "venue": "stoa",
@@ -871,6 +864,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-10-21T00:00:00+03:00",
     "end_time": "2026-10-21T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/0F257B1DA36DE4C4D34DFFA60E259140/transpoli-on-temppurata-ensi-ilta"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "TUAn triplajulkkarit",
+    "start_time": "2026-10-21T17:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/tua-julkkarit"
   },
   {
     "venue": "ryhmateatteri",
