@@ -171,7 +171,7 @@ window.SCRAPED_EVENTS = [
     "title": "Ohjatut päivätanssit Stoan aulassa",
     "start_time": "2026-10-06T00:00:00+03:00",
     "end_time": "2026-10-06T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/E88FD69E2D363CF0EB403E7F641A2B2D/ohjatut-p-iv-tanssit-stoan-aulassa"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/ohjatut-p-iv-tanssit-stoan-aulassa"
   },
   {
     "venue": "stoa",
@@ -179,7 +179,7 @@ window.SCRAPED_EVENTS = [
     "title": "Sirkuskurssi senioreille, Ryhmä 1",
     "start_time": "2026-10-06T00:00:00+03:00",
     "end_time": "2026-10-06T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/5350FEF475E8C47716309543288DA2E7/sirkuskurssi-senioreille-ryhm-1"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkuskurssi-senioreille-ryhm-1"
   },
   {
     "venue": "stoa",
@@ -187,7 +187,7 @@ window.SCRAPED_EVENTS = [
     "title": "Sirkuskurssi senioreille, Ryhmä 2",
     "start_time": "2026-10-06T00:00:00+03:00",
     "end_time": "2026-10-06T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/5C75C823402BFDBC299BA6765D23FCFE/sirkuskurssi-senioreille-ryhm-2"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkuskurssi-senioreille-ryhm-2"
   },
   {
     "venue": "caisa",
@@ -195,7 +195,7 @@ window.SCRAPED_EVENTS = [
     "title": "Taidetta taaperoille",
     "start_time": "2026-10-06T00:00:00+03:00",
     "end_time": "2026-10-06T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/9AC62EA1D4714817E6F1E225EEA2F391/taidetta-taaperoille"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/taidetta-taaperoille"
   },
   {
     "venue": "hkt",
@@ -224,13 +224,6 @@ window.SCRAPED_EVENTS = [
     "title": "Tavallisuuden aave",
     "start_time": "2026-10-06T18:30:00+03:00",
     "url": "https://espoonteatteri.fi/ohjelmisto/tavallisuuden-aave/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Äitisi, Klytaimestra",
-    "start_time": "2026-10-06T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2683,6 +2676,20 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
   },
   {
+    "venue": "cirko",
+    "venue_label": "Cirko",
+    "title": "Kinetic Orchestra: Silence",
+    "start_time": "2026-11-21T19:00:00+02:00",
+    "url": "https://cirko.fi/esitys/kinetic-orchestra-silence-2/"
+  },
+  {
+    "venue": "cirko",
+    "venue_label": "Cirko",
+    "title": "Kinetic Orchestra: Silence",
+    "start_time": "2026-11-22T19:00:00+02:00",
+    "url": "https://cirko.fi/esitys/kinetic-orchestra-silence-2/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "ANDETAG",
@@ -2770,6 +2777,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/starman"
   },
   {
+    "venue": "cirko",
+    "venue_label": "Cirko",
+    "title": "Kinetic Orchestra: Silence",
+    "start_time": "2026-11-24T19:00:00+02:00",
+    "url": "https://cirko.fi/esitys/kinetic-orchestra-silence-2/"
+  },
+  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Skidikino: Antonia Ringbom – Keltaisen kirahvin eläintarinoita 1",
@@ -2819,6 +2833,13 @@ window.SCRAPED_EVENTS = [
     "title": "The Escape Room",
     "start_time": "2026-11-25T19:00:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/the-escape-room/"
+  },
+  {
+    "venue": "cirko",
+    "venue_label": "Cirko",
+    "title": "Kinetic Orchestra: Silence",
+    "start_time": "2026-11-25T19:00:00+02:00",
+    "url": "https://cirko.fi/esitys/kinetic-orchestra-silence-2/"
   },
   {
     "venue": "stoa",
@@ -2957,6 +2978,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/the-escape-room/"
   },
   {
+    "venue": "cirko",
+    "venue_label": "Cirko",
+    "title": "Kinetic Orchestra: Silence",
+    "start_time": "2026-11-27T19:00:00+02:00",
+    "url": "https://cirko.fi/esitys/kinetic-orchestra-silence-2/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "ANDETAG",
@@ -3050,6 +3078,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/the-escape-room/"
   },
   {
+    "venue": "cirko",
+    "venue_label": "Cirko",
+    "title": "Kinetic Orchestra: Silence",
+    "start_time": "2026-11-28T19:00:00+02:00",
+    "url": "https://cirko.fi/esitys/kinetic-orchestra-silence-2/"
+  },
+  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Tanssiteatteri Tsuumi & kulttuurikomppania Eloa: Arvo",
@@ -3063,6 +3098,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kauri Sorvari: Forevermore",
     "start_time": "2026-11-29T15:00:00+02:00",
     "url": "https://kiasma.fi/esitykset/kauri-sorvari-forevermore/"
+  },
+  {
+    "venue": "cirko",
+    "venue_label": "Cirko",
+    "title": "Kinetic Orchestra: Silence",
+    "start_time": "2026-11-29T19:00:00+02:00",
+    "url": "https://cirko.fi/esitys/kinetic-orchestra-silence-2/"
   },
   {
     "venue": "caisa",
