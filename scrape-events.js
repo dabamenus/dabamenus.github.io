@@ -212,13 +212,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Esteetön kulissikierros",
-    "start_time": "2026-10-06T16:30:00+03:00",
-    "url": ""
-  },
-  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Tavallisuuden aave",
