@@ -249,7 +249,7 @@ window.SCRAPED_EVENTS = [
     "title": "Taidetauko-työpajat",
     "start_time": "2026-10-07T00:00:00+03:00",
     "end_time": "2026-10-07T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/862D7D91FAF9270E0DE4E4C1B8D1A9B8/taidetauko-ty-pajat"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/taidetauko-ty-pajat"
   },
   {
     "venue": "hkt",
@@ -3213,6 +3213,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/53ED8FE4FA23EFB486B3BB4E80680B18/qoomikot-kollektiivi-kv-rinp-in-x-caisa-tuoretta-verta"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Runoverstas Suonenjoella",
+    "start_time": "2026-11-28T10:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/runoverstas-suonenjoella"
+  },
+  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Marika Peura:Imperial Stage",
@@ -3954,10 +3961,10 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "caisa",
     "venue_label": "Caisa",
-    "title": "Amanda & Lydia: Traces of Your Skin | Ensi-ilta",
+    "title": "Amanda & Lydia: Traces of Your Skin",
     "start_time": "2026-12-11T00:00:00+02:00",
     "end_time": "2026-12-11T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/1B6B327DCA7AE32A28B4398CA341ADA6/amanda-lydia-traces-of-your-skin-ensi-ilta"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/1B6B327DCA7AE32A28B4398CA341ADA6/amanda-lydia-traces-of-your-skin"
   },
   {
     "venue": "viirus",
@@ -4006,10 +4013,10 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "caisa",
     "venue_label": "Caisa",
-    "title": "Amanda & Lydia: Traces of Your Skin | Ensi-ilta",
+    "title": "Amanda & Lydia: Traces of Your Skin",
     "start_time": "2026-12-12T00:00:00+02:00",
     "end_time": "2026-12-12T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/BE29BF2F4806EE00BFD29DAD6D028362/amanda-lydia-traces-of-your-skin-ensi-ilta"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/BE29BF2F4806EE00BFD29DAD6D028362/amanda-lydia-traces-of-your-skin"
   },
   {
     "venue": "tekstintalo",
