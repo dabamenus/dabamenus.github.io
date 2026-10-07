@@ -165,30 +165,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi taaperoperheille",
-    "start_time": "2026-10-07T00:00:00+03:00",
-    "end_time": "2026-10-07T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkuskurssi-taaperoperheille"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi vauvaperheille",
-    "start_time": "2026-10-07T00:00:00+03:00",
-    "end_time": "2026-10-07T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkuskurssi-vauvaperheille"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Taidetauko-työpajat",
-    "start_time": "2026-10-07T00:00:00+03:00",
-    "end_time": "2026-10-07T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/taidetauko-ty-pajat"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Seniorisoppa",
@@ -196,39 +172,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/seniorisoppa-2/"
   },
   {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
-    "start_time": "2026-10-07T12:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kurtturuusut",
     "start_time": "2026-10-07T13:00:00+03:00",
     "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Järjen hedelmät",
-    "start_time": "2026-10-07T18:30:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/jarjen-hedelmat/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Sivuraide",
-    "start_time": "2026-10-07T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/sivuraide"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Eino Leinon Eksät – enemmän ja vähemmän muusina",
-    "start_time": "2026-10-07T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/eino-leinon-eksat-enemman-ja-vahemman-muusina"
   },
   {
     "venue": "svenska",
