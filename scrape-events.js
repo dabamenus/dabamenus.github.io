@@ -193,20 +193,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Kriittisen Korkeakoulun syysiltamat",
-    "start_time": "2026-10-08T17:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/kriittisen-korkeakoulun-syysiltamat"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "d8zero presents: ZeroDating",
-    "start_time": "2026-10-08T18:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/d8zero-presents-zerodating-0810"
-  },
-  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Tavallisuuden aave",
