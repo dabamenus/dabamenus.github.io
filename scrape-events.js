@@ -165,27 +165,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Seniorisoppa",
-    "start_time": "2026-10-07T11:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/seniorisoppa-2/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-10-07T13:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Manu Rosales: Volver siguiendo",
-    "start_time": "2026-10-07T19:00:00+03:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/manu-rosales/"
-  },
-  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Vierailu: Viimeinen kirje rintamalta",
@@ -247,6 +226,27 @@ window.SCRAPED_EVENTS = [
     "title": "Toinen tasavalta",
     "start_time": "2026-10-08T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Kotijoukot",
+    "start_time": "2026-10-08T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Elolliset",
+    "start_time": "2026-10-08T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/elolliset/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Nauravan kulkurin tarina",
+    "start_time": "2026-10-08T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "stoa",
@@ -1432,13 +1432,6 @@ window.SCRAPED_EVENTS = [
     "title": "Toinen tasavalta",
     "start_time": "2026-10-30T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Manu Rosales: Volver siguiendo",
-    "start_time": "2026-10-30T19:00:00+02:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/manu-rosales/"
   },
   {
     "venue": "svenska",
@@ -3300,6 +3293,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Joanna Haartti &  Viiksi-instituutti: Kaksoisolento",
+    "start_time": "2026-12-04T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/joanna-haartti-viiksi-instituutti-kaksoisolento/"
+  },
+  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Balladeja ja hävyttömyyksiä",
@@ -3502,6 +3502,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
   },
   {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Joanna Haartti &  Viiksi-instituutti: Kaksoisolento",
+    "start_time": "2026-12-09T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/joanna-haartti-viiksi-instituutti-kaksoisolento/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Kettutytön paluu",
@@ -3694,6 +3701,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
   },
   {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Joanna Haartti &  Viiksi-instituutti: Kaksoisolento",
+    "start_time": "2026-12-13T15:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/joanna-haartti-viiksi-instituutti-kaksoisolento/"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Heavenly Father",
@@ -3779,6 +3793,13 @@ window.SCRAPED_EVENTS = [
     "title": "Lady T",
     "start_time": "2026-12-16T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Joanna Haartti &  Viiksi-instituutti: Kaksoisolento",
+    "start_time": "2026-12-16T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/joanna-haartti-viiksi-instituutti-kaksoisolento/"
   },
   {
     "venue": "svenska",
@@ -3909,13 +3930,6 @@ window.SCRAPED_EVENTS = [
     "title": "Lopetus",
     "start_time": "2026-12-19T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/lopetus"
-  },
-  {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Manu Rosales: Volver siguiendo",
-    "start_time": "2026-12-19T19:00:00+02:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/manu-rosales/"
   },
   {
     "venue": "svenska",
