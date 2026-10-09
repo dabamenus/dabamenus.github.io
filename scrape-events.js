@@ -222,13 +222,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Emil Santtu Uuttu Et al. Valokuvista",
-    "start_time": "2026-10-09T19:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/emilsanttuuuttuetal-valokuvista"
-  },
-  {
     "venue": "takomo",
     "venue_label": "Teatteri Takomo",
     "title": "Eteläpohjalaisia",
