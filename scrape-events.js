@@ -177,7 +177,7 @@ window.SCRAPED_EVENTS = [
     "title": "Helsinki Experimental Series",
     "start_time": "2026-10-09T00:00:00+03:00",
     "end_time": "2026-10-09T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/4C3CFF87DF61C31077332CD73C58A526/helsinki-experimental-series"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/helsinki-experimental-series"
   },
   {
     "venue": "zodiak",
