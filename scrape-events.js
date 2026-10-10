@@ -193,14 +193,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Hildá Länsman & Tuomas Norvio | Aizhan Sultan | DJ Bunuel",
-    "start_time": "2026-10-10T00:00:00+03:00",
-    "end_time": "2026-10-10T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/hild-l-nsman-tuomas-norvio-aizhan-sultan-dj-bunuel"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Elina Pirinen:Ghosts of Rosegarden",
