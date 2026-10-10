@@ -198,7 +198,7 @@ window.SCRAPED_EVENTS = [
     "title": "Hildá Länsman & Tuomas Norvio | Aizhan Sultan | DJ Bunuel",
     "start_time": "2026-10-10T00:00:00+03:00",
     "end_time": "2026-10-10T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/AB8162EDA65DD5D93730C2F95FD05E36/hild-l-nsman-tuomas-norvio-aizhan-sultan-dj-bunuel"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/hild-l-nsman-tuomas-norvio-aizhan-sultan-dj-bunuel"
   },
   {
     "venue": "zodiak",
