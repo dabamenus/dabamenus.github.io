@@ -185,20 +185,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Eino Leinon Eksät – enemmän ja vähemmän muusina",
-    "start_time": "2026-10-12T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/eino-leinon-eksat-enemman-ja-vahemman-muusina"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Orvot",
-    "start_time": "2026-10-12T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/orvot"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kiviä taskussa",
