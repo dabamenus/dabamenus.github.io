@@ -178,25 +178,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/paneelikeskustelu-tanssin-esitystalojen-ja-vapaan-kentan-yhteistyo"
   },
   {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Eteläpohjalaisia",
-    "start_time": "2026-10-10T14:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
     "start_time": "2026-10-10T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
-  },
-  {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Vierailu: Viimeinen kirje rintamalta",
-    "start_time": "2026-10-10T19:00:00+03:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/viimeinen-kirje-rintamalta/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2899,13 +2885,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
   },
   {
-    "venue": "kiasma",
-    "venue_label": "Kiasma",
-    "title": "Kauri Sorvari: Forevermore",
-    "start_time": "2026-12-02T18:00:00+02:00",
-    "url": "https://kiasma.fi/esitykset/kauri-sorvari-forevermore/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
@@ -3064,6 +3043,20 @@ window.SCRAPED_EVENTS = [
     "title": "Joanna Haartti &  Viiksi-instituutti: Kaksoisolento",
     "start_time": "2026-12-04T19:00:00+02:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/joanna-haartti-viiksi-instituutti-kaksoisolento/"
+  },
+  {
+    "venue": "svenska",
+    "venue_label": "Svenska Teatern",
+    "title": "Wishamalii (FI/JO)",
+    "start_time": "2026-12-04T19:00:00+02:00",
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/wishamalii/"
+  },
+  {
+    "venue": "svenska",
+    "venue_label": "Svenska Teatern",
+    "title": "Mehrnoosh Zolfaghari: Awakening",
+    "start_time": "2026-12-04T19:00:00+02:00",
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/mehrnoosh-zolfaghari/"
   },
   {
     "venue": "svenska",
@@ -3284,10 +3277,10 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "stoa",
     "venue_label": "Stoa",
-    "title": "Opi suomea laulaen",
+    "title": "Opi suomea laulaen VALO-luokille",
     "start_time": "2026-12-10T00:00:00+02:00",
     "end_time": "2026-12-10T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F5811D59BA0A785414ADD38AA3CFC012/opi-suomea-laulaen"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F5811D59BA0A785414ADD38AA3CFC012/opi-suomea-laulaen-valo-luokille"
   },
   {
     "venue": "stoa",
@@ -3696,6 +3689,13 @@ window.SCRAPED_EVENTS = [
     "title": "Viidakon villit naiset",
     "start_time": "2026-12-19T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
+  },
+  {
+    "venue": "svenska",
+    "venue_label": "Svenska Teatern",
+    "title": "Wishamalii (FI/JO)",
+    "start_time": "2026-12-19T19:00:00+02:00",
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/wishamalii/"
   },
   {
     "venue": "svenska",
