@@ -185,13 +185,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kiviä taskussa",
-    "start_time": "2026-10-12T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
