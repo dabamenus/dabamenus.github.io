@@ -4196,6 +4196,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
   },
   {
+    "venue": "svenska",
+    "venue_label": "Svenska Teatern",
+    "title": "Tommy Körberg – Unplugged",
+    "start_time": "2027-04-09T19:00:00+03:00",
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/tommy-korberg-unplugged/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Vinterkvällar",
