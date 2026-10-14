@@ -173,9 +173,37 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "zodiak",
     "venue_label": "Zodiak",
+    "title": "Elina Pirinen:Ghosts of Rosegarden",
+    "start_time": "2026-10-06T16:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Elina Pirinen:Ghosts of Rosegarden",
+    "start_time": "2026-10-08T16:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
     "title": "Paneelikeskustelu:tanssin esitystalojen ja vapaan kentän yhteistyö",
     "start_time": "2026-10-09T12:30:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/paneelikeskustelu-tanssin-esitystalojen-ja-vapaan-kentan-yhteistyo"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Elina Pirinen:Ghosts of Rosegarden",
+    "start_time": "2026-10-09T16:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Elina Pirinen:Ghosts of Rosegarden",
+    "start_time": "2026-10-10T12:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
   },
   {
     "venue": "viirus",
