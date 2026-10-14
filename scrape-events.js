@@ -197,7 +197,7 @@ window.SCRAPED_EVENTS = [
     "title": "NUMI: Nuorten Uuden Musiikin Ilta",
     "start_time": "2026-10-14T00:00:00+03:00",
     "end_time": "2026-10-14T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/7656CF06FDC67D66E16462FD412AF746/numi-nuorten-uuden-musiikin-ilta"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/numi-nuorten-uuden-musiikin-ilta"
   },
   {
     "venue": "caisa",
