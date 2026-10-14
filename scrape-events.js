@@ -220,14 +220,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "NUMI: Nuorten Uuden Musiikin Ilta",
-    "start_time": "2026-10-14T00:00:00+03:00",
-    "end_time": "2026-10-14T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/numi-nuorten-uuden-musiikin-ilta"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Cinemaissí: Latin American Film Festival",
