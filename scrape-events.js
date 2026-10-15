@@ -298,13 +298,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "d8zero presents: ZeroDating",
-    "start_time": "2026-10-15T18:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/d8zero-presents-zerodating-1510"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
