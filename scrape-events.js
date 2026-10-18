@@ -218,7 +218,7 @@ window.SCRAPED_EVENTS = [
     "title": "Cinemaissí: Latin American Film Festival",
     "start_time": "2026-10-14T00:00:00+03:00",
     "end_time": "2026-10-18T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/238F475B3752DFAECA30F60A6B8E3630/cinemaiss-latin-american-film-festival"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/cinemaiss-latin-american-film-festival"
   },
   {
     "venue": "viirus",
@@ -248,35 +248,7 @@ window.SCRAPED_EVENTS = [
     "title": "Ylistys eläimille -festivaali",
     "start_time": "2026-10-17T00:00:00+03:00",
     "end_time": "2026-10-18T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/FDD50886256F155EF81D30AE6518ADF6/ylistys-el-imille-festivaali"
-  },
-  {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "KADONNUTTA AIKAA ETSIMÄSSÄ 2017-2027, OSA 9",
-    "start_time": "2026-10-18T12:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/kadonnutta-aikaa-etsimassa-2017-2027-osa-9/"
-  },
-  {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "KADONNUTTA AIKAA ETSIMÄSSÄ 2017-2027, OSA 9",
-    "start_time": "2026-10-18T12:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/kadonnutta-aikaa-etsimassa-2017-2027-osa-9/"
-  },
-  {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "KADONNUTTA AIKAA ETSIMÄSSÄ 2017-2027, OSA 9",
-    "start_time": "2026-10-18T15:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/kadonnutta-aikaa-etsimassa-2017-2027-osa-9/"
-  },
-  {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "KADONNUTTA AIKAA ETSIMÄSSÄ 2017-2027, OSA 9",
-    "start_time": "2026-10-18T18:00:00+03:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/kadonnutta-aikaa-etsimassa-2017-2027-osa-9/"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/ylistys-el-imille-festivaali"
   },
   {
     "venue": "caisa",
