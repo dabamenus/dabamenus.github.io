@@ -251,41 +251,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/FDD50886256F155EF81D30AE6518ADF6/ylistys-el-imille-festivaali"
   },
   {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
-    "start_time": "2026-10-17T13:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Sivuraide",
-    "start_time": "2026-10-17T13:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/sivuraide"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Viidakon villit naiset",
-    "start_time": "2026-10-17T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Orvot",
-    "start_time": "2026-10-17T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/orvot"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Lady T",
-    "start_time": "2026-10-17T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
-  },
-  {
     "venue": "takomo",
     "venue_label": "Teatteri Takomo",
     "title": "KADONNUTTA AIKAA ETSIMÄSSÄ 2017-2027, OSA 9",
@@ -320,6 +285,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-10-19T00:00:00+03:00",
     "end_time": "2026-10-19T23:59:00+03:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/A40F295BB3390197937ABCE84EC4CA0B/tanssi-ja-leikki"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Kahvilla kirjailijan kanssa",
+    "start_time": "2026-10-19T16:30:00+03:00",
+    "url": ""
   },
   {
     "venue": "kansallisteatteri",
@@ -365,6 +337,27 @@ window.SCRAPED_EVENTS = [
     "title": "Toinen tasavalta",
     "start_time": "2026-10-20T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Kotijoukot",
+    "start_time": "2026-10-20T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/kotijoukot/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Elolliset",
+    "start_time": "2026-10-20T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/elolliset/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "&amp; Julia",
+    "start_time": "2026-10-20T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "espoonteatteri",
@@ -624,13 +617,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "zodiak",
     "venue_label": "Zodiak",
-    "title": "Tanssimista vai näyttelemistä?",
-    "start_time": "2026-10-24T07:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/tanssimista-vai-nayttelemista"
-  },
-  {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
     "title": "Eliel Tammiharju:Lampi 2",
     "start_time": "2026-10-24T12:00:17+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/lampi-2"
@@ -749,13 +735,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-10-26T00:00:00+02:00",
     "end_time": "2026-10-26T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/7FBAAC287C08250F2FA03A454128A085/tanssi-ja-leikki"
-  },
-  {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Keskustelua viestinnästä ja taiteesta",
-    "start_time": "2026-10-26T10:45:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/keskustelua-viestinnasta-ja-taiteesta"
   },
   {
     "venue": "kansallisteatteri",
@@ -2868,13 +2847,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "zodiak",
     "venue_label": "Zodiak",
-    "title": "Zodiak Laboratory:Tuulia Soininen",
-    "start_time": "2026-12-03T15:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/zodiak-laboratory-tuulia-soininen"
-  },
-  {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
     "title": "Marika Peura:Imperial Stage",
     "start_time": "2026-12-03T17:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
@@ -2923,13 +2895,6 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-12-04T00:00:00+02:00",
     "end_time": "2026-12-04T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/19EF86BED2C9441EEE12D8464610DF21/out-n-loud-hqfk-queerly-yours"
-  },
-  {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Zodiak Laboratory:Tuulia Soininen",
-    "start_time": "2026-12-04T15:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/zodiak-laboratory-tuulia-soininen"
   },
   {
     "venue": "viirus",
@@ -4542,6 +4507,13 @@ window.SCRAPED_EVENTS = [
     "venue_label": "Teatteri Takomo",
     "title": "Eteläpohjalaisia",
     "start_time": "2027-10-09T19:00:00+03:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Eteläpohjalaisia",
+    "start_time": "2027-10-10T14:00:00+03:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
   }
 ];
