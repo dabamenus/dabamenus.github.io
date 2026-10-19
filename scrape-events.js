@@ -250,13 +250,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/tanssi-ja-leikki"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kahvilla kirjailijan kanssa",
-    "start_time": "2026-10-19T16:30:00+03:00",
-    "url": ""
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Orvot",
