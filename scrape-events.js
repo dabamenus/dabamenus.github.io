@@ -187,6 +187,13 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "zodiak",
     "venue_label": "Zodiak",
+    "title": "Paneelikeskustelu:tanssin esitystalojen ja vapaan kentän yhteistyö",
+    "start_time": "2026-10-09T12:30:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/paneelikeskustelu-tanssin-esitystalojen-ja-vapaan-kentan-yhteistyo"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
     "title": "Elina Pirinen:Ghosts of Rosegarden",
     "start_time": "2026-10-09T16:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
@@ -213,14 +220,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Cinemaissí: Latin American Film Festival",
-    "start_time": "2026-10-14T00:00:00+03:00",
-    "end_time": "2026-10-18T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/cinemaiss-latin-american-film-festival"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
@@ -243,20 +242,12 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/6D30EC71F3AC39F303908DDBDC1112FD/h-irik-t-p-maja-el-inoikeusakatemia-todellisuus-sellaisena-kuin-se-ei-meille-n-ytt-ydy"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Ylistys eläimille -festivaali",
-    "start_time": "2026-10-17T00:00:00+03:00",
-    "end_time": "2026-10-18T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/ylistys-el-imille-festivaali"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Tanssi ja leikki",
     "start_time": "2026-10-19T00:00:00+03:00",
     "end_time": "2026-10-19T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/A40F295BB3390197937ABCE84EC4CA0B/tanssi-ja-leikki"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/tanssi-ja-leikki"
   },
   {
     "venue": "hkt",
@@ -457,6 +448,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/d8zero-presents-zerodating-2210"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Livetiede-esitys HELPDESK 112: Hätähuutoja digiviidakossa",
+    "start_time": "2026-10-22T18:00:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/livetiede-esitys-helpdesk-112-hatahuutoja-digiviidakossa"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
@@ -589,6 +587,13 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "zodiak",
     "venue_label": "Zodiak",
+    "title": "Tanssimista vai näyttelemistä?",
+    "start_time": "2026-10-24T07:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/tanssimista-vai-nayttelemista"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
     "title": "Eliel Tammiharju:Lampi 2",
     "start_time": "2026-10-24T12:00:17+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/lampi-2"
@@ -707,6 +712,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-10-26T00:00:00+02:00",
     "end_time": "2026-10-26T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/7FBAAC287C08250F2FA03A454128A085/tanssi-ja-leikki"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Keskustelua viestinnästä ja taiteesta",
+    "start_time": "2026-10-26T10:45:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/keskustelua-viestinnasta-ja-taiteesta"
   },
   {
     "venue": "kansallisteatteri",
@@ -1046,16 +1058,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
-    "title": "Kompani Nord: Sista paret ut",
+    "title": "Wishamalii (FI/JO)",
     "start_time": "2026-10-30T19:00:00+02:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/kompani-nord-sista-paret-ut/"
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/wishamalii/"
   },
   {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
-    "title": "Wishamalii (FI/JO)",
+    "title": "Kompani Nord: Sista paret ut",
     "start_time": "2026-10-30T19:00:00+02:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/wishamalii/"
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/kompani-nord-sista-paret-ut/"
   },
   {
     "venue": "svenska",
@@ -2819,6 +2831,13 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "zodiak",
     "venue_label": "Zodiak",
+    "title": "Zodiak Laboratory:Tuulia Soininen",
+    "start_time": "2026-12-03T15:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/zodiak-laboratory-tuulia-soininen"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
     "title": "Marika Peura:Imperial Stage",
     "start_time": "2026-12-03T17:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
@@ -2867,6 +2886,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-12-04T00:00:00+02:00",
     "end_time": "2026-12-04T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/19EF86BED2C9441EEE12D8464610DF21/out-n-loud-hqfk-queerly-yours"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Zodiak Laboratory:Tuulia Soininen",
+    "start_time": "2026-12-04T15:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/zodiak-laboratory-tuulia-soininen"
   },
   {
     "venue": "viirus",
@@ -3668,6 +3694,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kärpäset",
     "start_time": "2027-01-15T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/karpaset"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Tavallisuuden aave",
+    "start_time": "2027-01-16T13:00:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/tavallisuuden-aave/"
   },
   {
     "venue": "viirus",
