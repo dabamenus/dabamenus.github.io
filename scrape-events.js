@@ -242,30 +242,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/6D30EC71F3AC39F303908DDBDC1112FD/h-irik-t-p-maja-el-inoikeusakatemia-todellisuus-sellaisena-kuin-se-ei-meille-n-ytt-ydy"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi senioreille, Ryhmä 1",
-    "start_time": "2026-10-20T00:00:00+03:00",
-    "end_time": "2026-10-20T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkuskurssi-senioreille-ryhm-1"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi senioreille, Ryhmä 2",
-    "start_time": "2026-10-20T00:00:00+03:00",
-    "end_time": "2026-10-20T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkuskurssi-senioreille-ryhm-2"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-10-20T00:00:00+03:00",
-    "end_time": "2026-10-20T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/taidetta-taaperoille"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
