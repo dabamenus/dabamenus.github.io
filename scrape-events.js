@@ -224,13 +224,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/blaue-frau-palkkaa/"
   },
   {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
-    "start_time": "2026-10-21T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "1984",
