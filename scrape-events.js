@@ -224,13 +224,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/blaue-frau-palkkaa/"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "TUAn triplajulkkarit",
-    "start_time": "2026-10-21T17:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/tua-julkkarit"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Toinen tasavalta",
