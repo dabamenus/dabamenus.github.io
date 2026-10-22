@@ -217,25 +217,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Blaue Frau palkkaa",
-    "start_time": "2026-10-20T19:00:00+03:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/blaue-frau-palkkaa/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "1984",
     "start_time": "2026-10-21T19:00:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/1984/"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Legend of Harri Kala",
-    "start_time": "2026-10-21T19:00:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/legend-of-harri-kala/"
   },
   {
     "venue": "universum",
@@ -553,6 +539,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://kiasma.fi/esitykset/entanglement-i-am-a-tree-i-am-a-mouth/"
   },
   {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Meri Ekola & Kid Kokko",
+    "start_time": "2026-10-28T18:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/meri-ekola-kid-kokko/"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Writing of Disaster",
@@ -588,6 +581,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/lopetus"
   },
   {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Meri Ekola & Kid Kokko",
+    "start_time": "2026-10-29T13:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/meri-ekola-kid-kokko/"
+  },
+  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
@@ -607,6 +607,13 @@ window.SCRAPED_EVENTS = [
     "title": "d8zero presents: ZeroDating",
     "start_time": "2026-10-29T18:00:00+02:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/d8zero-presents-zerodating-2910"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Meri Ekola & Kid Kokko",
+    "start_time": "2026-10-29T18:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/meri-ekola-kid-kokko/"
   },
   {
     "venue": "viirus",
@@ -656,6 +663,13 @@ window.SCRAPED_EVENTS = [
     "title": "Atte Kantonen – bugbath: pathmaking",
     "start_time": "2026-10-30T18:00:00+02:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/atte-kantonen-budbath-pathmaking"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Meri Ekola & Kid Kokko",
+    "start_time": "2026-10-30T18:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/meri-ekola-kid-kokko/"
   },
   {
     "venue": "viirus",
@@ -1953,6 +1967,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
   },
   {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Joanna Haartti &  Viiksi-instituutti: Kaksoisolento",
+    "start_time": "2026-12-04T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/joanna-haartti-viiksi-instituutti-kaksoisolento/"
+  },
+  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Wishamalii (FI/JO)",
@@ -2121,6 +2142,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
   },
   {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Joanna Haartti &  Viiksi-instituutti: Kaksoisolento",
+    "start_time": "2026-12-09T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/joanna-haartti-viiksi-instituutti-kaksoisolento/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Kettutytön paluu",
@@ -2233,6 +2261,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
   },
   {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Joanna Haartti &  Viiksi-instituutti: Kaksoisolento",
+    "start_time": "2026-12-13T15:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/joanna-haartti-viiksi-instituutti-kaksoisolento/"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Heavenly Father",
@@ -2296,6 +2331,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
   },
   {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Joanna Haartti &  Viiksi-instituutti: Kaksoisolento",
+    "start_time": "2026-12-16T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/joanna-haartti-viiksi-instituutti-kaksoisolento/"
+  },
+  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Blaue Frau palkkaa",
@@ -2331,6 +2373,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/kettutyton-paluu-17-12/"
   },
   {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "PÄHKINÄNSÄRKIJÄN JOULU – juhla, jota et tiennyt kaipaavasi",
+    "start_time": "2026-12-18T18:30:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/962/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Mirdja",
@@ -2345,6 +2394,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
   },
   {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "PÄHKINÄNSÄRKIJÄN JOULU – juhla, jota et tiennyt kaipaavasi",
+    "start_time": "2026-12-19T13:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/962/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Mirdja",
@@ -2357,6 +2413,13 @@ window.SCRAPED_EVENTS = [
     "title": "Taru hohtavasta helmestä",
     "start_time": "2026-12-19T13:00:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "PÄHKINÄNSÄRKIJÄN JOULU – juhla, jota et tiennyt kaipaavasi",
+    "start_time": "2026-12-19T18:30:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/962/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2506,6 +2569,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/karpaset"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Järjen hedelmät",
+    "start_time": "2027-01-19T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/jarjen-hedelmat/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Kettutytön paluu",
@@ -2541,11 +2611,25 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/pelle-svanslos/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "alfabet",
+    "start_time": "2027-01-26T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Kettutytön paluu",
     "start_time": "2027-01-26T19:00:00+02:00",
     "url": "https://universum.fi/events/kettutyton-paluu-26-1/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "alfabet",
+    "start_time": "2027-01-27T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
   },
   {
     "venue": "universum",
@@ -2555,11 +2639,32 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/kettutyton-paluu-27-1/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "alfabet",
+    "start_time": "2027-01-28T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Kärpäset",
     "start_time": "2027-01-29T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/karpaset"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "alfabet",
+    "start_time": "2027-01-30T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
+  },
+  {
+    "venue": "svenska",
+    "venue_label": "Svenska Teatern",
+    "title": "Litteraturfestivalen Gränslöst 2027: ”Rajattoman naiivi ja realistinen”",
+    "start_time": "2027-01-30T19:00:00+02:00",
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/litteraturfestivalen-granslost-valitila/"
   },
   {
     "venue": "universum",
@@ -2569,11 +2674,46 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/kettutyton-paluu-31-1/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "alfabet",
+    "start_time": "2027-02-03T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "alfabet",
+    "start_time": "2027-02-04T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "alfabet",
+    "start_time": "2027-02-05T14:00:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "alfabet",
+    "start_time": "2027-02-06T14:00:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Kettutytön paluu",
     "start_time": "2027-02-08T19:00:00+02:00",
     "url": "https://universum.fi/events/kettutyton-paluu-8-2/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "alfabet",
+    "start_time": "2027-02-09T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
   },
   {
     "venue": "universum",
@@ -2583,6 +2723,90 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/kettutyton-paluu-9-2/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "alfabet",
+    "start_time": "2027-02-10T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "alfabet",
+    "start_time": "2027-02-11T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "alfabet",
+    "start_time": "2027-02-12T14:00:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Eteläpohjalaisia",
+    "start_time": "2027-02-13T14:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "alfabet",
+    "start_time": "2027-02-13T14:00:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Eteläpohjalaisia",
+    "start_time": "2027-02-13T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Eteläpohjalaisia",
+    "start_time": "2027-02-14T14:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Eteläpohjalaisia",
+    "start_time": "2027-02-16T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Eteläpohjalaisia",
+    "start_time": "2027-02-18T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Eteläpohjalaisia",
+    "start_time": "2027-02-19T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Eteläpohjalaisia",
+    "start_time": "2027-02-20T14:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "PALKINTOPUHETTA",
+    "start_time": "2027-02-24T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
+  },
+  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Pelle Svanslös",
@@ -2590,11 +2814,88 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/pelle-svanslos/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "PALKINTOPUHETTA",
+    "start_time": "2027-02-25T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "PALKINTOPUHETTA",
+    "start_time": "2027-02-26T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "PALKINTOPUHETTA",
+    "start_time": "2027-03-01T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "PALKINTOPUHETTA",
+    "start_time": "2027-03-02T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "PALKINTOPUHETTA",
+    "start_time": "2027-03-03T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "alfabet",
+    "start_time": "2027-03-04T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "alfabet",
+    "start_time": "2027-03-05T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Puhutaan Richardista",
+    "start_time": "2027-03-05T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Vinterkvällar",
     "start_time": "2027-03-05T19:00:00+02:00",
     "url": "https://universum.fi/events/vinterkvallar-5-3/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Puhutaan Richardista",
+    "start_time": "2027-03-06T14:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "alfabet",
+    "start_time": "2027-03-06T14:00:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "PALKINTOPUHETTA",
+    "start_time": "2027-03-06T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
   },
   {
     "venue": "svenska",
@@ -2611,6 +2912,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/vinterkvallar-6-3/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "alfabet",
+    "start_time": "2027-03-08T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Vinterkvällar",
@@ -2618,11 +2926,39 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/vinterkvallar-8-3/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "alfabet",
+    "start_time": "2027-03-09T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Puhutaan Richardista",
+    "start_time": "2027-03-09T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Vinterkvällar",
     "start_time": "2027-03-09T19:00:00+02:00",
     "url": "https://universum.fi/events/vinterkvallar-9-3/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "alfabet",
+    "start_time": "2027-03-10T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Puhutaan Richardista",
+    "start_time": "2027-03-10T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
   },
   {
     "venue": "svenska",
@@ -2639,11 +2975,95 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/balladeja-ja-havyttomyyksia/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "PALKINTOPUHETTA",
+    "start_time": "2027-03-11T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Vinterkvällar",
     "start_time": "2027-03-11T19:00:00+02:00",
     "url": "https://universum.fi/events/vinterkvallar-11-3/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "PALKINTOPUHETTA",
+    "start_time": "2027-03-12T14:00:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Puhutaan Richardista",
+    "start_time": "2027-03-12T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Puhutaan Richardista",
+    "start_time": "2027-03-13T14:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "PALKINTOPUHETTA",
+    "start_time": "2027-03-13T14:00:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "alfabet",
+    "start_time": "2027-03-13T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "PALKINTOPUHETTA",
+    "start_time": "2027-03-15T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Puhutaan Richardista",
+    "start_time": "2027-03-15T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "PALKINTOPUHETTA",
+    "start_time": "2027-03-16T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "PALKINTOPUHETTA",
+    "start_time": "2027-03-17T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "alfabet",
+    "start_time": "2027-03-18T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Puhutaan Richardista",
+    "start_time": "2027-03-18T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
   },
   {
     "venue": "universum",
@@ -2660,6 +3080,20 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "alfabet",
+    "start_time": "2027-03-19T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Puhutaan Richardista",
+    "start_time": "2027-03-19T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "CB",
@@ -2672,6 +3106,27 @@ window.SCRAPED_EVENTS = [
     "title": "LIVETS SUMMA",
     "start_time": "2027-03-19T19:00:00+02:00",
     "url": "https://universum.fi/events/livets-summa-19-3/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Puhutaan Richardista",
+    "start_time": "2027-03-20T14:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "alfabet",
+    "start_time": "2027-03-20T14:00:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "PALKINTOPUHETTA",
+    "start_time": "2027-03-20T18:30:00+02:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
   },
   {
     "venue": "viirus",
@@ -2688,6 +3143,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/livets-summa-22-3/"
   },
   {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Puhutaan Richardista",
+    "start_time": "2027-03-23T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "LIVETS SUMMA",
@@ -2700,6 +3162,13 @@ window.SCRAPED_EVENTS = [
     "title": "Diptyk",
     "start_time": "2027-03-24T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
+    "venue": "takomo",
+    "venue_label": "Teatteri Takomo",
+    "title": "Puhutaan Richardista",
+    "start_time": "2027-03-24T19:00:00+02:00",
+    "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
   },
   {
     "venue": "universum",
@@ -2730,11 +3199,39 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "alfabet",
+    "start_time": "2027-03-30T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "PALKINTOPUHETTA",
+    "start_time": "2027-03-31T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Diptyk",
     "start_time": "2027-04-01T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "PALKINTOPUHETTA",
+    "start_time": "2027-04-01T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "PALKINTOPUHETTA",
+    "start_time": "2027-04-02T14:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
   },
   {
     "venue": "viirus",
@@ -2744,11 +3241,32 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "PALKINTOPUHETTA",
+    "start_time": "2027-04-03T14:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "alfabet",
+    "start_time": "2027-04-03T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Vinterkvällar",
     "start_time": "2027-04-04T19:00:00+03:00",
     "url": "https://universum.fi/events/vinterkvallar-4-4/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "PALKINTOPUHETTA",
+    "start_time": "2027-04-05T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
   },
   {
     "venue": "universum",
@@ -2765,11 +3283,25 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "PALKINTOPUHETTA",
+    "start_time": "2027-04-06T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Vinterkvällar",
     "start_time": "2027-04-06T19:00:00+03:00",
     "url": "https://universum.fi/events/vinterkvallar-6-4/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "PALKINTOPUHETTA",
+    "start_time": "2027-04-07T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
   },
   {
     "venue": "viirus",
@@ -2779,11 +3311,25 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "alfabet",
+    "start_time": "2027-04-08T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Diptyk",
     "start_time": "2027-04-09T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "alfabet",
+    "start_time": "2027-04-09T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
   },
   {
     "venue": "svenska",
@@ -2800,11 +3346,25 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/vinterkvallar-9-4/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "alfabet",
+    "start_time": "2027-04-10T14:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Diptyk",
     "start_time": "2027-04-10T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "PALKINTOPUHETTA",
+    "start_time": "2027-04-10T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
   },
   {
     "venue": "svenska",
@@ -2828,11 +3388,32 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "alfabet",
+    "start_time": "2027-04-12T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "alfabet",
+    "start_time": "2027-04-13T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Diptyk",
     "start_time": "2027-04-14T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "PALKINTOPUHETTA",
+    "start_time": "2027-04-14T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
   },
   {
     "venue": "viirus",
@@ -2842,11 +3423,25 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "PALKINTOPUHETTA",
+    "start_time": "2027-04-15T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Diptyk",
     "start_time": "2027-04-16T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "PALKINTOPUHETTA",
+    "start_time": "2027-04-16T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
   },
   {
     "venue": "universum",
@@ -2861,6 +3456,20 @@ window.SCRAPED_EVENTS = [
     "title": "Laulujoutsen",
     "start_time": "2027-04-16T19:00:00+03:00",
     "url": "https://universum.fi/events/laulujoutsen-16-4/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "PALKINTOPUHETTA",
+    "start_time": "2027-04-17T14:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "alfabet",
+    "start_time": "2027-04-17T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
   },
   {
     "venue": "universum",
@@ -2919,11 +3528,32 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "PALKINTOPUHETTA",
+    "start_time": "2027-04-21T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "PALKINTOPUHETTA",
+    "start_time": "2027-04-22T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Diptyk",
     "start_time": "2027-04-23T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "PALKINTOPUHETTA",
+    "start_time": "2027-04-23T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
   },
   {
     "venue": "universum",
@@ -2938,6 +3568,13 @@ window.SCRAPED_EVENTS = [
     "title": "Diptyk",
     "start_time": "2027-04-24T14:00:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "PALKINTOPUHETTA",
+    "start_time": "2027-04-24T14:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
   },
   {
     "venue": "universum",
@@ -2966,6 +3603,13 @@ window.SCRAPED_EVENTS = [
     "title": "Diptyk",
     "start_time": "2027-04-27T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "PALKINTOPUHETTA",
+    "start_time": "2027-04-27T18:30:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
   },
   {
     "venue": "universum",
