@@ -252,25 +252,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/d8zero-presents-zerodating-2210"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Livetiede-esitys HELPDESK 112: Hätähuutoja digiviidakossa",
-    "start_time": "2026-10-22T18:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/livetiede-esitys-helpdesk-112-hatahuutoja-digiviidakossa"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
     "start_time": "2026-10-22T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Äitisi, Klytaimestra",
-    "start_time": "2026-10-22T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "kansallisteatteri",
