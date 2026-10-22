@@ -273,13 +273,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/sivuraide"
   },
   {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Legend of Harri Kala",
-    "start_time": "2026-10-22T19:00:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/legend-of-harri-kala/"
-  },
-  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Kompani Nord: Sista paret ut",
