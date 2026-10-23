@@ -263,22 +263,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/kompani-nord-sista-paret-ut/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Kauri Honkakoski Company: HIGH TIDE [nousuvesi]",
-    "start_time": "2026-10-23T00:00:00+03:00",
-    "end_time": "2026-10-23T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/kauri-honkakoski-company-high-tide-nousuvesi"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Transpoli on temppurata",
-    "start_time": "2026-10-23T00:00:00+03:00",
-    "end_time": "2026-10-23T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/transpoli-on-temppurata"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Kirjailijat lavalla",
@@ -876,6 +860,13 @@ window.SCRAPED_EVENTS = [
     "title": "Tommy Körberg – Unplugged",
     "start_time": "2026-10-30T19:00:00+02:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/tommy-korberg-unplugged/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Show Boudoir",
+    "start_time": "2026-10-30T19:30:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/show-boudoir/"
   },
   {
     "venue": "stoa",
@@ -1609,6 +1600,13 @@ window.SCRAPED_EVENTS = [
     "title": "Viidakon villit naiset",
     "start_time": "2026-11-13T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Show Boudoir",
+    "start_time": "2026-11-13T21:00:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/show-boudoir/"
   },
   {
     "venue": "stoa",
