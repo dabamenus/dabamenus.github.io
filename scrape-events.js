@@ -276,7 +276,7 @@ window.SCRAPED_EVENTS = [
     "title": "Transpoli on temppurata",
     "start_time": "2026-10-23T00:00:00+03:00",
     "end_time": "2026-10-23T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/12B0E3F07BFE2BD73B3B71E93DA085AF/transpoli-on-temppurata"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/transpoli-on-temppurata"
   },
   {
     "venue": "kansallisteatteri",
