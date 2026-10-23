@@ -268,7 +268,7 @@ window.SCRAPED_EVENTS = [
     "title": "Kauri Honkakoski Company: HIGH TIDE [nousuvesi]",
     "start_time": "2026-10-23T00:00:00+03:00",
     "end_time": "2026-10-23T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/4ABEFD10A0D651975855C4A168E381A7/kauri-honkakoski-company-high-tide-nousuvesi"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/kauri-honkakoski-company-high-tide-nousuvesi"
   },
   {
     "venue": "caisa",
@@ -291,13 +291,6 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-10-23T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Äitisi, Klytaimestra",
-    "start_time": "2026-10-23T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "kansallisteatteri",
