@@ -256,20 +256,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Kompani Nord: Sista paret ut",
-    "start_time": "2026-10-22T19:00:00+03:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/kompani-nord-sista-paret-ut/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Kirjailijat lavalla",
-    "start_time": "2026-10-23T17:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/kirjailijat-lavalla"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
@@ -277,67 +263,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Viidakon villit naiset",
-    "start_time": "2026-10-23T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Sivuraide",
-    "start_time": "2026-10-23T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/sivuraide"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Orvot",
-    "start_time": "2026-10-23T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/orvot"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-10-23T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-10-23T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-10-23T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kiviä taskussa",
-    "start_time": "2026-10-23T18:30:00+03:00",
-    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
-  },
-  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "ANDETAG",
     "start_time": "2026-10-23T19:00:00+03:00",
     "url": "https://universum.fi/events/andetag-23-10/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Club act!one",
-    "start_time": "2026-10-23T19:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
     "venue": "stoa",
@@ -3543,6 +3473,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kettutytön paluu",
     "start_time": "2027-01-20T19:00:00+02:00",
     "url": "https://universum.fi/events/kettutyton-paluu-20-1/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Järjen hedelmät",
+    "start_time": "2027-01-21T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/jarjen-hedelmat/"
   },
   {
     "venue": "kansallisteatteri",
