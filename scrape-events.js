@@ -147,7 +147,7 @@ window.SCRAPED_EVENTS = [
     "title": "Mirjam Yeboah: Emellan",
     "start_time": "2026-10-02T00:00:00+03:00",
     "end_time": "2026-10-24T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/2419EF4BAE3AA1102F82CFBA79F490A0/mirjam-yeboah-emellan"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/mirjam-yeboah-emellan"
   },
   {
     "venue": "zodiak",
@@ -283,7 +283,7 @@ window.SCRAPED_EVENTS = [
     "title": "Transpoli on temppurata",
     "start_time": "2026-10-24T00:00:00+03:00",
     "end_time": "2026-10-24T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/FE6441CE7CBDF12CB0DADB108203F360/transpoli-on-temppurata"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/transpoli-on-temppurata"
   },
   {
     "venue": "zodiak",
@@ -354,13 +354,6 @@ window.SCRAPED_EVENTS = [
     "title": "Orvot",
     "start_time": "2026-10-24T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/orvot"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Helsingin Kirjamessujen 2026 viralliset jatkot",
-    "start_time": "2026-10-24T20:00:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/helsingin-kirjamessujen-2026-jatkot"
   },
   {
     "venue": "stoa",
