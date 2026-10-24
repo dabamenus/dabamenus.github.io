@@ -275,7 +275,7 @@ window.SCRAPED_EVENTS = [
     "title": "Kauri Honkakoski Company: HIGH TIDE [nousuvesi]",
     "start_time": "2026-10-24T00:00:00+03:00",
     "end_time": "2026-10-24T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/BE00E5D0E59F7E656B51BEF07F9DB037/kauri-honkakoski-company-high-tide-nousuvesi"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/kauri-honkakoski-company-high-tide-nousuvesi"
   },
   {
     "venue": "caisa",
@@ -319,20 +319,6 @@ window.SCRAPED_EVENTS = [
     "title": "jos meiltä kysytään",
     "start_time": "2026-10-24T13:00:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/jos-meilta-kysytaan"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Äitisi, Klytaimestra",
-    "start_time": "2026-10-24T14:00:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
-  },
-  {
-    "venue": "kiasma",
-    "venue_label": "Kiasma",
-    "title": "Entanglement: I am a tree, I am a mouth",
-    "start_time": "2026-10-24T15:00:00+03:00",
-    "url": "https://kiasma.fi/esitykset/entanglement-i-am-a-tree-i-am-a-mouth/"
   },
   {
     "venue": "espoonteatteri",
