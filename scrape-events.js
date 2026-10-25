@@ -92,6 +92,27 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
   },
   {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Nina Davies & 2girls1comp:The Inexorable Non-Player Character",
+    "start_time": "2026-09-05T13:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/nina-davies-2girls1comp-inexorable-non-player-character"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Nina Davies & 2girls1comp:The Inexorable Non-Player Character",
+    "start_time": "2026-09-06T10:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/nina-davies-2girls1comp-inexorable-non-player-character"
+  },
+  {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Nina Davies & 2girls1comp:The Inexorable Non-Player Character",
+    "start_time": "2026-09-06T12:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/nina-davies-2girls1comp-inexorable-non-player-character"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Sandyrella",
@@ -140,14 +161,6 @@ window.SCRAPED_EVENTS = [
     "title": "Paneelikeskustelu tanssitaiteen tulevaisuudesta",
     "start_time": "2026-09-30T13:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/paneelikeskustelu-tanssitaiteen-tulevaisuudesta"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Mirjam Yeboah: Emellan",
-    "start_time": "2026-10-02T00:00:00+03:00",
-    "end_time": "2026-10-24T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/mirjam-yeboah-emellan"
   },
   {
     "venue": "zodiak",
@@ -263,41 +276,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "ANDETAG",
-    "start_time": "2026-10-23T19:00:00+03:00",
-    "url": "https://universum.fi/events/andetag-23-10/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Kauri Honkakoski Company: HIGH TIDE [nousuvesi]",
-    "start_time": "2026-10-24T00:00:00+03:00",
-    "end_time": "2026-10-24T23:59:00+03:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/kauri-honkakoski-company-high-tide-nousuvesi"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Transpoli on temppurata",
-    "start_time": "2026-10-24T00:00:00+03:00",
-    "end_time": "2026-10-24T23:59:00+03:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/transpoli-on-temppurata"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Tanssimista vai näyttelemistä?",
     "start_time": "2026-10-24T07:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/tanssimista-vai-nayttelemista"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-10-24T12:00:00+03:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
   },
   {
     "venue": "zodiak",
@@ -307,53 +290,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/lampi-2"
   },
   {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
-    "start_time": "2026-10-24T13:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "jos meiltä kysytään",
-    "start_time": "2026-10-24T13:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/jos-meilta-kysytaan"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Eräteatteri",
-    "start_time": "2026-10-24T16:00:00+03:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/erateatteri/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
     "start_time": "2026-10-24T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Viidakon villit naiset",
-    "start_time": "2026-10-24T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Lopetus",
-    "start_time": "2026-10-24T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lopetus"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Orvot",
-    "start_time": "2026-10-24T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/orvot"
   },
   {
     "venue": "stoa",
@@ -420,6 +361,13 @@ window.SCRAPED_EVENTS = [
     "title": "jos meiltä kysytään",
     "start_time": "2026-10-26T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/jos-meilta-kysytaan"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Kurtturuusut",
+    "start_time": "2026-10-26T18:30:00+02:00",
+    "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
     "venue": "universum",
