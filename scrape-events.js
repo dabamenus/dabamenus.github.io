@@ -302,7 +302,7 @@ window.SCRAPED_EVENTS = [
     "title": "Kauri Honkakoski Company: HIGH TIDE [nousuvesi]",
     "start_time": "2026-10-25T00:00:00+02:00",
     "end_time": "2026-10-25T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0AD2180DA79B5F81F1603A8A80FA4BB0/kauri-honkakoski-company-high-tide-nousuvesi"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/kauri-honkakoski-company-high-tide-nousuvesi"
   },
   {
     "venue": "caisa",
@@ -310,14 +310,7 @@ window.SCRAPED_EVENTS = [
     "title": "Transpoli on temppurata",
     "start_time": "2026-10-25T00:00:00+02:00",
     "end_time": "2026-10-25T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/61F22D72D923D0503C59A1EA5F7ACCDA/transpoli-on-temppurata"
-  },
-  {
-    "venue": "kiasma",
-    "venue_label": "Kiasma",
-    "title": "Entanglement: I am a tree, I am a mouth",
-    "start_time": "2026-10-25T15:00:00+02:00",
-    "url": "https://kiasma.fi/esitykset/entanglement-i-am-a-tree-i-am-a-mouth/"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/transpoli-on-temppurata"
   },
   {
     "venue": "espoonteatteri",
