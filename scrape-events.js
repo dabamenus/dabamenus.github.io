@@ -1053,10 +1053,10 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "caisa",
     "venue_label": "Caisa",
-    "title": "Qoomikot kollektiivi: Kväärinpäin",
+    "title": "Qoomikot kollektiivi: Kväärinpäin | TÄYNNÄ",
     "start_time": "2026-11-07T00:00:00+02:00",
     "end_time": "2026-11-07T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/13FC28B9B760B4EF353E29C9AE4EE7A2/qoomikot-kollektiivi-kv-rinp-in"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/13FC28B9B760B4EF353E29C9AE4EE7A2/qoomikot-kollektiivi-kv-rinp-in-t-ynn"
   },
   {
     "venue": "caisa",
