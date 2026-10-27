@@ -332,7 +332,7 @@ window.SCRAPED_EVENTS = [
     "title": "Kauri Honkakoski Company: HIGH TIDE [nousuvesi]",
     "start_time": "2026-10-27T00:00:00+02:00",
     "end_time": "2026-10-27T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/2AD930EE0CD95D5D7FB93DDEA95A69CA/kauri-honkakoski-company-high-tide-nousuvesi"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/kauri-honkakoski-company-high-tide-nousuvesi"
   },
   {
     "venue": "caisa",
@@ -348,13 +348,6 @@ window.SCRAPED_EVENTS = [
     "title": "Eliel Tammiharju:Lampi 2",
     "start_time": "2026-10-27T17:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/lampi-2"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Äitisi, Klytaimestra",
-    "start_time": "2026-10-27T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "kansallisteatteri",
