@@ -316,7 +316,7 @@ window.SCRAPED_EVENTS = [
     "title": "Sirkuskurssi senioreille, Ryhmä 1",
     "start_time": "2026-10-27T00:00:00+02:00",
     "end_time": "2026-10-27T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/0E78AFFC7FD570D4AC46F200A0790C91/sirkuskurssi-senioreille-ryhm-1"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkuskurssi-senioreille-ryhm-1"
   },
   {
     "venue": "stoa",
@@ -324,7 +324,7 @@ window.SCRAPED_EVENTS = [
     "title": "Sirkuskurssi senioreille, Ryhmä 2",
     "start_time": "2026-10-27T00:00:00+02:00",
     "end_time": "2026-10-27T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/432E0EB177ADAFF660AC9EFADE4B9E61/sirkuskurssi-senioreille-ryhm-2"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkuskurssi-senioreille-ryhm-2"
   },
   {
     "venue": "stoa",
@@ -340,7 +340,7 @@ window.SCRAPED_EVENTS = [
     "title": "Taidetta taaperoille",
     "start_time": "2026-10-27T00:00:00+02:00",
     "end_time": "2026-10-27T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F10C164FEB66042645F625F2B103D901/taidetta-taaperoille"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/taidetta-taaperoille"
   },
   {
     "venue": "zodiak",
