@@ -156,11 +156,67 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/sandyrella/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-09-21T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-09-22T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-09-23T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-09-26T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Paneelikeskustelu tanssitaiteen tulevaisuudesta",
     "start_time": "2026-09-30T13:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/paneelikeskustelu-tanssitaiteen-tulevaisuudesta"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-09-30T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-01T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-02T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-03T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "zodiak",
@@ -170,11 +226,25 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-06T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Elina Pirinen:Ghosts of Rosegarden",
     "start_time": "2026-10-08T16:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-08T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "zodiak",
@@ -191,6 +261,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-09T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Elina Pirinen:Ghosts of Rosegarden",
@@ -205,11 +282,32 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-10T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
     "start_time": "2026-10-13T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-13T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-14T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "viirus",
@@ -219,11 +317,25 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-15T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
     "start_time": "2026-10-16T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-16T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "stoa",
@@ -269,6 +381,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-22T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
@@ -297,6 +416,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-24T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Keskustelua viestinnästä ja taiteesta",
@@ -309,6 +435,13 @@ window.SCRAPED_EVENTS = [
     "title": "Eliel Tammiharju:Lampi 2",
     "start_time": "2026-10-27T17:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/lampi-2"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-27T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "stoa",
@@ -363,18 +496,18 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-28T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
     "start_time": "2026-10-28T18:30:00+02:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Orvot",
-    "start_time": "2026-10-28T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/orvot"
   },
   {
     "venue": "kansallisteatteri",
@@ -389,6 +522,13 @@ window.SCRAPED_EVENTS = [
     "title": "Viidakon villit naiset",
     "start_time": "2026-10-28T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
+    "title": "Orvot",
+    "start_time": "2026-10-28T18:30:00+02:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/orvot"
   },
   {
     "venue": "stoa",
@@ -465,6 +605,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-29T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
@@ -535,6 +682,13 @@ window.SCRAPED_EVENTS = [
     "title": "Writing of Disaster",
     "start_time": "2026-10-30T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-10-30T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "ryhmateatteri",
@@ -641,16 +795,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Viidakon villit naiset",
+    "title": "Lopetus",
     "start_time": "2026-10-31T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
+    "url": "https://www.kansallisteatteri.fi/esitys/lopetus"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Lopetus",
+    "title": "Viidakon villit naiset",
     "start_time": "2026-10-31T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lopetus"
+    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
   },
   {
     "venue": "espoonteatteri",
@@ -669,16 +823,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Lady T",
+    "title": "Toinen tasavalta",
     "start_time": "2026-10-31T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
+    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
+    "title": "Lady T",
     "start_time": "2026-10-31T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
+    "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
   },
   {
     "venue": "universum",
@@ -761,6 +915,13 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-11-03T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-03T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "stoa",
@@ -876,6 +1037,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-05T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Mi Madre y el Dinero",
@@ -926,6 +1094,13 @@ window.SCRAPED_EVENTS = [
     "title": "Writing of Disaster",
     "start_time": "2026-11-06T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-06T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "espoonteatteri",
@@ -989,16 +1164,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Viidakon villit naiset",
+    "title": "Lopetus",
     "start_time": "2026-11-07T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
+    "url": "https://www.kansallisteatteri.fi/esitys/lopetus"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Lopetus",
+    "title": "Viidakon villit naiset",
     "start_time": "2026-11-07T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lopetus"
+    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
   },
   {
     "venue": "tekstintalo",
@@ -1034,6 +1209,13 @@ window.SCRAPED_EVENTS = [
     "title": "Liikkeellä marraskuussa – Lesbian Power Duo Karlberg & Laakso: Heart of the Ocean",
     "start_time": "2026-11-07T16:00:00+02:00",
     "url": "https://kiasma.fi/esitykset/liikkeella-marraskuussa-heart-of-the-ocean/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-07T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -1144,16 +1326,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Viidakon villit naiset",
+    "title": "Viides askel",
     "start_time": "2026-11-10T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
+    "url": "https://www.kansallisteatteri.fi/esitys/viides-askel"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Viides askel",
+    "title": "Viidakon villit naiset",
     "start_time": "2026-11-10T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viides-askel"
+    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
   },
   {
     "venue": "stoa",
@@ -1193,6 +1375,13 @@ window.SCRAPED_EVENTS = [
     "title": "Writing of Disaster",
     "start_time": "2026-11-11T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-11T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "ryhmateatteri",
@@ -1276,6 +1465,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-12T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
@@ -1329,6 +1525,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-13T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
@@ -1338,9 +1541,9 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Viidakon villit naiset",
+    "title": "Lopetus",
     "start_time": "2026-11-13T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
+    "url": "https://www.kansallisteatteri.fi/esitys/lopetus"
   },
   {
     "venue": "kansallisteatteri",
@@ -1352,9 +1555,9 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Lopetus",
+    "title": "Viidakon villit naiset",
     "start_time": "2026-11-13T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lopetus"
+    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
   },
   {
     "venue": "viirus",
@@ -1429,6 +1632,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://cirko.fi/esitys/kallo-collective-the-story-of-pluto-who-wanted-to-be-a-planet/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-14T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Rakastavaisten kuoro",
@@ -1438,16 +1648,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Viidakon villit naiset",
+    "title": "Lopetus",
     "start_time": "2026-11-14T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
+    "url": "https://www.kansallisteatteri.fi/esitys/lopetus"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Lopetus",
+    "title": "Viidakon villit naiset",
     "start_time": "2026-11-14T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lopetus"
+    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
   },
   {
     "venue": "svenska",
@@ -1553,6 +1763,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-17T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Taru hohtavasta helmestä",
@@ -1576,13 +1793,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Viides askel",
-    "start_time": "2026-11-18T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viides-askel"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
     "title": "Taru hohtavasta helmestä",
     "start_time": "2026-11-18T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
@@ -1593,6 +1803,13 @@ window.SCRAPED_EVENTS = [
     "title": "Lopetus",
     "start_time": "2026-11-18T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/lopetus"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
+    "title": "Viides askel",
+    "start_time": "2026-11-18T18:30:00+02:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/viides-askel"
   },
   {
     "venue": "viirus",
@@ -1623,6 +1840,13 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-11-19T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-19T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "ryhmateatteri",
@@ -1662,11 +1886,25 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-20T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
     "start_time": "2026-11-20T18:30:00+02:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
+    "title": "Viidakon villit naiset",
+    "start_time": "2026-11-20T18:30:00+02:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
   },
   {
     "venue": "kansallisteatteri",
@@ -1681,13 +1919,6 @@ window.SCRAPED_EVENTS = [
     "title": "Lopetus",
     "start_time": "2026-11-20T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/lopetus"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Viidakon villit naiset",
-    "start_time": "2026-11-20T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
   },
   {
     "venue": "svenska",
@@ -1714,16 +1945,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Viides askel",
+    "title": "Taru hohtavasta helmestä",
     "start_time": "2026-11-21T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viides-askel"
+    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Taru hohtavasta helmestä",
+    "title": "Viides askel",
     "start_time": "2026-11-21T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
+    "url": "https://www.kansallisteatteri.fi/esitys/viides-askel"
   },
   {
     "venue": "espoonteatteri",
@@ -1738,6 +1969,13 @@ window.SCRAPED_EVENTS = [
     "title": "Äitisi, Klytaimestra",
     "start_time": "2026-11-21T14:00:00+02:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-21T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -1785,16 +2023,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Mirdja",
+    "title": "Taru hohtavasta helmestä",
     "start_time": "2026-11-23T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
+    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Taru hohtavasta helmestä",
+    "title": "Mirdja",
     "start_time": "2026-11-23T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
+    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
   },
   {
     "venue": "universum",
@@ -1829,13 +2067,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Viides askel",
-    "start_time": "2026-11-24T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viides-askel"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
     "title": "Mirdja",
     "start_time": "2026-11-24T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
@@ -1846,6 +2077,13 @@ window.SCRAPED_EVENTS = [
     "title": "Starman",
     "start_time": "2026-11-24T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/starman"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
+    "title": "Viides askel",
+    "start_time": "2026-11-24T18:30:00+02:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/viides-askel"
   },
   {
     "venue": "cirko",
@@ -1879,6 +2117,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/3A2C05B598DABCE97C9EB3C38E556211/caisan-juhlaseminaari-30-vuotta-moninaisuuden-edist-mist"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-25T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Rakastavaisten kuoro",
@@ -1895,16 +2140,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Mirdja",
+    "title": "Laulustudio Kaj Chydenius",
     "start_time": "2026-11-25T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
+    "url": "https://www.kansallisteatteri.fi/esitys/laulustudio-kaj-chydenius"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Laulustudio Kaj Chydenius",
+    "title": "Mirdja",
     "start_time": "2026-11-25T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/laulustudio-kaj-chydenius"
+    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
   },
   {
     "venue": "viirus",
@@ -1956,6 +2201,13 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-11-26T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-26T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "espoonteatteri",
@@ -2022,6 +2274,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-27T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
@@ -2031,16 +2290,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Viides askel",
+    "title": "Taru hohtavasta helmestä",
     "start_time": "2026-11-27T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viides-askel"
+    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Taru hohtavasta helmestä",
+    "title": "Viides askel",
     "start_time": "2026-11-27T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
+    "url": "https://www.kansallisteatteri.fi/esitys/viides-askel"
   },
   {
     "venue": "kansallisteatteri",
@@ -2103,16 +2362,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Mirdja",
+    "title": "Viidakon villit naiset",
     "start_time": "2026-11-28T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
+    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Viidakon villit naiset",
+    "title": "Mirdja",
     "start_time": "2026-11-28T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
+    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
   },
   {
     "venue": "kansallisteatteri",
@@ -2141,6 +2400,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kauri Sorvari: Forevermore",
     "start_time": "2026-11-28T15:00:00+02:00",
     "url": "https://kiasma.fi/esitykset/kauri-sorvari-forevermore/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-11-28T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -2203,16 +2469,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Viidakon villit naiset",
+    "title": "Mirdja",
     "start_time": "2026-11-30T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
+    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Mirdja",
+    "title": "Viidakon villit naiset",
     "start_time": "2026-11-30T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
+    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
   },
   {
     "venue": "stoa",
@@ -2265,6 +2531,13 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-12-01T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-12-01T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "espoonteatteri",
@@ -2450,6 +2723,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-12-04T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Rakastavaisten kuoro",
@@ -2466,16 +2746,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Lady T",
+    "title": "Viides askel",
     "start_time": "2026-12-04T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
+    "url": "https://www.kansallisteatteri.fi/esitys/viides-askel"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Viides askel",
+    "title": "Lady T",
     "start_time": "2026-12-04T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viides-askel"
+    "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
   },
   {
     "venue": "takomo",
@@ -2538,6 +2818,13 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
+    "title": "Taru hohtavasta helmestä",
+    "start_time": "2026-12-05T13:00:00+02:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
     "title": "Viides askel",
     "start_time": "2026-12-05T13:00:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/viides-askel"
@@ -2548,13 +2835,6 @@ window.SCRAPED_EVENTS = [
     "title": "Lopetus",
     "start_time": "2026-12-05T13:00:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/lopetus"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Taru hohtavasta helmestä",
-    "start_time": "2026-12-05T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
   },
   {
     "venue": "espoonteatteri",
@@ -2569,6 +2849,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kauri Sorvari: Forevermore",
     "start_time": "2026-12-05T15:00:00+02:00",
     "url": "https://kiasma.fi/esitykset/kauri-sorvari-forevermore/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-12-05T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -2630,6 +2917,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-12-08T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Rakastavaisten kuoro",
@@ -2639,16 +2933,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Viides askel",
+    "title": "Taru hohtavasta helmestä",
     "start_time": "2026-12-08T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viides-askel"
+    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Taru hohtavasta helmestä",
+    "title": "Viides askel",
     "start_time": "2026-12-08T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
+    "url": "https://www.kansallisteatteri.fi/esitys/viides-askel"
   },
   {
     "venue": "kansallisteatteri",
@@ -2671,6 +2965,13 @@ window.SCRAPED_EVENTS = [
     "title": "Marika Peura:Imperial Stage",
     "start_time": "2026-12-09T17:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-12-09T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "espoonteatteri",
@@ -2768,6 +3069,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
+    "start_time": "2026-12-10T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/suliko"
+  },
+  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Rakastavaisten kuoro",
@@ -2820,11 +3128,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/heavenly-father/"
   },
   {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Viidakon villit naiset",
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Suliko",
     "start_time": "2026-12-11T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
+    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -2832,6 +3140,13 @@ window.SCRAPED_EVENTS = [
     "title": "Lopetus",
     "start_time": "2026-12-11T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/lopetus"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
+    "title": "Viidakon villit naiset",
+    "start_time": "2026-12-11T18:30:00+02:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
   },
   {
     "venue": "stoa",
@@ -2867,16 +3182,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
+    "title": "Lady T",
     "start_time": "2026-12-12T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
+    "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Lady T",
+    "title": "Toinen tasavalta",
     "start_time": "2026-12-12T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
+    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
     "venue": "espoonteatteri",
@@ -2888,16 +3203,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Mirdja",
+    "title": "Taru hohtavasta helmestä",
     "start_time": "2026-12-12T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
+    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Taru hohtavasta helmestä",
+    "title": "Mirdja",
     "start_time": "2026-12-12T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
+    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
   },
   {
     "venue": "takomo",
@@ -3025,16 +3340,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Mirdja",
+    "title": "Viidakon villit naiset",
     "start_time": "2026-12-17T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
+    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Viidakon villit naiset",
+    "title": "Mirdja",
     "start_time": "2026-12-17T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
+    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
   },
   {
     "venue": "universum",
@@ -3061,16 +3376,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Taru hohtavasta helmestä",
+    "title": "Mirdja",
     "start_time": "2026-12-18T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
+    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Mirdja",
+    "title": "Taru hohtavasta helmestä",
     "start_time": "2026-12-18T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
+    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
   },
   {
     "venue": "stoa",
@@ -3098,16 +3413,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Mirdja",
+    "title": "Taru hohtavasta helmestä",
     "start_time": "2026-12-19T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
+    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Taru hohtavasta helmestä",
+    "title": "Mirdja",
     "start_time": "2026-12-19T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
+    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
   },
   {
     "venue": "takomo",
@@ -3119,16 +3434,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Lopetus",
+    "title": "Viidakon villit naiset",
     "start_time": "2026-12-19T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lopetus"
+    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Viidakon villit naiset",
+    "title": "Lopetus",
     "start_time": "2026-12-19T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
+    "url": "https://www.kansallisteatteri.fi/esitys/lopetus"
   },
   {
     "venue": "svenska",
@@ -3183,16 +3498,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Mirdja",
+    "title": "Taru hohtavasta helmestä",
     "start_time": "2027-01-02T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
+    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Taru hohtavasta helmestä",
+    "title": "Mirdja",
     "start_time": "2027-01-02T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
+    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
   },
   {
     "venue": "kansallisteatteri",
@@ -3232,13 +3547,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
-    "start_time": "2027-01-08T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
     "title": "Lady T",
     "start_time": "2027-01-08T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
@@ -3246,9 +3554,9 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Taru hohtavasta helmestä",
-    "start_time": "2027-01-09T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
+    "title": "Toinen tasavalta",
+    "start_time": "2027-01-08T18:30:00+02:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
     "venue": "kansallisteatteri",
@@ -3256,6 +3564,13 @@ window.SCRAPED_EVENTS = [
     "title": "Mirdja",
     "start_time": "2027-01-09T13:00:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
+    "title": "Taru hohtavasta helmestä",
+    "start_time": "2027-01-09T13:00:00+02:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
   },
   {
     "venue": "kansallisteatteri",
@@ -3358,16 +3673,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Lady T",
+    "title": "Viidakon villit naiset",
     "start_time": "2027-01-16T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
+    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Viidakon villit naiset",
+    "title": "Lady T",
     "start_time": "2027-01-16T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
+    "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
   },
   {
     "venue": "viirus",
@@ -3379,16 +3694,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Mirdja",
+    "title": "Taru hohtavasta helmestä",
     "start_time": "2027-01-16T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
+    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Taru hohtavasta helmestä",
+    "title": "Mirdja",
     "start_time": "2027-01-16T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
+    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
   },
   {
     "venue": "universum",
@@ -3442,16 +3757,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Kärpäset",
+    "title": "Mirdja",
     "start_time": "2027-01-22T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/karpaset"
+    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Mirdja",
+    "title": "Kärpäset",
     "start_time": "2027-01-22T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
+    "url": "https://www.kansallisteatteri.fi/esitys/karpaset"
   },
   {
     "venue": "espoonteatteri",
@@ -3463,16 +3778,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Kärpäset",
+    "title": "Mirdja",
     "start_time": "2027-01-23T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/karpaset"
+    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Mirdja",
+    "title": "Kärpäset",
     "start_time": "2027-01-23T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
+    "url": "https://www.kansallisteatteri.fi/esitys/karpaset"
   },
   {
     "venue": "espoonteatteri",
@@ -3547,13 +3862,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Mirdja",
-    "start_time": "2027-01-29T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
     "title": "Kärpäset",
     "start_time": "2027-01-29T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/karpaset"
@@ -3562,7 +3870,7 @@ window.SCRAPED_EVENTS = [
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Mirdja",
-    "start_time": "2027-01-30T13:00:00+02:00",
+    "start_time": "2027-01-29T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
   },
   {
@@ -3571,6 +3879,13 @@ window.SCRAPED_EVENTS = [
     "title": "Taru hohtavasta helmestä",
     "start_time": "2027-01-30T13:00:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
+    "title": "Mirdja",
+    "start_time": "2027-01-30T13:00:00+02:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
   },
   {
     "venue": "ryhmateatteri",
@@ -3645,16 +3960,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Taru hohtavasta helmestä",
+    "title": "Mirdja",
     "start_time": "2027-02-06T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
+    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Mirdja",
+    "title": "Taru hohtavasta helmestä",
     "start_time": "2027-02-06T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
+    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
   },
   {
     "venue": "ryhmateatteri",
@@ -3666,16 +3981,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
+    "title": "Jukka Lindström ‒ Vallaton tasavalta",
     "start_time": "2027-02-06T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
+    "url": "https://www.kansallisteatteri.fi/esitys/jukka-lindstrom-vallaton-tasavalta"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Jukka Lindström ‒ Vallaton tasavalta",
+    "title": "Toinen tasavalta",
     "start_time": "2027-02-06T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/jukka-lindstrom-vallaton-tasavalta"
+    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
   },
   {
     "venue": "universum",
@@ -3743,16 +4058,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Mirdja",
+    "title": "Taru hohtavasta helmestä",
     "start_time": "2027-02-13T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
+    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Taru hohtavasta helmestä",
+    "title": "Mirdja",
     "start_time": "2027-02-13T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
+    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
   },
   {
     "venue": "takomo",
@@ -3832,6 +4147,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
   },
   {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
+    "title": "Starman",
+    "start_time": "2027-02-19T18:30:00+02:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/starman"
+  },
+  {
     "venue": "takomo",
     "venue_label": "Teatteri Takomo",
     "title": "Eteläpohjalaisia",
@@ -3876,16 +4198,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Viidakon villit naiset",
+    "title": "Mirdja",
     "start_time": "2027-02-24T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
+    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Mirdja",
+    "title": "Viidakon villit naiset",
     "start_time": "2027-02-24T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
+    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
   },
   {
     "venue": "svenska",
@@ -3911,16 +4233,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Taru hohtavasta helmestä",
+    "title": "Mirdja",
     "start_time": "2027-02-26T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
+    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Mirdja",
+    "title": "Taru hohtavasta helmestä",
     "start_time": "2027-02-26T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
+    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
   },
   {
     "venue": "kansallisteatteri",
@@ -3988,16 +4310,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Seitsemän veljestä",
+    "title": "Hilma af Klint – Näkymättömästä näkyväksi",
     "start_time": "2027-03-03T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/seitseman-veljesta"
+    "url": "https://www.kansallisteatteri.fi/esitys/hilma-af-klint-nakymattomasta-nakyvaksi"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Hilma af Klint – Näkymättömästä näkyväksi",
+    "title": "Seitsemän veljestä",
     "start_time": "2027-03-03T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/hilma-af-klint-nakymattomasta-nakyvaksi"
+    "url": "https://www.kansallisteatteri.fi/esitys/seitseman-veljesta"
   },
   {
     "venue": "ryhmateatteri",
@@ -4037,6 +4359,13 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
+    "title": "Jukka Lindström ‒ Vallaton tasavalta",
+    "start_time": "2027-03-05T19:30:00+02:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/jukka-lindstrom-vallaton-tasavalta"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
     "title": "Seitsemän veljestä",
     "start_time": "2027-03-06T13:00:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/seitseman-veljesta"
@@ -4065,16 +4394,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Viidakon villit naiset",
+    "title": "Mirdja",
     "start_time": "2027-03-06T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
+    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Mirdja",
+    "title": "Viidakon villit naiset",
     "start_time": "2027-03-06T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
+    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
   },
   {
     "venue": "svenska",
@@ -4142,13 +4471,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Hilma af Klint – Näkymättömästä näkyväksi",
-    "start_time": "2027-03-10T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/hilma-af-klint-nakymattomasta-nakyvaksi"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
     "title": "Seitsemän veljestä",
     "start_time": "2027-03-10T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/seitseman-veljesta"
@@ -4159,6 +4481,13 @@ window.SCRAPED_EVENTS = [
     "title": "EX",
     "start_time": "2027-03-10T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/ex"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
+    "title": "Hilma af Klint – Näkymättömästä näkyväksi",
+    "start_time": "2027-03-10T18:30:00+02:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/hilma-af-klint-nakymattomasta-nakyvaksi"
   },
   {
     "venue": "svenska",
@@ -4184,16 +4513,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Hilma af Klint – Näkymättömästä näkyväksi",
+    "title": "Seitsemän veljestä",
     "start_time": "2027-03-11T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/hilma-af-klint-nakymattomasta-nakyvaksi"
+    "url": "https://www.kansallisteatteri.fi/esitys/seitseman-veljesta"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Seitsemän veljestä",
+    "title": "Hilma af Klint – Näkymättömästä näkyväksi",
     "start_time": "2027-03-11T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/seitseman-veljesta"
+    "url": "https://www.kansallisteatteri.fi/esitys/hilma-af-klint-nakymattomasta-nakyvaksi"
   },
   {
     "venue": "kansallisteatteri",
@@ -4233,16 +4562,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Taru hohtavasta helmestä",
+    "title": "Nämä juhlat jatkuvat vielä",
     "start_time": "2027-03-13T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
+    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Nämä juhlat jatkuvat vielä",
+    "title": "Taru hohtavasta helmestä",
     "start_time": "2027-03-13T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
+    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
   },
   {
     "venue": "kansallisteatteri",
@@ -4268,16 +4597,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Lady T",
+    "title": "Viidakon villit naiset",
     "start_time": "2027-03-13T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
+    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Viidakon villit naiset",
+    "title": "Lady T",
     "start_time": "2027-03-13T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
+    "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
   },
   {
     "venue": "ryhmateatteri",
@@ -4289,16 +4618,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Seitsemän veljestä",
+    "title": "Nämä juhlat jatkuvat vielä",
     "start_time": "2027-03-15T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/seitseman-veljesta"
+    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Nämä juhlat jatkuvat vielä",
+    "title": "Seitsemän veljestä",
     "start_time": "2027-03-15T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
+    "url": "https://www.kansallisteatteri.fi/esitys/seitseman-veljesta"
   },
   {
     "venue": "kansallisteatteri",
@@ -4345,16 +4674,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Nämä juhlat jatkuvat vielä",
+    "title": "Seitsemän veljestä",
     "start_time": "2027-03-17T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
+    "url": "https://www.kansallisteatteri.fi/esitys/seitseman-veljesta"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Seitsemän veljestä",
+    "title": "Nämä juhlat jatkuvat vielä",
     "start_time": "2027-03-17T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/seitseman-veljesta"
+    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
   },
   {
     "venue": "ryhmateatteri",
@@ -4401,6 +4730,13 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
+    "title": "Starman",
+    "start_time": "2027-03-19T18:30:00+02:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/starman"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
     "title": "Nämä juhlat jatkuvat vielä",
     "start_time": "2027-03-19T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
@@ -4422,16 +4758,9 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "EX",
+    "title": "Seitsemän veljestä",
     "start_time": "2027-03-20T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/ex"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Kimberly-kimalaisen lento",
-    "start_time": "2027-03-20T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/kimberly-kimalaisen-lento"
+    "url": "https://www.kansallisteatteri.fi/esitys/seitseman-veljesta"
   },
   {
     "venue": "kansallisteatteri",
@@ -4443,9 +4772,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Seitsemän veljestä",
+    "title": "EX",
     "start_time": "2027-03-20T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/seitseman-veljesta"
+    "url": "https://www.kansallisteatteri.fi/esitys/ex"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
+    "title": "Kimberly-kimalaisen lento",
+    "start_time": "2027-03-20T13:00:00+02:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/kimberly-kimalaisen-lento"
   },
   {
     "venue": "ryhmateatteri",
@@ -4464,16 +4800,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Taru hohtavasta helmestä",
+    "title": "Mirdja",
     "start_time": "2027-03-20T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
+    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Mirdja",
+    "title": "Taru hohtavasta helmestä",
     "start_time": "2027-03-20T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
+    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
   },
   {
     "venue": "viirus",
@@ -4576,13 +4912,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Seitsemän veljestä",
-    "start_time": "2027-03-31T18:30:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/seitseman-veljesta"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
     "title": "Hilma af Klint – Näkymättömästä näkyväksi",
     "start_time": "2027-03-31T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/hilma-af-klint-nakymattomasta-nakyvaksi"
@@ -4593,6 +4922,13 @@ window.SCRAPED_EVENTS = [
     "title": "EX",
     "start_time": "2027-03-31T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/ex"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
+    "title": "Seitsemän veljestä",
+    "start_time": "2027-03-31T18:30:00+03:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/seitseman-veljesta"
   },
   {
     "venue": "viirus",
@@ -4628,6 +4964,13 @@ window.SCRAPED_EVENTS = [
     "title": "Diptyk",
     "start_time": "2027-04-02T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
+    "title": "Jukka Lindström ‒ Vallaton tasavalta",
+    "start_time": "2027-04-02T19:30:00+03:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/jukka-lindstrom-vallaton-tasavalta"
   },
   {
     "venue": "kansallisteatteri",
@@ -4670,6 +5013,13 @@ window.SCRAPED_EVENTS = [
     "title": "PALKINTOPUHETTA",
     "start_time": "2027-04-05T18:30:00+03:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
+    "title": "Jukka Lindström ‒ Vallaton tasavalta",
+    "start_time": "2027-04-05T18:30:00+03:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/jukka-lindstrom-vallaton-tasavalta"
   },
   {
     "venue": "universum",
@@ -4786,16 +5136,16 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Kimberly-kimalaisen lento",
+    "title": "Nämä juhlat jatkuvat vielä",
     "start_time": "2027-04-10T13:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/kimberly-kimalaisen-lento"
+    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
   },
   {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
-    "title": "Nämä juhlat jatkuvat vielä",
+    "title": "Kimberly-kimalaisen lento",
     "start_time": "2027-04-10T13:00:00+03:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/nama-juhlat-jatkuvat-viela"
+    "url": "https://www.kansallisteatteri.fi/esitys/kimberly-kimalaisen-lento"
   },
   {
     "venue": "ryhmateatteri",
@@ -5055,6 +5405,13 @@ window.SCRAPED_EVENTS = [
     "title": "Diptyk",
     "start_time": "2027-04-26T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
+    "venue": "kansallisteatteri",
+    "venue_label": "Kansallisteatteri",
+    "title": "Starman",
+    "start_time": "2027-04-26T18:30:00+03:00",
+    "url": "https://www.kansallisteatteri.fi/esitys/starman"
   },
   {
     "venue": "universum",
