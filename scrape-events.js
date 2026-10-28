@@ -311,30 +311,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/lampi-2"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi taaperoperheille",
-    "start_time": "2026-10-28T00:00:00+02:00",
-    "end_time": "2026-10-28T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkuskurssi-taaperoperheille"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi vauvaperheille",
-    "start_time": "2026-10-28T00:00:00+02:00",
-    "end_time": "2026-10-28T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkuskurssi-vauvaperheille"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Kauri Honkakoski Company: HIGH TIDE [nousuvesi]",
-    "start_time": "2026-10-28T00:00:00+02:00",
-    "end_time": "2026-10-28T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/kauri-honkakoski-company-high-tide-nousuvesi"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Eliel Tammiharju:Lampi 2",
