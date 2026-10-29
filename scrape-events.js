@@ -345,7 +345,7 @@ window.SCRAPED_EVENTS = [
     "title": "Tapaa tekijä Stoan aulassa",
     "start_time": "2026-10-29T00:00:00+02:00",
     "end_time": "2026-10-29T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/F282C158BF0ABD9AD66B4D9B1645CDD2/tapaa-tekij-stoan-aulassa"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/tapaa-tekij-stoan-aulassa"
   },
   {
     "venue": "stoa",
@@ -369,13 +369,6 @@ window.SCRAPED_EVENTS = [
     "title": "Meri Ekola & Kid Kokko",
     "start_time": "2026-10-29T13:00:00+02:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/meri-ekola-kid-kokko/"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
-    "start_time": "2026-10-29T14:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-2910"
   },
   {
     "venue": "zodiak",
