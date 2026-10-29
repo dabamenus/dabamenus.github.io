@@ -353,7 +353,7 @@ window.SCRAPED_EVENTS = [
     "title": "Kauri Honkakoski Company: HIGH TIDE [nousuvesi]",
     "start_time": "2026-10-29T00:00:00+02:00",
     "end_time": "2026-10-29T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/72C4E5C00668D9AD754A1E380612ED34/kauri-honkakoski-company-high-tide-nousuvesi"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/kauri-honkakoski-company-high-tide-nousuvesi"
   },
   {
     "venue": "caisa",
@@ -378,13 +378,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/zodiak-laboratory-lintu-lover-edet-cane"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "d8zero presents: ZeroDating",
-    "start_time": "2026-10-29T18:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/d8zero-presents-zerodating-2910"
-  },
-  {
     "venue": "takomo",
     "venue_label": "Teatteri Takomo",
     "title": "Meri Ekola & Kid Kokko",
@@ -397,13 +390,6 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-10-29T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Äitisi, Klytaimestra",
-    "start_time": "2026-10-29T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "kansallisteatteri",
