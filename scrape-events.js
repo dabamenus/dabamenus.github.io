@@ -201,13 +201,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/AF8043AFA23C9A82F0871693042F7CA3/luciana-garc-a-ensemble"
   },
   {
-    "venue": "kiasma",
-    "venue_label": "Kiasma",
-    "title": "Entanglement: I am a tree, I am a mouth",
-    "start_time": "2026-10-30T18:00:00+02:00",
-    "url": "https://kiasma.fi/esitykset/entanglement-i-am-a-tree-i-am-a-mouth/"
-  },
-  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Atte Kantonen – bugbath: pathmaking",
@@ -234,13 +227,6 @@ window.SCRAPED_EVENTS = [
     "title": "Writing of Disaster",
     "start_time": "2026-10-30T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Äitisi, Klytaimestra",
-    "start_time": "2026-10-30T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "kansallisteatteri",
