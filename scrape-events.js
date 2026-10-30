@@ -179,14 +179,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/959928B54FE1C289730A30BEB8260D52/kirsi-m-paltto-jouni-s-laiti-litn-t-lahka-lempe-sti-lujasti"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Luciana García Ensemble",
-    "start_time": "2026-10-30T00:00:00+02:00",
-    "end_time": "2026-10-30T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/luciana-garc-a-ensemble"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
