@@ -164,20 +164,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
   },
   {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Meri Ekola & Kid Kokko",
-    "start_time": "2026-10-29T13:00:00+02:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/meri-ekola-kid-kokko/"
-  },
-  {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Meri Ekola & Kid Kokko",
-    "start_time": "2026-10-29T18:00:00+02:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/meri-ekola-kid-kokko/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
@@ -198,21 +184,7 @@ window.SCRAPED_EVENTS = [
     "title": "Luciana García Ensemble",
     "start_time": "2026-10-30T00:00:00+02:00",
     "end_time": "2026-10-30T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/AF8043AFA23C9A82F0871693042F7CA3/luciana-garc-a-ensemble"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Atte Kantonen – bugbath: pathmaking",
-    "start_time": "2026-10-30T18:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/atte-kantonen-budbath-pathmaking"
-  },
-  {
-    "venue": "takomo",
-    "venue_label": "Teatteri Takomo",
-    "title": "Meri Ekola & Kid Kokko",
-    "start_time": "2026-10-30T18:00:00+02:00",
-    "url": "https://teatteritakomo.fi/ohjelmisto/meri-ekola-kid-kokko/"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/luciana-garc-a-ensemble"
   },
   {
     "venue": "hkt",
@@ -255,27 +227,6 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-10-30T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Wishamalii (FI/JO)",
-    "start_time": "2026-10-30T19:00:00+02:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/wishamalii/"
-  },
-  {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Kompani Nord: Sista paret ut",
-    "start_time": "2026-10-30T19:00:00+02:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/kompani-nord-sista-paret-ut/"
-  },
-  {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Mehrnoosh Zolfaghari: Awakening",
-    "start_time": "2026-10-30T19:00:00+02:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/mehrnoosh-zolfaghari/"
   },
   {
     "venue": "svenska",
@@ -2992,13 +2943,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
-    "title": "Wishamalii (FI/JO)",
-    "start_time": "2026-12-04T19:00:00+02:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/wishamalii/"
-  },
-  {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
     "title": "Mehrnoosh Zolfaghari: Awakening",
     "start_time": "2026-12-04T19:00:00+02:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/mehrnoosh-zolfaghari/"
@@ -4124,13 +4068,6 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-12-19T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Wishamalii (FI/JO)",
-    "start_time": "2026-12-19T19:00:00+02:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/wishamalii/"
   },
   {
     "venue": "svenska",
