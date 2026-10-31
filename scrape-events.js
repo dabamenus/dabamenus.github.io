@@ -205,7 +205,7 @@ window.SCRAPED_EVENTS = [
     "title": "Kauhua kakaroille",
     "start_time": "2026-10-31T00:00:00+02:00",
     "end_time": "2026-10-31T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/DF766375E6E5EF507AB94A6F19F3F09A/kauhua-kakaroille"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/kauhua-kakaroille"
   },
   {
     "venue": "stoa",
@@ -221,7 +221,7 @@ window.SCRAPED_EVENTS = [
     "title": "Juhlakulkue Guerilla-valaistavalle Stoan aukiolle",
     "start_time": "2026-10-31T00:00:00+02:00",
     "end_time": "2026-10-31T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/65ED9DB698E80B9993317D1B47B430AF/juhlakulkue-guerilla-valaistavalle-stoan-aukiolle"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/juhlakulkue-guerilla-valaistavalle-stoan-aukiolle"
   },
   {
     "venue": "caisa",
