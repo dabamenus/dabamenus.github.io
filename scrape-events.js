@@ -229,7 +229,7 @@ window.SCRAPED_EVENTS = [
     "title": "Old Forest Echoes – Ikimetsän kaiku: immersiivinen luontokonsertti",
     "start_time": "2026-10-31T00:00:00+02:00",
     "end_time": "2026-10-31T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/4315416BF35517CB764A83C690F786FD/old-forest-echoes-ikimets-n-kaiku-immersiivinen-luontokonsertti"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/old-forest-echoes-ikimets-n-kaiku-immersiivinen-luontokonsertti"
   },
   {
     "venue": "tekstintalo",
