@@ -207,13 +207,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/show-boudoir/"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Asiantuntijan neuvottelutaidot",
-    "start_time": "2026-10-31T10:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/asiantuntijan-neuvottelutaidot"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Writing of Disaster",
@@ -233,7 +226,7 @@ window.SCRAPED_EVENTS = [
     "title": "Old Forest Echoes – Ikimetsän kaiku: immersiivinen luontokonsertti",
     "start_time": "2026-11-01T00:00:00+02:00",
     "end_time": "2026-11-01T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/8376C1D627E9F010009A7F12E757C791/old-forest-echoes-ikimets-n-kaiku-immersiivinen-luontokonsertti"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/old-forest-echoes-ikimets-n-kaiku-immersiivinen-luontokonsertti"
   },
   {
     "venue": "universum",
