@@ -79,6 +79,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/sandyrella/"
   },
   {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Paneelikeskustelu tanssitaiteen tulevaisuudesta",
+    "start_time": "2026-09-30T13:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/paneelikeskustelu-tanssitaiteen-tulevaisuudesta"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
@@ -150,6 +157,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
+    "venue": "zodiak",
+    "venue_label": "Zodiak",
+    "title": "Tanssimista vai näyttelemistä?",
+    "start_time": "2026-10-24T07:00:00+00:00",
+    "url": "https://zodiak.fi/fi/ohjelmisto/tanssimista-vai-nayttelemista"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
@@ -186,50 +200,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
   },
   {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Tommy Körberg – Unplugged",
-    "start_time": "2026-10-30T19:00:00+02:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/tommy-korberg-unplugged/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Show Boudoir",
     "start_time": "2026-10-30T19:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/show-boudoir/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Kauhua kakaroille",
-    "start_time": "2026-10-31T00:00:00+02:00",
-    "end_time": "2026-10-31T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/kauhua-kakaroille"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Vanhojen nukkejen Catwalk - tule ihastumaan ja kauhistumaan!",
-    "start_time": "2026-10-31T00:00:00+02:00",
-    "end_time": "2026-10-31T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/vanhojen-nukkejen-catwalk-tule-ihastumaan-ja-kauhistumaan"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Juhlakulkue Guerilla-valaistavalle Stoan aukiolle",
-    "start_time": "2026-10-31T00:00:00+02:00",
-    "end_time": "2026-10-31T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/juhlakulkue-guerilla-valaistavalle-stoan-aukiolle"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Old Forest Echoes – Ikimetsän kaiku: immersiivinen luontokonsertti",
-    "start_time": "2026-10-31T00:00:00+02:00",
-    "end_time": "2026-10-31T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/old-forest-echoes-ikimets-n-kaiku-immersiivinen-luontokonsertti"
   },
   {
     "venue": "tekstintalo",
@@ -239,27 +214,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/asiantuntijan-neuvottelutaidot"
   },
   {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Lopetus",
-    "start_time": "2026-10-31T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lopetus"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Viidakon villit naiset",
-    "start_time": "2026-10-31T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Eräteatteri",
-    "start_time": "2026-10-31T16:00:00+02:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/erateatteri/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Writing of Disaster",
@@ -267,32 +221,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
   },
   {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Toinen tasavalta",
-    "start_time": "2026-10-31T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Lady T",
-    "start_time": "2026-10-31T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
-  },
-  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "ANDETAG",
     "start_time": "2026-10-31T19:00:00+02:00",
     "url": "https://universum.fi/events/andetag-31-10/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Monsterit Stand Up Show",
-    "start_time": "2026-10-31T19:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/monsterit-stand-up-show/"
   },
   {
     "venue": "caisa",
@@ -4712,6 +4645,13 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2027-01-28T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Tavallisuuden aave",
+    "start_time": "2027-01-29T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/tavallisuuden-aave/"
   },
   {
     "venue": "kansallisteatteri",
