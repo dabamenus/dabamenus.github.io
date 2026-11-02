@@ -217,21 +217,6 @@ window.SCRAPED_EVENTS = [
     "venue": "universum",
     "venue_label": "Universum",
     "title": "ANDETAG",
-    "start_time": "2026-10-31T19:00:00+02:00",
-    "url": "https://universum.fi/events/andetag-31-10/"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Old Forest Echoes – Ikimetsän kaiku: immersiivinen luontokonsertti",
-    "start_time": "2026-11-01T00:00:00+02:00",
-    "end_time": "2026-11-01T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/old-forest-echoes-ikimets-n-kaiku-immersiivinen-luontokonsertti"
-  },
-  {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "ANDETAG",
     "start_time": "2026-11-01T19:00:00+02:00",
     "url": "https://universum.fi/events/andetag-1-11/"
   },
@@ -4675,6 +4660,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Medusan huone",
+    "start_time": "2027-01-30T13:00:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/medusan-huone/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Taru hohtavasta helmestä",
@@ -4715,6 +4707,13 @@ window.SCRAPED_EVENTS = [
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2027-01-30T17:00:00+02:00",
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Järjen hedelmät",
+    "start_time": "2027-01-30T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/jarjen-hedelmat/"
   },
   {
     "venue": "ryhmateatteri",
@@ -7928,6 +7927,13 @@ window.SCRAPED_EVENTS = [
     "title": "Frozen",
     "start_time": "2027-10-25T18:00:00+03:00",
     "url": "https://hkt.fi/esitykset/frozen/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "ANDETAG",
+    "start_time": "2027-10-25T19:00:00+03:00",
+    "url": "https://universum.fi/events/andetag-25-10/"
   },
   {
     "venue": "hkt",
