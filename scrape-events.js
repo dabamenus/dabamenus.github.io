@@ -79,13 +79,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/sandyrella/"
   },
   {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Paneelikeskustelu tanssitaiteen tulevaisuudesta",
-    "start_time": "2026-09-30T13:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/paneelikeskustelu-tanssitaiteen-tulevaisuudesta"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
@@ -155,13 +148,6 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-10-23T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
-  },
-  {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Tanssimista vai näyttelemistä?",
-    "start_time": "2026-10-24T07:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/tanssimista-vai-nayttelemista"
   },
   {
     "venue": "viirus",
