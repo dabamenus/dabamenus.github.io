@@ -382,38 +382,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Ohjatut päivätanssit Stoan aulassa",
-    "start_time": "2026-11-03T00:00:00+02:00",
-    "end_time": "2026-11-03T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/ohjatut-p-iv-tanssit-stoan-aulassa"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi senioreille, Ryhmä 1",
-    "start_time": "2026-11-03T00:00:00+02:00",
-    "end_time": "2026-11-03T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkuskurssi-senioreille-ryhm-1"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sirkuskurssi senioreille, Ryhmä 2",
-    "start_time": "2026-11-03T00:00:00+02:00",
-    "end_time": "2026-11-03T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkuskurssi-senioreille-ryhm-2"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-11-03T00:00:00+02:00",
-    "end_time": "2026-11-03T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/taidetta-taaperoille"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Eliel Tammiharju:Lampi 2",
@@ -1460,6 +1428,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/622816DF5B32EB560440314D16CB01FB/liikkeell-marraskuussa-johanna-karlberg-antonia-atarah-alen-nsambu-swedish-asshole-feat-akademiska-s-ngf-reningen"
   },
   {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "Writing of Disaster",
+    "start_time": "2026-11-15T13:00:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "ANDETAG",
@@ -1509,6 +1484,13 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-11-16T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "DRAMATIK PÅ MÅNDAG!",
+    "start_time": "2026-11-16T19:00:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/dramatik-pa-mandag/"
   },
   {
     "venue": "universum",
@@ -1930,6 +1912,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kurtturuusut",
     "start_time": "2026-11-23T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/kurtturuusut/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "DRAMATIK PÅ MÅNDAG!",
+    "start_time": "2026-11-23T19:00:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/dramatik-pa-mandag/"
   },
   {
     "venue": "universum",
@@ -2530,6 +2519,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kotijoukot",
     "start_time": "2026-11-30T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/kotijoukot/"
+  },
+  {
+    "venue": "viirus",
+    "venue_label": "Teater Viirus",
+    "title": "DRAMATIK PÅ MÅNDAG!",
+    "start_time": "2026-11-30T19:00:00+02:00",
+    "url": "https://viirus.fi/fi/esitykset/dramatik-pa-mandag/"
   },
   {
     "venue": "hkt",
