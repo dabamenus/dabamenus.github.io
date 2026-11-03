@@ -394,7 +394,7 @@ window.SCRAPED_EVENTS = [
     "title": "Ohjatut päivätanssit Stoan aulassa",
     "start_time": "2026-11-03T00:00:00+02:00",
     "end_time": "2026-11-03T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/097FA14A8BBCB3EFD131073BF3287651/ohjatut-p-iv-tanssit-stoan-aulassa"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/ohjatut-p-iv-tanssit-stoan-aulassa"
   },
   {
     "venue": "stoa",
@@ -402,7 +402,7 @@ window.SCRAPED_EVENTS = [
     "title": "Sirkuskurssi senioreille, Ryhmä 1",
     "start_time": "2026-11-03T00:00:00+02:00",
     "end_time": "2026-11-03T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/AC500E50B5954CD964D1987AB05F11B0/sirkuskurssi-senioreille-ryhm-1"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkuskurssi-senioreille-ryhm-1"
   },
   {
     "venue": "stoa",
@@ -410,7 +410,7 @@ window.SCRAPED_EVENTS = [
     "title": "Sirkuskurssi senioreille, Ryhmä 2",
     "start_time": "2026-11-03T00:00:00+02:00",
     "end_time": "2026-11-03T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/09F955F50A40FB785A4D4170B94459F3/sirkuskurssi-senioreille-ryhm-2"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkuskurssi-senioreille-ryhm-2"
   },
   {
     "venue": "caisa",
@@ -418,7 +418,7 @@ window.SCRAPED_EVENTS = [
     "title": "Taidetta taaperoille",
     "start_time": "2026-11-03T00:00:00+02:00",
     "end_time": "2026-11-03T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/EE318E599696EB8638A9013F83A945CD/taidetta-taaperoille"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/taidetta-taaperoille"
   },
   {
     "venue": "zodiak",
@@ -2318,6 +2318,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Prisceremoni för Årets kritiska text 2026",
+    "start_time": "2026-11-27T18:30:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/prisceremoni-for-arets-kritiska-text-2026"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
@@ -2968,6 +2975,13 @@ window.SCRAPED_EVENTS = [
     "title": "Zodiak Laboratory:Tuulia Soininen",
     "start_time": "2026-12-04T15:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/zodiak-laboratory-tuulia-soininen"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Tekstin talon kirjamarkkinat 2026",
+    "start_time": "2026-12-04T15:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/tekstin-talon-kirjamarkkinat-2026"
   },
   {
     "venue": "viirus",
