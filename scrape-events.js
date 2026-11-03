@@ -214,13 +214,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
   },
   {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "ANDETAG",
-    "start_time": "2026-11-01T19:00:00+02:00",
-    "url": "https://universum.fi/events/andetag-1-11/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Ohjatut päivätanssit Stoan aulassa",
@@ -7920,6 +7913,13 @@ window.SCRAPED_EVENTS = [
     "title": "ANDETAG",
     "start_time": "2027-10-25T19:00:00+03:00",
     "url": "https://universum.fi/events/andetag-25-10/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "ANDETAG",
+    "start_time": "2027-10-26T19:00:00+03:00",
+    "url": "https://universum.fi/events/andetag-26-10/"
   },
   {
     "venue": "hkt",
