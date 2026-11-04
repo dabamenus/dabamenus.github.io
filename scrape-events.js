@@ -255,6 +255,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/lampi-2"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Dialoginen vuorovaikutus ihmissuhteissa ja yhteisöissä",
+    "start_time": "2026-10-22T17:30:00+03:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/dialoginen-vuorovaikutus-ihmissuhteissa-ja-yhteisoissa"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
@@ -425,6 +432,13 @@ window.SCRAPED_EVENTS = [
     "title": "Eliel Tammiharju:Lampi 2",
     "start_time": "2026-11-04T17:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/lampi-2"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Runouden lukemisen kurssi",
+    "start_time": "2026-11-04T17:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/runouden-lukemisen-kurssi"
   },
   {
     "venue": "viirus",
@@ -716,6 +730,13 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-11-07T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Sanan mahti — loitsurunouden kirjoittamistyöpaja 7.11. 2026",
+    "start_time": "2026-11-07T14:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/sanan-mahti-loitsurunouden-kirjoittamistyopaja-7-11-2026"
   },
   {
     "venue": "ryhmateatteri",
@@ -1091,6 +1112,20 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
+    "start_time": "2026-11-12T14:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-1211"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Vertaistuki-ilta yksin työskenteleville tekstiammattilaisille",
+    "start_time": "2026-11-12T17:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/vertaistuki-ilta-tekstiammattilaisille"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Writing of Disaster",
@@ -1256,6 +1291,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kaksitoista lahjaa Joulupukille",
     "start_time": "2026-11-14T10:00:00+02:00",
     "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Olen X (verkkokurssitus 12.9.-12.12. 2026)",
+    "start_time": "2026-11-14T11:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/olen-x-verkkokurssitus-12-9-12-12-2026-copy3"
   },
   {
     "venue": "hkt",
@@ -1430,6 +1472,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/2C0D372B451C516A4F4ACC7FAD872E89/tanssi-ja-leikki"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Kritiikkifestivaali 2026",
+    "start_time": "2026-11-16T15:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/kritiikkifestivaali-2026"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Kirjailijat lavalla",
@@ -1485,6 +1534,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kaksitoista lahjaa Joulupukille",
     "start_time": "2026-11-17T10:00:00+02:00",
     "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Ballroom – Danser pour exister: Documentary Screening & Conversation",
+    "start_time": "2026-11-17T18:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/ballroom-danser-pour-exister"
   },
   {
     "venue": "viirus",
@@ -2117,6 +2173,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/kurtturuusut/"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
+    "start_time": "2026-11-26T14:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-2611"
+  },
+  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Marika Peura:Imperial Stage",
@@ -2216,6 +2279,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Prisceremoni för Årets kritiska text 2026",
+    "start_time": "2026-11-27T18:30:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/prisceremoni-for-arets-kritiska-text-2026"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "Äitisi, Klytaimestra",
@@ -2307,6 +2377,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-11-28T00:00:00+02:00",
     "end_time": "2026-11-28T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/53ED8FE4FA23EFB486B3BB4E80680B18/qoomikot-kollektiivi-kv-rinp-in-x-caisa-tuoretta-verta"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Runoverstas Suonenjoella",
+    "start_time": "2026-11-28T10:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/runoverstas-suonenjoella"
   },
   {
     "venue": "zodiak",
@@ -2557,6 +2634,13 @@ window.SCRAPED_EVENTS = [
     "title": "Marika Peura:Imperial Stage",
     "start_time": "2026-12-01T17:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Vihreä kasvu ja irtikytkentä",
+    "start_time": "2026-12-01T17:30:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/vihrea-kasvu-ja-irtikytkenta"
   },
   {
     "venue": "kiasma",
@@ -2859,6 +2943,13 @@ window.SCRAPED_EVENTS = [
     "title": "Zodiak Laboratory:Tuulia Soininen",
     "start_time": "2026-12-04T15:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/zodiak-laboratory-tuulia-soininen"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Tekstin talon kirjamarkkinat 2026",
+    "start_time": "2026-12-04T16:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/tekstin-talon-kirjamarkkinat-2026"
   },
   {
     "venue": "viirus",
@@ -3368,6 +3459,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/no-no-2/"
   },
   {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
+    "start_time": "2026-12-10T14:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-1012"
+  },
+  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Marika Peura:Imperial Stage",
@@ -3526,6 +3624,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-12-12T00:00:00+02:00",
     "end_time": "2026-12-12T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/BE29BF2F4806EE00BFD29DAD6D028362/amanda-lydia-traces-of-your-skin"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Olen X (verkkokurssitus 12.9.-12.12. 2026)",
+    "start_time": "2026-12-12T11:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/olen-x-verkkokurssitus-12-9-12-12-2026-copy4"
   },
   {
     "venue": "hkt",
