@@ -437,7 +437,7 @@ window.SCRAPED_EVENTS = [
     "title": "Liikkeellä marraskuussa – Mélanie Demers: Confession Publique",
     "start_time": "2026-11-05T00:00:00+02:00",
     "end_time": "2026-11-05T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/7264FD7423DE0DC70896B44DE70BFA62/liikkeell-marraskuussa-m-lanie-demers-confession-publique"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/liikkeell-marraskuussa-m-lanie-demers-confession-publique"
   },
   {
     "venue": "caisa",
