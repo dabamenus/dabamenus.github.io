@@ -424,20 +424,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "När Baba faller i poolen är kl. 23.47",
-    "start_time": "2026-11-04T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kiviä taskussa",
-    "start_time": "2026-11-04T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Liikkeellä marraskuussa – Anna Kozonina: Audience Club",
@@ -467,7 +453,7 @@ window.SCRAPED_EVENTS = [
     "title": "Taidetta taaperoille",
     "start_time": "2026-11-05T00:00:00+02:00",
     "end_time": "2026-11-05T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/3CA3ED4570FD1DA58ED1D6DE6AC2DAFF/taidetta-taaperoille"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/taidetta-taaperoille"
   },
   {
     "venue": "caisa",
@@ -4973,6 +4959,13 @@ window.SCRAPED_EVENTS = [
     "title": "Rósa &#038; Björk",
     "start_time": "2027-02-01T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/rosa-bjork/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Järjen hedelmät",
+    "start_time": "2027-02-02T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/jarjen-hedelmat/"
   },
   {
     "venue": "kansallisteatteri",
