@@ -448,22 +448,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/B3E7ED8923502C2D166A883ED2930092/liikkeell-marraskuussa-anna-kozonina-audience-club"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Liikkeellä marraskuussa – Mélanie Demers: Inner Mythology -työpaja",
-    "start_time": "2026-11-06T00:00:00+02:00",
-    "end_time": "2026-11-06T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/liikkeell-marraskuussa-m-lanie-demers-inner-mythology-ty-paja"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Liikkeellä marraskuussa – Mélanie Demers: Confession Publique",
-    "start_time": "2026-11-06T00:00:00+02:00",
-    "end_time": "2026-11-06T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/liikkeell-marraskuussa-m-lanie-demers-confession-publique"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Liikkeellä marraskuussa: Soup Talks",
@@ -477,13 +461,6 @@ window.SCRAPED_EVENTS = [
     "title": "Writing of Disaster",
     "start_time": "2026-11-06T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Mi Madre y el Dinero",
-    "start_time": "2026-11-06T18:30:00+02:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/mi-madre-y-el-dinero/"
   },
   {
     "venue": "kansallisteatteri",
