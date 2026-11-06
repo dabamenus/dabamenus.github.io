@@ -453,7 +453,7 @@ window.SCRAPED_EVENTS = [
     "title": "Liikkeellä marraskuussa – Mélanie Demers: Inner Mythology -työpaja",
     "start_time": "2026-11-06T00:00:00+02:00",
     "end_time": "2026-11-06T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/653E4CE586F4394BD62427C46FE66DDC/liikkeell-marraskuussa-m-lanie-demers-inner-mythology-ty-paja"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/liikkeell-marraskuussa-m-lanie-demers-inner-mythology-ty-paja"
   },
   {
     "venue": "stoa",
@@ -491,13 +491,6 @@ window.SCRAPED_EVENTS = [
     "title": "Mi Madre y el Dinero",
     "start_time": "2026-11-06T18:30:00+02:00",
     "url": "https://espoonteatteri.fi/ohjelmisto/mi-madre-y-el-dinero/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Äitisi, Klytaimestra",
-    "start_time": "2026-11-06T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "kansallisteatteri",
