@@ -63,14 +63,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-09-01T00:00:00+03:00",
-    "end_time": "2026-12-22T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/090BE058FE197926A7F00ACAA34B65A9/taidetta-taaperoille"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Kati Raatikainen,Milla Martikainen:Sotku ja rakkaus",
@@ -389,6 +381,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2026-11-03T00:00:00+02:00",
+    "end_time": "2026-12-22T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/090BE058FE197926A7F00ACAA34B65A9/taidetta-taaperoille"
+  },
+  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Eliel Tammiharju:Lampi 2",
@@ -432,14 +432,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/3126DC35E53EDD5165E3E3ADF38F3672/liikkeell-marraskuussa-anna-kozonina-audience-club"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Liikkeellä marraskuussa – Mélanie Demers: Confession Publique",
-    "start_time": "2026-11-05T00:00:00+02:00",
-    "end_time": "2026-11-05T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/liikkeell-marraskuussa-m-lanie-demers-confession-publique"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Liikkeellä marraskuussa",
@@ -450,60 +442,10 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "caisa",
     "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-11-05T00:00:00+02:00",
-    "end_time": "2026-11-05T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/taidetta-taaperoille"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
     "title": "Liikkeellä marraskuussa – Anna Kozonina: Audience Club",
     "start_time": "2026-11-05T00:00:00+02:00",
     "end_time": "2026-11-15T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/B3E7ED8923502C2D166A883ED2930092/liikkeell-marraskuussa-anna-kozonina-audience-club"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kaksitoista lahjaa Joulupukille",
-    "start_time": "2026-11-05T10:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-11-05T18:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Mi Madre y el Dinero",
-    "start_time": "2026-11-05T18:30:00+02:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/mi-madre-y-el-dinero/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-11-05T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-11-05T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kiviä taskussa",
-    "start_time": "2026-11-05T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
   },
   {
     "venue": "stoa",
@@ -3787,6 +3729,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/2CE11A22DAB8BF5AF3E52A2675622F63/kek-l-inen-company-hysteria-mundi-improvisations-on-global-politics"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Amanda & Lydia: Traces of Your Skin",
+    "start_time": "2026-12-16T00:00:00+02:00",
+    "end_time": "2026-12-16T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/402CD109843364B85EB811BBADA7E510/amanda-lydia-traces-of-your-skin"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kaksitoista lahjaa Joulupukille",
@@ -3884,6 +3834,14 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-12-17T00:00:00+02:00",
     "end_time": "2026-12-17T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/00F919E358ECE3C2EC030E9C335D5E43/taidetta-taaperoille"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Amanda & Lydia: Traces of Your Skin",
+    "start_time": "2026-12-17T00:00:00+02:00",
+    "end_time": "2026-12-17T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/76C7BC592B7FB49BB9824EBF2BF116F4/amanda-lydia-traces-of-your-skin"
   },
   {
     "venue": "hkt",
@@ -4994,6 +4952,13 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2027-02-02T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Tavallisuuden aave",
+    "start_time": "2027-02-03T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/tavallisuuden-aave/"
   },
   {
     "venue": "ryhmateatteri",
