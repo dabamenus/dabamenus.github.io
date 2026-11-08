@@ -463,30 +463,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Liikkeellä marraskuussa – Jenni-Elina von Bagh: The Body as an Event -työpaja",
-    "start_time": "2026-11-07T00:00:00+02:00",
-    "end_time": "2026-11-07T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/liikkeell-marraskuussa-jenni-elina-von-bagh-the-body-as-an-event-ty-paja"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Qoomikot kollektiivi: Kväärinpäin | TÄYNNÄ",
-    "start_time": "2026-11-07T00:00:00+02:00",
-    "end_time": "2026-11-07T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/qoomikot-kollektiivi-kv-rinp-in-t-ynn"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Liikkeellä marraskuussa – Katerina Andreou & Mélissa Guex: SHOUT TWICE",
-    "start_time": "2026-11-07T00:00:00+02:00",
-    "end_time": "2026-11-07T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/liikkeell-marraskuussa-katerina-andreou-m-lissa-guex-shout-twice"
-  },
-  {
     "venue": "cirko",
     "venue_label": "Cirko",
     "title": "Kallo Collective: The Story of Pluto, Who Wanted to Be a Planet",
@@ -494,48 +470,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://cirko.fi/esitys/kallo-collective-the-story-of-pluto-who-wanted-to-be-a-planet/"
   },
   {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Viidakon villit naiset",
-    "start_time": "2026-11-07T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Lopetus",
-    "start_time": "2026-11-07T13:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lopetus"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-11-07T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-11-07T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-11-07T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-11-07T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "cirko",
     "venue_label": "Cirko",
     "title": "Kallo Collective: The Story of Pluto, Who Wanted to Be a Planet",
@@ -543,74 +477,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://cirko.fi/esitys/kallo-collective-the-story-of-pluto-who-wanted-to-be-a-planet/"
   },
   {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Mi Madre y el Dinero",
-    "start_time": "2026-11-07T15:00:00+02:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/mi-madre-y-el-dinero/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Fretti Mercury etsii onnea",
-    "start_time": "2026-11-07T17:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Lady T",
-    "start_time": "2026-11-07T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-11-07T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Elolliset",
-    "start_time": "2026-11-07T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-11-07T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-11-07T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Timo Tuominen: Rendez-vous avec Brel",
-    "start_time": "2026-11-07T19:00:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/timo-tuominen-rendez-vous-avec-brel"
-  },
-  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "ANDETAG",
     "start_time": "2026-11-07T19:00:00+02:00",
     "url": "https://universum.fi/events/andetag-7-11/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Club act!one",
-    "start_time": "2026-11-07T21:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
     "venue": "caisa",
@@ -4945,6 +4816,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Medusan huone",
+    "start_time": "2027-02-05T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/medusan-huone/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Taru hohtavasta helmestä",
@@ -8128,6 +8006,13 @@ window.SCRAPED_EVENTS = [
     "title": "Frozen",
     "start_time": "2027-10-30T17:00:00+03:00",
     "url": "https://hkt.fi/esitykset/frozen/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "ANDETAG",
+    "start_time": "2027-10-31T19:00:00+02:00",
+    "url": "https://universum.fi/events/andetag-31-10/"
   },
   {
     "venue": "hkt",
