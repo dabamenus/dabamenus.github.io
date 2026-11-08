@@ -489,7 +489,7 @@ window.SCRAPED_EVENTS = [
     "title": "Liikkeellä marraskuussa – Katerina Andreou & Mélissa Guex: SHOUT TWICE",
     "start_time": "2026-11-08T00:00:00+02:00",
     "end_time": "2026-11-08T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/1E7980F0F8638B8E8444ADBBBBC56E14/liikkeell-marraskuussa-katerina-andreou-m-lissa-guex-shout-twice"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/liikkeell-marraskuussa-katerina-andreou-m-lissa-guex-shout-twice"
   },
   {
     "venue": "caisa",
