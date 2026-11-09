@@ -477,27 +477,12 @@ window.SCRAPED_EVENTS = [
     "url": "https://cirko.fi/esitys/kallo-collective-the-story-of-pluto-who-wanted-to-be-a-planet/"
   },
   {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "ANDETAG",
-    "start_time": "2026-11-07T19:00:00+02:00",
-    "url": "https://universum.fi/events/andetag-7-11/"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Liikkeellä marraskuussa – Katerina Andreou & Mélissa Guex: SHOUT TWICE",
-    "start_time": "2026-11-08T00:00:00+02:00",
-    "end_time": "2026-11-08T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/liikkeell-marraskuussa-katerina-andreou-m-lissa-guex-shout-twice"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Tanssi ja leikki",
     "start_time": "2026-11-09T00:00:00+02:00",
     "end_time": "2026-11-09T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/B3AFD56F3AC48A2EE826437308DE9392/tanssi-ja-leikki"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/tanssi-ja-leikki"
   },
   {
     "venue": "caisa",
@@ -1107,7 +1092,7 @@ window.SCRAPED_EVENTS = [
     "venue_label": "Stoa",
     "title": "Sylimetsässä – metsän sylissä",
     "start_time": "2026-11-16T00:00:00+02:00",
-    "end_time": "2026-11-22T23:59:00+02:00",
+    "end_time": "2026-11-21T23:59:00+02:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/60F82D63F89FC23AE34D0694DB5C2E50/sylimets-ss-mets-n-syliss"
   },
   {
@@ -1202,6 +1187,14 @@ window.SCRAPED_EVENTS = [
     "title": "Taru hohtavasta helmestä",
     "start_time": "2026-11-17T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Kuvailutulkattu opastus  näyttelyyn Todellisuus sellaisena, kuin se ei meille näyttäydy",
+    "start_time": "2026-11-18T00:00:00+02:00",
+    "end_time": "2026-11-18T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/2C1AD616F1C0EE62A0947AAB658EDD4E/kuvailutulkattu-opastus-n-yttelyyn-todellisuus-sellaisena-kuin-se-ei-meille-n-ytt-ydy"
   },
   {
     "venue": "hkt",
@@ -4900,6 +4893,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Tavallisuuden aave",
+    "start_time": "2027-02-06T14:00:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/tavallisuuden-aave/"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "alfabet",
@@ -8013,6 +8013,13 @@ window.SCRAPED_EVENTS = [
     "title": "ANDETAG",
     "start_time": "2027-10-31T19:00:00+02:00",
     "url": "https://universum.fi/events/andetag-31-10/"
+  },
+  {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "ANDETAG",
+    "start_time": "2027-11-01T19:00:00+02:00",
+    "url": "https://universum.fi/events/andetag-1-11/"
   },
   {
     "venue": "hkt",
