@@ -512,7 +512,7 @@ window.SCRAPED_EVENTS = [
     "title": "Liikkeellä marraskuussa – Betty Tchomanga: Decolonial (Hi)stories #Parallel Portraits",
     "start_time": "2026-11-10T00:00:00+02:00",
     "end_time": "2026-11-10T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/950714282875605790564288E7CC3146/liikkeell-marraskuussa-betty-tchomanga-decolonial-hi-stories-parallel-portraits"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/liikkeell-marraskuussa-betty-tchomanga-decolonial-hi-stories-parallel-portraits"
   },
   {
     "venue": "caisa",
@@ -536,13 +536,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kaksitoista lahjaa Joulupukille",
     "start_time": "2026-11-10T10:00:00+02:00",
     "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kahvilla kirjailijan kanssa",
-    "start_time": "2026-11-10T16:30:00+02:00",
-    "url": ""
   },
   {
     "venue": "viirus",
@@ -4989,6 +4982,13 @@ window.SCRAPED_EVENTS = [
     "title": "Toinen tasavalta",
     "start_time": "2027-02-06T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "&amp; Julia",
+    "start_time": "2027-02-06T18:30:00+02:00",
+    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "universum",
