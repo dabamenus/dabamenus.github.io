@@ -1389,6 +1389,22 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/D8876F30977ABA691E27E00AF5309F98/pienten-ja-suurten-eli-kuntalaisten-klubi"
   },
   {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Leikisti – Livekuvitettu leikki!",
+    "start_time": "2026-11-21T00:00:00+02:00",
+    "end_time": "2026-11-21T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/ECFE7353BB3198FC6108BF702E24B111/leikisti-livekuvitettu-leikki"
+  },
+  {
+    "venue": "stoa",
+    "venue_label": "Stoa",
+    "title": "Teatteri ILMI Ö: Metsälarppi",
+    "start_time": "2026-11-21T00:00:00+02:00",
+    "end_time": "2026-11-21T23:59:00+02:00",
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/8EEEBE8728AC3A6575719E115BFC3CFF/teatteri-ilmi-mets-larppi"
+  },
+  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Resonance Festival Vol. 2: Threshold States",
@@ -3348,6 +3364,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://teatteritakomo.fi/ohjelmisto/joanna-haartti-viiksi-instituutti-kaksoisolento/"
   },
   {
+    "venue": "svenska",
+    "venue_label": "Svenska Teatern",
+    "title": "Aamu Suomen Lucian kanssa",
+    "start_time": "2026-12-13T19:00:00+02:00",
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/luciamorgon/"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Heavenly Father",
@@ -4700,6 +4723,13 @@ window.SCRAPED_EVENTS = [
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2027-01-31T17:00:00+02:00",
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
+  },
+  {
+    "venue": "svenska",
+    "venue_label": "Svenska Teatern",
+    "title": "Aamu Suomen Lucian kanssa",
+    "start_time": "2027-01-31T19:00:00+02:00",
+    "url": "https://svenskateatern.fi/fi/ohjelmisto/luciamorgon/"
   },
   {
     "venue": "universum",
