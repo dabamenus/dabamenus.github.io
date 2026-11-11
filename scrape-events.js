@@ -520,7 +520,7 @@ window.SCRAPED_EVENTS = [
     "title": "Liikkeellä marraskuussa – Dana Michel: YOU CANNOT CAN",
     "start_time": "2026-11-11T00:00:00+02:00",
     "end_time": "2026-11-12T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/8D336EB3EB3137693B035BFA3B4750E7/liikkeell-marraskuussa-dana-michel-you-cannot-can"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/liikkeell-marraskuussa-dana-michel-you-cannot-can"
   },
   {
     "venue": "hkt",
