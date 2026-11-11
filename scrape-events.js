@@ -148,67 +148,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/sandyrella/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-09-21T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-09-22T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-09-23T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-09-26T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Paneelikeskustelu tanssitaiteen tulevaisuudesta",
     "start_time": "2026-09-30T13:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/paneelikeskustelu-tanssitaiteen-tulevaisuudesta"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-09-30T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-01T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-02T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-03T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "zodiak",
@@ -218,25 +162,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-06T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Elina Pirinen:Ghosts of Rosegarden",
     "start_time": "2026-10-08T16:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-08T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "zodiak",
@@ -253,13 +183,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/ghosts-rosegarden"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-09T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Elina Pirinen:Ghosts of Rosegarden",
@@ -274,32 +197,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-10T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
     "start_time": "2026-10-13T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-13T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-14T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "viirus",
@@ -309,25 +211,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-15T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
     "start_time": "2026-10-16T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-16T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "stoa",
@@ -373,13 +261,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-22T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
@@ -408,13 +289,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-24T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Keskustelua viestinnästä ja taiteesta",
@@ -427,13 +301,6 @@ window.SCRAPED_EVENTS = [
     "title": "Eliel Tammiharju:Lampi 2",
     "start_time": "2026-10-27T17:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/lampi-2"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-27T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "zodiak",
@@ -450,13 +317,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-28T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "zodiak",
     "venue_label": "Zodiak",
     "title": "Zodiak Laboratory:Lintu Lover & Edet Cane",
@@ -469,13 +329,6 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-10-29T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-29T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "caisa",
@@ -505,13 +358,6 @@ window.SCRAPED_EVENTS = [
     "title": "Writing of Disaster",
     "start_time": "2026-10-30T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-10-30T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "viirus",
@@ -555,13 +401,6 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-11-03T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-03T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "zodiak",
@@ -609,13 +448,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/B3E7ED8923502C2D166A883ED2930092/liikkeell-marraskuussa-anna-kozonina-audience-club"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-05T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Liikkeellä marraskuussa: Soup Talks",
@@ -631,13 +463,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-06T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "cirko",
     "venue_label": "Cirko",
     "title": "Kallo Collective: The Story of Pluto, Who Wanted to Be a Planet",
@@ -650,13 +475,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kallo Collective: The Story of Pluto, Who Wanted to Be a Planet",
     "start_time": "2026-11-07T15:00:00+02:00",
     "url": "https://cirko.fi/esitys/kallo-collective-the-story-of-pluto-who-wanted-to-be-a-planet/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-07T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "viirus",
@@ -694,7 +512,7 @@ window.SCRAPED_EVENTS = [
     "title": "Liikkeellä marraskuussa – Betty Tchomanga: Decolonial (Hi)stories #Parallel Portraits",
     "start_time": "2026-11-11T00:00:00+02:00",
     "end_time": "2026-11-11T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/BE0E20D107D0D008946C9F2487AB1CE9/liikkeell-marraskuussa-betty-tchomanga-decolonial-hi-stories-parallel-portraits"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/liikkeell-marraskuussa-betty-tchomanga-decolonial-hi-stories-parallel-portraits"
   },
   {
     "venue": "caisa",
@@ -717,13 +535,6 @@ window.SCRAPED_EVENTS = [
     "title": "Writing of Disaster",
     "start_time": "2026-11-11T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-11T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -828,20 +639,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-12T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Äitisi, Klytaimestra",
-    "start_time": "2026-11-12T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Viides askel",
@@ -907,20 +704,6 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-11-13T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-13T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Äitisi, Klytaimestra",
-    "start_time": "2026-11-13T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "kansallisteatteri",
@@ -1051,13 +834,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Äitisi, Klytaimestra",
-    "start_time": "2026-11-14T14:00:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
-  },
-  {
     "venue": "cirko",
     "venue_label": "Cirko",
     "title": "Kallo Collective: The Story of Pluto, Who Wanted to Be a Planet",
@@ -1070,13 +846,6 @@ window.SCRAPED_EVENTS = [
     "title": "Troijan Norma Jeane Baker – julkistamistilaisuus",
     "start_time": "2026-11-14T17:00:00+02:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/troijan-norma-jeane-baker-julkistamistilaisuus/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-14T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "espoonteatteri",
@@ -1259,13 +1028,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-17T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Taru hohtavasta helmestä",
@@ -1293,13 +1055,6 @@ window.SCRAPED_EVENTS = [
     "title": "Rakastavaisten kuoro",
     "start_time": "2026-11-18T18:30:00+02:00",
     "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Äitisi, Klytaimestra",
-    "start_time": "2026-11-18T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "kansallisteatteri",
@@ -1374,20 +1129,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-19T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Äitisi, Klytaimestra",
-    "start_time": "2026-11-19T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "När Baba faller i poolen är kl. 23.47",
@@ -1444,20 +1185,6 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-11-20T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-20T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Äitisi, Klytaimestra",
-    "start_time": "2026-11-20T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "kansallisteatteri",
@@ -1588,20 +1315,6 @@ window.SCRAPED_EVENTS = [
     "title": "Rakastavaisten kuoro",
     "start_time": "2026-11-21T14:00:00+02:00",
     "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Äitisi, Klytaimestra",
-    "start_time": "2026-11-21T14:00:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-21T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -1855,25 +1568,11 @@ window.SCRAPED_EVENTS = [
     "url": ""
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-25T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Rakastavaisten kuoro",
     "start_time": "2026-11-25T18:30:00+02:00",
     "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Äitisi, Klytaimestra",
-    "start_time": "2026-11-25T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "kansallisteatteri",
@@ -1976,25 +1675,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-26T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Rakastavaisten kuoro",
     "start_time": "2026-11-26T18:30:00+02:00",
     "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Äitisi, Klytaimestra",
-    "start_time": "2026-11-26T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2068,25 +1753,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-27T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Prisceremoni för Årets kritiska text 2026",
     "start_time": "2026-11-27T18:30:00+02:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/prisceremoni-for-arets-kritiska-text-2026"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Äitisi, Klytaimestra",
-    "start_time": "2026-11-27T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "kansallisteatteri",
@@ -2238,25 +1909,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Äitisi, Klytaimestra",
-    "start_time": "2026-11-28T14:00:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
-  },
-  {
     "venue": "kiasma",
     "venue_label": "Kiasma",
     "title": "Kauri Sorvari: Forevermore",
     "start_time": "2026-11-28T15:00:00+02:00",
     "url": "https://kiasma.fi/esitykset/kauri-sorvari-forevermore/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-11-28T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -2458,13 +2115,6 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-12-01T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-12-01T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "espoonteatteri",
@@ -2769,13 +2419,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-12-04T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Rakastavaisten kuoro",
@@ -2953,13 +2596,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://kiasma.fi/esitykset/kauri-sorvari-forevermore/"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-12-05T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Viidakon villit naiset",
@@ -3068,13 +2704,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-12-08T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Rakastavaisten kuoro",
@@ -3158,13 +2787,6 @@ window.SCRAPED_EVENTS = [
     "title": "Marika Peura:Imperial Stage",
     "start_time": "2026-12-09T17:00:00+00:00",
     "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-12-09T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "espoonteatteri",
@@ -3311,13 +2933,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
   },
   {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-12-10T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Rakastavaisten kuoro",
@@ -3396,13 +3011,6 @@ window.SCRAPED_EVENTS = [
     "title": "Heavenly Father",
     "start_time": "2026-12-11T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/heavenly-father/"
-  },
-  {
-    "venue": "qteatteri",
-    "venue_label": "Q-Teatteri",
-    "title": "Suliko",
-    "start_time": "2026-12-11T18:30:00+02:00",
-    "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
     "venue": "kansallisteatteri",
@@ -4657,13 +4265,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://espoonteatteri.fi/ohjelmisto/medusan-huone/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "alfabet",
-    "start_time": "2027-01-26T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Taru hohtavasta helmestä",
@@ -4713,13 +4314,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://espoonteatteri.fi/ohjelmisto/tavallisuuden-aave/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "alfabet",
-    "start_time": "2027-01-27T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Ihmisiä ja kanoja",
@@ -4767,13 +4361,6 @@ window.SCRAPED_EVENTS = [
     "title": "Medusan huone",
     "start_time": "2027-01-28T18:30:00+02:00",
     "url": "https://espoonteatteri.fi/ohjelmisto/medusan-huone/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "alfabet",
-    "start_time": "2027-01-28T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
   },
   {
     "venue": "kansallisteatteri",
@@ -4902,13 +4489,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://espoonteatteri.fi/ohjelmisto/jarjen-hedelmat/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "alfabet",
-    "start_time": "2027-01-30T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Viidakon villit naiset",
@@ -5021,13 +4601,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://espoonteatteri.fi/ohjelmisto/tavallisuuden-aave/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "alfabet",
-    "start_time": "2027-02-03T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Ihmisiä ja kanoja",
@@ -5070,13 +4643,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://espoonteatteri.fi/ohjelmisto/jarjen-hedelmat/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "alfabet",
-    "start_time": "2027-02-04T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Terapian tarpeessa, tottakai!",
@@ -5089,13 +4655,6 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2027-02-04T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "alfabet",
-    "start_time": "2027-02-05T14:00:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
   },
   {
     "venue": "espoonteatteri",
@@ -5189,13 +4748,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://espoonteatteri.fi/ohjelmisto/tavallisuuden-aave/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "alfabet",
-    "start_time": "2027-02-06T14:00:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
@@ -5231,13 +4783,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/kettutyton-paluu-8-2/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "alfabet",
-    "start_time": "2027-02-09T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Terapian tarpeessa, tottakai!",
@@ -5266,13 +4811,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "alfabet",
-    "start_time": "2027-02-10T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lady T",
@@ -5299,13 +4837,6 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2027-02-10T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "alfabet",
-    "start_time": "2027-02-11T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
   },
   {
     "venue": "hkt",
@@ -5341,13 +4872,6 @@ window.SCRAPED_EVENTS = [
     "title": "BRINN",
     "start_time": "2027-02-11T19:00:00+02:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/brinn/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "alfabet",
-    "start_time": "2027-02-12T14:00:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
   },
   {
     "venue": "kansallisteatteri",
@@ -5411,13 +4935,6 @@ window.SCRAPED_EVENTS = [
     "title": "Eteläpohjalaisia",
     "start_time": "2027-02-13T14:00:00+02:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "alfabet",
-    "start_time": "2027-02-13T14:00:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
   },
   {
     "venue": "hkt",
@@ -5742,13 +5259,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/rosa-bjork/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "PALKINTOPUHETTA",
-    "start_time": "2027-02-24T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Viidakon villit naiset",
@@ -5798,13 +5308,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/pelle-svanslos/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "PALKINTOPUHETTA",
-    "start_time": "2027-02-25T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Terapian tarpeessa, tottakai!",
@@ -5838,13 +5341,6 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2027-02-25T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "PALKINTOPUHETTA",
-    "start_time": "2027-02-26T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
   },
   {
     "venue": "kansallisteatteri",
@@ -5952,13 +5448,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "PALKINTOPUHETTA",
-    "start_time": "2027-03-01T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Seitsemän veljestä",
@@ -5971,13 +5460,6 @@ window.SCRAPED_EVENTS = [
     "title": "Elolliset",
     "start_time": "2027-03-01T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "PALKINTOPUHETTA",
-    "start_time": "2027-03-02T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
   },
   {
     "venue": "kansallisteatteri",
@@ -6015,13 +5497,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "PALKINTOPUHETTA",
-    "start_time": "2027-03-03T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Hilma af Klint – Näkymättömästä näkyväksi",
@@ -6048,13 +5523,6 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2027-03-03T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "alfabet",
-    "start_time": "2027-03-04T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
   },
   {
     "venue": "kansallisteatteri",
@@ -6090,13 +5558,6 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2027-03-04T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "alfabet",
-    "start_time": "2027-03-05T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
   },
   {
     "venue": "kansallisteatteri",
@@ -6183,20 +5644,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "alfabet",
-    "start_time": "2027-03-06T14:00:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "PALKINTOPUHETTA",
-    "start_time": "2027-03-06T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Viidakon villit naiset",
@@ -6253,25 +5700,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/suuri-naistenpaivan-juhlakonsertti"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "alfabet",
-    "start_time": "2027-03-08T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
-  },
-  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Vinterkvällar",
     "start_time": "2027-03-08T19:00:00+02:00",
     "url": "https://universum.fi/events/vinterkvallar-8-3/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "alfabet",
-    "start_time": "2027-03-09T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
   },
   {
     "venue": "kansallisteatteri",
@@ -6307,13 +5740,6 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2027-03-10T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "alfabet",
-    "start_time": "2027-03-10T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
   },
   {
     "venue": "kansallisteatteri",
@@ -6372,13 +5798,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/balladeja-ja-havyttomyyksia/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "PALKINTOPUHETTA",
-    "start_time": "2027-03-11T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Seitsemän veljestä",
@@ -6419,13 +5838,6 @@ window.SCRAPED_EVENTS = [
     "title": "Vinterkvällar",
     "start_time": "2027-03-11T19:00:00+02:00",
     "url": "https://universum.fi/events/vinterkvallar-11-3/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "PALKINTOPUHETTA",
-    "start_time": "2027-03-12T14:00:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
   },
   {
     "venue": "kansallisteatteri",
@@ -6512,20 +5924,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "PALKINTOPUHETTA",
-    "start_time": "2027-03-13T14:00:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "alfabet",
-    "start_time": "2027-03-13T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lady T",
@@ -6568,13 +5966,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "PALKINTOPUHETTA",
-    "start_time": "2027-03-15T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Seitsemän veljestä",
@@ -6594,13 +5985,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kimberly-kimalaisen lento",
     "start_time": "2027-03-16T18:00:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/kimberly-kimalaisen-lento"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "PALKINTOPUHETTA",
-    "start_time": "2027-03-16T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
   },
   {
     "venue": "kansallisteatteri",
@@ -6631,13 +6015,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/kimberly-kimalaisen-lento"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "PALKINTOPUHETTA",
-    "start_time": "2027-03-17T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Seitsemän veljestä",
@@ -6657,13 +6034,6 @@ window.SCRAPED_EVENTS = [
     "title": "Elolliset",
     "start_time": "2027-03-17T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/elolliset/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "alfabet",
-    "start_time": "2027-03-18T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
   },
   {
     "venue": "kansallisteatteri",
@@ -6713,13 +6083,6 @@ window.SCRAPED_EVENTS = [
     "title": "Diptyk",
     "start_time": "2027-03-19T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "alfabet",
-    "start_time": "2027-03-19T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
   },
   {
     "venue": "kansallisteatteri",
@@ -6834,20 +6197,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "alfabet",
-    "start_time": "2027-03-20T14:00:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "PALKINTOPUHETTA",
-    "start_time": "2027-03-20T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Mirdja",
@@ -6953,13 +6302,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "alfabet",
-    "start_time": "2027-03-30T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Nämä juhlat jatkuvat vielä",
@@ -6986,13 +6328,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kimberly-kimalaisen lento",
     "start_time": "2027-03-31T18:00:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/kimberly-kimalaisen-lento"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "PALKINTOPUHETTA",
-    "start_time": "2027-03-31T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
   },
   {
     "venue": "kansallisteatteri",
@@ -7037,25 +6372,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "PALKINTOPUHETTA",
-    "start_time": "2027-04-01T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Rósa &#038; Björk",
     "start_time": "2027-04-01T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/rosa-bjork/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "PALKINTOPUHETTA",
-    "start_time": "2027-04-02T14:00:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
   },
   {
     "venue": "kansallisteatteri",
@@ -7128,20 +6449,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/rosa-bjork/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "PALKINTOPUHETTA",
-    "start_time": "2027-04-03T14:00:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "alfabet",
-    "start_time": "2027-04-03T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Nämä juhlat jatkuvat vielä",
@@ -7161,13 +6468,6 @@ window.SCRAPED_EVENTS = [
     "title": "Vinterkvällar",
     "start_time": "2027-04-04T19:00:00+03:00",
     "url": "https://universum.fi/events/vinterkvallar-4-4/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "PALKINTOPUHETTA",
-    "start_time": "2027-04-05T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
   },
   {
     "venue": "kansallisteatteri",
@@ -7198,13 +6498,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/kimberly-kimalaisen-lento"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "PALKINTOPUHETTA",
-    "start_time": "2027-04-06T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Nämä juhlat jatkuvat vielä",
@@ -7233,13 +6526,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/kimberly-kimalaisen-lento"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "PALKINTOPUHETTA",
-    "start_time": "2027-04-07T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Ihmisiä ja kanoja",
@@ -7266,13 +6552,6 @@ window.SCRAPED_EVENTS = [
     "title": "Diptyk",
     "start_time": "2027-04-08T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "alfabet",
-    "start_time": "2027-04-08T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
   },
   {
     "venue": "kansallisteatteri",
@@ -7324,13 +6603,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "alfabet",
-    "start_time": "2027-04-09T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
-  },
-  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Tommy Körberg – Unplugged",
@@ -7366,25 +6638,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/rosa-bjork/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "alfabet",
-    "start_time": "2027-04-10T14:00:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Diptyk",
     "start_time": "2027-04-10T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "PALKINTOPUHETTA",
-    "start_time": "2027-04-10T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
   },
   {
     "venue": "kansallisteatteri",
@@ -7429,25 +6687,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "alfabet",
-    "start_time": "2027-04-12T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Kimberly-kimalaisen lento",
     "start_time": "2027-04-13T18:00:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/kimberly-kimalaisen-lento"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "alfabet",
-    "start_time": "2027-04-13T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
   },
   {
     "venue": "hkt",
@@ -7464,13 +6708,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "PALKINTOPUHETTA",
-    "start_time": "2027-04-14T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Seitsemän veljestä",
@@ -7485,13 +6722,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "PALKINTOPUHETTA",
-    "start_time": "2027-04-15T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Ihmisiä ja kanoja",
@@ -7504,13 +6734,6 @@ window.SCRAPED_EVENTS = [
     "title": "Diptyk",
     "start_time": "2027-04-16T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "PALKINTOPUHETTA",
-    "start_time": "2027-04-16T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
   },
   {
     "venue": "hkt",
@@ -7546,20 +6769,6 @@ window.SCRAPED_EVENTS = [
     "title": "Rósa &#038; Björk",
     "start_time": "2027-04-17T13:00:00+03:00",
     "url": "https://hkt.fi/esitykset/rosa-bjork/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "PALKINTOPUHETTA",
-    "start_time": "2027-04-17T14:00:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "alfabet",
-    "start_time": "2027-04-17T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
   },
   {
     "venue": "hkt",
@@ -7660,13 +6869,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "PALKINTOPUHETTA",
-    "start_time": "2027-04-21T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Seitsemän veljestä",
@@ -7688,25 +6890,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/balladeja-ja-havyttomyyksia/"
   },
   {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "PALKINTOPUHETTA",
-    "start_time": "2027-04-22T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Diptyk",
     "start_time": "2027-04-23T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "PALKINTOPUHETTA",
-    "start_time": "2027-04-23T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
   },
   {
     "venue": "hkt",
@@ -7735,13 +6923,6 @@ window.SCRAPED_EVENTS = [
     "title": "Diptyk",
     "start_time": "2027-04-24T14:00:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "PALKINTOPUHETTA",
-    "start_time": "2027-04-24T14:00:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
   },
   {
     "venue": "kansallisteatteri",
@@ -7798,13 +6979,6 @@ window.SCRAPED_EVENTS = [
     "title": "Diptyk",
     "start_time": "2027-04-27T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "PALKINTOPUHETTA",
-    "start_time": "2027-04-27T18:30:00+03:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
   },
   {
     "venue": "hkt",
