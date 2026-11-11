@@ -484,20 +484,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
   },
   {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "ANDETAG",
-    "start_time": "2026-11-09T19:00:00+02:00",
-    "url": "https://universum.fi/events/andetag-9-11/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kaksitoista lahjaa Joulupukille",
-    "start_time": "2026-11-10T10:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
@@ -505,33 +491,12 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-11-10T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-11-10T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kiviä taskussa",
-    "start_time": "2026-11-10T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kivia-taskussa/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Sirkuskurssi taaperoperheille",
     "start_time": "2026-11-11T00:00:00+02:00",
     "end_time": "2026-11-11T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/816CAE9C2ED14F80AEF60B7D247C5291/sirkuskurssi-taaperoperheille"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkuskurssi-taaperoperheille"
   },
   {
     "venue": "stoa",
@@ -539,7 +504,7 @@ window.SCRAPED_EVENTS = [
     "title": "Sirkuskurssi vauvaperheille",
     "start_time": "2026-11-11T00:00:00+02:00",
     "end_time": "2026-11-11T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/93C4974C33791DC9E5DAF450FB804F08/sirkuskurssi-vauvaperheille"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sirkuskurssi-vauvaperheille"
   },
   {
     "venue": "stoa",
@@ -1549,6 +1514,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kaksitoista lahjaa Joulupukille",
     "start_time": "2026-11-24T10:00:00+02:00",
     "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Book launch: One of",
+    "start_time": "2026-11-24T18:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/book-launch-one-of"
   },
   {
     "venue": "espoonteatteri",
