@@ -510,7 +510,7 @@ window.SCRAPED_EVENTS = [
     "title": "PodiKlubi",
     "start_time": "2026-11-12T00:00:00+02:00",
     "end_time": "2026-11-12T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/7DB2C596877CFF2B639D7AC14ADDC843/podiklubi"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/podiklubi"
   },
   {
     "venue": "caisa",
@@ -526,7 +526,7 @@ window.SCRAPED_EVENTS = [
     "title": "Liikkeellä marraskuussa – Gaby Saranouffi, deufert&plischke, Moeketsi Koena & Thabiso Heccius Pule: RONA",
     "start_time": "2026-11-12T00:00:00+02:00",
     "end_time": "2026-11-12T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/717017B5B7A1D0D91B5F79CF65DED3CE/liikkeell-marraskuussa-gaby-saranouffi-deufert-plischke-moeketsi-koena-thabiso-heccius-pule-rona"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/liikkeell-marraskuussa-gaby-saranouffi-deufert-plischke-moeketsi-koena-thabiso-heccius-pule-rona"
   },
   {
     "venue": "caisa",
@@ -546,13 +546,6 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
-    "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
-    "start_time": "2026-11-12T14:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-1211"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
     "title": "Vertaistuki-ilta yksin työskenteleville tekstiammattilaisille",
     "start_time": "2026-11-12T17:00:00+02:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/vertaistuki-ilta-tekstiammattilaisille"
@@ -563,13 +556,6 @@ window.SCRAPED_EVENTS = [
     "title": "Writing of Disaster",
     "start_time": "2026-11-12T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Äitisi, Klytaimestra",
-    "start_time": "2026-11-12T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "kansallisteatteri",
