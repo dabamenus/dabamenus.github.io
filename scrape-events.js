@@ -694,38 +694,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/anglagard/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "PodiKlubi",
-    "start_time": "2026-11-12T00:00:00+02:00",
-    "end_time": "2026-11-12T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/podiklubi"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-11-12T00:00:00+02:00",
-    "end_time": "2026-11-12T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/taidetta-taaperoille"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Liikkeellä marraskuussa – Gaby Saranouffi, deufert&plischke, Moeketsi Koena & Thabiso Heccius Pule: RONA",
-    "start_time": "2026-11-12T00:00:00+02:00",
-    "end_time": "2026-11-12T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/liikkeell-marraskuussa-gaby-saranouffi-deufert-plischke-moeketsi-koena-thabiso-heccius-pule-rona"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Liikkeellä marraskuussa – Dana Michel: YOU CANNOT CAN",
-    "start_time": "2026-11-12T00:00:00+02:00",
-    "end_time": "2026-11-13T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/liikkeell-marraskuussa-dana-michel-you-cannot-can"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
@@ -745,13 +713,6 @@ window.SCRAPED_EVENTS = [
     "title": "Suliko",
     "start_time": "2026-11-12T18:30:00+02:00",
     "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Viides askel",
-    "start_time": "2026-11-12T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viides-askel"
   },
   {
     "venue": "hkt",
