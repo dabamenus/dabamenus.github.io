@@ -544,13 +544,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Vertaistuki-ilta yksin työskenteleville tekstiammattilaisille",
-    "start_time": "2026-11-12T17:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/vertaistuki-ilta-tekstiammattilaisille"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Writing of Disaster",
