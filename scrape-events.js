@@ -359,13 +359,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/lampi-2"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Dialoginen vuorovaikutus ihmissuhteissa ja yhteisöissä",
-    "start_time": "2026-10-22T17:30:00+03:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/dialoginen-vuorovaikutus-ihmissuhteissa-ja-yhteisoissa"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
@@ -687,20 +680,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://q-teatteri.fi/esitykset/suliko"
   },
   {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Änglagård",
-    "start_time": "2026-11-11T19:00:00+02:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/anglagard/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-11-12T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Writing of Disaster",
@@ -713,27 +692,6 @@ window.SCRAPED_EVENTS = [
     "title": "Suliko",
     "start_time": "2026-11-12T18:30:00+02:00",
     "url": "https://q-teatteri.fi/esitykset/suliko"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "När Baba faller i poolen är kl. 23.47",
-    "start_time": "2026-11-12T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-11-12T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-11-12T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
     "venue": "stoa",
@@ -757,7 +715,7 @@ window.SCRAPED_EVENTS = [
     "title": "Liikkeellä marraskuussa – Sara Grotenfelt: Last Hurrah",
     "start_time": "2026-11-13T00:00:00+02:00",
     "end_time": "2026-11-13T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/93F22A07F34DA8BAFE20AA2FEC6749AB/liikkeell-marraskuussa-sara-grotenfelt-last-hurrah"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/liikkeell-marraskuussa-sara-grotenfelt-last-hurrah"
   },
   {
     "venue": "caisa",
@@ -2194,6 +2152,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2026-11-29T00:00:00+02:00",
     "end_time": "2026-11-29T23:59:00+02:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/D26B4F71FD4217FF8CE2C09831D0A25A/tanssiteatteri-tsuumi-kulttuurikomppania-eloa-arvo"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Haku Esseekouluun",
+    "start_time": "2026-11-29T12:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/haku-esseekouluun"
   },
   {
     "venue": "kiasma",
@@ -8046,6 +8011,27 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
+    "title": "Moulin Rouge! Musikaali",
+    "start_time": "2027-10-05T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/moulin-rouge-musikaali/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Moulin Rouge! Musikaali",
+    "start_time": "2027-10-06T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/moulin-rouge-musikaali/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Moulin Rouge! Musikaali",
+    "start_time": "2027-10-07T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/moulin-rouge-musikaali/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
     "title": "Frozen",
     "start_time": "2027-10-08T18:00:00+03:00",
     "url": "https://hkt.fi/esitykset/frozen/"
@@ -8063,6 +8049,27 @@ window.SCRAPED_EVENTS = [
     "title": "Frozen",
     "start_time": "2027-10-09T17:00:00+03:00",
     "url": "https://hkt.fi/esitykset/frozen/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Moulin Rouge! Musikaali",
+    "start_time": "2027-10-12T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/moulin-rouge-musikaali/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Moulin Rouge! Musikaali",
+    "start_time": "2027-10-13T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/moulin-rouge-musikaali/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Moulin Rouge! Musikaali",
+    "start_time": "2027-10-14T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/moulin-rouge-musikaali/"
   },
   {
     "venue": "hkt",
@@ -8091,6 +8098,27 @@ window.SCRAPED_EVENTS = [
     "title": "Frozen",
     "start_time": "2027-10-18T18:00:00+03:00",
     "url": "https://hkt.fi/esitykset/frozen/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Moulin Rouge! Musikaali",
+    "start_time": "2027-10-19T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/moulin-rouge-musikaali/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Moulin Rouge! Musikaali",
+    "start_time": "2027-10-20T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/moulin-rouge-musikaali/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Moulin Rouge! Musikaali",
+    "start_time": "2027-10-21T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/moulin-rouge-musikaali/"
   },
   {
     "venue": "universum",
@@ -8142,11 +8170,32 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/andetag-25-10/"
   },
   {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Moulin Rouge! Musikaali",
+    "start_time": "2027-10-26T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/moulin-rouge-musikaali/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "ANDETAG",
     "start_time": "2027-10-26T19:00:00+03:00",
     "url": "https://universum.fi/events/andetag-26-10/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Moulin Rouge! Musikaali",
+    "start_time": "2027-10-27T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/moulin-rouge-musikaali/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Moulin Rouge! Musikaali",
+    "start_time": "2027-10-28T18:30:00+03:00",
+    "url": "https://hkt.fi/esitykset/moulin-rouge-musikaali/"
   },
   {
     "venue": "hkt",
@@ -8186,6 +8235,20 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
+    "title": "Moulin Rouge! Musikaali",
+    "start_time": "2027-11-02T18:30:00+02:00",
+    "url": "https://hkt.fi/esitykset/moulin-rouge-musikaali/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Moulin Rouge! Musikaali",
+    "start_time": "2027-11-03T18:30:00+02:00",
+    "url": "https://hkt.fi/esitykset/moulin-rouge-musikaali/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
     "title": "Frozen",
     "start_time": "2027-11-04T18:00:00+02:00",
     "url": "https://hkt.fi/esitykset/frozen/"
@@ -8210,6 +8273,41 @@ window.SCRAPED_EVENTS = [
     "title": "Frozen",
     "start_time": "2027-11-11T18:00:00+02:00",
     "url": "https://hkt.fi/esitykset/frozen/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Moulin Rouge! Musikaali",
+    "start_time": "2027-11-12T18:30:00+02:00",
+    "url": "https://hkt.fi/esitykset/moulin-rouge-musikaali/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Moulin Rouge! Musikaali",
+    "start_time": "2027-11-13T13:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/moulin-rouge-musikaali/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Moulin Rouge! Musikaali",
+    "start_time": "2027-11-13T18:30:00+02:00",
+    "url": "https://hkt.fi/esitykset/moulin-rouge-musikaali/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Moulin Rouge! Musikaali",
+    "start_time": "2027-11-16T18:30:00+02:00",
+    "url": "https://hkt.fi/esitykset/moulin-rouge-musikaali/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Moulin Rouge! Musikaali",
+    "start_time": "2027-11-17T18:30:00+02:00",
+    "url": "https://hkt.fi/esitykset/moulin-rouge-musikaali/"
   },
   {
     "venue": "hkt",
@@ -8263,6 +8361,41 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
+    "title": "Moulin Rouge! Musikaali",
+    "start_time": "2027-11-26T18:30:00+02:00",
+    "url": "https://hkt.fi/esitykset/moulin-rouge-musikaali/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Moulin Rouge! Musikaali",
+    "start_time": "2027-11-27T13:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/moulin-rouge-musikaali/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Moulin Rouge! Musikaali",
+    "start_time": "2027-11-27T18:30:00+02:00",
+    "url": "https://hkt.fi/esitykset/moulin-rouge-musikaali/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Moulin Rouge! Musikaali",
+    "start_time": "2027-11-30T18:30:00+02:00",
+    "url": "https://hkt.fi/esitykset/moulin-rouge-musikaali/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Moulin Rouge! Musikaali",
+    "start_time": "2027-12-01T18:30:00+02:00",
+    "url": "https://hkt.fi/esitykset/moulin-rouge-musikaali/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
     "title": "Frozen",
     "start_time": "2027-12-02T18:00:00+02:00",
     "url": "https://hkt.fi/esitykset/frozen/"
@@ -8312,78 +8445,29 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Frozen",
-    "start_time": "2027-12-16T18:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/frozen/"
+    "title": "Moulin Rouge! Musikaali",
+    "start_time": "2027-12-10T18:30:00+02:00",
+    "url": "https://hkt.fi/esitykset/moulin-rouge-musikaali/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Frozen",
-    "start_time": "2027-12-17T18:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/frozen/"
+    "title": "Moulin Rouge! Musikaali",
+    "start_time": "2027-12-11T13:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/moulin-rouge-musikaali/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Frozen",
-    "start_time": "2027-12-18T12:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/frozen/"
+    "title": "Moulin Rouge! Musikaali",
+    "start_time": "2027-12-11T18:30:00+02:00",
+    "url": "https://hkt.fi/esitykset/moulin-rouge-musikaali/"
   },
   {
     "venue": "hkt",
     "venue_label": "HKT",
-    "title": "Frozen",
-    "start_time": "2027-12-18T17:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/frozen/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Frozen",
-    "start_time": "2027-12-27T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/frozen/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Frozen",
-    "start_time": "2027-12-27T18:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/frozen/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Frozen",
-    "start_time": "2027-12-29T18:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/frozen/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Frozen",
-    "start_time": "2027-12-30T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/frozen/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Frozen",
-    "start_time": "2027-12-30T18:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/frozen/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Frozen",
-    "start_time": "2027-12-31T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/frozen/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Frozen",
-    "start_time": "2027-12-31T18:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/frozen/"
+    "title": "Moulin Rouge! Musikaali",
+    "start_time": "2027-12-14T18:30:00+02:00",
+    "url": "https://hkt.fi/esitykset/moulin-rouge-musikaali/"
   }
 ];
