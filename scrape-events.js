@@ -527,7 +527,7 @@ window.SCRAPED_EVENTS = [
     "title": "Liikkeellä marraskuussa – Dana Michel: YOU CANNOT CAN",
     "start_time": "2026-11-13T00:00:00+02:00",
     "end_time": "2026-11-14T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/65ECDF69FDD18FD68CFC555120DA47D0/liikkeell-marraskuussa-dana-michel-you-cannot-can"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/liikkeell-marraskuussa-dana-michel-you-cannot-can"
   },
   {
     "venue": "viirus",
