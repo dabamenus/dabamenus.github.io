@@ -498,22 +498,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/show-boudoir/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Liikkeellä marraskuussa – Michael Turinsky: Precarious Moves",
-    "start_time": "2026-11-14T00:00:00+02:00",
-    "end_time": "2026-11-14T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/liikkeell-marraskuussa-michael-turinsky-precarious-moves"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Liikkeellä marraskuussa – Johanna Karlberg, Antonia Atarah & Alen Nsambu: Swedish Asshole feat. Akademiska Sångföreningen",
-    "start_time": "2026-11-14T00:00:00+02:00",
-    "end_time": "2026-11-14T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/3A5A15DFA4B087740BBD673E22BAE09E/liikkeell-marraskuussa-johanna-karlberg-antonia-atarah-alen-nsambu-swedish-asshole-feat-akademiska-s-ngf-reningen"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kaksitoista lahjaa Joulupukille",
