@@ -417,38 +417,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Liikkeellä marraskuussa – Anna Kozonina: Audience Club",
-    "start_time": "2026-11-05T00:00:00+02:00",
-    "end_time": "2026-11-15T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/liikkeell-marraskuussa-anna-kozonina-audience-club"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Liikkeellä marraskuussa",
-    "start_time": "2026-11-05T00:00:00+02:00",
-    "end_time": "2026-11-15T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/liikkeell-marraskuussa"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Liikkeellä marraskuussa – Anna Kozonina: Audience Club",
-    "start_time": "2026-11-05T00:00:00+02:00",
-    "end_time": "2026-11-15T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/liikkeell-marraskuussa-anna-kozonina-audience-club"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Liikkeellä marraskuussa: Soup Talks",
-    "start_time": "2026-11-06T00:00:00+02:00",
-    "end_time": "2026-11-15T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/liikkeell-marraskuussa-soup-talks"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Writing of Disaster",
@@ -496,22 +464,6 @@ window.SCRAPED_EVENTS = [
     "title": "Show Boudoir",
     "start_time": "2026-11-13T21:00:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/show-boudoir/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Liikkeellä marraskuussa – Michael Turinsky: Precarious Moves",
-    "start_time": "2026-11-15T00:00:00+02:00",
-    "end_time": "2026-11-15T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/liikkeell-marraskuussa-michael-turinsky-precarious-moves"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Liikkeellä marraskuussa – Johanna Karlberg, Antonia Atarah & Alen Nsambu: Swedish Asshole feat. Akademiska Sångföreningen",
-    "start_time": "2026-11-15T00:00:00+02:00",
-    "end_time": "2026-11-15T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/liikkeell-marraskuussa-johanna-karlberg-antonia-atarah-alen-nsambu-swedish-asshole-feat-akademiska-s-ngf-reningen"
   },
   {
     "venue": "viirus",
