@@ -510,13 +510,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/kirjailijat-lavalla"
   },
   {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Rakastavaisten kuoro",
-    "start_time": "2026-11-16T18:30:00+02:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lapin Faarao",
