@@ -493,7 +493,7 @@ window.SCRAPED_EVENTS = [
     "title": "Tanssi ja leikki",
     "start_time": "2026-11-16T00:00:00+02:00",
     "end_time": "2026-11-16T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/2C0D372B451C516A4F4ACC7FAD872E89/tanssi-ja-leikki"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/tanssi-ja-leikki"
   },
   {
     "venue": "tekstintalo",
@@ -4656,6 +4656,13 @@ window.SCRAPED_EVENTS = [
     "title": "alfabet",
     "start_time": "2027-02-13T14:00:00+02:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Doppelgänger / Doppelganger",
+    "start_time": "2027-02-13T15:00:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/doppelganger/"
   },
   {
     "venue": "hkt",
