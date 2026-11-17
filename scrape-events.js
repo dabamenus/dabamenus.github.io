@@ -510,13 +510,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Ballroom – Danser pour exister: Documentary Screening & Conversation",
-    "start_time": "2026-11-17T18:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/ballroom-danser-pour-exister"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
