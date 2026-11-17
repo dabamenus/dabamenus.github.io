@@ -347,6 +347,20 @@
       color: #444;
     }
     .bio p { margin: 0 0 8px; }
+    .info-bread a {
+      color: #111;
+      text-decoration: none;
+      border-bottom: 1px solid rgba(0,0,0,0.25);
+    }
+    .info-bread a:visited { color: #111; }
+    .info-bread a:hover,
+    .info-bread a:focus-visible {
+      color: #fff;
+      background: #000;
+      border-color: #000;
+      text-decoration: none;
+      outline: none;
+    }
     .contact {
       font-size: 0.82rem;
       line-height: 1.4;
@@ -822,6 +836,17 @@
       color: var(--muted);
       font-family: var(--font-mono);
       letter-spacing: 0.02em;
+    }
+    .work-more a {
+      color: var(--link);
+      text-decoration: underline;
+    }
+    .work-more a:hover,
+    .work-more a:focus-visible {
+      color: #fff;
+      background: #000;
+      text-decoration: none;
+      outline: none;
     }
     .work-gallery {
       display: grid;
@@ -1368,7 +1393,7 @@
           <p><a href="https://nachtkritik.de/index.php?option=com_content&view=article&id=26161:fast-forward-festival-staatsschauspiel-dresden-der-vorerst-letzte-jahrgang-des-festivals-fuer-junge-europaeische-regie-laesst-hoffen-dass-es-doch-weitergeht&catid=179" target="_blank" rel="noopener">Steal This Performance wins Fast Forward 2025 Jury Award (nachtkritik.de)</a></p>
         </div>
         <p class="info-bread">Axel Ridberg is a sound designer based in Helsinki, Finland. Working primarily within performing arts. Also short films, commercial work, installations, live mixing, creative coding, and other sound-related projects.</p>
-        <p class="info-bread">He has a master’s and bachelor’s degree in sound design from the Theatre Academy at the University of the Arts Helsinki, a bachelor’s degree in social sciences from Åbo Akademi University, and has also studied film and television sound at Arcada University of Applied Sciences. His work has been presented at e.g. Helsinki City Theatre, Le Maillon, Teater Viirus, Theater Oberhausen, Q-teatteri, Reality Research Center, and at the Fast Forward Festival.</p>
+        <p class="info-bread">He has a master’s and bachelor’s degree in sound design from the Theatre Academy at the University of the Arts Helsinki, a bachelor’s degree in social sciences from Åbo Akademi University, and has also studied film and television sound at Arcada University of Applied Sciences. His work has been presented at e.g. <a href="https://hkt.fi/hktinenglish/" target="_blank" rel="noopener">Helsinki City Theatre</a>, <a href="https://maillon.eu/" target="_blank" rel="noopener">Le Maillon</a>, <a href="https://www.viirus.fi/en/" target="_blank" rel="noopener">Teater Viirus</a>, <a href="https://theater-oberhausen.de/" target="_blank" rel="noopener">Theater Oberhausen</a>, <a href="https://www.q-teatteri.fi" target="_blank" rel="noopener">Q-teatteri</a>, <a href="https://todellisuus.fi/?locale=en" target="_blank" rel="noopener">Reality Research Center</a>, and at the <a href="https://www.fastforw.art/" target="_blank" rel="noopener">Fast Forward Festival</a>.</p>
         <!-- Finnish: short and extended -->
         <div class="lang-block" data-lang="fi">
           <button class="lang-toggle" type="button" aria-expanded="false"><span class="nav-icon" aria-hidden="true">✹</span>Suomeksi</button>
@@ -1399,11 +1424,11 @@
               <div class="hover-caption">picture: Jere J. Aalto</div>
             </div>
             <div class="work-meta">
-              <p class="work-title"><a href="https://www.fastforw.art/en/programme/2025/steal-this-performance/?source=programm" target="_blank" rel="noopener">Steal This Performance</a></p>
+              <p class="work-title"><a href="https://maillon.eu/spectacle/1084.steal-this-performance--pauli-patinen" target="_blank" rel="noopener">Steal This Performance</a></p>
               <p class="work-desc">Method-based performance created by plagiarising other performances. <button class="work-readmore" type="button" aria-expanded="false">Read more</button></p>
               <div class="work-more" id="work-more-steal" hidden>
                 <p>Steal This Performance explores questions of originality and identity. Every element on stage—including the sound design—is constructed entirely from stolen, plagiarised, or otherwise borrowed material, most of it from other performances and theatre shows. While the work takes the form of a monologue, it relies heavily on audiovisual and scenographic means to articulate its core idea.</p>
-                <p>The production premiered at the Theatre Academy in Helsinki in 2024. It was later selected for the Fast Forward Festival 2025 in Dresden, Germany, where it received the Jury Award, and performed at Le Maillon, Strasbourg, as part of Festival Premières 2026.</p>
+                <p>The production premiered at the Theatre Academy in Helsinki in 2024. It was later selected for the <a href="https://www.fastforw.art/en/programme/2025/steal-this-performance/?source=programm" target="_blank" rel="noopener">Fast Forward Festival</a> 2025 in Dresden, Germany, where it received the Jury Award, and performed at <a href="https://maillon.eu/spectacle/1084.steal-this-performance--pauli-patinen" target="_blank" rel="noopener">Le Maillon</a>, Strasbourg, as part of Festival Premières 2026.</p>
                 <p><strong>Credits:</strong> Directing &amp; Dramaturgy Pauli Patinen. On stage: Juho Keränen. Scenography Anni Hernetkoski. Lighting &amp; Video Design Ville Tolvanen. Sound Design Axel Ridberg. Costume Design Ellen Järnefelt. Stagehands Anni Hernetkoski, Mikael Karkkonen.</p>
                 <div style="width:100%;overflow:hidden;margin-top:10px;display:flex;gap:8px;">
                   <img src="PICTURES/steal_cover.jpg" alt="Steal This Performance — cover" style="width:50%;height:auto;display:block;object-fit:cover;" />
