@@ -495,14 +495,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Kuvailutulkattu opastus  näyttelyyn Todellisuus sellaisena, kuin se ei meille näyttäydy",
-    "start_time": "2026-11-18T00:00:00+02:00",
-    "end_time": "2026-11-18T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/kuvailutulkattu-opastus-n-yttelyyn-todellisuus-sellaisena-kuin-se-ei-meille-n-ytt-ydy"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kaksitoista lahjaa Joulupukille",
