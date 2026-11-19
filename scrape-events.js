@@ -495,41 +495,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kaksitoista lahjaa Joulupukille",
-    "start_time": "2026-11-18T10:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Lopetus",
-    "start_time": "2026-11-18T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/lopetus"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Taru hohtavasta helmestä",
-    "start_time": "2026-11-18T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Viides askel",
-    "start_time": "2026-11-18T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viides-askel"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Nauravan kulkurin tarina",
-    "start_time": "2026-11-18T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "1984",
@@ -7809,6 +7774,20 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Frozen",
     "start_time": "2027-12-18T17:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/frozen/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Frozen",
+    "start_time": "2027-12-27T13:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/frozen/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Frozen",
+    "start_time": "2027-12-27T18:00:00+02:00",
     "url": "https://hkt.fi/esitykset/frozen/"
   }
 ];
