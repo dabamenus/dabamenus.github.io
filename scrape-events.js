@@ -507,7 +507,7 @@ window.SCRAPED_EVENTS = [
     "title": "Julkalas, Alfons Åberg",
     "start_time": "2026-11-19T00:00:00+02:00",
     "end_time": "2026-11-19T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/035074236C76D67EA2DFB91272DB88B7/julkalas-alfons-berg"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/julkalas-alfons-berg"
   },
   {
     "venue": "caisa",
@@ -515,7 +515,7 @@ window.SCRAPED_EVENTS = [
     "title": "Taidetta taaperoille",
     "start_time": "2026-11-19T00:00:00+02:00",
     "end_time": "2026-11-19T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/7C6422CD64C4225B14A6239A3AA6C2A7/taidetta-taaperoille"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/taidetta-taaperoille"
   },
   {
     "venue": "hkt",
@@ -2039,6 +2039,13 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2026-12-05T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
+  },
+  {
+    "venue": "tekstintalo",
+    "venue_label": "Tekstin Talo",
+    "title": "Tekstin talon kirjamarkkinat 2026",
+    "start_time": "2026-12-05T14:00:00+02:00",
+    "url": "https://www.tekstintalo.fi/tapahtumat/tekstin-talon-kirjamarkkinat-2026-0512"
   },
   {
     "venue": "espoonteatteri",
