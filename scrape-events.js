@@ -521,7 +521,7 @@ window.SCRAPED_EVENTS = [
     "title": "Väreet-festivaalin koko perheen jazzkonsertti: Kadi Vija 3",
     "start_time": "2026-11-20T00:00:00+02:00",
     "end_time": "2026-11-20T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/C7BF8C3590771009A2485FB9009938AC/v-reet-festivaalin-koko-perheen-jazzkonsertti-kadi-vija-3"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/v-reet-festivaalin-koko-perheen-jazzkonsertti-kadi-vija-3"
   },
   {
     "venue": "caisa",
@@ -537,13 +537,6 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-11-20T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Äitisi, Klytaimestra",
-    "start_time": "2026-11-20T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "kansallisteatteri",
