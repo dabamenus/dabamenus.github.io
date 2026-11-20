@@ -516,14 +516,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/onko-taalla-kuuma/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Väreet-festivaalin koko perheen jazzkonsertti: Kadi Vija 3",
-    "start_time": "2026-11-20T00:00:00+02:00",
-    "end_time": "2026-11-20T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/v-reet-festivaalin-koko-perheen-jazzkonsertti-kadi-vija-3"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Resonance Festival Vol. 2: Threshold States",
