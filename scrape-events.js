@@ -268,7 +268,7 @@ window.SCRAPED_EVENTS = [
     "title": "Sylimetsässä – metsän sylissä",
     "start_time": "2026-11-16T00:00:00+02:00",
     "end_time": "2026-11-21T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/60F82D63F89FC23AE34D0694DB5C2E50/sylimets-ss-mets-n-syliss"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sylimets-ss-mets-n-syliss"
   },
   {
     "venue": "tekstintalo",
@@ -340,7 +340,7 @@ window.SCRAPED_EVENTS = [
     "title": "Pienten ja suurten eliökuntalaisten klubi",
     "start_time": "2026-11-21T00:00:00+02:00",
     "end_time": "2026-11-21T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/D8876F30977ABA691E27E00AF5309F98/pienten-ja-suurten-eli-kuntalaisten-klubi"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/pienten-ja-suurten-eli-kuntalaisten-klubi"
   },
   {
     "venue": "stoa",
@@ -348,7 +348,7 @@ window.SCRAPED_EVENTS = [
     "title": "Leikisti – Livekuvitettu leikki!",
     "start_time": "2026-11-21T00:00:00+02:00",
     "end_time": "2026-11-21T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/ECFE7353BB3198FC6108BF702E24B111/leikisti-livekuvitettu-leikki"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/leikisti-livekuvitettu-leikki"
   },
   {
     "venue": "stoa",
@@ -356,7 +356,7 @@ window.SCRAPED_EVENTS = [
     "title": "Teatteri ILMI Ö: Metsälarppi",
     "start_time": "2026-11-21T00:00:00+02:00",
     "end_time": "2026-11-21T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/8EEEBE8728AC3A6575719E115BFC3CFF/teatteri-ilmi-mets-larppi"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/teatteri-ilmi-mets-larppi"
   },
   {
     "venue": "caisa",
