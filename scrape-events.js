@@ -306,13 +306,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
-    "venue": "svenska",
-    "venue_label": "Svenska Teatern",
-    "title": "Onko täällä kuuma?",
-    "start_time": "2026-11-19T19:00:00+02:00",
-    "url": "https://svenskateatern.fi/fi/ohjelmisto/onko-taalla-kuuma/"
-  },
-  {
     "venue": "caisa",
     "venue_label": "Caisa",
     "title": "Resonance Festival Vol. 2: Threshold States",
@@ -328,20 +321,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "De obehöriga",
-    "start_time": "2026-11-20T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/de-obehoriga/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-11-20T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "svenska",
     "venue_label": "Svenska Teatern",
     "title": "Blaue Frau palkkaa",
@@ -354,13 +333,6 @@ window.SCRAPED_EVENTS = [
     "title": "ANDETAG",
     "start_time": "2026-11-20T19:00:00+02:00",
     "url": "https://universum.fi/events/andetag-20-11/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kotijoukot",
-    "start_time": "2026-11-20T19:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/kotijoukot/"
   },
   {
     "venue": "stoa",
@@ -428,20 +400,6 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2026-11-21T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Rakastavaisten kuoro",
-    "start_time": "2026-11-21T14:00:00+02:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Äitisi, Klytaimestra",
-    "start_time": "2026-11-21T14:00:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "kansallisteatteri",
@@ -7429,5 +7387,12 @@ window.SCRAPED_EVENTS = [
     "title": "Moulin Rouge! Musikaali",
     "start_time": "2027-12-28T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/moulin-rouge-musikaali/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Frozen",
+    "start_time": "2027-12-29T18:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/frozen/"
   }
 ];
