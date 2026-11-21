@@ -263,21 +263,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/writing-of-disaster/"
   },
   {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Sylimetsässä – metsän sylissä",
-    "start_time": "2026-11-16T00:00:00+02:00",
-    "end_time": "2026-11-21T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/sylimets-ss-mets-n-syliss"
-  },
-  {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Kritiikkifestivaali 2026",
-    "start_time": "2026-11-16T15:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/kritiikkifestivaali-2026"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "DRAMATIK PÅ MÅNDAG!",
@@ -306,14 +291,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/collage/"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Resonance Festival Vol. 2: Threshold States",
-    "start_time": "2026-11-20T00:00:00+02:00",
-    "end_time": "2026-11-22T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/85ADA8784DE99B8177BBCBA878648A85/resonance-festival-vol-2-threshold-states"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
@@ -333,38 +310,6 @@ window.SCRAPED_EVENTS = [
     "title": "ANDETAG",
     "start_time": "2026-11-20T19:00:00+02:00",
     "url": "https://universum.fi/events/andetag-20-11/"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Pienten ja suurten eliökuntalaisten klubi",
-    "start_time": "2026-11-21T00:00:00+02:00",
-    "end_time": "2026-11-21T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/pienten-ja-suurten-eli-kuntalaisten-klubi"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Leikisti – Livekuvitettu leikki!",
-    "start_time": "2026-11-21T00:00:00+02:00",
-    "end_time": "2026-11-21T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/leikisti-livekuvitettu-leikki"
-  },
-  {
-    "venue": "stoa",
-    "venue_label": "Stoa",
-    "title": "Teatteri ILMI Ö: Metsälarppi",
-    "start_time": "2026-11-21T00:00:00+02:00",
-    "end_time": "2026-11-21T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/teatteri-ilmi-mets-larppi"
-  },
-  {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Resonance Festival Vol. 2: Threshold States",
-    "start_time": "2026-11-21T00:00:00+02:00",
-    "end_time": "2026-11-22T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/B76134139241188945748F236E9F3AB2/resonance-festival-vol-2-threshold-states"
   },
   {
     "venue": "hkt",
