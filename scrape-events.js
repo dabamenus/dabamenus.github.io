@@ -319,13 +319,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/tanssi-ja-leikki"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Miten luontokato pysäytetään?",
-    "start_time": "2026-11-23T18:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/miten-luontokato-pysaytetaan"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Mirdja",
