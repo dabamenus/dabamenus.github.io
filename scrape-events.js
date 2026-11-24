@@ -508,40 +508,11 @@ window.SCRAPED_EVENTS = [
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/36C4948E59116CAB90B36C78F91A3A1D/hautakaupungin-ni"
   },
   {
-    "venue": "caisa",
-    "venue_label": "Caisa",
-    "title": "Taidetta taaperoille",
-    "start_time": "2026-11-24T00:00:00+02:00",
-    "end_time": "2026-11-24T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/taidetta-taaperoille"
-  },
-  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Kaksitoista lahjaa Joulupukille",
     "start_time": "2026-11-24T10:00:00+02:00",
     "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Viides askel",
-    "start_time": "2026-11-24T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/viides-askel"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Mirdja",
-    "start_time": "2026-11-24T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/mirdja"
-  },
-  {
-    "venue": "kansallisteatteri",
-    "venue_label": "Kansallisteatteri",
-    "title": "Starman",
-    "start_time": "2026-11-24T18:30:00+02:00",
-    "url": "https://www.kansallisteatteri.fi/esitys/starman"
   },
   {
     "venue": "hkt",
