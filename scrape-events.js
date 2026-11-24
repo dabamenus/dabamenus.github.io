@@ -507,20 +507,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://cirko.fi/esitys/kinetic-orchestra-silence-2/"
   },
   {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "ANDETAG",
-    "start_time": "2026-11-22T19:00:00+02:00",
-    "url": "https://universum.fi/events/andetag-22-11/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-11-23T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "DRAMATIK PÅ MÅNDAG!",
@@ -7283,6 +7269,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/moulin-rouge-musikaali/"
   },
   {
+    "venue": "universum",
+    "venue_label": "Universum",
+    "title": "ANDETAG",
+    "start_time": "2027-11-16T19:00:00+02:00",
+    "url": "https://universum.fi/events/andetag-16-11/"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Moulin Rouge! Musikaali",
@@ -7525,6 +7518,20 @@ window.SCRAPED_EVENTS = [
     "venue_label": "HKT",
     "title": "Frozen",
     "start_time": "2027-12-30T18:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/frozen/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Frozen",
+    "start_time": "2027-12-31T13:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/frozen/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Frozen",
+    "start_time": "2027-12-31T18:00:00+02:00",
     "url": "https://hkt.fi/esitykset/frozen/"
   }
 ];
