@@ -84,27 +84,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/sotku-ja-rakkaus"
   },
   {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Nina Davies & 2girls1comp:The Inexorable Non-Player Character",
-    "start_time": "2026-09-05T13:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/nina-davies-2girls1comp-inexorable-non-player-character"
-  },
-  {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Nina Davies & 2girls1comp:The Inexorable Non-Player Character",
-    "start_time": "2026-09-06T10:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/nina-davies-2girls1comp-inexorable-non-player-character"
-  },
-  {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Nina Davies & 2girls1comp:The Inexorable Non-Player Character",
-    "start_time": "2026-09-06T12:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/nina-davies-2girls1comp-inexorable-non-player-character"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Sandyrella",
@@ -534,7 +513,7 @@ window.SCRAPED_EVENTS = [
     "title": "Taidetta taaperoille",
     "start_time": "2026-11-24T00:00:00+02:00",
     "end_time": "2026-11-24T23:59:00+02:00",
-    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/678F7E66FADFB972D528C39E75AB9E61/taidetta-taaperoille"
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/-1/taidetta-taaperoille"
   },
   {
     "venue": "hkt",
@@ -752,13 +731,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-2611"
   },
   {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Marika Peura:Imperial Stage",
-    "start_time": "2026-11-26T17:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
@@ -956,13 +928,6 @@ window.SCRAPED_EVENTS = [
     "title": "Runoverstas Suonenjoella",
     "start_time": "2026-11-28T10:00:00+02:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/runoverstas-suonenjoella"
-  },
-  {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Marika Peura:Imperial Stage",
-    "start_time": "2026-11-28T13:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
   },
   {
     "venue": "kansallisteatteri",
@@ -1208,13 +1173,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/seniorisoppa-joulukonsertti/"
   },
   {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Marika Peura:Imperial Stage",
-    "start_time": "2026-12-01T17:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
-  },
-  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Vihreä kasvu ja irtikytkentä",
@@ -1329,13 +1287,6 @@ window.SCRAPED_EVENTS = [
     "url": ""
   },
   {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Marika Peura:Imperial Stage",
-    "start_time": "2026-12-02T17:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
@@ -1437,18 +1388,18 @@ window.SCRAPED_EVENTS = [
     "url": "https://zodiak.fi/fi/ohjelmisto/zodiak-laboratory-tuulia-soininen"
   },
   {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Marika Peura:Imperial Stage",
-    "start_time": "2026-12-03T17:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
-  },
-  {
     "venue": "kiasma",
     "venue_label": "Kiasma",
     "title": "Kauri Sorvari: Forevermore",
     "start_time": "2026-12-03T18:00:00+02:00",
     "url": "https://kiasma.fi/esitykset/kauri-sorvari-forevermore/"
+  },
+  {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Rakastavaisten kuoro",
+    "start_time": "2026-12-03T18:30:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
   },
   {
     "venue": "kansallisteatteri",
@@ -1645,13 +1596,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/liisa-pelimaassa/"
   },
   {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Marika Peura:Imperial Stage",
-    "start_time": "2026-12-05T13:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Lopetus",
@@ -1830,13 +1774,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
   },
   {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Marika Peura:Imperial Stage",
-    "start_time": "2026-12-08T17:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
-  },
-  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Rakastavaisten kuoro",
@@ -1913,13 +1850,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kotijoukot",
     "start_time": "2026-12-09T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/kotijoukot/"
-  },
-  {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Marika Peura:Imperial Stage",
-    "start_time": "2026-12-09T17:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
   },
   {
     "venue": "espoonteatteri",
@@ -2050,13 +1980,6 @@ window.SCRAPED_EVENTS = [
     "title": "Yhteisöllinen kirjoitushetki / Communal writing session",
     "start_time": "2026-12-10T14:00:00+02:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/yhteisollinen-kirjoitushetki-1012"
-  },
-  {
-    "venue": "zodiak",
-    "venue_label": "Zodiak",
-    "title": "Marika Peura:Imperial Stage",
-    "start_time": "2026-12-10T17:00:00+00:00",
-    "url": "https://zodiak.fi/fi/ohjelmisto/imperial-stage"
   },
   {
     "venue": "espoonteatteri",
@@ -2732,6 +2655,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "espoonteatteri",
+    "venue_label": "& Espoon Teatteri",
+    "title": "Rakastavaisten kuoro",
+    "start_time": "2026-12-19T14:00:00+02:00",
+    "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
+  },
+  {
     "venue": "takomo",
     "venue_label": "Teatteri Takomo",
     "title": "PÄHKINÄNSÄRKIJÄN JOULU – juhla, jota et tiennyt kaipaavasi",
@@ -3013,6 +2943,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/karpaset"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-01-12T00:00:00+02:00",
+    "end_time": "2027-01-12T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F0050A977C2D34892FE5FA12B90DF09A/taidetta-taaperoille"
+  },
+  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Käsikirjoituspiiri sarjakuvaa tekevälle, arkikurssi kevät 2027",
@@ -3048,6 +2986,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/kettutyton-paluu-12-1/"
   },
   {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Kahvilla kirjailijan kanssa",
+    "start_time": "2027-01-13T16:30:00+02:00",
+    "url": ""
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Heavenly Father",
@@ -3069,6 +3014,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-01-14T00:00:00+02:00",
+    "end_time": "2027-01-14T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/DCBE0EFBFB05FC299E338AF9822F468D/taidetta-taaperoille"
+  },
+  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Järjen hedelmät",
@@ -3081,6 +3034,14 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2027-01-14T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Diversity – HIAA-ryhmänäyttely",
+    "start_time": "2027-01-15T00:00:00+02:00",
+    "end_time": "2027-02-13T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/818153ED178111FD21F6383EB09DEF98/diversity-hiaa-ryhm-n-yttely"
   },
   {
     "venue": "viirus",
@@ -3197,6 +3158,13 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
+    "title": "Club act!one",
+    "start_time": "2027-01-16T21:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/club-actone/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2027-01-17T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
@@ -3214,6 +3182,14 @@ window.SCRAPED_EVENTS = [
     "title": "Kärpäset",
     "start_time": "2027-01-18T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/karpaset"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-01-19T00:00:00+02:00",
+    "end_time": "2027-01-19T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/2C52B8CCE9554CA27A6FAB52ED2C4582/taidetta-taaperoille"
   },
   {
     "venue": "espoonteatteri",
@@ -3258,6 +3234,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/kettutyton-paluu-20-1/"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-01-21T00:00:00+02:00",
+    "end_time": "2027-01-21T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/B26522DF534D0527EAC5FC99C0A84F8C/taidetta-taaperoille"
+  },
+  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Järjen hedelmät",
@@ -3291,6 +3275,13 @@ window.SCRAPED_EVENTS = [
     "title": "BRINN",
     "start_time": "2027-01-22T19:00:00+02:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/brinn/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Club act!one",
+    "start_time": "2027-01-22T19:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
     "venue": "tekstintalo",
@@ -3363,6 +3354,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://svenskateatern.fi/fi/ohjelmisto/pelle-svanslos/"
   },
   {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Club act!one",
+    "start_time": "2027-01-23T21:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/club-actone/"
+  },
+  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Cosplay-kurssi",
@@ -3375,6 +3373,14 @@ window.SCRAPED_EVENTS = [
     "title": "Sarjakuvailmaisu, kevät 2027",
     "start_time": "2027-01-25T18:30:00+02:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/sarjakuvailmaisu-kopioi"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-01-26T00:00:00+02:00",
+    "end_time": "2027-01-26T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/59E5F036111C28F6B9B075ED16192E35/taidetta-taaperoille"
   },
   {
     "venue": "tekstintalo",
@@ -3489,6 +3495,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/kettutyton-paluu-27-1/"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-01-28T00:00:00+02:00",
+    "end_time": "2027-01-28T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F778837877D6BB1DA643D8C110B122EF/taidetta-taaperoille"
+  },
+  {
     "venue": "tekstintalo",
     "venue_label": "Tekstin Talo",
     "title": "Kuvituskurssi 1. ryhmä",
@@ -3578,6 +3592,21 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2027-01-29T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Club act!one",
+    "start_time": "2027-01-29T19:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/club-actone/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Siim Maaten: Aapiskukko / Aabitsa kukk / ABC Book (Maunon aapinen) | Suomen ensi-ilta",
+    "start_time": "2027-01-30T00:00:00+02:00",
+    "end_time": "2027-01-30T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F05C8304842484209F03B530288F3C4A/siim-maaten-aapiskukko-aabitsa-kukk-abc-book-maunon-aapinen-suomen-ensi-ilta"
   },
   {
     "venue": "espoonteatteri",
@@ -3673,6 +3702,13 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
+    "title": "Club act!one",
+    "start_time": "2027-01-30T21:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/club-actone/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2027-01-31T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
@@ -3704,6 +3740,14 @@ window.SCRAPED_EVENTS = [
     "title": "Rósa &#038; Björk",
     "start_time": "2027-02-01T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/rosa-bjork/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-02-02T00:00:00+02:00",
+    "end_time": "2027-02-02T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/0BBC259C6CD5A10F22C8C65CA89FED91/taidetta-taaperoille"
   },
   {
     "venue": "espoonteatteri",
@@ -3746,6 +3790,14 @@ window.SCRAPED_EVENTS = [
     "title": "&amp; Julia",
     "start_time": "2027-02-02T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/julia/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Siim Maaten: Aapiskukko / Aabitsa kukk / ABC Book (Maunon aapinen)",
+    "start_time": "2027-02-03T00:00:00+02:00",
+    "end_time": "2027-02-03T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/696B126056273E7071DEB41FE4AE95E5/siim-maaten-aapiskukko-aabitsa-kukk-abc-book-maunon-aapinen"
   },
   {
     "venue": "espoonteatteri",
@@ -3792,6 +3844,29 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
+    "title": "Club act!one",
+    "start_time": "2027-02-03T19:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/club-actone/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-02-04T00:00:00+02:00",
+    "end_time": "2027-02-04T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/7FFB0EB0CBE858DDD8C7FEC108323B0D/taidetta-taaperoille"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Siim Maaten: Aapiskukko / Aabitsa kukk / ABC Book (Maunon aapinen)",
+    "start_time": "2027-02-04T00:00:00+02:00",
+    "end_time": "2027-02-04T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/1FDB4BD311B3A8B1FD9E5E9DC4DE5FE7/siim-maaten-aapiskukko-aabitsa-kukk-abc-book-maunon-aapinen"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
     "title": "Rósa &#038; Björk",
     "start_time": "2027-02-04T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/rosa-bjork/"
@@ -3823,6 +3898,14 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2027-02-04T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Siim Maaten: Aapiskukko / Aabitsa kukk / ABC Book (Maunon aapinen)",
+    "start_time": "2027-02-05T00:00:00+02:00",
+    "end_time": "2027-02-05T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/03A9B682F34D5075B5EE44517E2768B2/siim-maaten-aapiskukko-aabitsa-kukk-abc-book-maunon-aapinen"
   },
   {
     "venue": "ryhmateatteri",
@@ -3865,6 +3948,14 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2027-02-05T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Siim Maaten: Aapiskukko / Aabitsa kukk / ABC Book (Maunon aapinen)",
+    "start_time": "2027-02-06T00:00:00+02:00",
+    "end_time": "2027-02-06T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/BA29ADB4357F13FF4E57B2B794AFD73B/siim-maaten-aapiskukko-aabitsa-kukk-abc-book-maunon-aapinen"
   },
   {
     "venue": "kansallisteatteri",
@@ -3958,11 +4049,34 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Club act!one",
+    "start_time": "2027-02-06T21:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/club-actone/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Siim Maaten: Aapiskukko / Aabitsa kukk / ABC Book (Maunon aapinen)",
+    "start_time": "2027-02-07T00:00:00+02:00",
+    "end_time": "2027-02-07T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/4AB019D06CBC0C267984FFEB1AA3F386/siim-maaten-aapiskukko-aabitsa-kukk-abc-book-maunon-aapinen"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Kettutytön paluu",
     "start_time": "2027-02-08T19:00:00+02:00",
     "url": "https://universum.fi/events/kettutyton-paluu-8-2/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-02-09T00:00:00+02:00",
+    "end_time": "2027-02-09T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/C8B7E104530F96DF36334B8F3878EB56/taidetta-taaperoille"
   },
   {
     "venue": "ryhmateatteri",
@@ -4035,6 +4149,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-02-11T00:00:00+02:00",
+    "end_time": "2027-02-11T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/AD9C562B424DB1F62C1B08D3606A8C99/taidetta-taaperoille"
+  },
+  {
     "venue": "espoonteatteri",
     "venue_label": "& Espoon Teatteri",
     "title": "Doppelgänger / Doppelganger",
@@ -4082,6 +4204,13 @@ window.SCRAPED_EVENTS = [
     "title": "BRINN",
     "start_time": "2027-02-11T19:00:00+02:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/brinn/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Club act!one",
+    "start_time": "2027-02-11T19:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
     "venue": "ryhmateatteri",
@@ -4238,6 +4367,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
   },
   {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Club act!one",
+    "start_time": "2027-02-13T21:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/club-actone/"
+  },
+  {
     "venue": "takomo",
     "venue_label": "Teatteri Takomo",
     "title": "Eteläpohjalaisia",
@@ -4250,6 +4386,14 @@ window.SCRAPED_EVENTS = [
     "title": "Viidakon villit naiset",
     "start_time": "2027-02-15T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-02-16T00:00:00+02:00",
+    "end_time": "2027-02-16T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/C2F610943F10B765BAE708B542B9C1D5/taidetta-taaperoille"
   },
   {
     "venue": "hkt",
@@ -4308,6 +4452,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-02-18T00:00:00+02:00",
+    "end_time": "2027-02-18T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/84E829A3262C79CA504B0E53CAE64D65/taidetta-taaperoille"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
@@ -4327,6 +4479,13 @@ window.SCRAPED_EVENTS = [
     "title": "Eteläpohjalaisia",
     "start_time": "2027-02-18T19:00:00+02:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Club act!one",
+    "start_time": "2027-02-18T19:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
     "venue": "kansallisteatteri",
@@ -4450,6 +4609,13 @@ window.SCRAPED_EVENTS = [
   {
     "venue": "hkt",
     "venue_label": "HKT",
+    "title": "Club act!one",
+    "start_time": "2027-02-20T21:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/club-actone/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
     "title": "Fretti Mercury etsii onnea",
     "start_time": "2027-02-21T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
@@ -4558,6 +4724,13 @@ window.SCRAPED_EVENTS = [
     "title": "Pelle Svanslös",
     "start_time": "2027-02-24T19:00:00+02:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/pelle-svanslos/"
+  },
+  {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Club act!one",
+    "start_time": "2027-02-24T19:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/club-actone/"
   },
   {
     "venue": "ryhmateatteri",
@@ -4714,6 +4887,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Club act!one",
+    "start_time": "2027-02-27T21:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/club-actone/"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "PALKINTOPUHETTA",
@@ -4733,6 +4913,14 @@ window.SCRAPED_EVENTS = [
     "title": "Elolliset",
     "start_time": "2027-03-01T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/elolliset/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-03-02T00:00:00+02:00",
+    "end_time": "2027-03-02T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/9FE188B1D8CE8E4AB7A1BACE307E5C9B/taidetta-taaperoille"
   },
   {
     "venue": "ryhmateatteri",
@@ -4810,6 +4998,14 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2027-03-03T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-03-04T00:00:00+02:00",
+    "end_time": "2027-03-04T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/838FE655815FE1FC7E3EE94970F7A2BB/taidetta-taaperoille"
   },
   {
     "venue": "ryhmateatteri",
@@ -5008,6 +5204,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/vinterkvallar-6-3/"
   },
   {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Club act!one",
+    "start_time": "2027-03-06T21:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/club-actone/"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Suuri naistenpäivän juhlakonsertti",
@@ -5027,6 +5230,14 @@ window.SCRAPED_EVENTS = [
     "title": "Vinterkvällar",
     "start_time": "2027-03-08T19:00:00+02:00",
     "url": "https://universum.fi/events/vinterkvallar-8-3/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-03-09T00:00:00+02:00",
+    "end_time": "2027-03-09T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/E53EF32080EA5521EA80C97803373589/taidetta-taaperoille"
   },
   {
     "venue": "ryhmateatteri",
@@ -5132,6 +5343,14 @@ window.SCRAPED_EVENTS = [
     "title": "Balladeja ja hävyttömyyksiä",
     "start_time": "2027-03-10T19:00:00+02:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/balladeja-ja-havyttomyyksia/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-03-11T00:00:00+02:00",
+    "end_time": "2027-03-11T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/6B2D5670968024C238724E8BA93F22D9/taidetta-taaperoille"
   },
   {
     "venue": "ryhmateatteri",
@@ -5330,6 +5549,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Club act!one",
+    "start_time": "2027-03-13T21:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/club-actone/"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "PALKINTOPUHETTA",
@@ -5349,6 +5575,14 @@ window.SCRAPED_EVENTS = [
     "title": "Seitsemän veljestä",
     "start_time": "2027-03-15T18:30:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/seitseman-veljesta"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-03-16T00:00:00+02:00",
+    "end_time": "2027-03-16T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/6BFA17A41367DFE9CA6F647C5B0F687D/taidetta-taaperoille"
   },
   {
     "venue": "kansallisteatteri",
@@ -5419,6 +5653,14 @@ window.SCRAPED_EVENTS = [
     "title": "Elolliset",
     "start_time": "2027-03-17T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/elolliset/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-03-18T00:00:00+02:00",
+    "end_time": "2027-03-18T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/9AEB47C87813B3729327E4C9338374B2/taidetta-taaperoille"
   },
   {
     "venue": "ryhmateatteri",
@@ -5652,6 +5894,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Club act!one",
+    "start_time": "2027-03-20T21:00:00+02:00",
+    "url": "https://hkt.fi/esitykset/club-actone/"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Diptyk",
@@ -5664,6 +5913,14 @@ window.SCRAPED_EVENTS = [
     "title": "LIVETS SUMMA",
     "start_time": "2027-03-22T19:00:00+02:00",
     "url": "https://universum.fi/events/livets-summa-22-3/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-03-23T00:00:00+02:00",
+    "end_time": "2027-03-23T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/C11BA01D7CF9B17EF4863FCC95F42672/taidetta-taaperoille"
   },
   {
     "venue": "universum",
@@ -5687,6 +5944,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/livets-summa-24-3/"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-03-25T00:00:00+02:00",
+    "end_time": "2027-03-25T23:59:00+02:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/62D51CBE2E028379B46396D3CD596118/taidetta-taaperoille"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Diptyk",
@@ -5699,6 +5964,14 @@ window.SCRAPED_EVENTS = [
     "title": "LIVETS SUMMA 26.3. PERUTTU",
     "start_time": "2027-03-26T19:00:00+02:00",
     "url": "https://universum.fi/events/livets-summa-26-3/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-03-30T00:00:00+03:00",
+    "end_time": "2027-03-30T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/51B97BFB9B8955FC50698D4BC85ECCA2/taidetta-taaperoille"
   },
   {
     "venue": "kansallisteatteri",
@@ -5790,6 +6063,14 @@ window.SCRAPED_EVENTS = [
     "title": "Rósa &#038; Björk",
     "start_time": "2027-03-31T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/rosa-bjork/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-04-01T00:00:00+03:00",
+    "end_time": "2027-04-01T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/D547FF0F6FAAF71325D9FC0BC8480AD2/taidetta-taaperoille"
   },
   {
     "venue": "viirus",
@@ -5918,6 +6199,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/rosa-bjork/"
   },
   {
+    "venue": "hkt",
+    "venue_label": "HKT",
+    "title": "Club act!one",
+    "start_time": "2027-04-03T21:00:00+03:00",
+    "url": "https://hkt.fi/esitykset/club-actone/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Vinterkvällar",
@@ -5944,6 +6232,14 @@ window.SCRAPED_EVENTS = [
     "title": "Vinterkvällar",
     "start_time": "2027-04-05T19:00:00+03:00",
     "url": "https://universum.fi/events/vinterkvallar-5-4/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-04-06T00:00:00+03:00",
+    "end_time": "2027-04-06T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/BAEA736B4CE44ABCA04BFB9EBB803BE9/taidetta-taaperoille"
   },
   {
     "venue": "viirus",
@@ -6021,6 +6317,14 @@ window.SCRAPED_EVENTS = [
     "title": "Rósa &#038; Björk",
     "start_time": "2027-04-07T18:30:00+03:00",
     "url": "https://hkt.fi/esitykset/rosa-bjork/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-04-08T00:00:00+03:00",
+    "end_time": "2027-04-08T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/64C9693E45D537536A8E62DC87936C6A/taidetta-taaperoille"
   },
   {
     "venue": "viirus",
@@ -6198,6 +6502,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-04-13T00:00:00+03:00",
+    "end_time": "2027-04-13T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/F3C9D0699708D6E9D318AF1B473BAB9E/taidetta-taaperoille"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Kimberly-kimalaisen lento",
@@ -6245,6 +6557,14 @@ window.SCRAPED_EVENTS = [
     "title": "Seitsemän veljestä",
     "start_time": "2027-04-14T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/seitseman-veljesta"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-04-15T00:00:00+03:00",
+    "end_time": "2027-04-15T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/795DCBEA6D893ED16186A712953D9914/taidetta-taaperoille"
   },
   {
     "venue": "viirus",
@@ -6387,6 +6707,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/vinterkvallar-19-4/"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-04-20T00:00:00+03:00",
+    "end_time": "2027-04-20T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/D75D6C80CC614FDBD9E3BAEDDDBDEA2B/taidetta-taaperoille"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Diptyk",
@@ -6462,6 +6790,14 @@ window.SCRAPED_EVENTS = [
     "title": "Balladeja ja hävyttömyyksiä",
     "start_time": "2027-04-21T19:00:00+03:00",
     "url": "https://svenskateatern.fi/fi/ohjelmisto/balladeja-ja-havyttomyyksia/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-04-22T00:00:00+03:00",
+    "end_time": "2027-04-22T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/9FF56AE99A15362F29CCF9BF2B2D97E4/taidetta-taaperoille"
   },
   {
     "venue": "ryhmateatteri",
@@ -6562,6 +6898,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/vinterkvallar-26-4/"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-04-27T00:00:00+03:00",
+    "end_time": "2027-04-27T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/608840C01CD3FE42361BD067C32E9FBD/taidetta-taaperoille"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Seitsemän veljestä",
@@ -6618,6 +6962,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/vinterkvallar-28-4-kl-16/"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-04-29T00:00:00+03:00",
+    "end_time": "2027-04-29T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/A8C2F3994EF4C3FAEE6AAAF1ACE842DB/taidetta-taaperoille"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Rósa &#038; Björk",
@@ -6665,6 +7017,14 @@ window.SCRAPED_EVENTS = [
     "title": "Laulujoutsen",
     "start_time": "2027-05-03T19:00:00+03:00",
     "url": "https://universum.fi/events/laulujoutsen-3-5/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-05-04T00:00:00+03:00",
+    "end_time": "2027-05-04T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/377342E55EE338F9E31E783AF5B6B894/taidetta-taaperoille"
   },
   {
     "venue": "kansallisteatteri",
@@ -6716,11 +7076,27 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/laulujoutsen-8-5/"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-05-11T00:00:00+03:00",
+    "end_time": "2027-05-11T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/4F4FE6E31CBE6E40F76EC78898C5E71B/taidetta-taaperoille"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Seitsemän veljestä",
     "start_time": "2027-05-12T18:30:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/seitseman-veljesta"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-05-13T00:00:00+03:00",
+    "end_time": "2027-05-13T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/33B69CE7133DFF0CA60A621114DB5D1B/taidetta-taaperoille"
   },
   {
     "venue": "svenska",
@@ -6744,6 +7120,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/soili-16-5-klo-19/"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-05-18T00:00:00+03:00",
+    "end_time": "2027-05-18T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/3308EB959CB77F88DBFE445A1D40C4C3/taidetta-taaperoille"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Soili 18.5 kl 14",
@@ -6765,6 +7149,14 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/soili-19-5-kl-19/"
   },
   {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-05-20T00:00:00+03:00",
+    "end_time": "2027-05-20T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/C26F72C7233335F8C61797BD1CD80D7E/taidetta-taaperoille"
+  },
+  {
     "venue": "takomo",
     "venue_label": "Teatteri Takomo",
     "title": "Puhutaan Richardista",
@@ -6777,6 +7169,22 @@ window.SCRAPED_EVENTS = [
     "title": "Puhutaan Richardista",
     "start_time": "2027-05-22T13:00:00+03:00",
     "url": "https://teatteritakomo.fi/ohjelmisto/puhutaan-richardista/"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-05-25T00:00:00+03:00",
+    "end_time": "2027-05-25T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/038A21C2F85A0588E5613803DE516FEA/taidetta-taaperoille"
+  },
+  {
+    "venue": "caisa",
+    "venue_label": "Caisa",
+    "title": "Taidetta taaperoille",
+    "start_time": "2027-05-27T00:00:00+03:00",
+    "end_time": "2027-05-27T23:59:00+03:00",
+    "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/32FAE44A7507C0C76A7D797097671A46/taidetta-taaperoille"
   },
   {
     "venue": "universum",
