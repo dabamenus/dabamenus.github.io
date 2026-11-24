@@ -523,20 +523,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
   },
   {
-    "venue": "tekstintalo",
-    "venue_label": "Tekstin Talo",
-    "title": "Book launch: One of",
-    "start_time": "2026-11-24T18:00:00+02:00",
-    "url": "https://www.tekstintalo.fi/tapahtumat/book-launch-one-of"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Rakastavaisten kuoro",
-    "start_time": "2026-11-24T18:30:00+02:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
-  },
-  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Viides askel",
