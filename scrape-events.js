@@ -493,47 +493,12 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/dramatik-pa-mandag/"
   },
   {
-    "venue": "universum",
-    "venue_label": "Universum",
-    "title": "ANDETAG",
-    "start_time": "2026-11-23T19:00:00+02:00",
-    "url": "https://universum.fi/events/andetag-23-11/"
-  },
-  {
     "venue": "stoa",
     "venue_label": "Stoa",
     "title": "Hautakaupungin ääniä",
     "start_time": "2026-11-24T00:00:00+02:00",
     "end_time": "2026-12-07T23:59:00+02:00",
     "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/36C4948E59116CAB90B36C78F91A3A1D/hautakaupungin-ni"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kaksitoista lahjaa Joulupukille",
-    "start_time": "2026-11-24T10:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "När Baba faller i poolen är kl. 23.47",
-    "start_time": "2026-11-24T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-11-24T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-11-24T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
   },
   {
     "venue": "cirko",
