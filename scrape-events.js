@@ -4280,6 +4280,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://teatteritakomo.fi/ohjelmisto/etelapohjalaisia-lahdenmaki-viitasaari/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-02-15T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Viidakon villit naiset",
@@ -4293,6 +4300,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2027-02-16T00:00:00+02:00",
     "end_time": "2027-02-16T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/C2F610943F10B765BAE708B542B9C1D5/taidetta-taaperoille"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-02-16T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
   },
   {
     "venue": "hkt",
@@ -4328,6 +4342,13 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2027-02-17T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-02-17T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
   },
   {
     "venue": "kansallisteatteri",
@@ -4492,6 +4513,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-02-20T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Nauravan kulkurin tarina",
@@ -4548,6 +4576,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-02-23T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
+  },
+  {
     "venue": "hkt",
     "venue_label": "HKT",
     "title": "Terapian tarpeessa, tottakai!",
@@ -4567,6 +4602,13 @@ window.SCRAPED_EVENTS = [
     "title": "Rósa &#038; Björk",
     "start_time": "2027-02-23T18:30:00+02:00",
     "url": "https://hkt.fi/esitykset/rosa-bjork/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-02-24T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
   },
   {
     "venue": "ryhmateatteri",
@@ -4674,6 +4716,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/julia/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-02-26T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "PALKINTOPUHETTA",
@@ -4751,6 +4800,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-02-27T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Jukka Lindström ‒ Vallaton tasavalta",
@@ -4822,6 +4878,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/9FE188B1D8CE8E4AB7A1BACE307E5C9B/taidetta-taaperoille"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-03-02T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "PALKINTOPUHETTA",
@@ -4862,6 +4925,13 @@ window.SCRAPED_EVENTS = [
     "title": "Nauravan kulkurin tarina",
     "start_time": "2027-03-03T13:00:00+02:00",
     "url": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-03-03T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
   },
   {
     "venue": "ryhmateatteri",
@@ -4905,6 +4975,13 @@ window.SCRAPED_EVENTS = [
     "start_time": "2027-03-04T00:00:00+02:00",
     "end_time": "2027-03-04T23:59:00+02:00",
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/838FE655815FE1FC7E3EE94970F7A2BB/taidetta-taaperoille"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-03-04T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
   },
   {
     "venue": "ryhmateatteri",
@@ -5045,6 +5122,13 @@ window.SCRAPED_EVENTS = [
     "title": "alfabet",
     "start_time": "2027-03-06T14:00:00+02:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-03-06T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
   },
   {
     "venue": "ryhmateatteri",
@@ -5252,6 +5336,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/6B2D5670968024C238724E8BA93F22D9/taidetta-taaperoille"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-03-11T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "PALKINTOPUHETTA",
@@ -5306,6 +5397,13 @@ window.SCRAPED_EVENTS = [
     "title": "PALKINTOPUHETTA",
     "start_time": "2027-03-12T14:00:00+02:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-03-12T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
   },
   {
     "venue": "kansallisteatteri",
@@ -5397,6 +5495,13 @@ window.SCRAPED_EVENTS = [
     "title": "PALKINTOPUHETTA",
     "start_time": "2027-03-13T14:00:00+02:00",
     "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-03-13T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
   },
   {
     "venue": "ryhmateatteri",
@@ -5491,6 +5596,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/kimberly-kimalaisen-lento"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-03-16T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "PALKINTOPUHETTA",
@@ -5524,6 +5636,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kimberly-kimalaisen lento",
     "start_time": "2027-03-17T18:00:00+02:00",
     "url": "https://www.kansallisteatteri.fi/esitys/kimberly-kimalaisen-lento"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-03-17T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
   },
   {
     "venue": "ryhmateatteri",
@@ -5737,6 +5856,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.ryhmateatteri.fi/ohjelma/alfabet/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-03-20T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "PALKINTOPUHETTA",
@@ -5800,6 +5926,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-03-22T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "LIVETS SUMMA",
@@ -5815,6 +5948,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/C11BA01D7CF9B17EF4863FCC95F42672/taidetta-taaperoille"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-03-23T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "LIVETS SUMMA",
@@ -5827,6 +5967,13 @@ window.SCRAPED_EVENTS = [
     "title": "Diptyk",
     "start_time": "2027-03-24T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-03-24T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
   },
   {
     "venue": "universum",
@@ -6070,6 +6217,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-04-03T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "alfabet",
@@ -6103,6 +6257,13 @@ window.SCRAPED_EVENTS = [
     "title": "Vinterkvällar",
     "start_time": "2027-04-04T19:00:00+03:00",
     "url": "https://universum.fi/events/vinterkvallar-4-4/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-04-05T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
   },
   {
     "venue": "ryhmateatteri",
@@ -6146,6 +6307,13 @@ window.SCRAPED_EVENTS = [
     "title": "Kimberly-kimalaisen lento",
     "start_time": "2027-04-06T18:00:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/kimberly-kimalaisen-lento"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-04-06T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
   },
   {
     "venue": "ryhmateatteri",
@@ -6226,6 +6394,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-04-08T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "alfabet",
@@ -6282,6 +6457,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-04-09T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "alfabet",
@@ -6331,6 +6513,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-04-10T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "PALKINTOPUHETTA",
@@ -6373,11 +6562,39 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/vinterkvallar-10-4/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-04-11T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-04-11T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
+  },
+  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Diptyk",
     "start_time": "2027-04-12T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-04-12T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-04-12T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
   },
   {
     "venue": "ryhmateatteri",
@@ -6402,6 +6619,27 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.kansallisteatteri.fi/esitys/kimberly-kimalaisen-lento"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-04-13T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-04-13T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-04-13T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Jukka Lindström ‒ Vallaton tasavalta",
@@ -6421,6 +6659,27 @@ window.SCRAPED_EVENTS = [
     "title": "Diptyk",
     "start_time": "2027-04-14T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-04-14T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-04-14T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-04-14T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
   },
   {
     "venue": "ryhmateatteri",
@@ -6473,6 +6732,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-04-16T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "PALKINTOPUHETTA",
@@ -6522,6 +6788,20 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-04-17T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-04-17T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
+  },
+  {
     "venue": "ryhmateatteri",
     "venue_label": "Ryhmäteatteri",
     "title": "alfabet",
@@ -6557,6 +6837,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/laulujoutsen-17-4/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-04-18T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "Vinterkvällar",
@@ -6569,6 +6856,13 @@ window.SCRAPED_EVENTS = [
     "title": "Seitsemän veljestä",
     "start_time": "2027-04-19T12:00:00+03:00",
     "url": "https://www.kansallisteatteri.fi/esitys/seitseman-veljesta"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-04-19T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
   },
   {
     "venue": "universum",
@@ -6598,6 +6892,13 @@ window.SCRAPED_EVENTS = [
     "title": "Diptyk",
     "start_time": "2027-04-20T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-04-20T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
   },
   {
     "venue": "kansallisteatteri",
@@ -6734,6 +7035,13 @@ window.SCRAPED_EVENTS = [
     "url": "https://www.ryhmateatteri.fi/ohjelma/palkintopuhetta/"
   },
   {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-04-24T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
+  },
+  {
     "venue": "kansallisteatteri",
     "venue_label": "Kansallisteatteri",
     "title": "Seitsemän veljestä",
@@ -6760,6 +7068,13 @@ window.SCRAPED_EVENTS = [
     "title": "Diptyk",
     "start_time": "2027-04-26T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-04-26T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
   },
   {
     "venue": "kansallisteatteri",
@@ -6796,6 +7111,13 @@ window.SCRAPED_EVENTS = [
     "title": "Diptyk",
     "start_time": "2027-04-27T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/diptyk/"
+  },
+  {
+    "venue": "qteatteri",
+    "venue_label": "Q-Teatteri",
+    "title": "Kiltit tytöt",
+    "start_time": "2027-04-27T18:30:00+02:00",
+    "url": "https://q-teatteri.fi/esitykset/kiltit-tytot"
   },
   {
     "venue": "ryhmateatteri",
