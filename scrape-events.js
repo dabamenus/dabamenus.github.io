@@ -529,34 +529,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://cirko.fi/esitys/kinetic-orchestra-silence-2/"
   },
   {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "När Baba faller i poolen är kl. 23.47",
-    "start_time": "2026-11-25T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-11-25T13:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "Kurtturuusut",
-    "start_time": "2026-11-25T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/kurtturuusut/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "&amp; Julia",
-    "start_time": "2026-11-25T18:30:00+02:00",
-    "url": "https://hkt.fi/esitykset/julia/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "The Escape Room",
@@ -569,13 +541,6 @@ window.SCRAPED_EVENTS = [
     "title": "Kinetic Orchestra: Silence",
     "start_time": "2026-11-25T19:00:00+02:00",
     "url": "https://cirko.fi/esitys/kinetic-orchestra-silence-2/"
-  },
-  {
-    "venue": "hkt",
-    "venue_label": "HKT",
-    "title": "André Wickström 30 vuotta lavalla &#8211; eikä loppua näy!",
-    "start_time": "2026-11-25T19:00:00+02:00",
-    "url": "https://hkt.fi/esitykset/andre-wickstrom-30-vuotta-lavalla-eika-loppua-nay/"
   },
   {
     "venue": "stoa",
