@@ -548,7 +548,7 @@ window.SCRAPED_EVENTS = [
     "title": "Tapaa tekijä Stoan aulassa",
     "start_time": "2026-11-26T00:00:00+02:00",
     "end_time": "2026-11-26T23:59:00+02:00",
-    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/BB00DA6A88166EE8379B64778A5FB83E/tapaa-tekij-stoan-aulassa"
+    "url": "https://stoa.fi/fi/tapahtumat/tapahtumahaku/event/-1/tapaa-tekij-stoan-aulassa"
   },
   {
     "venue": "caisa",
@@ -585,20 +585,6 @@ window.SCRAPED_EVENTS = [
     "title": "Collage",
     "start_time": "2026-11-26T18:30:00+02:00",
     "url": "https://viirus.fi/fi/esitykset/collage/"
-  },
-  {
-    "venue": "espoonteatteri",
-    "venue_label": "& Espoon Teatteri",
-    "title": "Rakastavaisten kuoro",
-    "start_time": "2026-11-26T18:30:00+02:00",
-    "url": "https://espoonteatteri.fi/ohjelmisto/rakastavaisten-kuoro/"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Äitisi, Klytaimestra",
-    "start_time": "2026-11-26T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "kansallisteatteri",
