@@ -586,13 +586,6 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/A30CB5D0F313FCDE93ADD51AE9BE95FA/we-music-emilii-kaisla-ollila-milou-vilma-talvitie"
   },
   {
-    "venue": "kiasma",
-    "venue_label": "Kiasma",
-    "title": "Kauri Sorvari: Forevermore",
-    "start_time": "2026-11-27T18:00:00+02:00",
-    "url": "https://kiasma.fi/esitykset/kauri-sorvari-forevermore/"
-  },
-  {
     "venue": "viirus",
     "venue_label": "Teater Viirus",
     "title": "Collage",
@@ -605,13 +598,6 @@ window.SCRAPED_EVENTS = [
     "title": "Prisceremoni för Årets kritiska text 2026",
     "start_time": "2026-11-27T18:30:00+02:00",
     "url": "https://www.tekstintalo.fi/tapahtumat/prisceremoni-for-arets-kritiska-text-2026"
-  },
-  {
-    "venue": "ryhmateatteri",
-    "venue_label": "Ryhmäteatteri",
-    "title": "Äitisi, Klytaimestra",
-    "start_time": "2026-11-27T18:30:00+02:00",
-    "url": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/"
   },
   {
     "venue": "kansallisteatteri",
