@@ -7042,11 +7042,39 @@ window.SCRAPED_EVENTS = [
     "url": "https://caisa.fi/fi/tapahtumat/tapahtumahaku/event/32FAE44A7507C0C76A7D797097671A46/taidetta-taaperoille"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-06-04T18:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-06-07T18:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "MG",
     "start_time": "2027-06-07T19:00:00+03:00",
     "url": "https://universum.fi/events/mg-7-6/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-06-08T18:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-06-10T18:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
   },
   {
     "venue": "universum",
@@ -7056,11 +7084,32 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/mg-10-6/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-06-11T18:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-06-12T14:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "MG",
     "start_time": "2027-06-13T19:00:00+03:00",
     "url": "https://universum.fi/events/mg-13-6/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-06-15T18:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
   },
   {
     "venue": "universum",
@@ -7070,11 +7119,25 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/mg-15-6-kl-19/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-06-16T18:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "MG 16.6 kl 19",
     "start_time": "2027-06-16T19:00:00+03:00",
     "url": "https://universum.fi/events/mg-16-6-kl-19/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-06-17T18:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
   },
   {
     "venue": "universum",
@@ -7084,11 +7147,32 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/mg-17-6-kl-16/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-06-18T14:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-06-19T14:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "MG 20.6 kl 19",
     "start_time": "2027-06-20T19:00:00+03:00",
     "url": "https://universum.fi/events/mg-20-6-kl-19/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-06-21T18:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
   },
   {
     "venue": "universum",
@@ -7098,6 +7182,20 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/mg-21-6-kl-19/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-06-22T18:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-06-23T18:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "MG",
@@ -7105,11 +7203,179 @@ window.SCRAPED_EVENTS = [
     "url": "https://universum.fi/events/mg-27-6/"
   },
   {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-06-29T18:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
     "venue": "universum",
     "venue_label": "Universum",
     "title": "MG",
     "start_time": "2027-06-29T19:00:00+03:00",
     "url": "https://universum.fi/events/mg-29-6/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-06-30T18:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-07-01T18:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-07-02T14:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-07-03T14:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-07-27T18:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-07-28T18:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-07-29T18:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-07-30T14:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-07-31T14:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-08-05T18:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-08-06T18:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-08-07T13:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-08-07T18:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-08-10T18:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-08-11T18:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-08-12T18:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-08-13T18:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-08-14T14:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-08-17T18:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-08-18T18:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-08-19T18:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-08-20T18:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
+  },
+  {
+    "venue": "ryhmateatteri",
+    "venue_label": "Ryhmäteatteri",
+    "title": "OLIVER TWIST",
+    "start_time": "2027-08-21T14:00:00+03:00",
+    "url": "https://www.ryhmateatteri.fi/ohjelma/oliver-twist/"
   },
   {
     "venue": "hkt",
